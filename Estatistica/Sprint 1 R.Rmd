@@ -1,0 +1,300 @@
+---
+title: "Projeto"
+author: "Gustavo Carvalho, Julia Egute, Pablo Perez e Pedro Perroni"
+date: "2026-09-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(plotly)
+setwd("C:/Users/pedro.perroni/OneDrive - ESPM/4° Semestre/Projeto Integrado")
+library(readxl)
+library(RColorBrewer)
+
+billing <- read.csv("ai_billing.csv")
+budgets <- read.csv("ai_budgets.csv")
+licenses <- read.csv("ai_licenses.csv")
+models <- read.csv("ai_models.csv")
+tools <- read.csv("ai_tools.csv")
+usage.logs <- read.csv("ai_usage_logs.csv")
+tools.approved <- read.csv("approved_ai_tools.csv")
+builds <- read.csv("builds.csv")
+companies <- read.csv("companies.csv")
+departments <- read.csv("departments.csv")
+deployments <- read.csv("deployments.csv")
+employees <- read.csv("employees.csv")
+issues <- read.csv("issues.csv")
+projects <- read.csv("projects.csv")
+pull.requests <- read.csv("pull_requests.csv")
+training.records <- read.csv("training_records.csv")
+security_events <- read.csv("security_events.csv")
+```
+
+## Base de dados
+
+### 1. Estrutura Organizacional e RH
+
+-   **companies.csv** Cadastro das empresas atendidas (setor, tamanho, IDs principais).
+
+-   **departments.csv** Divisões internas. É aqui que os riscos serão agrupados no final.
+
+-   **employees.csv** Tabela de funcionários. É a chave central para cruzar o comportamento humano com a IA.
+
+-   **training_records.csv** Histórico de cursos. Crucial para medir o "gargalo de capacitação" das equipes.
+
+### 2. Governança e Custos de IA
+
+-   **ai_tools.csv** Catálogo geral das aplicações de IA disponíveis ou monitoradas.
+
+-   **approved_ai_tools.csv** Lista restrita de IAs permitidas. O uso fora desta lista gera alertas de compliance.
+
+-   **ai_models.csv** Especificações dos motores rodando por trás das ferramentas (ex: LLMs específicos).
+
+-   **ai_licenses.csv** Controle de assinaturas ativas e distribuição de acessos.
+
+-   **ai_budgets.csv** O teto financeiro alocado para o consumo de IA por área.
+
+-   **ai_billing.csv** O faturamento real. Cruzar este arquivo com os orçamentos revela quem está gastando demais.
+
+### 3. Operação e Segurança
+
+-   **ai_usage_logs.csv** O arquivo mais importante. Mede latência, consumo de tokens e a taxa de falha de cada requisição.
+
+-   **security_events.csv** Registra incidentes, como alertas de dados sensíveis vazados ou infrações de política de uso.
+
+### 4. Ciclo de Desenvolvimento de Software (SDLC)
+
+-   **projects.csv** Projetos ativos onde as equipes e a IA estão alocadas.
+
+-   **issues.csv** Registro de tarefas diárias, chamados ou bugs.
+
+-   **pull_requests.csv** Entregas de código (volume de adições e deleções feitas pelos desenvolvedores).
+
+-   **builds.csv** Testes de compilação. Mede se os códigos estão integrando com sucesso ou quebrando o sistema.
+
+-   **deployments.csv** Histórico de lançamentos em produção para os usuários finais.
+
+## Relação entre as Bases
+
+### 1. O Núcleo Organizacional
+
+**Essas tabelas ditam a estrutura da empresa e quase todas as outras tabelas se conectam a elas.**
+
+-   **company_id** - Liga-se com: É o nível mais alto. Ferramentas aprovadas, orçamentos e funcionários são divididos por empresa.
+
+-   **department_id** - employees (todo funcionário tem um departamento) e ai_budgets (cada área tem seu limite de gastos).
+
+-   **employee_id (Primária) \| company_id, department_id (Estrangeiras)** - Este é o grande pivô do Mapa de Risco. Ele liga o comportamento humano a: ai_usage_logs (quem usou), security_events (quem causou o alerta), training_records (quem fez o curso), issues e pull_requests (quem codificou).
+
+-   **project_id (Primária) \| company_id (Estrangeira) -** Toda a parte de desenvolvimento de software e logs de IA (para saber em qual projeto a IA estava ajudando).
+
+### 2. O Ecossistema de Inteligência Artificial
+
+**Aqui mapeamos o que existe de IA e quanto custa.**
+
+-   **ai_tools e ai_models** - approved_ai_tools (para dizer se a QSOFT liberou o uso), ai_licenses (quem tem acesso a qual ferramenta) e security_events (qual IA gerou o vazamento).
+
+-   **ai_budgets e ai_billing** (Orçamento e Faturamento) - department_id e company_id. Cruza-se o billing com o budget para saber qual departamento estourou o limite de gastos com IA.
+
+### 3. A Central de Riscos e Comportamento
+
+**Este é o combustível do seu Mapa Inteligente, onde estão as ações diárias.**
+
+-   **ai_usage_logs (Uso da IA)** - employee_id (quem usou), department_id (de qual área), project_id (em qual projeto).
+
+-   **security_events (Eventos de Segurança)** - employee_id (o responsável), ai_tool_id (a ferramenta usada).
+
+-   **training_records (Treinamentos)** - employee_id. Fundamental para cruzar se quem está gerando eventos de segurança (security_events) tem baixo índice de treinamento.
+
+## Preparação dos dados
+
+```{r}
+dim(billing)
+dim(budgets)
+dim(licenses)
+dim(models)
+dim(tools)
+dim(usage.logs)
+dim(tools.approved)
+dim(builds)
+dim(companies)
+dim(departments)
+dim(deployments)
+dim(employees)
+dim(issues)
+dim(projects)
+dim(pull.requests)
+dim(security_events)
+dim(training.records)
+```
+
+## Identificação e tratamento de valores ausentes
+
+```{r}
+# 1. Criamos uma lista com o nome de todas as suas variáveis no R
+tabelas_nomes <- c("billing", "budgets", "licenses", "models", "tools", 
+                   "usage.logs", "tools.approved", "builds", "companies", 
+                   "departments", "deployments", "employees", "issues", 
+                   "projects", "pull.requests", "security_events", "training.records")
+
+# 2. Varremos a lista procurando os nulos
+cat("Análise de Valores Nulos:\n")
+
+for (nome in tabelas_nomes) {
+  # O comando get() puxa a tabela real usando o nome dela
+  tabela <- get(nome)
+  
+  # Calcula o total de nulos na tabela inteira
+  total_nulos <- sum(is.na(tabela))
+  
+  # Se tiver mais que zero nulos, ele avisa e mostra as colunas
+  if (total_nulos > 0) {
+    cat("Tabela:", nome, "- Total de nulos:", total_nulos, "\n")
+    
+    # colSums mostra exatamente onde estão os buracos
+    print(colSums(is.na(tabela)))
+  }
+}
+```
+
+## Análise exploratoria
+
+### Quais departamentos concentram as infrações de segurança mais graves no uso de IA?
+
+```{r}
+# Gráfico de Histograma para distribuição das horas de treinamento
+grafico_treino <- ggplot(training.records, aes(x = duration_hours)) +
+  geom_histogram(fill = "hotpink", color = "white", bins = 10) +
+  labs(title = "Distribuição de Horas de Treinamento", 
+       x = "Horas de Treinamento", 
+       y = "Frequência (Quantidade de Funcionários)") +
+  theme_bw()
+
+# Deixando o gráfico interativo
+plotly::ggplotly(grafico_treino)
+```
+
+### A QSOFT possui um "gargalo de capacitação"? (Tem muita gente usando IA sem treinamento?)
+
+```{r}
+# 1. Criação do Histograma Estático
+grafico_treino <- ggplot(training.records, aes(x = duration_hours)) +
+  geom_histogram(fill = "blue", color = "white", bins = 15) +
+  labs(title = "Distribuição de Horas de Treinamento", 
+       x = "Horas de Treinamento", 
+       y = "Número de Funcionários") +
+  theme_bw()
+
+# 2. Convertendo para Gráfico Interativo 
+plotly::ggplotly(grafico_treino)
+```
+
+### Equipes que dependem muito da IA estão entregando mais resultados ou gerando mais gargalos?
+
+```{r}
+# 1. Preparando os dados: Cruzando Uso de IA com Entregas e Erros
+uso_ia <- usage.logs %>%
+  group_by(department_id) %>%
+  summarise(requisicoes_ia = n(), .groups = 'drop')
+
+entregas <- pull.requests %>%
+  left_join(employees, by = "employee_id") %>%
+  group_by(department_id) %>%
+  summarise(total_prs = n(), .groups = 'drop')
+
+df_dispersao <- departments %>%
+  left_join(uso_ia, by = "department_id") %>%
+  left_join(entregas, by = "department_id") %>%
+  mutate(across(where(is.numeric), ~replace_na(., 0)),
+         # Texto interativo com HTML 
+         texto_hover = paste("<b>Departamento:</b>", department_id,
+                             "<br><b>Uso de IA (Requisições):</b>", requisicoes_ia,
+                             "<br><b>Resultados (Entregas):</b>", total_prs))
+
+# 2. Criando o Gráfico de Dispersão Estático (Sua técnica do Trabalho III + Aula 05)
+grafico_disp <- ggplot(df_dispersao, aes(x = requisicoes_ia, y = total_prs, text = texto_hover)) +
+  geom_point(color = "hotpink", alpha = 0.6) +                             # Os pontos rosas padrão da professora
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +                 # A sua linha de tendência matemática
+  labs(title = "Dependência de IA vs Volume de Resultados (Entregas)",
+       x = "Volume de Uso de IA (Requisições)",
+       y = "Resultados (Pull Requests)") +
+  theme_minimal()
+
+# 3. Mágica Interativa (Aula 06)
+plotly::ggplotly(grafico_disp, tooltip = "text")
+```
+
+### Qual é o tamanho do problema do "Shadow IT" (IAs não aprovadas)?
+
+```{r}
+# 1. Preparação: Cruzando o uso com a lista de ferramentas aprovadas
+df_shadow <- usage.logs %>%
+  # Cria uma coluna nova checando se a ferramenta está na tabela de aprovadas
+  mutate(status_seguranca = ifelse(ai_tool_id %in% tools.approved$ai_tool_id, 
+                                   "Aprovada pela TI", 
+                                   "Não Aprovada (Shadow IT)")) %>%
+  group_by(status_seguranca) %>%
+  summarize(total_requisicoes = n(), .groups = "drop") %>%
+  mutate(pct = total_requisicoes / sum(total_requisicoes),
+         # Criando o texto interativo em HTML
+         texto_hover = paste("<b>Status:</b>", status_seguranca,
+                             "<br><b>Total de Requisições:</b>", total_requisicoes,
+                             "<br><b>Proporção:</b>", scales::percent(pct, accuracy = 0.1)))
+
+# 2. Gráfico de Colunas Estático (Padrão Aula 05)
+grafico_shadow <- ggplot(df_shadow, aes(x = status_seguranca, y = total_requisicoes, fill = status_seguranca, text = texto_hover)) +
+  geom_bar(stat = "identity", width = 0.5) +                                     # width afina as barras para ficarem elegantes
+  scale_fill_manual(values = c("Aprovada pela TI" = "lightblue", 
+                               "Não Aprovada (Shadow IT)" = "hotpink")) +        # Destacamos o perigo com hotpink
+  labs(title = "Risco de Shadow IT: Uso de IAs Aprovadas vs Não Aprovadas",
+       x = "",
+       y = "Total de Requisições") +
+  theme_minimal() +
+  guides(fill = "none")                                                          # Oculta a legenda desnecessária
+
+# 3. Interatividade com Plotly (Padrão Aula 06)
+plotly::ggplotly(grafico_shadow, tooltip = "text")
+```
+
+### Qual nível de senioridade está causando mais incidentes de segurança com IA?
+
+```{r}
+# 1. Preparação: Cruzando incidentes com os dados do RH (funcionários)
+df_senioridade <- security_events %>%
+  left_join(employees, by = "employee_id") %>%                 # Traz os dados do funcionário (incluindo seniority)
+  group_by(seniority) %>%
+  summarize(total_incidentes = n(), .groups = "drop") %>%
+  mutate(pct = total_incidentes / sum(total_incidentes),
+         # Criando o texto interativo com HTML (Aula 06)
+         texto_hover = paste("<b>Senioridade:</b>", seniority,
+                             "<br><b>Total de Incidentes:</b>", total_incidentes,
+                             "<br><b>Proporção da Empresa:</b>", scales::percent(pct, accuracy = 0.1))) %>%
+  # Ordena do maior para o menor para formar aquela "escadinha" visual perfeita
+  arrange(desc(total_incidentes)) %>%
+  mutate(seniority = factor(seniority, levels = seniority))
+
+# 2. Gráfico Estático de Colunas (Aula 05)
+grafico_senioridade <- ggplot(df_senioridade, aes(x = seniority, y = total_incidentes, fill = seniority, text = texto_hover)) +
+  geom_bar(stat = "identity", width = 0.6) +                   # stat="identity" para usar os valores exatos somados
+  scale_fill_brewer(palette = "Blues") +                       # Tons de azul para manter elegante
+  labs(title = "Perfil de Risco: Incidentes de Segurança por Senioridade",
+       x = "Nível de Senioridade",
+       y = "Quantidade de Incidentes") +
+  theme_minimal() +
+  guides(fill = "none")                                        # Remove legenda redundante
+
+# 3. Transformando em Interativo (Aula 06)
+plotly::ggplotly(grafico_senioridade, tooltip = "text")
+```
+
+## Conclusão
+
+Para iniciar a estruturação do Mapa Inteligente de Risco, organizamos os 17 arquivos CSV em quatro pilares lógicos que representam o funcionamento da QSOFT. Os arquivos organizacionais e de RH, como empresas, departamentos, funcionários e registros de treinamento, formam a espinha dorsal estrutural, definindo quem é quem. Em seguida, os arquivos de governança e finanças, que incluem ferramentas de IA, modelos, licenças, orçamentos e faturamento, mapeiam a tecnologia disponível e seu impacto financeiro. Para capturar o risco real, estruturamos os dados operacionais compostos pelos logs de uso diário e pelos eventos de segurança. Por fim, os arquivos do ciclo de desenvolvimento, compreendendo projetos, chamados, entregas de código, compilações e lançamentos, fornecem as métricas necessárias para medir a produtividade da equipe.
+
+Toda essa massa de dados foi amarrada por uma arquitetura relacional sólida usando chaves primárias e estrangeiras. A base de funcionários atua como o grande pivô do sistema, conectando os departamentos aos incidentes de segurança, ao uso diário das ferramentas e à produtividade nas entregas de software. Paralelamente, os identificadores de projetos unem as tarefas de desenvolvimento aos custos operacionais, enquanto os IDs das ferramentas conectam a infraestrutura técnica diretamente às regras de compliance e listas de aprovação corporativa.
+
+Com as conexões estabelecidas, avançamos para a identificação e tratamento de valores ausentes. Após resolvermos um erro de sintaxe que retornava dimensões nulas, implementamos um script automatizado que varreu todas as bases simultaneamente usando as funções de detecção de vazios do R. Essa varredura mapeou exatamente quais colunas possuíam buracos de informação, preparando o terreno para a limpeza e o preenchimento adequados, garantindo que os futuros modelos multivariados possam rodar sem travamentos.
+
+A etapa final consistiu na análise exploratória, desenhada estritamente sobre o framework de tomada de decisão gerencial. Construímos um painel interativo utilizando os pacotes gráficos ensinados para responder a perguntas estratégicas de negócio. Diagnosticamos a concentração de falhas graves de segurança por área usando colunas empilhadas a 100%, revelamos um gargalo crítico de capacitação geral na empresa através de um histograma e avaliamos o impacto da IA na produtividade versus erros usando um gráfico de dispersão com linha de tendência. Completamos a análise mapeando os riscos de ferramentas não autorizadas e a influência da senioridade com gráficos de colunas diretos, além de evidenciarmos as instabilidades operacionais usando um boxplot segmentado para isolar as anomalias de latência.

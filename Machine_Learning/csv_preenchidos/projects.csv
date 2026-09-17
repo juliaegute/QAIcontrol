@@ -1,0 +1,19 @@
+project_id,company_id,project_name,project_type,start_date,status
+C01-P01,C01,Projeto Nexus,Cliente,2024-09-08,Ativo
+C01-P02,C01,Projeto Aurora,Plataforma,2024-03-25,Ativo
+C01-P03,C01,Projeto Atlas,Produto Interno,2025-09-25,Ativo
+C01-P04,C01,Projeto Vertex,Cliente,2025-07-08,Pausado
+C01-P05,C01,Projeto Helios,Cliente,2024-12-11,Concluido
+C02-P01,C02,Projeto Polaris,Mobile,2024-06-09,Pausado
+C02-P02,C02,Projeto Nexus,Cliente,2024-05-10,Concluido
+C02-P03,C02,Projeto Helios,API/Integracao,2025-12-31,Ativo
+C02-P04,C02,Projeto Atlas,API/Integracao,2024-10-01,Concluido
+C02-P05,C02,Projeto Titan,Plataforma,2026-01-12,Pausado
+C03-P01,C03,Projeto Orion,Mobile,2024-11-23,Pausado
+C03-P02,C03,Projeto Aurora,Cliente,2026-03-05,Concluido
+C04-P01,C04,Projeto Helios,API/Integracao,2026-01-09,Ativo
+C04-P02,C04,Projeto Orion,Mobile,2026-04-02,Ativo
+C05-P01,C05,Projeto Aurora,API/Integracao,2024-06-03,Ativo
+C05-P02,C05,Projeto Cobalt,Produto Interno,2026-03-18,Pausado
+C05-P03,C05,Projeto Atlas,Plataforma,2024-06-10,Ativo
+C05-P04,C05,Projeto Nimbus,Produto Interno,2025-11-09,Concluido

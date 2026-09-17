@@ -1,0 +1,162 @@
+department_id,company_id,department_name
+C01-D01,C01,Engenharia de Software
+C01-D02,C01,DevOps e Infraestrutura
+C01-D03,C01,Produto
+C01-D04,C01,Qualidade (QA)
+C01-D05,C01,Dados e Analytics
+C01-D06,C01,Vendas
+C01-D07,C01,Marketing
+C01-D08,C01,Suporte ao Cliente
+C01-D09,C01,RH
+C01-D10,C01,Financeiro
+C01-D11,C01,Juridico
+C02-D01,C02,Engenharia de Software
+C02-D02,C02,DevOps e Infraestrutura
+C02-D03,C02,Produto
+C02-D04,C02,Qualidade (QA)
+C02-D05,C02,Dados e Analytics
+C02-D06,C02,Vendas
+C02-D07,C02,Marketing
+C02-D08,C02,Suporte ao Cliente
+C02-D09,C02,RH
+C02-D10,C02,Financeiro
+C02-D11,C02,Juridico
+C03-D01,C03,Engenharia de Software
+C03-D02,C03,DevOps e Infraestrutura
+C03-D03,C03,Produto
+C03-D04,C03,Qualidade (QA)
+C03-D05,C03,Dados e Analytics
+C03-D06,C03,Vendas
+C03-D07,C03,Marketing
+C03-D08,C03,Suporte ao Cliente
+C03-D09,C03,RH
+C03-D10,C03,Financeiro
+C03-D11,C03,Juridico
+C04-D01,C04,Engenharia de Software
+C04-D02,C04,DevOps e Infraestrutura
+C04-D03,C04,Produto
+C04-D04,C04,Qualidade (QA)
+C04-D05,C04,Dados e Analytics
+C04-D06,C04,Vendas
+C04-D07,C04,Marketing
+C04-D08,C04,Suporte ao Cliente
+C04-D09,C04,RH
+C04-D10,C04,Financeiro
+C04-D11,C04,Juridico
+C05-D01,C05,Engenharia de Software
+C05-D02,C05,DevOps e Infraestrutura
+C05-D03,C05,Produto
+C05-D04,C05,Qualidade (QA)
+C05-D05,C05,Dados e Analytics
+C05-D06,C05,Vendas
+C05-D07,C05,Marketing
+C05-D08,C05,Suporte ao Cliente
+C05-D09,C05,RH
+C05-D10,C05,Financeiro
+C05-D11,C05,Juridico
+C06-D01,C06,Operacoes Bancarias
+C06-D02,C06,Risco e Compliance
+C06-D03,C06,Tecnologia da Informacao
+C06-D04,C06,Atendimento ao Cliente
+C06-D05,C06,Comercial
+C06-D06,C06,Financeiro
+C06-D07,C06,RH
+C06-D08,C06,Juridico
+C07-D01,C07,Operacoes Bancarias
+C07-D02,C07,Risco e Compliance
+C07-D03,C07,Tecnologia da Informacao
+C07-D04,C07,Atendimento ao Cliente
+C07-D05,C07,Comercial
+C07-D06,C07,Financeiro
+C07-D07,C07,RH
+C07-D08,C07,Juridico
+C08-D01,C08,Operacoes Bancarias
+C08-D02,C08,Risco e Compliance
+C08-D03,C08,Tecnologia da Informacao
+C08-D04,C08,Atendimento ao Cliente
+C08-D05,C08,Comercial
+C08-D06,C08,Financeiro
+C08-D07,C08,RH
+C08-D08,C08,Juridico
+C09-D01,C09,Producao
+C09-D02,C09,Manutencao
+C09-D03,C09,Logistica
+C09-D04,C09,Qualidade
+C09-D05,C09,Compras
+C09-D06,C09,Comercial
+C09-D07,C09,Financeiro
+C09-D08,C09,RH
+C09-D09,C09,Tecnologia da Informacao
+C10-D01,C10,Producao
+C10-D02,C10,Manutencao
+C10-D03,C10,Logistica
+C10-D04,C10,Qualidade
+C10-D05,C10,Compras
+C10-D06,C10,Comercial
+C10-D07,C10,Financeiro
+C10-D08,C10,RH
+C10-D09,C10,Tecnologia da Informacao
+C11-D01,C11,Producao
+C11-D02,C11,Manutencao
+C11-D03,C11,Logistica
+C11-D04,C11,Qualidade
+C11-D05,C11,Compras
+C11-D06,C11,Comercial
+C11-D07,C11,Financeiro
+C11-D08,C11,RH
+C11-D09,C11,Tecnologia da Informacao
+C12-D01,C12,Operacoes de Loja
+C12-D02,C12,Logistica e Supply Chain
+C12-D03,C12,Comercial e Compras
+C12-D04,C12,Marketing
+C12-D05,C12,E-commerce
+C12-D06,C12,Atendimento ao Cliente
+C12-D07,C12,Financeiro
+C12-D08,C12,RH
+C12-D09,C12,Tecnologia da Informacao
+C13-D01,C13,Operacoes de Loja
+C13-D02,C13,Logistica e Supply Chain
+C13-D03,C13,Comercial e Compras
+C13-D04,C13,Marketing
+C13-D05,C13,E-commerce
+C13-D06,C13,Atendimento ao Cliente
+C13-D07,C13,Financeiro
+C13-D08,C13,RH
+C13-D09,C13,Tecnologia da Informacao
+C14-D01,C14,Operacoes de Loja
+C14-D02,C14,Logistica e Supply Chain
+C14-D03,C14,Comercial e Compras
+C14-D04,C14,Marketing
+C14-D05,C14,E-commerce
+C14-D06,C14,Atendimento ao Cliente
+C14-D07,C14,Financeiro
+C14-D08,C14,RH
+C14-D09,C14,Tecnologia da Informacao
+C15-D01,C15,Operacoes
+C15-D02,C15,Comercial
+C15-D03,C15,Atendimento ao Cliente
+C15-D04,C15,Financeiro
+C15-D05,C15,RH
+C15-D06,C15,Tecnologia da Informacao
+C15-D07,C15,Consultoria e Projetos
+C16-D01,C16,Operacoes
+C16-D02,C16,Comercial
+C16-D03,C16,Atendimento ao Cliente
+C16-D04,C16,Financeiro
+C16-D05,C16,RH
+C16-D06,C16,Tecnologia da Informacao
+C16-D07,C16,Consultoria e Projetos
+C17-D01,C17,Criacao
+C17-D02,C17,Midia e Performance
+C17-D03,C17,Atendimento a Clientes (Account)
+C17-D04,C17,Planejamento e Estrategia
+C17-D05,C17,Financeiro
+C17-D06,C17,RH
+C17-D07,C17,Tecnologia da Informacao
+C18-D01,C18,Criacao
+C18-D02,C18,Midia e Performance
+C18-D03,C18,Atendimento a Clientes (Account)
+C18-D04,C18,Planejamento e Estrategia
+C18-D05,C18,Financeiro
+C18-D06,C18,RH
+C18-D07,C18,Tecnologia da Informacao

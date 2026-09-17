@@ -1,0 +1,1598 @@
+training_id,employee_id,company_id,course_name,course_category,enrollment_date,completion_date,completion_status,score,duration_hours
+TR000001,C01-E0320,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2026-04-06,2026-04-22,Concluido,62.0,1.3
+TR000002,C01-E0320,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-04-17,2026-04-27,Concluido,82.0,1.7
+TR000003,C01-E0320,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-11-27,2025-12-04,Concluido,57.0,1.1
+TR000004,C01-E0125,C01,Prompt Engineering na Pratica,IA Generativa,2026-06-25,2026-07-07,Concluido,76.0,2.6
+TR000005,C01-E0125,C01,Automatizacao de Tarefas com IA,Produtividade,2026-04-17,2026-04-26,Concluido,83.0,2.8
+TR000006,C01-E0180,C01,Analise de Dados com IA,Dados e Analytics,2026-07-04,2026-07-08,Concluido,90.0,4.4
+TR000007,C01-E0180,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-09,2025-07-30,Concluido,85.0,2.3
+TR000008,C01-E0259,C01,Automatizacao de Tarefas com IA,Produtividade,2026-07-16,,Em Andamento,,2.2
+TR000009,C01-E0259,C01,Prompt Engineering na Pratica,IA Generativa,2026-07-18,2026-08-10,Concluido,60.0,2.9
+TR000010,C01-E0025,C01,Automatizacao de Tarefas com IA,Produtividade,2026-06-05,,Nao Iniciado,,2.8
+TR000011,C01-E0025,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-07-17,,Nao Iniciado,,2.2
+TR000012,C01-E0025,C01,Fundamentos de IA Generativa,IA Generativa,2025-10-07,2025-12-04,Concluido,67.0,2.1
+TR000013,C01-E0309,C01,Analise de Dados com IA,Dados e Analytics,2025-11-02,,Em Andamento,,3.6
+TR000014,C01-E0309,C01,Fundamentos de IA Generativa,IA Generativa,2025-12-06,,Nao Iniciado,,2.2
+TR000015,C01-E0022,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-07-09,2026-07-29,Concluido,56.0,1.3
+TR000016,C01-E0022,C01,IA para Times Comerciais,Aplicacoes de Negocio,2025-10-15,2025-10-26,Concluido,100.0,1.7
+TR000017,C01-E0126,C01,Automatizacao de Tarefas com IA,Produtividade,2025-07-01,2025-08-07,Concluido,90.0,2.3
+TR000018,C01-E0126,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-11-27,,Em Andamento,,1.7
+TR000019,C01-E0228,C01,Etica e Governanca de Dados em IA,Governanca,2026-06-19,2026-08-10,Concluido,88.0,2.3
+TR000020,C01-E0061,C01,Analise de Dados com IA,Dados e Analytics,2026-07-30,2026-08-10,Concluido,73.0,4.1
+TR000021,C01-E0061,C01,Etica e Governanca de Dados em IA,Governanca,2025-11-18,2025-12-06,Concluido,98.0,1.7
+TR000022,C01-E0198,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-04-04,2026-05-31,Concluido,72.0,2.2
+TR000023,C01-E0198,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-11-16,2025-12-20,Concluido,82.0,4.5
+TR000024,C01-E0028,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-30,,Nao Iniciado,,2.4
+TR000025,C01-E0263,C01,Etica e Governanca de Dados em IA,Governanca,2026-06-18,2026-08-10,Concluido,95.0,2.2
+TR000026,C01-E0336,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-04-23,2026-05-20,Concluido,77.0,1.8
+TR000027,C01-E0106,C01,Fundamentos de IA Generativa,IA Generativa,2025-06-07,2025-06-12,Concluido,65.0,2.1
+TR000028,C01-E0106,C01,Prompt Engineering na Pratica,IA Generativa,2025-10-31,2025-11-23,Concluido,75.0,3.2
+TR000029,C01-E0090,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-27,2026-02-26,Concluido,87.0,1.1
+TR000030,C01-E0090,C01,Etica e Governanca de Dados em IA,Governanca,2026-05-05,,Nao Iniciado,,2.0
+TR000031,C01-E0090,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-07,2025-07-17,Concluido,69.0,3.7
+TR000032,C01-E0141,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-11-30,,Em Andamento,,1.7
+TR000033,C01-E0141,C01,Etica e Governanca de Dados em IA,Governanca,2025-10-12,,Abandonado,,1.8
+TR000034,C01-E0141,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-06,2025-07-08,Concluido,68.0,3.7
+TR000035,C01-E0221,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-10-22,2025-11-29,Concluido,94.0,4.8
+TR000036,C01-E0313,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-03-19,,Abandonado,,4.5
+TR000037,C01-E0164,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-07-12,2026-08-10,Concluido,80.0,0.9
+TR000038,C01-E0164,C01,Prompt Engineering na Pratica,IA Generativa,2026-05-21,2026-07-09,Concluido,60.0,2.7
+TR000039,C01-E0297,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2025-12-14,,Nao Iniciado,,1.7
+TR000040,C01-E0297,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-06-06,,Em Andamento,,2.2
+TR000041,C01-E0297,C01,Automatizacao de Tarefas com IA,Produtividade,2026-04-05,2026-05-29,Concluido,79.0,3.0
+TR000042,C01-E0345,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-10-14,2025-12-12,Concluido,70.0,2.4
+TR000043,C01-E0345,C01,Analise de Dados com IA,Dados e Analytics,2026-02-08,,Em Andamento,,4.8
+TR000044,C01-E0274,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-01-26,,Em Andamento,,3.8
+TR000045,C01-E0274,C01,IA para Times Comerciais,Aplicacoes de Negocio,2025-09-18,2025-11-02,Concluido,83.0,1.5
+TR000046,C01-E0046,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-26,2026-02-23,Concluido,96.0,4.5
+TR000047,C01-E0329,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-11,2026-06-17,Concluido,77.0,1.9
+TR000048,C01-E0329,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-05-13,2026-07-12,Concluido,83.0,0.9
+TR000049,C01-E0315,C01,Prompt Engineering na Pratica,IA Generativa,2026-06-28,,Em Andamento,,2.6
+TR000050,C01-E0315,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-05-26,,Em Andamento,,1.4
+TR000051,C01-E0039,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-10-14,2025-11-05,Concluido,78.0,1.7
+TR000052,C01-E0173,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-04-27,2026-05-31,Concluido,93.0,1.5
+TR000053,C01-E0034,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-19,2026-06-17,Concluido,85.0,2.0
+TR000054,C01-E0060,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-03-29,,Abandonado,,3.7
+TR000055,C01-E0113,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-06-20,,Nao Iniciado,,1.1
+TR000056,C01-E0151,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-07-07,,Em Andamento,,3.9
+TR000057,C01-E0151,C01,Etica e Governanca de Dados em IA,Governanca,2025-11-20,,Abandonado,,1.8
+TR000058,C01-E0108,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-09-23,2025-10-22,Concluido,71.0,0.9
+TR000059,C01-E0108,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-06-11,,Abandonado,,2.1
+TR000060,C01-E0188,C01,IA para Times Comerciais,Aplicacoes de Negocio,2025-07-13,,Nao Iniciado,,1.4
+TR000061,C01-E0233,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-07-10,2026-08-10,Concluido,56.0,2.0
+TR000062,C01-E0239,C01,Analise de Dados com IA,Dados e Analytics,2026-07-04,2026-08-10,Concluido,64.0,4.3
+TR000063,C01-E0239,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-07-13,2026-08-04,Concluido,56.0,1.1
+TR000064,C01-E0216,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-02-18,,Nao Iniciado,,1.7
+TR000065,C01-E0123,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-11-07,,Em Andamento,,1.0
+TR000066,C01-E0292,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-06,,Em Andamento,,4.3
+TR000067,C01-E0143,C01,Prompt Engineering na Pratica,IA Generativa,2026-04-18,,Nao Iniciado,,3.2
+TR000068,C01-E0062,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-04-12,,Abandonado,,2.2
+TR000069,C01-E0178,C01,Automatizacao de Tarefas com IA,Produtividade,2025-11-12,2025-12-06,Concluido,63.0,2.6
+TR000070,C01-E0021,C01,Fundamentos de IA Generativa,IA Generativa,2026-03-27,2026-04-13,Concluido,71.0,1.9
+TR000071,C01-E0360,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-09-16,2025-11-06,Concluido,79.0,1.2
+TR000072,C01-E0075,C01,Fundamentos de IA Generativa,IA Generativa,2026-01-31,2026-02-05,Concluido,92.0,2.0
+TR000073,C01-E0352,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-03,,Em Andamento,,1.7
+TR000074,C01-E0352,C01,Analise de Dados com IA,Dados e Analytics,2026-02-27,2026-03-28,Concluido,71.0,3.7
+TR000075,C01-E0165,C01,Automatizacao de Tarefas com IA,Produtividade,2026-06-26,,Em Andamento,,2.3
+TR000076,C01-E0007,C01,Prompt Engineering na Pratica,IA Generativa,2025-10-04,,Nao Iniciado,,3.0
+TR000077,C01-E0252,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-01-30,2026-03-30,Concluido,99.0,1.4
+TR000078,C01-E0064,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-07-19,2026-08-10,Concluido,69.0,1.7
+TR000079,C01-E0093,C01,Fundamentos de IA Generativa,IA Generativa,2026-04-07,2026-04-30,Concluido,84.0,2.0
+TR000080,C01-E0085,C01,Fundamentos de IA Generativa,IA Generativa,2025-08-14,,Nao Iniciado,,2.4
+TR000081,C01-E0085,C01,Etica e Governanca de Dados em IA,Governanca,2026-07-19,2026-08-10,Concluido,72.0,2.4
+TR000082,C01-E0085,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-11-16,,Em Andamento,,1.1
+TR000083,C01-E0134,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-07-19,,Nao Iniciado,,3.7
+TR000084,C01-E0147,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-09-13,,Abandonado,,2.4
+TR000085,C01-E0147,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2026-05-25,,Nao Iniciado,,1.5
+TR000086,C01-E0147,C01,Analise de Dados com IA,Dados e Analytics,2026-06-08,2026-07-16,Concluido,94.0,4.4
+TR000087,C01-E0112,C01,Analise de Dados com IA,Dados e Analytics,2025-10-13,,Em Andamento,,4.6
+TR000088,C01-E0325,C01,Fundamentos de IA Generativa,IA Generativa,2026-07-27,,Nao Iniciado,,1.8
+TR000089,C01-E0087,C01,Etica e Governanca de Dados em IA,Governanca,2025-08-28,,Em Andamento,,2.0
+TR000090,C01-E0087,C01,Automatizacao de Tarefas com IA,Produtividade,2025-11-28,2025-12-10,Concluido,88.0,2.6
+TR000091,C01-E0195,C01,Prompt Engineering na Pratica,IA Generativa,2026-07-02,2026-08-07,Concluido,59.0,2.6
+TR000092,C01-E0195,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-01-26,2026-03-09,Concluido,78.0,2.3
+TR000093,C01-E0357,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-09,2025-08-05,Concluido,79.0,1.9
+TR000094,C01-E0018,C01,Etica e Governanca de Dados em IA,Governanca,2025-11-06,2025-12-11,Concluido,86.0,2.1
+TR000095,C01-E0017,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-07-29,,Nao Iniciado,,1.5
+TR000096,C01-E0190,C01,Fundamentos de IA Generativa,IA Generativa,2026-06-22,,Em Andamento,,2.3
+TR000097,C01-E0201,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-09-18,2025-10-27,Concluido,99.0,1.8
+TR000098,C01-E0201,C01,Automatizacao de Tarefas com IA,Produtividade,2026-01-13,,Nao Iniciado,,2.4
+TR000099,C01-E0092,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-03-20,2026-04-16,Concluido,78.0,1.1
+TR000100,C01-E0222,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-06-12,,Abandonado,,2.1
+TR000101,C01-E0255,C01,Analise de Dados com IA,Dados e Analytics,2026-07-10,2026-07-22,Concluido,75.0,4.7
+TR000102,C01-E0333,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2025-09-22,,Abandonado,,1.3
+TR000103,C01-E0333,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-02-12,2026-04-07,Concluido,60.0,2.3
+TR000104,C01-E0047,C01,Fundamentos de IA Generativa,IA Generativa,2025-10-26,,Nao Iniciado,,2.1
+TR000105,C01-E0322,C01,Automatizacao de Tarefas com IA,Produtividade,2025-10-03,,Em Andamento,,2.2
+TR000106,C01-E0322,C01,IA para Times Comerciais,Aplicacoes de Negocio,2025-11-09,2025-12-22,Concluido,63.0,1.8
+TR000107,C01-E0035,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-02,2026-03-29,Concluido,80.0,1.6
+TR000108,C01-E0215,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-10-08,,Nao Iniciado,,1.2
+TR000109,C01-E0215,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-11-03,,Nao Iniciado,,1.3
+TR000110,C01-E0212,C01,Analise de Dados com IA,Dados e Analytics,2025-09-16,2025-09-20,Concluido,81.0,3.9
+TR000111,C01-E0030,C01,Automatizacao de Tarefas com IA,Produtividade,2026-07-22,2026-08-10,Concluido,70.0,2.6
+TR000112,C01-E0122,C01,Prompt Engineering na Pratica,IA Generativa,2026-01-27,,Nao Iniciado,,2.6
+TR000113,C01-E0122,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-06-14,,Nao Iniciado,,1.3
+TR000114,C01-E0363,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-08-06,,Abandonado,,1.1
+TR000115,C01-E0363,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-02-03,,Em Andamento,,3.8
+TR000116,C01-E0109,C01,Automatizacao de Tarefas com IA,Produtividade,2025-10-24,2025-11-27,Concluido,100.0,2.3
+TR000117,C01-E0271,C01,Etica e Governanca de Dados em IA,Governanca,2026-06-28,,Abandonado,,2.1
+TR000118,C01-E0261,C01,Etica e Governanca de Dados em IA,Governanca,2025-09-10,2025-09-15,Concluido,64.0,1.8
+TR000119,C01-E0261,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-04-18,2026-04-25,Concluido,81.0,1.7
+TR000120,C01-E0268,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-06-06,2025-06-17,Concluido,83.0,0.9
+TR000121,C01-E0229,C01,Fundamentos de IA Generativa,IA Generativa,2026-07-10,2026-08-05,Concluido,73.0,1.9
+TR000122,C01-E0311,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-02-03,2026-03-02,Concluido,75.0,1.8
+TR000123,C01-E0311,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-10-14,,Nao Iniciado,,2.4
+TR000124,C01-E0285,C01,Analise de Dados com IA,Dados e Analytics,2026-03-20,2026-04-14,Concluido,78.0,4.0
+TR000125,C01-E0245,C01,Fundamentos de IA Generativa,IA Generativa,2025-11-17,2026-01-11,Concluido,77.0,2.0
+TR000126,C01-E0227,C01,Prompt Engineering na Pratica,IA Generativa,2026-04-12,,Nao Iniciado,,2.8
+TR000127,C01-E0177,C01,Prompt Engineering na Pratica,IA Generativa,2025-07-22,2025-09-15,Concluido,98.0,3.1
+TR000128,C01-E0191,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-02-20,2026-04-08,Concluido,62.0,1.1
+TR000129,C01-E0323,C01,IA para Times Comerciais,Aplicacoes de Negocio,2025-11-18,2025-12-22,Concluido,55.0,1.6
+TR000130,C01-E0323,C01,Prompt Engineering na Pratica,IA Generativa,2025-11-09,2025-12-16,Concluido,65.0,3.0
+TR000131,C01-E0260,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-21,2026-06-27,Concluido,100.0,4.0
+TR000132,C01-E0260,C01,Prompt Engineering na Pratica,IA Generativa,2025-10-01,2025-11-02,Concluido,85.0,2.6
+TR000133,C01-E0055,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-08-22,2025-10-16,Concluido,100.0,1.1
+TR000134,C01-E0055,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-04-29,,Abandonado,,2.1
+TR000135,C01-E0284,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-07,,Abandonado,,1.5
+TR000136,C01-E0059,C01,Automatizacao de Tarefas com IA,Produtividade,2026-03-18,2026-05-13,Concluido,71.0,2.8
+TR000137,C01-E0059,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-09-02,,Nao Iniciado,,2.3
+TR000138,C01-E0081,C01,Etica e Governanca de Dados em IA,Governanca,2025-09-07,2025-11-02,Concluido,58.0,2.2
+TR000139,C01-E0339,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-08-09,,Abandonado,,1.9
+TR000140,C01-E0339,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2025-10-09,,Em Andamento,,1.3
+TR000141,C01-E0202,C01,Analise de Dados com IA,Dados e Analytics,2025-10-11,,Nao Iniciado,,4.0
+TR000142,C01-E0052,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-27,2026-02-17,Concluido,60.0,2.2
+TR000143,C01-E0004,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-08-09,,Em Andamento,,1.7
+TR000144,C01-E0004,C01,Prompt Engineering na Pratica,IA Generativa,2025-06-28,2025-07-28,Concluido,78.0,3.3
+TR000145,C01-E0362,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-04,2026-01-09,Concluido,58.0,1.0
+TR000146,C01-E0247,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-11-15,2025-12-05,Concluido,89.0,0.9
+TR000147,C01-E0334,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-07-03,2026-08-10,Concluido,82.0,1.5
+TR000148,C01-E0334,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-19,,Nao Iniciado,,3.7
+TR000149,C01-E0249,C01,Analise de Dados com IA,Dados e Analytics,2025-07-04,,Nao Iniciado,,4.7
+TR000150,C01-E0044,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-03-05,2026-03-28,Concluido,91.0,1.7
+TR000151,C01-E0044,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-10-06,,Em Andamento,,1.8
+TR000152,C01-E0161,C01,Prompt Engineering na Pratica,IA Generativa,2026-07-27,2026-08-03,Concluido,95.0,2.6
+TR000153,C01-E0264,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-09-30,,Abandonado,,1.7
+TR000154,C01-E0206,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2025-11-25,,Em Andamento,,1.3
+TR000155,C01-E0343,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-12-09,2026-01-29,Concluido,75.0,2.3
+TR000156,C01-E0327,C01,Etica e Governanca de Dados em IA,Governanca,2025-08-12,2025-08-21,Concluido,55.0,1.9
+TR000157,C01-E0319,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-10-01,,Nao Iniciado,,1.6
+TR000158,C01-E0166,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-15,,Abandonado,,1.8
+TR000159,C01-E0166,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-15,2026-01-06,Concluido,74.0,2.0
+TR000160,C01-E0314,C01,Prompt Engineering na Pratica,IA Generativa,2026-01-03,,Nao Iniciado,,3.4
+TR000161,C01-E0314,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2026-02-22,2026-04-01,Concluido,79.0,1.6
+TR000162,C01-E0056,C01,IA para Times Comerciais,Aplicacoes de Negocio,2025-06-14,2025-08-13,Concluido,79.0,1.4
+TR000163,C01-E0067,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-07-05,2025-07-18,Concluido,63.0,1.6
+TR000164,C01-E0096,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-08,,Em Andamento,,0.9
+TR000165,C01-E0291,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-09-07,2025-09-23,Concluido,58.0,1.7
+TR000166,C01-E0291,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-07-03,2026-08-05,Concluido,65.0,1.0
+TR000167,C01-E0278,C01,Etica e Governanca de Dados em IA,Governanca,2025-09-02,,Abandonado,,2.3
+TR000168,C01-E0278,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-08-02,2025-09-23,Concluido,71.0,0.9
+TR000169,C01-E0290,C01,Fundamentos de IA Generativa,IA Generativa,2026-06-07,,Em Andamento,,1.9
+TR000170,C01-E0354,C01,Fundamentos de IA Generativa,IA Generativa,2026-05-15,2026-06-15,Concluido,63.0,2.3
+TR000171,C01-E0273,C01,Etica e Governanca de Dados em IA,Governanca,2026-02-09,2026-02-22,Concluido,72.0,2.2
+TR000172,C01-E0273,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-25,,Abandonado,,4.3
+TR000173,C01-E0273,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-06-13,2025-07-07,Concluido,96.0,1.1
+TR000174,C01-E0277,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-08-07,,Abandonado,,1.2
+TR000175,C01-E0171,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2025-08-03,,Em Andamento,,1.6
+TR000176,C01-E0205,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-02-07,2026-03-11,Concluido,68.0,1.7
+TR000177,C01-E0104,C01,Prompt Engineering na Pratica,IA Generativa,2026-02-01,2026-03-14,Concluido,78.0,2.8
+TR000178,C01-E0104,C01,Etica e Governanca de Dados em IA,Governanca,2025-09-11,2025-09-26,Concluido,85.0,2.0
+TR000179,C01-E0179,C01,Etica e Governanca de Dados em IA,Governanca,2026-02-27,2026-04-21,Concluido,89.0,2.2
+TR000180,C01-E0203,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2025-10-01,2025-10-04,Concluido,86.0,1.3
+TR000181,C01-E0203,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-07-15,2026-07-21,Concluido,76.0,2.2
+TR000182,C01-E0203,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-01,,Nao Iniciado,,3.6
+TR000183,C01-E0344,C01,Prompt Engineering na Pratica,IA Generativa,2025-09-30,,Abandonado,,2.6
+TR000184,C01-E0288,C01,Analise de Dados com IA,Dados e Analytics,2025-08-28,2025-10-23,Concluido,92.0,4.7
+TR000185,C01-E0288,C01,Fundamentos de IA Generativa,IA Generativa,2026-04-21,2026-06-18,Concluido,92.0,2.3
+TR000186,C01-E0288,C01,Automatizacao de Tarefas com IA,Produtividade,2025-11-17,,Em Andamento,,2.2
+TR000187,C01-E0265,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-03,2026-06-23,Concluido,98.0,1.7
+TR000188,C01-E0265,C01,Prompt Engineering na Pratica,IA Generativa,2025-06-21,2025-07-20,Concluido,86.0,3.5
+TR000189,C01-E0133,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-15,,Abandonado,,2.0
+TR000190,C01-E0133,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-06-25,2026-08-10,Concluido,73.0,3.6
+TR000191,C01-E0027,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-01,2026-05-12,Concluido,89.0,2.0
+TR000192,C01-E0027,C01,Analise de Dados com IA,Dados e Analytics,2025-08-29,2025-10-18,Concluido,71.0,4.1
+TR000193,C01-E0335,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-09-06,2025-10-10,Concluido,72.0,1.9
+TR000194,C01-E0286,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-09-20,2025-10-25,Concluido,90.0,4.2
+TR000195,C01-E0286,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-12-11,2025-12-30,Concluido,57.0,2.1
+TR000196,C01-E0321,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-06-11,2025-06-28,Concluido,71.0,1.8
+TR000197,C01-E0316,C01,Automatizacao de Tarefas com IA,Produtividade,2025-06-07,2025-07-12,Concluido,76.0,2.3
+TR000198,C01-E0316,C01,Prompt Engineering na Pratica,IA Generativa,2025-08-19,,Abandonado,,3.5
+TR000199,C01-E0051,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-08-15,2025-09-20,Concluido,58.0,2.3
+TR000200,C01-E0330,C01,Prompt Engineering na Pratica,IA Generativa,2025-08-19,2025-08-22,Concluido,100.0,3.0
+TR000201,C01-E0298,C01,Automatizacao de Tarefas com IA,Produtividade,2026-03-25,,Nao Iniciado,,2.7
+TR000202,C01-E0326,C01,Prompt Engineering na Pratica,IA Generativa,2026-07-15,,Nao Iniciado,,3.0
+TR000203,C01-E0103,C01,Prompt Engineering na Pratica,IA Generativa,2026-05-09,,Em Andamento,,3.5
+TR000204,C01-E0103,C01,Fundamentos de IA Generativa,IA Generativa,2026-03-24,2026-05-15,Concluido,59.0,2.1
+TR000205,C01-E0103,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-06,,Abandonado,,1.7
+TR000206,C01-E0341,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-05-02,,Abandonado,,1.6
+TR000207,C01-E0341,C01,Automatizacao de Tarefas com IA,Produtividade,2025-07-24,2025-08-30,Concluido,96.0,2.6
+TR000208,C01-E0262,C01,Etica e Governanca de Dados em IA,Governanca,2025-09-20,,Em Andamento,,2.3
+TR000209,C01-E0262,C01,Automatizacao de Tarefas com IA,Produtividade,2026-04-13,2026-05-19,Concluido,77.0,2.5
+TR000210,C01-E0240,C01,Etica e Governanca de Dados em IA,Governanca,2025-11-15,2025-12-20,Concluido,96.0,2.3
+TR000211,C01-E0340,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-07-22,2025-08-16,Concluido,87.0,1.7
+TR000212,C01-E0235,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2025-11-30,2026-01-02,Concluido,78.0,1.6
+TR000213,C01-E0066,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-06-23,2026-07-22,Concluido,89.0,3.9
+TR000214,C01-E0066,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2025-11-13,2025-12-10,Concluido,78.0,1.6
+TR000215,C01-E0094,C01,Automatizacao de Tarefas com IA,Produtividade,2026-06-21,2026-07-01,Concluido,65.0,2.2
+TR000216,C01-E0312,C01,Prompt Engineering na Pratica,IA Generativa,2026-01-04,,Em Andamento,,2.6
+TR000217,C01-E0301,C01,Etica e Governanca de Dados em IA,Governanca,2025-09-11,2025-10-03,Concluido,70.0,2.0
+TR000218,C01-E0088,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2026-03-15,2026-05-01,Concluido,87.0,1.3
+TR000219,C01-E0350,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-02-08,,Nao Iniciado,,3.9
+TR000220,C01-E0350,C01,Fundamentos de IA Generativa,IA Generativa,2026-05-17,2026-06-09,Concluido,84.0,2.0
+TR000221,C01-E0254,C01,Fundamentos de IA Generativa,IA Generativa,2025-12-03,2025-12-09,Concluido,62.0,2.1
+TR000222,C01-E0079,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-02-10,2026-02-20,Concluido,72.0,2.3
+TR000223,C01-E0079,C01,IA para Times Comerciais,Aplicacoes de Negocio,2025-08-27,2025-10-21,Concluido,75.0,1.3
+TR000224,C01-E0013,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-06-04,,Em Andamento,,1.5
+TR000225,C01-E0013,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2026-05-19,2026-07-08,Concluido,100.0,1.8
+TR000226,C01-E0302,C01,Etica e Governanca de Dados em IA,Governanca,2026-03-01,2026-03-05,Concluido,61.0,2.2
+TR000227,C01-E0302,C01,Fundamentos de IA Generativa,IA Generativa,2025-12-02,,Abandonado,,2.0
+TR000228,C01-E0289,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-07-03,2026-08-10,Concluido,73.0,2.3
+TR000229,C01-E0213,C01,Automatizacao de Tarefas com IA,Produtividade,2025-11-17,2026-01-05,Concluido,90.0,2.4
+TR000230,C01-E0213,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-06-04,2026-07-09,Concluido,79.0,2.0
+TR000231,C01-E0280,C01,Analise de Dados com IA,Dados e Analytics,2026-03-10,2026-04-22,Concluido,87.0,3.9
+TR000232,C01-E0189,C01,Etica e Governanca de Dados em IA,Governanca,2026-02-19,,Em Andamento,,2.0
+TR000233,C01-E0153,C01,Fundamentos de IA Generativa,IA Generativa,2025-12-16,2025-12-26,Concluido,68.0,2.0
+TR000234,C01-E0041,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-16,,Nao Iniciado,,2.1
+TR000235,C01-E0184,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-07-12,2025-07-25,Concluido,58.0,1.7
+TR000236,C01-E0184,C01,Prompt Engineering na Pratica,IA Generativa,2025-08-15,,Em Andamento,,3.0
+TR000237,C01-E0150,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-05-07,,Em Andamento,,1.5
+TR000238,C01-E0244,C01,Automatizacao de Tarefas com IA,Produtividade,2026-07-10,,Em Andamento,,2.6
+TR000239,C01-E0156,C01,Analise de Dados com IA,Dados e Analytics,2025-09-11,,Abandonado,,4.8
+TR000240,C01-E0156,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-28,2026-01-17,Concluido,76.0,2.4
+TR000241,C01-E0156,C01,Etica e Governanca de Dados em IA,Governanca,2025-06-07,,Em Andamento,,1.8
+TR000242,C01-E0078,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-19,,Em Andamento,,2.0
+TR000243,C01-E0078,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-04-10,,Nao Iniciado,,3.7
+TR000244,C01-E0238,C01,Prompt Engineering na Pratica,IA Generativa,2026-05-25,2026-06-13,Concluido,83.0,3.4
+TR000245,C01-E0238,C01,Analise de Dados com IA,Dados e Analytics,2026-02-06,2026-03-26,Concluido,81.0,3.4
+TR000246,C01-E0238,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-04-27,2026-05-20,Concluido,73.0,1.5
+TR000247,C01-E0193,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2025-09-07,,Em Andamento,,1.6
+TR000248,C01-E0193,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-07-02,,Em Andamento,,1.8
+TR000249,C01-E0241,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-06-07,,Nao Iniciado,,2.0
+TR000250,C01-E0230,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2025-10-08,2025-11-18,Concluido,87.0,1.4
+TR000251,C01-E0009,C01,Fundamentos de IA Generativa,IA Generativa,2026-02-16,2026-02-19,Concluido,74.0,1.9
+TR000252,C01-E0196,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-09-08,2025-09-18,Concluido,90.0,1.8
+TR000253,C01-E0196,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-05-25,,Abandonado,,1.7
+TR000254,C01-E0111,C01,Automatizacao de Tarefas com IA,Produtividade,2025-09-20,,Nao Iniciado,,2.9
+TR000255,C01-E0187,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-10-25,2025-11-30,Concluido,67.0,3.6
+TR000256,C01-E0187,C01,Etica e Governanca de Dados em IA,Governanca,2026-07-07,,Em Andamento,,2.0
+TR000257,C01-E0003,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-07-26,,Nao Iniciado,,1.8
+TR000258,C01-E0003,C01,Fundamentos de IA Generativa,IA Generativa,2026-05-12,,Abandonado,,2.3
+TR000259,C01-E0353,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-12-31,2026-01-14,Concluido,92.0,1.5
+TR000260,C01-E0119,C01,Etica e Governanca de Dados em IA,Governanca,2025-06-27,2025-07-22,Concluido,90.0,2.2
+TR000261,C01-E0119,C01,Analise de Dados com IA,Dados e Analytics,2026-01-06,2026-02-13,Concluido,62.0,4.8
+TR000262,C01-E0338,C01,Analise de Dados com IA,Dados e Analytics,2026-02-09,,Nao Iniciado,,4.7
+TR000263,C01-E0160,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-08-11,,Em Andamento,,2.4
+TR000264,C01-E0131,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-13,2026-08-09,Concluido,61.0,1.7
+TR000265,C01-E0131,C01,Analise de Dados com IA,Dados e Analytics,2026-03-17,2026-05-07,Concluido,71.0,4.3
+TR000266,C01-E0358,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-04-23,,Em Andamento,,0.9
+TR000267,C01-E0132,C01,Automatizacao de Tarefas com IA,Produtividade,2025-11-01,,Abandonado,,2.2
+TR000268,C01-E0132,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-10-26,,Abandonado,,1.1
+TR000269,C01-E0058,C01,Analise de Dados com IA,Dados e Analytics,2025-08-19,2025-09-23,Concluido,84.0,4.7
+TR000270,C01-E0337,C01,Fundamentos de IA Generativa,IA Generativa,2025-10-30,2025-11-07,Concluido,100.0,2.2
+TR000271,C01-E0270,C01,Prompt Engineering na Pratica,IA Generativa,2025-06-21,2025-08-04,Concluido,71.0,2.8
+TR000272,C01-E0130,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-04-25,2026-05-24,Concluido,66.0,3.6
+TR000273,C01-E0175,C01,Fundamentos de IA Generativa,IA Generativa,2025-09-30,2025-10-21,Concluido,57.0,2.1
+TR000274,C01-E0170,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-22,2026-06-06,Concluido,76.0,2.4
+TR000275,C01-E0242,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-08-02,2025-09-11,Concluido,60.0,1.8
+TR000276,C01-E0242,C01,Etica e Governanca de Dados em IA,Governanca,2026-05-13,2026-06-11,Concluido,71.0,1.8
+TR000277,C01-E0242,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2026-04-26,2026-06-18,Concluido,87.0,1.5
+TR000278,C01-E0218,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-10-30,2025-11-17,Concluido,76.0,1.3
+TR000279,C01-E0185,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-11,,Abandonado,,2.3
+TR000280,C01-E0185,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-08-08,,Em Andamento,,4.7
+TR000281,C01-E0185,C01,Automatizacao de Tarefas com IA,Produtividade,2025-08-31,2025-09-05,Concluido,90.0,2.4
+TR000282,C01-E0080,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-07-08,,Em Andamento,,3.6
+TR000283,C01-E0099,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-04-16,,Em Andamento,,1.4
+TR000284,C01-E0250,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-07,2026-07-08,Concluido,100.0,1.6
+TR000285,C01-E0226,C01,Prompt Engineering na Pratica,IA Generativa,2026-07-02,,Em Andamento,,2.9
+TR000286,C01-E0226,C01,Automatizacao de Tarefas com IA,Produtividade,2026-01-09,2026-03-10,Concluido,58.0,2.9
+TR000287,C01-E0157,C01,Automatizacao de Tarefas com IA,Produtividade,2025-09-13,2025-10-15,Concluido,64.0,2.3
+TR000288,C01-E0157,C01,Etica e Governanca de Dados em IA,Governanca,2026-02-28,,Em Andamento,,2.4
+TR000289,C01-E0054,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-10-02,,Nao Iniciado,,2.1
+TR000290,C01-E0054,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2025-08-13,,Nao Iniciado,,1.4
+TR000291,C01-E0172,C01,Fundamentos de IA Generativa,IA Generativa,2025-06-22,2025-08-15,Concluido,71.0,2.2
+TR000292,C01-E0172,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2026-01-02,,Nao Iniciado,,1.5
+TR000293,C01-E0172,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-03-24,,Em Andamento,,1.7
+TR000294,C01-E0305,C01,Fundamentos de IA Generativa,IA Generativa,2026-02-04,2026-03-12,Concluido,69.0,2.4
+TR000295,C01-E0266,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-23,2026-02-17,Concluido,77.0,1.0
+TR000296,C01-E0253,C01,Prompt Engineering na Pratica,IA Generativa,2025-09-05,2025-09-21,Concluido,77.0,3.0
+TR000297,C01-E0032,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2026-04-22,2026-05-25,Concluido,67.0,1.7
+TR000298,C01-E0174,C01,Etica e Governanca de Dados em IA,Governanca,2026-01-06,2026-01-14,Concluido,76.0,2.1
+TR000299,C01-E0359,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-05-19,,Nao Iniciado,,1.4
+TR000300,C01-E0359,C01,Analise de Dados com IA,Dados e Analytics,2025-12-17,,Em Andamento,,3.7
+TR000301,C01-E0163,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-21,,Em Andamento,,1.6
+TR000302,C01-E0163,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-09-29,,Em Andamento,,2.1
+TR000303,C01-E0114,C01,Automatizacao de Tarefas com IA,Produtividade,2026-03-19,2026-05-13,Concluido,74.0,2.9
+TR000304,C01-E0186,C01,Analise de Dados com IA,Dados e Analytics,2026-02-27,,Nao Iniciado,,3.8
+TR000305,C01-E0186,C01,Fundamentos de IA Generativa,IA Generativa,2025-06-26,,Em Andamento,,2.2
+TR000306,C01-E0089,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-02-23,,Abandonado,,1.8
+TR000307,C01-E0127,C01,Etica e Governanca de Dados em IA,Governanca,2025-12-18,2025-12-22,Concluido,57.0,2.4
+TR000308,C01-E0127,C01,Fundamentos de IA Generativa,IA Generativa,2025-08-12,2025-09-10,Concluido,89.0,2.0
+TR000309,C01-E0127,C01,Automatizacao de Tarefas com IA,Produtividade,2026-01-25,2026-02-18,Concluido,71.0,2.6
+TR000310,C01-E0065,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-04-11,,Em Andamento,,1.6
+TR000311,C01-E0065,C01,Automatizacao de Tarefas com IA,Produtividade,2026-02-14,2026-03-09,Concluido,72.0,2.8
+TR000312,C01-E0065,C01,IA para Times Comerciais,Aplicacoes de Negocio,2025-11-08,2025-11-18,Concluido,71.0,1.4
+TR000313,C01-E0182,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-06-17,2026-07-30,Concluido,76.0,4.2
+TR000314,C01-E0002,C01,Etica e Governanca de Dados em IA,Governanca,2025-08-18,2025-09-24,Concluido,89.0,2.4
+TR000315,C01-E0002,C01,Automatizacao de Tarefas com IA,Produtividade,2026-05-21,2026-06-28,Concluido,57.0,2.8
+TR000316,C01-E0246,C01,Automatizacao de Tarefas com IA,Produtividade,2026-02-15,,Nao Iniciado,,2.1
+TR000317,C01-E0293,C01,Analise de Dados com IA,Dados e Analytics,2025-08-19,2025-08-22,Concluido,92.0,4.5
+TR000318,C01-E0045,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-06-26,,Nao Iniciado,,2.1
+TR000319,C01-E0281,C01,Automatizacao de Tarefas com IA,Produtividade,2026-07-27,,Nao Iniciado,,2.9
+TR000320,C01-E0144,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-07-02,2026-07-14,Concluido,67.0,3.8
+TR000321,C01-E0144,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-10-18,,Abandonado,,1.7
+TR000322,C01-E0144,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2026-03-20,2026-04-23,Concluido,72.0,1.5
+TR000323,C01-E0101,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-01-24,,Em Andamento,,1.6
+TR000324,C01-E0219,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-07-09,2025-08-28,Concluido,86.0,1.7
+TR000325,C01-E0219,C01,Analise de Dados com IA,Dados e Analytics,2026-07-11,,Abandonado,,4.0
+TR000326,C01-E0082,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-12-01,2025-12-04,Concluido,59.0,1.3
+TR000327,C01-E0356,C01,Etica e Governanca de Dados em IA,Governanca,2025-09-27,,Em Andamento,,2.3
+TR000328,C01-E0208,C01,Analise de Dados com IA,Dados e Analytics,2025-11-12,2025-11-23,Concluido,77.0,3.4
+TR000329,C01-E0063,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-10-02,2025-11-17,Concluido,78.0,1.1
+TR000330,C01-E0063,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-07-13,,Nao Iniciado,,1.9
+TR000331,C01-E0063,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-02,,Nao Iniciado,,2.2
+TR000332,C01-E0258,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-04-04,,Nao Iniciado,,2.3
+TR000333,C01-E0036,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-06-03,2026-06-27,Concluido,85.0,3.9
+TR000334,C01-E0036,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-07-28,2025-08-09,Concluido,69.0,1.1
+TR000335,C01-E0010,C01,Fundamentos de IA Generativa,IA Generativa,2026-06-13,2026-06-23,Concluido,77.0,2.4
+TR000336,C01-E0010,C01,Etica e Governanca de Dados em IA,Governanca,2025-12-06,2026-01-18,Concluido,66.0,1.8
+TR000337,C01-E0200,C01,Automatizacao de Tarefas com IA,Produtividade,2025-09-11,2025-10-13,Concluido,62.0,2.4
+TR000338,C01-E0145,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2025-09-29,,Abandonado,,1.5
+TR000339,C01-E0084,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-06-30,,Em Andamento,,1.7
+TR000340,C01-E0348,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-10-10,,Nao Iniciado,,1.8
+TR000341,C01-E0012,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-04-24,2026-06-10,Concluido,70.0,1.0
+TR000342,C01-E0012,C01,Analise de Dados com IA,Dados e Analytics,2026-02-11,2026-03-11,Concluido,74.0,4.5
+TR000343,C01-E0279,C01,Prompt Engineering na Pratica,IA Generativa,2025-08-08,2025-08-29,Concluido,82.0,3.1
+TR000344,C01-E0279,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-07-16,,Em Andamento,,1.7
+TR000345,C01-E0115,C01,IA para Times Comerciais,Aplicacoes de Negocio,2026-07-08,,Em Andamento,,1.3
+TR000346,C01-E0115,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-10-06,2025-12-04,Concluido,92.0,1.1
+TR000347,C01-E0115,C01,Prompt Engineering na Pratica,IA Generativa,2026-07-30,,Abandonado,,3.2
+TR000348,C01-E0053,C01,Automatizacao de Tarefas com IA,Produtividade,2025-09-28,,Em Andamento,,2.8
+TR000349,C01-E0225,C01,Automatizacao de Tarefas com IA,Produtividade,2025-11-30,2026-01-06,Concluido,86.0,2.5
+TR000350,C01-E0225,C01,Fundamentos de IA Generativa,IA Generativa,2025-07-17,,Abandonado,,2.1
+TR000351,C01-E0225,C01,Etica e Governanca de Dados em IA,Governanca,2025-11-28,,Em Andamento,,2.4
+TR000352,C01-E0154,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-07-28,,Abandonado,,4.2
+TR000353,C01-E0118,C01,Analise de Dados com IA,Dados e Analytics,2025-07-07,,Em Andamento,,3.8
+TR000354,C01-E0231,C01,Prompt Engineering na Pratica,IA Generativa,2025-10-19,2025-10-29,Concluido,79.0,3.6
+TR000355,C01-E0210,C01,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-02-07,,Em Andamento,,1.8
+TR000356,C01-E0210,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-10,2026-06-11,Concluido,93.0,1.9
+TR000357,C01-E0294,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-07-13,2026-08-10,Concluido,57.0,1.1
+TR000358,C01-E0294,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-09-15,,Em Andamento,,1.7
+TR000359,C01-E0137,C01,IA para Times Comerciais,Aplicacoes de Negocio,2025-07-12,2025-09-09,Concluido,100.0,1.8
+TR000360,C01-E0100,C01,Analise de Dados com IA,Dados e Analytics,2026-07-28,2026-08-10,Concluido,56.0,4.8
+TR000361,C01-E0224,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-08-28,,Nao Iniciado,,2.2
+TR000362,C01-E0031,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-09-21,,Abandonado,,0.9
+TR000363,C01-E0031,C01,IA Responsavel: Vieses e Limitacoes,Governanca,2026-02-07,2026-03-15,Concluido,67.0,1.6
+TR000364,C01-E0031,C01,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-03-26,2026-04-12,Concluido,85.0,3.4
+TR000365,C01-E0048,C01,Fundamentos de IA Generativa,IA Generativa,2025-09-15,2025-09-29,Concluido,90.0,1.7
+TR000366,C01-E0023,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-21,2026-07-15,Concluido,87.0,2.2
+TR000367,C01-E0074,C01,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-07-06,,Em Andamento,,1.2
+TR000368,C01-E0223,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-08-04,,Nao Iniciado,,2.4
+TR000369,C01-E0257,C01,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-15,2026-01-21,Concluido,60.0,2.3
+TR000370,C01-E0324,C01,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-03-08,2026-04-28,Concluido,89.0,2.0
+TR000371,C01-E0209,C01,Etica e Governanca de Dados em IA,Governanca,2026-03-08,2026-04-27,Concluido,91.0,2.3
+TR000372,C01-E0209,C01,Analise de Dados com IA,Dados e Analytics,2025-06-28,2025-08-11,Concluido,86.0,4.2
+TR000373,C02-E0050,C02,IA Responsavel: Vieses e Limitacoes,Governanca,2026-01-27,,Em Andamento,,1.4
+TR000374,C02-E0059,C02,IA para Times Comerciais,Aplicacoes de Negocio,2025-09-01,2025-10-13,Concluido,95.0,1.4
+TR000375,C02-E0013,C02,Prompt Engineering na Pratica,IA Generativa,2026-03-16,2026-05-09,Concluido,77.0,3.4
+TR000376,C02-E0014,C02,IA Responsavel: Vieses e Limitacoes,Governanca,2026-05-12,2026-05-25,Concluido,80.0,1.6
+TR000377,C02-E0024,C02,Analise de Dados com IA,Dados e Analytics,2025-08-24,2025-10-17,Concluido,55.0,3.7
+TR000378,C02-E0045,C02,IA Responsavel: Vieses e Limitacoes,Governanca,2026-01-17,2026-03-09,Concluido,84.0,1.3
+TR000379,C02-E0022,C02,Prompt Engineering na Pratica,IA Generativa,2025-07-10,2025-07-14,Concluido,63.0,2.7
+TR000380,C02-E0022,C02,Etica e Governanca de Dados em IA,Governanca,2025-12-31,2026-02-24,Concluido,98.0,2.0
+TR000381,C02-E0076,C02,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-28,,Em Andamento,,1.7
+TR000382,C02-E0117,C02,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-12,2025-08-25,Concluido,90.0,1.3
+TR000383,C02-E0090,C02,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-11-01,2025-11-19,Concluido,94.0,1.7
+TR000384,C02-E0036,C02,Automatizacao de Tarefas com IA,Produtividade,2026-02-24,2026-03-31,Concluido,64.0,2.8
+TR000385,C02-E0036,C02,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-01-02,2026-01-26,Concluido,95.0,4.7
+TR000386,C02-E0070,C02,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-09-01,2025-10-17,Concluido,63.0,2.0
+TR000387,C02-E0070,C02,Etica e Governanca de Dados em IA,Governanca,2026-05-21,,Nao Iniciado,,1.7
+TR000388,C02-E0102,C02,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-04-25,2026-06-23,Concluido,60.0,2.2
+TR000389,C02-E0102,C02,Automatizacao de Tarefas com IA,Produtividade,2026-02-26,,Nao Iniciado,,2.6
+TR000390,C02-E0061,C02,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-05-23,2026-07-17,Concluido,57.0,1.0
+TR000391,C02-E0039,C02,Etica e Governanca de Dados em IA,Governanca,2025-07-29,2025-08-25,Concluido,93.0,2.2
+TR000392,C02-E0039,C02,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-10-29,2025-11-01,Concluido,95.0,2.0
+TR000393,C02-E0029,C02,IA Responsavel: Vieses e Limitacoes,Governanca,2026-01-22,2026-02-06,Concluido,78.0,1.5
+TR000394,C02-E0054,C02,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-08,2026-07-17,Concluido,76.0,1.8
+TR000395,C02-E0054,C02,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-06-11,,Nao Iniciado,,3.8
+TR000396,C02-E0054,C02,Automatizacao de Tarefas com IA,Produtividade,2026-03-31,,Nao Iniciado,,2.1
+TR000397,C02-E0073,C02,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-02-01,,Abandonado,,4.2
+TR000398,C02-E0055,C02,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-15,2026-06-28,Concluido,100.0,4.0
+TR000399,C02-E0083,C02,IA para Times Comerciais,Aplicacoes de Negocio,2025-10-11,,Em Andamento,,1.5
+TR000400,C02-E0083,C02,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-05-31,2026-07-02,Concluido,91.0,1.6
+TR000401,C02-E0069,C02,IA para Times Comerciais,Aplicacoes de Negocio,2026-03-26,,Abandonado,,1.5
+TR000402,C02-E0069,C02,Etica e Governanca de Dados em IA,Governanca,2025-12-25,2026-01-13,Concluido,74.0,1.7
+TR000403,C02-E0035,C02,Etica e Governanca de Dados em IA,Governanca,2026-05-14,2026-05-26,Concluido,93.0,1.7
+TR000404,C02-E0035,C02,Analise de Dados com IA,Dados e Analytics,2026-03-04,2026-03-18,Concluido,76.0,4.4
+TR000405,C02-E0079,C02,Analise de Dados com IA,Dados e Analytics,2026-06-04,2026-06-30,Concluido,94.0,3.5
+TR000406,C02-E0021,C02,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-09-15,,Abandonado,,1.3
+TR000407,C02-E0081,C02,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-15,2025-12-19,Concluido,59.0,3.5
+TR000408,C02-E0116,C02,IA Responsavel: Vieses e Limitacoes,Governanca,2026-06-11,,Abandonado,,1.7
+TR000409,C02-E0116,C02,IA para Times Comerciais,Aplicacoes de Negocio,2025-08-09,2025-09-29,Concluido,95.0,1.3
+TR000410,C02-E0116,C02,Automatizacao de Tarefas com IA,Produtividade,2025-07-22,,Nao Iniciado,,2.2
+TR000411,C02-E0085,C02,IA Responsavel: Vieses e Limitacoes,Governanca,2026-04-29,,Nao Iniciado,,1.5
+TR000412,C02-E0015,C02,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-11-02,2025-11-17,Concluido,57.0,4.3
+TR000413,C02-E0015,C02,Prompt Engineering na Pratica,IA Generativa,2025-08-17,,Nao Iniciado,,2.8
+TR000414,C02-E0004,C02,Analise de Dados com IA,Dados e Analytics,2026-07-24,2026-08-10,Concluido,68.0,4.6
+TR000415,C02-E0088,C02,Fundamentos de IA Generativa,IA Generativa,2026-06-23,2026-08-07,Concluido,72.0,2.1
+TR000416,C02-E0107,C02,Etica e Governanca de Dados em IA,Governanca,2025-12-27,,Nao Iniciado,,2.3
+TR000417,C02-E0107,C02,Automatizacao de Tarefas com IA,Produtividade,2026-03-08,,Em Andamento,,2.9
+TR000418,C02-E0103,C02,Analise de Dados com IA,Dados e Analytics,2025-09-11,2025-10-25,Concluido,62.0,4.5
+TR000419,C02-E0103,C02,Automatizacao de Tarefas com IA,Produtividade,2026-07-14,2026-07-24,Concluido,82.0,3.0
+TR000420,C02-E0077,C02,IA para Times Comerciais,Aplicacoes de Negocio,2026-06-30,2026-08-10,Concluido,66.0,1.5
+TR000421,C02-E0043,C02,Analise de Dados com IA,Dados e Analytics,2025-06-26,2025-07-26,Concluido,57.0,3.9
+TR000422,C02-E0120,C02,Fundamentos de IA Generativa,IA Generativa,2026-07-03,,Nao Iniciado,,1.9
+TR000423,C02-E0120,C02,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-03-26,2026-04-22,Concluido,62.0,1.1
+TR000424,C02-E0120,C02,Etica e Governanca de Dados em IA,Governanca,2026-05-20,2026-07-10,Concluido,91.0,2.0
+TR000425,C02-E0114,C02,IA Responsavel: Vieses e Limitacoes,Governanca,2026-06-14,,Abandonado,,1.7
+TR000426,C02-E0114,C02,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-12,,Abandonado,,1.6
+TR000427,C02-E0114,C02,Automatizacao de Tarefas com IA,Produtividade,2025-08-25,2025-09-05,Concluido,58.0,2.3
+TR000428,C02-E0104,C02,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-01-17,,Em Andamento,,2.0
+TR000429,C02-E0110,C02,Analise de Dados com IA,Dados e Analytics,2025-09-09,2025-10-03,Concluido,91.0,4.3
+TR000430,C02-E0067,C02,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-07-05,2025-07-24,Concluido,85.0,2.3
+TR000431,C02-E0002,C02,Fundamentos de IA Generativa,IA Generativa,2026-06-23,2026-08-10,Concluido,90.0,1.7
+TR000432,C02-E0002,C02,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-07-13,,Nao Iniciado,,1.7
+TR000433,C02-E0005,C02,Prompt Engineering na Pratica,IA Generativa,2025-06-27,2025-07-17,Concluido,66.0,3.5
+TR000434,C02-E0084,C02,Automatizacao de Tarefas com IA,Produtividade,2026-02-13,2026-04-03,Concluido,63.0,2.3
+TR000435,C02-E0058,C02,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-12-02,,Nao Iniciado,,1.8
+TR000436,C02-E0068,C02,IA Responsavel: Vieses e Limitacoes,Governanca,2026-04-26,,Abandonado,,1.5
+TR000437,C02-E0106,C02,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-06-10,2025-07-03,Concluido,62.0,1.7
+TR000438,C02-E0075,C02,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-07-03,,Em Andamento,,2.2
+TR000439,C02-E0078,C02,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-01-25,2026-02-28,Concluido,100.0,4.2
+TR000440,C02-E0030,C02,Analise de Dados com IA,Dados e Analytics,2026-07-05,,Nao Iniciado,,4.1
+TR000441,C02-E0030,C02,Automatizacao de Tarefas com IA,Produtividade,2026-01-31,,Em Andamento,,2.8
+TR000442,C02-E0030,C02,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-08-17,2025-09-17,Concluido,98.0,1.8
+TR000443,C02-E0019,C02,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-07-08,2025-07-19,Concluido,71.0,1.1
+TR000444,C02-E0019,C02,IA para Times Comerciais,Aplicacoes de Negocio,2025-09-25,2025-11-11,Concluido,88.0,1.5
+TR000445,C02-E0051,C02,Fundamentos de IA Generativa,IA Generativa,2026-02-03,,Nao Iniciado,,1.8
+TR000446,C02-E0051,C02,IA para Times Comerciais,Aplicacoes de Negocio,2026-07-28,2026-08-10,Concluido,95.0,1.6
+TR000447,C02-E0051,C02,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-07-29,,Em Andamento,,1.9
+TR000448,C02-E0098,C02,Etica e Governanca de Dados em IA,Governanca,2026-05-27,,Abandonado,,2.0
+TR000449,C02-E0062,C02,Analise de Dados com IA,Dados e Analytics,2025-10-10,2025-11-23,Concluido,76.0,4.4
+TR000450,C02-E0097,C02,Analise de Dados com IA,Dados e Analytics,2025-06-07,,Nao Iniciado,,3.5
+TR000451,C02-E0060,C02,IA para Times Comerciais,Aplicacoes de Negocio,2026-06-26,,Abandonado,,1.7
+TR000452,C02-E0089,C02,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-07,2026-01-07,Concluido,57.0,3.8
+TR000453,C02-E0063,C02,Fundamentos de IA Generativa,IA Generativa,2026-05-24,,Abandonado,,1.9
+TR000454,C02-E0063,C02,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-09,,Em Andamento,,2.0
+TR000455,C02-E0049,C02,IA Responsavel: Vieses e Limitacoes,Governanca,2025-10-23,2025-11-12,Concluido,90.0,1.8
+TR000456,C02-E0037,C02,IA Responsavel: Vieses e Limitacoes,Governanca,2026-07-14,,Em Andamento,,1.6
+TR000457,C02-E0037,C02,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-12-08,2025-12-26,Concluido,96.0,1.5
+TR000458,C02-E0001,C02,IA para Times Comerciais,Aplicacoes de Negocio,2026-07-25,2026-08-10,Concluido,60.0,1.7
+TR000459,C02-E0027,C02,IA para Times Comerciais,Aplicacoes de Negocio,2025-06-08,,Nao Iniciado,,1.3
+TR000460,C02-E0074,C02,IA Responsavel: Vieses e Limitacoes,Governanca,2026-02-27,2026-03-30,Concluido,94.0,1.5
+TR000461,C02-E0100,C02,Prompt Engineering na Pratica,IA Generativa,2026-06-23,2026-07-19,Concluido,82.0,3.2
+TR000462,C02-E0100,C02,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-01,,Nao Iniciado,,1.8
+TR000463,C02-E0046,C02,Automatizacao de Tarefas com IA,Produtividade,2026-02-08,2026-02-14,Concluido,94.0,2.7
+TR000464,C02-E0007,C02,Prompt Engineering na Pratica,IA Generativa,2025-09-08,,Em Andamento,,3.1
+TR000465,C02-E0009,C02,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-22,2026-03-31,Concluido,80.0,1.7
+TR000466,C02-E0113,C02,Fundamentos de IA Generativa,IA Generativa,2025-11-30,2026-01-28,Concluido,98.0,1.8
+TR000467,C02-E0040,C02,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-02-25,,Nao Iniciado,,1.1
+TR000468,C02-E0040,C02,Analise de Dados com IA,Dados e Analytics,2025-09-11,2025-10-09,Concluido,95.0,4.6
+TR000469,C02-E0118,C02,Etica e Governanca de Dados em IA,Governanca,2026-05-29,,Nao Iniciado,,1.7
+TR000470,C02-E0105,C02,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-02-21,2026-02-28,Concluido,61.0,3.4
+TR000471,C02-E0105,C02,Analise de Dados com IA,Dados e Analytics,2025-10-05,,Abandonado,,3.9
+TR000472,C02-E0003,C02,Analise de Dados com IA,Dados e Analytics,2026-04-12,,Em Andamento,,3.6
+TR000473,C02-E0003,C02,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-28,2026-05-03,Concluido,93.0,1.5
+TR000474,C02-E0065,C02,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-10-22,2025-12-12,Concluido,77.0,2.3
+TR000475,C02-E0012,C02,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-05-01,2026-06-22,Concluido,82.0,1.6
+TR000476,C03-E0016,C03,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-10-16,,Em Andamento,,2.3
+TR000477,C03-E0033,C03,Automatizacao de Tarefas com IA,Produtividade,2026-07-04,2026-07-30,Concluido,92.0,2.9
+TR000478,C03-E0033,C03,IA Responsavel: Vieses e Limitacoes,Governanca,2025-08-16,2025-10-08,Concluido,57.0,1.7
+TR000479,C03-E0027,C03,Etica e Governanca de Dados em IA,Governanca,2025-06-10,,Em Andamento,,2.1
+TR000480,C03-E0027,C03,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-09-02,,Nao Iniciado,,1.4
+TR000481,C03-E0004,C03,Analise de Dados com IA,Dados e Analytics,2026-06-03,2026-07-24,Concluido,58.0,4.5
+TR000482,C03-E0035,C03,Prompt Engineering na Pratica,IA Generativa,2025-08-18,2025-08-30,Concluido,88.0,2.9
+TR000483,C03-E0002,C03,Analise de Dados com IA,Dados e Analytics,2026-03-14,2026-04-11,Concluido,88.0,4.6
+TR000484,C03-E0015,C03,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-14,,Nao Iniciado,,2.2
+TR000485,C03-E0015,C03,IA Responsavel: Vieses e Limitacoes,Governanca,2025-08-11,,Em Andamento,,1.3
+TR000486,C03-E0006,C03,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-11-06,,Nao Iniciado,,3.7
+TR000487,C03-E0006,C03,Etica e Governanca de Dados em IA,Governanca,2025-12-15,2025-12-18,Concluido,72.0,2.2
+TR000488,C03-E0025,C03,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-09-06,,Nao Iniciado,,1.6
+TR000489,C03-E0030,C03,Automatizacao de Tarefas com IA,Produtividade,2026-01-11,,Nao Iniciado,,2.4
+TR000490,C03-E0028,C03,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-05,2025-12-29,Concluido,80.0,4.5
+TR000491,C03-E0031,C03,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-29,2026-03-19,Concluido,87.0,0.9
+TR000492,C03-E0017,C03,IA Responsavel: Vieses e Limitacoes,Governanca,2026-01-02,,Abandonado,,1.7
+TR000493,C03-E0009,C03,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-02-28,2026-03-09,Concluido,86.0,2.2
+TR000494,C03-E0003,C03,Fundamentos de IA Generativa,IA Generativa,2025-09-26,2025-11-07,Concluido,79.0,2.2
+TR000495,C03-E0001,C03,Analise de Dados com IA,Dados e Analytics,2025-12-03,,Nao Iniciado,,3.6
+TR000496,C03-E0001,C03,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-21,,Abandonado,,1.3
+TR000497,C03-E0019,C03,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-03-18,2026-03-26,Concluido,57.0,2.4
+TR000498,C03-E0019,C03,Automatizacao de Tarefas com IA,Produtividade,2026-01-15,2026-03-12,Concluido,70.0,2.5
+TR000499,C03-E0019,C03,Etica e Governanca de Dados em IA,Governanca,2026-02-01,,Nao Iniciado,,2.1
+TR000500,C04-E0035,C04,Etica e Governanca de Dados em IA,Governanca,2026-03-21,2026-04-06,Concluido,66.0,2.3
+TR000501,C04-E0035,C04,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-09-15,,Nao Iniciado,,1.9
+TR000502,C04-E0035,C04,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-08-19,,Em Andamento,,2.3
+TR000503,C04-E0013,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2026-01-15,,Em Andamento,,1.3
+TR000504,C04-E0099,C04,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-16,2026-01-25,Concluido,73.0,1.1
+TR000505,C04-E0099,C04,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-21,2025-06-27,Concluido,67.0,2.4
+TR000506,C04-E0099,C04,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-09-09,,Nao Iniciado,,4.0
+TR000507,C04-E0033,C04,Etica e Governanca de Dados em IA,Governanca,2025-06-29,,Nao Iniciado,,1.8
+TR000508,C04-E0033,C04,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-02-14,2026-03-21,Concluido,94.0,1.9
+TR000509,C04-E0015,C04,Fundamentos de IA Generativa,IA Generativa,2026-07-17,,Em Andamento,,2.1
+TR000510,C04-E0095,C04,Etica e Governanca de Dados em IA,Governanca,2025-06-14,2025-06-21,Concluido,99.0,2.1
+TR000511,C04-E0014,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2026-06-08,2026-07-16,Concluido,98.0,1.6
+TR000512,C04-E0089,C04,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-07-14,,Nao Iniciado,,4.5
+TR000513,C04-E0089,C04,Prompt Engineering na Pratica,IA Generativa,2025-09-14,2025-10-19,Concluido,100.0,3.1
+TR000514,C04-E0089,C04,Analise de Dados com IA,Dados e Analytics,2026-01-09,2026-01-28,Concluido,84.0,3.6
+TR000515,C04-E0072,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2025-09-07,2025-10-20,Concluido,67.0,1.5
+TR000516,C04-E0062,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-08,2025-07-16,Concluido,63.0,1.6
+TR000517,C04-E0071,C04,Analise de Dados com IA,Dados e Analytics,2026-03-14,2026-04-14,Concluido,57.0,4.1
+TR000518,C04-E0098,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2026-07-26,2026-08-10,Concluido,62.0,1.4
+TR000519,C04-E0036,C04,Fundamentos de IA Generativa,IA Generativa,2025-12-17,2026-01-23,Concluido,81.0,2.3
+TR000520,C04-E0029,C04,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-02-20,,Em Andamento,,1.8
+TR000521,C04-E0102,C04,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-04-30,2026-05-31,Concluido,66.0,1.9
+TR000522,C04-E0102,C04,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-02-23,,Nao Iniciado,,1.2
+TR000523,C04-E0102,C04,Etica e Governanca de Dados em IA,Governanca,2026-04-29,,Em Andamento,,2.1
+TR000524,C04-E0001,C04,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-09-27,,Abandonado,,3.7
+TR000525,C04-E0001,C04,Analise de Dados com IA,Dados e Analytics,2025-10-20,,Abandonado,,3.7
+TR000526,C04-E0037,C04,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-11-12,2025-11-17,Concluido,86.0,2.1
+TR000527,C04-E0037,C04,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-07-11,2025-08-30,Concluido,66.0,1.7
+TR000528,C04-E0037,C04,Automatizacao de Tarefas com IA,Produtividade,2025-09-19,,Em Andamento,,2.3
+TR000529,C04-E0092,C04,Prompt Engineering na Pratica,IA Generativa,2026-03-04,2026-03-19,Concluido,66.0,2.9
+TR000530,C04-E0006,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2025-08-19,,Nao Iniciado,,1.4
+TR000531,C04-E0065,C04,Prompt Engineering na Pratica,IA Generativa,2025-07-12,,Abandonado,,3.0
+TR000532,C04-E0065,C04,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-19,2025-12-31,Concluido,60.0,1.8
+TR000533,C04-E0083,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2026-05-07,,Abandonado,,1.3
+TR000534,C04-E0003,C04,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-14,,Em Andamento,,2.1
+TR000535,C04-E0003,C04,Fundamentos de IA Generativa,IA Generativa,2025-09-24,2025-11-18,Concluido,81.0,2.3
+TR000536,C04-E0077,C04,Fundamentos de IA Generativa,IA Generativa,2025-09-18,,Abandonado,,2.3
+TR000537,C04-E0077,C04,Automatizacao de Tarefas com IA,Produtividade,2025-11-24,2025-12-29,Concluido,66.0,2.2
+TR000538,C04-E0007,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2026-01-08,,Em Andamento,,1.5
+TR000539,C04-E0007,C04,IA para Times Comerciais,Aplicacoes de Negocio,2026-06-21,,Nao Iniciado,,1.7
+TR000540,C04-E0007,C04,Prompt Engineering na Pratica,IA Generativa,2026-04-25,,Nao Iniciado,,2.7
+TR000541,C04-E0011,C04,IA para Times Comerciais,Aplicacoes de Negocio,2026-01-22,,Em Andamento,,1.5
+TR000542,C04-E0011,C04,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-04-10,2026-05-17,Concluido,56.0,2.3
+TR000543,C04-E0052,C04,Prompt Engineering na Pratica,IA Generativa,2025-12-26,2026-02-02,Concluido,90.0,3.3
+TR000544,C04-E0052,C04,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-03-11,2026-04-01,Concluido,75.0,1.9
+TR000545,C04-E0105,C04,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-10-04,,Abandonado,,1.1
+TR000546,C04-E0105,C04,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-23,2025-08-12,Concluido,65.0,3.6
+TR000547,C04-E0044,C04,Analise de Dados com IA,Dados e Analytics,2026-02-04,2026-02-09,Concluido,75.0,3.9
+TR000548,C04-E0023,C04,Etica e Governanca de Dados em IA,Governanca,2025-12-06,,Nao Iniciado,,1.7
+TR000549,C04-E0023,C04,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-02-09,2026-03-05,Concluido,81.0,2.2
+TR000550,C04-E0103,C04,Analise de Dados com IA,Dados e Analytics,2026-07-14,,Em Andamento,,4.1
+TR000551,C04-E0041,C04,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-04-27,,Abandonado,,1.2
+TR000552,C04-E0075,C04,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-07-30,2025-08-15,Concluido,87.0,4.4
+TR000553,C04-E0066,C04,Analise de Dados com IA,Dados e Analytics,2025-12-08,2025-12-15,Concluido,71.0,4.8
+TR000554,C04-E0066,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2026-07-22,,Em Andamento,,1.5
+TR000555,C04-E0100,C04,Analise de Dados com IA,Dados e Analytics,2025-10-17,2025-11-20,Concluido,66.0,4.0
+TR000556,C04-E0100,C04,Etica e Governanca de Dados em IA,Governanca,2025-07-01,,Em Andamento,,2.1
+TR000557,C04-E0045,C04,Automatizacao de Tarefas com IA,Produtividade,2026-02-11,2026-03-08,Concluido,94.0,2.7
+TR000558,C04-E0012,C04,Etica e Governanca de Dados em IA,Governanca,2026-03-14,2026-04-09,Concluido,79.0,2.3
+TR000559,C04-E0064,C04,Fundamentos de IA Generativa,IA Generativa,2026-04-12,,Em Andamento,,1.7
+TR000560,C04-E0064,C04,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-09-14,,Abandonado,,2.2
+TR000561,C04-E0064,C04,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-12-12,2026-02-05,Concluido,74.0,1.0
+TR000562,C04-E0005,C04,IA para Times Comerciais,Aplicacoes de Negocio,2026-01-21,,Nao Iniciado,,1.3
+TR000563,C04-E0061,C04,Prompt Engineering na Pratica,IA Generativa,2026-05-14,2026-06-17,Concluido,70.0,3.5
+TR000564,C04-E0061,C04,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-03,,Nao Iniciado,,2.0
+TR000565,C04-E0020,C04,Automatizacao de Tarefas com IA,Produtividade,2026-01-02,2026-02-14,Concluido,67.0,2.5
+TR000566,C04-E0081,C04,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-02-18,,Abandonado,,1.2
+TR000567,C04-E0081,C04,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-09-02,,Em Andamento,,1.9
+TR000568,C04-E0088,C04,Etica e Governanca de Dados em IA,Governanca,2025-12-01,2025-12-23,Concluido,88.0,1.7
+TR000569,C04-E0088,C04,IA para Times Comerciais,Aplicacoes de Negocio,2026-01-21,,Abandonado,,1.4
+TR000570,C04-E0088,C04,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-06-18,2025-07-06,Concluido,61.0,1.4
+TR000571,C04-E0058,C04,Fundamentos de IA Generativa,IA Generativa,2025-12-11,2025-12-18,Concluido,92.0,1.7
+TR000572,C04-E0058,C04,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-01-25,,Abandonado,,2.1
+TR000573,C04-E0058,C04,IA para Times Comerciais,Aplicacoes de Negocio,2025-10-28,2025-11-18,Concluido,91.0,1.7
+TR000574,C04-E0056,C04,Prompt Engineering na Pratica,IA Generativa,2026-07-22,2026-08-10,Concluido,58.0,2.7
+TR000575,C04-E0073,C04,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-11-06,,Nao Iniciado,,1.7
+TR000576,C04-E0024,C04,Fundamentos de IA Generativa,IA Generativa,2025-10-03,2025-11-24,Concluido,61.0,2.3
+TR000577,C04-E0054,C04,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-06,2026-06-24,Concluido,86.0,1.4
+TR000578,C04-E0054,C04,Etica e Governanca de Dados em IA,Governanca,2026-07-06,,Nao Iniciado,,2.0
+TR000579,C04-E0017,C04,Automatizacao de Tarefas com IA,Produtividade,2025-12-10,,Em Andamento,,2.2
+TR000580,C04-E0004,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2025-10-25,2025-11-26,Concluido,86.0,1.5
+TR000581,C04-E0087,C04,Automatizacao de Tarefas com IA,Produtividade,2025-12-11,2025-12-14,Concluido,88.0,2.3
+TR000582,C04-E0034,C04,Etica e Governanca de Dados em IA,Governanca,2026-02-11,,Nao Iniciado,,2.2
+TR000583,C04-E0034,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2026-04-28,,Nao Iniciado,,1.5
+TR000584,C04-E0034,C04,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-03,2025-12-08,Concluido,87.0,4.6
+TR000585,C04-E0090,C04,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-06-18,,Nao Iniciado,,2.3
+TR000586,C04-E0090,C04,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-07-04,,Em Andamento,,1.9
+TR000587,C04-E0090,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2026-07-30,,Abandonado,,1.3
+TR000588,C04-E0078,C04,Automatizacao de Tarefas com IA,Produtividade,2026-06-03,2026-08-02,Concluido,56.0,2.9
+TR000589,C04-E0078,C04,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-11-05,2025-12-17,Concluido,95.0,1.1
+TR000590,C04-E0078,C04,Prompt Engineering na Pratica,IA Generativa,2025-08-06,,Nao Iniciado,,2.6
+TR000591,C04-E0067,C04,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-06-10,,Em Andamento,,1.5
+TR000592,C04-E0042,C04,IA para Times Comerciais,Aplicacoes de Negocio,2026-03-05,2026-04-19,Concluido,74.0,1.8
+TR000593,C04-E0055,C04,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-07-01,,Nao Iniciado,,1.0
+TR000594,C04-E0059,C04,IA Responsavel: Vieses e Limitacoes,Governanca,2025-10-04,2025-10-27,Concluido,93.0,1.6
+TR000595,C04-E0059,C04,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-07-24,2025-07-30,Concluido,89.0,1.2
+TR000596,C04-E0059,C04,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-07-19,,Em Andamento,,2.0
+TR000597,C04-E0050,C04,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-11-30,,Abandonado,,2.2
+TR000598,C04-E0050,C04,Etica e Governanca de Dados em IA,Governanca,2025-08-17,2025-08-31,Concluido,56.0,2.3
+TR000599,C04-E0096,C04,Prompt Engineering na Pratica,IA Generativa,2026-01-26,,Abandonado,,2.9
+TR000600,C05-E0007,C05,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-07-09,,Em Andamento,,1.9
+TR000601,C05-E0021,C05,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-03-21,,Abandonado,,1.7
+TR000602,C05-E0021,C05,Fundamentos de IA Generativa,IA Generativa,2025-08-20,,Nao Iniciado,,1.7
+TR000603,C05-E0017,C05,IA para Times Comerciais,Aplicacoes de Negocio,2026-03-27,2026-04-23,Concluido,56.0,1.6
+TR000604,C05-E0017,C05,Analise de Dados com IA,Dados e Analytics,2025-10-23,,Nao Iniciado,,4.8
+TR000605,C05-E0027,C05,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-02-19,2026-04-03,Concluido,80.0,1.0
+TR000606,C05-E0027,C05,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-07-19,2026-08-10,Concluido,66.0,3.8
+TR000607,C05-E0003,C05,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-09,2026-06-04,Concluido,79.0,4.1
+TR000608,C05-E0003,C05,IA para Times Comerciais,Aplicacoes de Negocio,2026-04-05,,Abandonado,,1.4
+TR000609,C05-E0010,C05,Etica e Governanca de Dados em IA,Governanca,2025-07-27,,Abandonado,,2.0
+TR000610,C05-E0005,C05,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-07-11,,Em Andamento,,1.9
+TR000611,C05-E0005,C05,IA Responsavel: Vieses e Limitacoes,Governanca,2026-02-05,2026-03-03,Concluido,100.0,1.4
+TR000612,C05-E0012,C05,Prompt Engineering na Pratica,IA Generativa,2026-07-09,2026-08-10,Concluido,93.0,2.9
+TR000613,C05-E0012,C05,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-07-27,,Nao Iniciado,,1.2
+TR000614,C05-E0012,C05,IA para Times Comerciais,Aplicacoes de Negocio,2026-03-15,,Em Andamento,,1.8
+TR000615,C05-E0009,C05,IA Responsavel: Vieses e Limitacoes,Governanca,2025-11-08,,Abandonado,,1.4
+TR000616,C05-E0009,C05,Automatizacao de Tarefas com IA,Produtividade,2025-12-07,2026-01-13,Concluido,75.0,2.9
+TR000617,C05-E0002,C05,Prompt Engineering na Pratica,IA Generativa,2026-05-08,2026-05-14,Concluido,87.0,2.6
+TR000618,C05-E0023,C05,Prompt Engineering na Pratica,IA Generativa,2025-06-29,2025-07-04,Concluido,65.0,2.8
+TR000619,C05-E0020,C05,Analise de Dados com IA,Dados e Analytics,2026-02-10,2026-03-25,Concluido,92.0,4.1
+TR000620,C05-E0026,C05,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-07-08,2025-07-22,Concluido,89.0,1.3
+TR000621,C05-E0026,C05,Fundamentos de IA Generativa,IA Generativa,2026-06-26,,Em Andamento,,1.8
+TR000622,C06-E0091,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-09-20,2025-10-18,Concluido,95.0,1.4
+TR000623,C06-E0268,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-21,2026-01-08,Concluido,89.0,4.7
+TR000624,C06-E0268,C06,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-05-23,2026-07-15,Concluido,61.0,1.7
+TR000625,C06-E0121,C06,Analise de Dados com IA,Dados e Analytics,2026-02-06,2026-02-18,Concluido,91.0,3.7
+TR000626,C06-E0121,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-13,2026-06-02,Concluido,88.0,2.4
+TR000627,C06-E0097,C06,Prompt Engineering na Pratica,IA Generativa,2025-06-13,,Abandonado,,3.5
+TR000628,C06-E0097,C06,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-11-02,,Em Andamento,,1.0
+TR000629,C06-E0097,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-06-09,,Em Andamento,,1.8
+TR000630,C06-E0071,C06,Fundamentos de IA Generativa,IA Generativa,2025-09-10,2025-09-17,Concluido,59.0,2.0
+TR000631,C06-E0071,C06,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-08-29,,Nao Iniciado,,1.0
+TR000632,C06-E0324,C06,Etica e Governanca de Dados em IA,Governanca,2026-02-27,2026-03-21,Concluido,79.0,1.7
+TR000633,C06-E0324,C06,Automatizacao de Tarefas com IA,Produtividade,2025-11-08,2025-12-07,Concluido,98.0,2.7
+TR000634,C06-E0173,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-07-04,,Abandonado,,4.7
+TR000635,C06-E0173,C06,Etica e Governanca de Dados em IA,Governanca,2026-01-17,,Em Andamento,,2.3
+TR000636,C06-E0317,C06,Fundamentos de IA Generativa,IA Generativa,2025-08-23,2025-10-22,Concluido,78.0,2.4
+TR000637,C06-E0317,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-24,2025-07-28,Concluido,82.0,1.3
+TR000638,C06-E0352,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-07-03,2025-08-09,Concluido,98.0,4.3
+TR000639,C06-E0306,C06,Prompt Engineering na Pratica,IA Generativa,2025-12-10,2025-12-15,Concluido,84.0,2.6
+TR000640,C06-E0301,C06,Automatizacao de Tarefas com IA,Produtividade,2025-11-17,,Abandonado,,2.4
+TR000641,C06-E0302,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-07-31,2026-08-10,Concluido,59.0,2.1
+TR000642,C06-E0305,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-15,2026-02-02,Concluido,67.0,1.7
+TR000643,C06-E0333,C06,Prompt Engineering na Pratica,IA Generativa,2025-09-16,,Nao Iniciado,,3.3
+TR000644,C06-E0333,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-14,2025-08-21,Concluido,87.0,1.4
+TR000645,C06-E0113,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-12-10,,Em Andamento,,1.7
+TR000646,C06-E0284,C06,Prompt Engineering na Pratica,IA Generativa,2026-01-17,2026-02-24,Concluido,81.0,3.3
+TR000647,C06-E0282,C06,IA para Times Comerciais,Aplicacoes de Negocio,2026-05-03,,Em Andamento,,1.7
+TR000648,C06-E0282,C06,Analise de Dados com IA,Dados e Analytics,2026-07-09,2026-08-10,Concluido,90.0,4.2
+TR000649,C06-E0017,C06,Automatizacao de Tarefas com IA,Produtividade,2025-08-03,2025-09-27,Concluido,89.0,2.6
+TR000650,C06-E0017,C06,Etica e Governanca de Dados em IA,Governanca,2026-02-03,,Nao Iniciado,,1.9
+TR000651,C06-E0056,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-09-20,2025-11-15,Concluido,85.0,4.6
+TR000652,C06-E0056,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-12-16,,Nao Iniciado,,1.8
+TR000653,C06-E0291,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-27,,Em Andamento,,4.3
+TR000654,C06-E0082,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-12-19,2026-01-21,Concluido,59.0,2.4
+TR000655,C06-E0082,C06,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-09-13,,Em Andamento,,1.1
+TR000656,C06-E0025,C06,Analise de Dados com IA,Dados e Analytics,2025-07-12,2025-07-23,Concluido,63.0,4.1
+TR000657,C06-E0037,C06,Analise de Dados com IA,Dados e Analytics,2026-06-30,2026-08-10,Concluido,77.0,4.1
+TR000658,C06-E0037,C06,Prompt Engineering na Pratica,IA Generativa,2026-07-04,2026-07-11,Concluido,70.0,3.2
+TR000659,C06-E0341,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-07-01,2026-08-10,Concluido,72.0,4.3
+TR000660,C06-E0013,C06,Prompt Engineering na Pratica,IA Generativa,2025-06-08,2025-06-22,Concluido,87.0,3.3
+TR000661,C06-E0298,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-07-05,2026-07-28,Concluido,72.0,4.7
+TR000662,C06-E0225,C06,Prompt Engineering na Pratica,IA Generativa,2025-12-09,2025-12-26,Concluido,87.0,3.6
+TR000663,C06-E0225,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-09-23,,Em Andamento,,1.9
+TR000664,C06-E0225,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-07-20,2025-08-08,Concluido,61.0,1.9
+TR000665,C06-E0248,C06,Automatizacao de Tarefas com IA,Produtividade,2025-10-06,2025-10-22,Concluido,75.0,2.9
+TR000666,C06-E0219,C06,Automatizacao de Tarefas com IA,Produtividade,2026-03-25,,Em Andamento,,2.6
+TR000667,C06-E0250,C06,Analise de Dados com IA,Dados e Analytics,2026-07-13,2026-08-10,Concluido,75.0,4.1
+TR000668,C06-E0149,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-09-18,2025-09-26,Concluido,69.0,1.6
+TR000669,C06-E0130,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2026-03-15,,Abandonado,,1.4
+TR000670,C06-E0316,C06,IA para Times Comerciais,Aplicacoes de Negocio,2026-06-28,,Em Andamento,,1.4
+TR000671,C06-E0090,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-11-15,2025-12-30,Concluido,91.0,1.7
+TR000672,C06-E0090,C06,IA para Times Comerciais,Aplicacoes de Negocio,2025-07-12,2025-08-01,Concluido,71.0,1.4
+TR000673,C06-E0355,C06,Prompt Engineering na Pratica,IA Generativa,2026-06-02,2026-07-19,Concluido,74.0,3.0
+TR000674,C06-E0281,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-23,,Abandonado,,1.6
+TR000675,C06-E0256,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-03-11,2026-04-25,Concluido,87.0,3.8
+TR000676,C06-E0256,C06,Automatizacao de Tarefas com IA,Produtividade,2025-11-22,2025-12-13,Concluido,88.0,2.5
+TR000677,C06-E0126,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-06-12,2025-07-08,Concluido,81.0,1.9
+TR000678,C06-E0126,C06,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-06-13,2025-07-11,Concluido,90.0,1.0
+TR000679,C06-E0126,C06,Etica e Governanca de Dados em IA,Governanca,2026-04-28,2026-05-20,Concluido,70.0,1.9
+TR000680,C06-E0001,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-10-14,,Abandonado,,1.3
+TR000681,C06-E0205,C06,IA para Times Comerciais,Aplicacoes de Negocio,2025-11-28,,Abandonado,,1.8
+TR000682,C06-E0274,C06,Prompt Engineering na Pratica,IA Generativa,2026-03-11,2026-03-21,Concluido,56.0,3.1
+TR000683,C06-E0049,C06,IA para Times Comerciais,Aplicacoes de Negocio,2025-11-26,,Abandonado,,1.4
+TR000684,C06-E0101,C06,Analise de Dados com IA,Dados e Analytics,2025-07-12,,Abandonado,,3.6
+TR000685,C06-E0258,C06,Fundamentos de IA Generativa,IA Generativa,2025-10-30,2025-11-25,Concluido,67.0,1.9
+TR000686,C06-E0290,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-08-09,,Nao Iniciado,,1.5
+TR000687,C06-E0290,C06,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-23,2026-03-27,Concluido,66.0,1.7
+TR000688,C06-E0185,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-16,2026-06-15,Concluido,65.0,4.1
+TR000689,C06-E0109,C06,Fundamentos de IA Generativa,IA Generativa,2025-10-16,2025-12-06,Concluido,60.0,2.2
+TR000690,C06-E0109,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-11-13,2025-12-11,Concluido,56.0,2.2
+TR000691,C06-E0136,C06,Fundamentos de IA Generativa,IA Generativa,2026-03-20,2026-04-27,Concluido,90.0,1.7
+TR000692,C06-E0136,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-12-07,,Nao Iniciado,,2.1
+TR000693,C06-E0098,C06,Fundamentos de IA Generativa,IA Generativa,2025-06-22,,Em Andamento,,1.9
+TR000694,C06-E0098,C06,Etica e Governanca de Dados em IA,Governanca,2025-09-24,2025-10-18,Concluido,64.0,2.0
+TR000695,C06-E0329,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-10-21,,Nao Iniciado,,1.9
+TR000696,C06-E0329,C06,Etica e Governanca de Dados em IA,Governanca,2025-12-13,,Nao Iniciado,,1.9
+TR000697,C06-E0253,C06,Etica e Governanca de Dados em IA,Governanca,2025-06-06,2025-07-21,Concluido,64.0,2.2
+TR000698,C06-E0244,C06,Automatizacao de Tarefas com IA,Produtividade,2025-12-19,,Nao Iniciado,,2.2
+TR000699,C06-E0285,C06,Prompt Engineering na Pratica,IA Generativa,2025-09-10,2025-10-28,Concluido,75.0,2.8
+TR000700,C06-E0287,C06,Fundamentos de IA Generativa,IA Generativa,2025-11-18,2026-01-08,Concluido,77.0,2.1
+TR000701,C06-E0287,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-09-29,2025-11-19,Concluido,86.0,1.4
+TR000702,C06-E0289,C06,Analise de Dados com IA,Dados e Analytics,2026-05-04,2026-05-22,Concluido,69.0,4.0
+TR000703,C06-E0354,C06,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-04-07,,Nao Iniciado,,1.5
+TR000704,C06-E0354,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-08-02,,Em Andamento,,4.7
+TR000705,C06-E0263,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-03-22,,Abandonado,,2.2
+TR000706,C06-E0320,C06,Analise de Dados com IA,Dados e Analytics,2025-09-17,2025-11-14,Concluido,79.0,4.2
+TR000707,C06-E0133,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-11-28,2026-01-03,Concluido,91.0,3.5
+TR000708,C06-E0133,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-08-21,2025-09-29,Concluido,83.0,1.9
+TR000709,C06-E0133,C06,IA para Times Comerciais,Aplicacoes de Negocio,2026-06-08,,Abandonado,,1.8
+TR000710,C06-E0140,C06,Etica e Governanca de Dados em IA,Governanca,2026-01-20,2026-02-19,Concluido,65.0,2.3
+TR000711,C06-E0170,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2026-05-26,2026-07-22,Concluido,91.0,1.3
+TR000712,C06-E0338,C06,Prompt Engineering na Pratica,IA Generativa,2026-07-02,,Em Andamento,,3.3
+TR000713,C06-E0338,C06,Etica e Governanca de Dados em IA,Governanca,2025-10-08,2025-10-23,Concluido,64.0,1.7
+TR000714,C06-E0338,C06,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-01-12,,Abandonado,,1.6
+TR000715,C06-E0188,C06,Automatizacao de Tarefas com IA,Produtividade,2026-01-05,2026-02-17,Concluido,94.0,3.0
+TR000716,C06-E0188,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-09-02,2025-10-07,Concluido,66.0,1.9
+TR000717,C06-E0280,C06,Etica e Governanca de Dados em IA,Governanca,2026-04-21,2026-05-12,Concluido,74.0,1.8
+TR000718,C06-E0280,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-11-27,2026-01-12,Concluido,84.0,2.3
+TR000719,C06-E0279,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-03-06,,Abandonado,,1.9
+TR000720,C06-E0279,C06,Automatizacao de Tarefas com IA,Produtividade,2026-07-01,2026-08-10,Concluido,65.0,2.2
+TR000721,C06-E0026,C06,Automatizacao de Tarefas com IA,Produtividade,2026-06-12,2026-06-19,Concluido,78.0,2.9
+TR000722,C06-E0026,C06,IA para Times Comerciais,Aplicacoes de Negocio,2026-07-11,2026-07-28,Concluido,75.0,1.3
+TR000723,C06-E0286,C06,Fundamentos de IA Generativa,IA Generativa,2025-06-08,,Nao Iniciado,,2.3
+TR000724,C06-E0286,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-03-31,,Em Andamento,,1.7
+TR000725,C06-E0286,C06,IA para Times Comerciais,Aplicacoes de Negocio,2025-08-07,2025-10-01,Concluido,71.0,1.7
+TR000726,C06-E0336,C06,IA para Times Comerciais,Aplicacoes de Negocio,2026-01-29,,Em Andamento,,1.4
+TR000727,C06-E0042,C06,Prompt Engineering na Pratica,IA Generativa,2025-10-13,2025-11-05,Concluido,88.0,3.3
+TR000728,C06-E0042,C06,IA para Times Comerciais,Aplicacoes de Negocio,2025-10-31,,Abandonado,,1.5
+TR000729,C06-E0347,C06,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-05-13,,Nao Iniciado,,1.3
+TR000730,C06-E0034,C06,Fundamentos de IA Generativa,IA Generativa,2025-09-08,2025-11-01,Concluido,82.0,1.9
+TR000731,C06-E0034,C06,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-10-06,,Abandonado,,1.8
+TR000732,C06-E0229,C06,Prompt Engineering na Pratica,IA Generativa,2026-06-24,2026-07-21,Concluido,89.0,3.3
+TR000733,C06-E0138,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-07-08,2026-08-07,Concluido,70.0,1.9
+TR000734,C06-E0138,C06,IA para Times Comerciais,Aplicacoes de Negocio,2026-04-06,2026-04-21,Concluido,84.0,1.3
+TR000735,C06-E0351,C06,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-07-06,2026-07-16,Concluido,65.0,1.0
+TR000736,C06-E0299,C06,Analise de Dados com IA,Dados e Analytics,2025-06-20,,Nao Iniciado,,4.6
+TR000737,C06-E0053,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2026-06-22,2026-07-25,Concluido,55.0,1.8
+TR000738,C06-E0143,C06,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-02-05,,Em Andamento,,1.3
+TR000739,C06-E0143,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-20,,Em Andamento,,3.6
+TR000740,C06-E0143,C06,Analise de Dados com IA,Dados e Analytics,2026-06-24,2026-07-09,Concluido,70.0,3.7
+TR000741,C06-E0117,C06,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-10-05,2025-10-10,Concluido,92.0,1.6
+TR000742,C06-E0117,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-03-07,2026-03-15,Concluido,81.0,2.3
+TR000743,C06-E0240,C06,Automatizacao de Tarefas com IA,Produtividade,2025-10-23,,Nao Iniciado,,2.6
+TR000744,C06-E0014,C06,Fundamentos de IA Generativa,IA Generativa,2026-03-15,2026-03-20,Concluido,97.0,1.9
+TR000745,C06-E0014,C06,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-19,2026-04-23,Concluido,57.0,1.3
+TR000746,C06-E0132,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-08-21,2025-10-09,Concluido,81.0,2.1
+TR000747,C06-E0132,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-04,,Abandonado,,2.3
+TR000748,C06-E0058,C06,Prompt Engineering na Pratica,IA Generativa,2025-12-11,,Nao Iniciado,,3.1
+TR000749,C06-E0152,C06,Prompt Engineering na Pratica,IA Generativa,2026-03-25,,Em Andamento,,3.5
+TR000750,C06-E0272,C06,IA para Times Comerciais,Aplicacoes de Negocio,2025-11-28,2026-01-07,Concluido,63.0,1.5
+TR000751,C06-E0115,C06,Automatizacao de Tarefas com IA,Produtividade,2025-08-18,2025-10-06,Concluido,60.0,2.9
+TR000752,C06-E0115,C06,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-11,2026-03-01,Concluido,69.0,0.9
+TR000753,C06-E0103,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2026-07-15,2026-08-10,Concluido,66.0,1.4
+TR000754,C06-E0104,C06,Automatizacao de Tarefas com IA,Produtividade,2025-12-23,2026-01-29,Concluido,65.0,2.8
+TR000755,C06-E0079,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-09,2025-07-31,Concluido,59.0,4.7
+TR000756,C06-E0079,C06,Analise de Dados com IA,Dados e Analytics,2025-09-11,,Em Andamento,,3.7
+TR000757,C06-E0052,C06,IA para Times Comerciais,Aplicacoes de Negocio,2025-12-12,,Em Andamento,,1.6
+TR000758,C06-E0203,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-08-26,2025-10-09,Concluido,79.0,1.7
+TR000759,C06-E0203,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-12-03,2026-01-13,Concluido,78.0,1.9
+TR000760,C06-E0178,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-04-20,,Abandonado,,4.0
+TR000761,C06-E0093,C06,Automatizacao de Tarefas com IA,Produtividade,2026-07-24,2026-08-09,Concluido,66.0,2.9
+TR000762,C06-E0201,C06,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-12-14,2026-02-03,Concluido,87.0,1.1
+TR000763,C06-E0157,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-01,2025-07-28,Concluido,69.0,2.4
+TR000764,C06-E0033,C06,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-11-08,2025-12-22,Concluido,82.0,1.0
+TR000765,C06-E0033,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-18,2026-05-31,Concluido,99.0,3.7
+TR000766,C06-E0010,C06,Automatizacao de Tarefas com IA,Produtividade,2025-06-24,,Em Andamento,,3.0
+TR000767,C06-E0019,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-08-06,2025-08-21,Concluido,77.0,2.2
+TR000768,C06-E0233,C06,Automatizacao de Tarefas com IA,Produtividade,2026-03-25,2026-04-11,Concluido,98.0,2.3
+TR000769,C06-E0233,C06,Fundamentos de IA Generativa,IA Generativa,2025-07-25,2025-09-03,Concluido,72.0,2.3
+TR000770,C06-E0175,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-01-12,2026-01-15,Concluido,62.0,2.3
+TR000771,C06-E0061,C06,Automatizacao de Tarefas com IA,Produtividade,2026-02-24,2026-04-04,Concluido,69.0,3.0
+TR000772,C06-E0061,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2026-03-09,2026-04-24,Concluido,56.0,1.3
+TR000773,C06-E0237,C06,Fundamentos de IA Generativa,IA Generativa,2025-06-27,2025-08-20,Concluido,62.0,2.3
+TR000774,C06-E0237,C06,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-09-27,2025-10-06,Concluido,89.0,1.5
+TR000775,C06-E0005,C06,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-09-04,2025-10-14,Concluido,76.0,1.0
+TR000776,C06-E0005,C06,Automatizacao de Tarefas com IA,Produtividade,2025-07-06,,Abandonado,,2.3
+TR000777,C06-E0005,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-09-30,2025-10-23,Concluido,72.0,1.5
+TR000778,C06-E0167,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-12-31,,Em Andamento,,1.9
+TR000779,C06-E0348,C06,Prompt Engineering na Pratica,IA Generativa,2026-01-23,2026-02-08,Concluido,77.0,3.3
+TR000780,C06-E0211,C06,Prompt Engineering na Pratica,IA Generativa,2026-07-16,2026-07-27,Concluido,57.0,2.9
+TR000781,C06-E0028,C06,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-30,,Nao Iniciado,,1.3
+TR000782,C06-E0023,C06,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-07-02,2026-07-18,Concluido,86.0,1.8
+TR000783,C06-E0100,C06,Automatizacao de Tarefas com IA,Produtividade,2025-06-27,,Nao Iniciado,,2.8
+TR000784,C06-E0100,C06,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-12-31,2026-01-19,Concluido,98.0,1.1
+TR000785,C06-E0234,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-26,2026-03-13,Concluido,94.0,2.0
+TR000786,C06-E0078,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-17,,Nao Iniciado,,2.0
+TR000787,C06-E0078,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-11-22,,Em Andamento,,1.5
+TR000788,C06-E0114,C06,Prompt Engineering na Pratica,IA Generativa,2026-01-02,2026-02-23,Concluido,70.0,3.3
+TR000789,C06-E0114,C06,Etica e Governanca de Dados em IA,Governanca,2026-06-26,2026-07-25,Concluido,93.0,2.4
+TR000790,C06-E0002,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-06-01,,Abandonado,,1.6
+TR000791,C06-E0322,C06,Prompt Engineering na Pratica,IA Generativa,2026-02-16,2026-03-18,Concluido,56.0,2.7
+TR000792,C06-E0275,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-12-03,2026-01-16,Concluido,73.0,2.0
+TR000793,C06-E0031,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-29,2025-08-14,Concluido,90.0,2.0
+TR000794,C06-E0223,C06,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-12,,Abandonado,,1.8
+TR000795,C06-E0223,C06,Automatizacao de Tarefas com IA,Produtividade,2025-10-14,,Abandonado,,2.8
+TR000796,C06-E0055,C06,Fundamentos de IA Generativa,IA Generativa,2025-11-21,,Nao Iniciado,,1.9
+TR000797,C06-E0055,C06,Automatizacao de Tarefas com IA,Produtividade,2025-09-14,2025-09-22,Concluido,89.0,2.5
+TR000798,C06-E0171,C06,Automatizacao de Tarefas com IA,Produtividade,2026-04-29,2026-05-25,Concluido,72.0,2.9
+TR000799,C06-E0123,C06,Etica e Governanca de Dados em IA,Governanca,2026-07-20,,Em Andamento,,2.0
+TR000800,C06-E0228,C06,Automatizacao de Tarefas com IA,Produtividade,2025-11-16,2025-11-29,Concluido,60.0,2.2
+TR000801,C06-E0150,C06,Prompt Engineering na Pratica,IA Generativa,2025-09-04,2025-10-22,Concluido,70.0,3.2
+TR000802,C06-E0168,C06,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-02-03,2026-03-27,Concluido,56.0,2.2
+TR000803,C06-E0241,C06,IA para Times Comerciais,Aplicacoes de Negocio,2025-07-06,,Nao Iniciado,,1.5
+TR000804,C06-E0241,C06,IA Responsavel: Vieses e Limitacoes,Governanca,2025-08-09,2025-08-15,Concluido,81.0,1.5
+TR000805,C06-E0241,C06,Fundamentos de IA Generativa,IA Generativa,2026-03-29,2026-04-23,Concluido,86.0,2.3
+TR000806,C06-E0008,C06,Prompt Engineering na Pratica,IA Generativa,2025-07-29,,Em Andamento,,2.7
+TR000807,C06-E0008,C06,Etica e Governanca de Dados em IA,Governanca,2026-02-12,2026-04-07,Concluido,85.0,2.0
+TR000808,C06-E0127,C06,Fundamentos de IA Generativa,IA Generativa,2026-06-23,,Nao Iniciado,,1.8
+TR000809,C06-E0072,C06,Automatizacao de Tarefas com IA,Produtividade,2025-09-07,2025-10-03,Concluido,63.0,2.4
+TR000810,C06-E0072,C06,Etica e Governanca de Dados em IA,Governanca,2026-06-09,2026-07-09,Concluido,76.0,2.0
+TR000811,C06-E0295,C06,Etica e Governanca de Dados em IA,Governanca,2026-06-04,,Abandonado,,2.1
+TR000812,C06-E0303,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-02-24,2026-04-23,Concluido,90.0,3.5
+TR000813,C06-E0183,C06,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-03-26,,Em Andamento,,4.6
+TR000814,C06-E0029,C06,Fundamentos de IA Generativa,IA Generativa,2026-04-11,,Nao Iniciado,,2.0
+TR000815,C06-E0029,C06,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-07-04,2026-07-20,Concluido,98.0,2.0
+TR000816,C07-E0019,C07,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-01,2026-05-23,Concluido,57.0,4.0
+TR000817,C07-E0019,C07,Fundamentos de IA Generativa,IA Generativa,2025-09-23,,Nao Iniciado,,2.0
+TR000818,C07-E0072,C07,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-02-16,2026-03-16,Concluido,93.0,2.0
+TR000819,C07-E0073,C07,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-03-17,,Nao Iniciado,,3.7
+TR000820,C07-E0027,C07,Automatizacao de Tarefas com IA,Produtividade,2025-11-30,,Nao Iniciado,,2.9
+TR000821,C07-E0055,C07,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-08-08,,Abandonado,,3.8
+TR000822,C07-E0001,C07,Automatizacao de Tarefas com IA,Produtividade,2026-03-20,2026-04-04,Concluido,75.0,2.2
+TR000823,C07-E0067,C07,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-01-12,2026-01-22,Concluido,88.0,1.5
+TR000824,C07-E0067,C07,Analise de Dados com IA,Dados e Analytics,2025-07-07,2025-07-15,Concluido,58.0,3.8
+TR000825,C07-E0053,C07,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-10-01,,Nao Iniciado,,1.8
+TR000826,C07-E0059,C07,Etica e Governanca de Dados em IA,Governanca,2026-05-26,2026-07-10,Concluido,75.0,1.9
+TR000827,C07-E0059,C07,Automatizacao de Tarefas com IA,Produtividade,2026-06-12,,Abandonado,,2.8
+TR000828,C07-E0002,C07,Prompt Engineering na Pratica,IA Generativa,2026-03-28,,Nao Iniciado,,3.5
+TR000829,C07-E0054,C07,Automatizacao de Tarefas com IA,Produtividade,2025-06-22,,Nao Iniciado,,2.5
+TR000830,C07-E0054,C07,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-04,2026-02-15,Concluido,57.0,2.0
+TR000831,C07-E0020,C07,Fundamentos de IA Generativa,IA Generativa,2026-04-12,,Em Andamento,,2.3
+TR000832,C07-E0020,C07,Prompt Engineering na Pratica,IA Generativa,2025-08-04,,Nao Iniciado,,2.9
+TR000833,C07-E0025,C07,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-12,2025-06-27,Concluido,87.0,4.0
+TR000834,C07-E0065,C07,Automatizacao de Tarefas com IA,Produtividade,2026-04-12,,Nao Iniciado,,2.6
+TR000835,C07-E0065,C07,Prompt Engineering na Pratica,IA Generativa,2026-04-26,,Em Andamento,,3.0
+TR000836,C07-E0065,C07,Analise de Dados com IA,Dados e Analytics,2026-05-12,2026-06-10,Concluido,71.0,3.8
+TR000837,C07-E0033,C07,Etica e Governanca de Dados em IA,Governanca,2026-06-05,,Nao Iniciado,,2.2
+TR000838,C07-E0033,C07,Automatizacao de Tarefas com IA,Produtividade,2026-02-18,,Abandonado,,2.4
+TR000839,C07-E0064,C07,Fundamentos de IA Generativa,IA Generativa,2025-09-18,,Em Andamento,,2.2
+TR000840,C07-E0060,C07,Automatizacao de Tarefas com IA,Produtividade,2025-12-09,,Em Andamento,,2.6
+TR000841,C07-E0060,C07,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-01-20,2026-01-25,Concluido,99.0,1.7
+TR000842,C07-E0049,C07,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-10-26,,Nao Iniciado,,1.7
+TR000843,C07-E0063,C07,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-07-02,,Nao Iniciado,,1.4
+TR000844,C07-E0063,C07,Fundamentos de IA Generativa,IA Generativa,2025-09-15,,Em Andamento,,1.9
+TR000845,C07-E0046,C07,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-10-03,,Em Andamento,,1.8
+TR000846,C07-E0046,C07,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-07-11,,Abandonado,,4.5
+TR000847,C07-E0050,C07,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-06-17,,Nao Iniciado,,1.9
+TR000848,C07-E0045,C07,Etica e Governanca de Dados em IA,Governanca,2025-06-26,,Nao Iniciado,,2.1
+TR000849,C07-E0036,C07,Fundamentos de IA Generativa,IA Generativa,2025-11-13,2025-12-13,Concluido,83.0,2.3
+TR000850,C07-E0036,C07,Prompt Engineering na Pratica,IA Generativa,2025-09-28,2025-10-21,Concluido,56.0,3.0
+TR000851,C07-E0008,C07,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-04-08,,Nao Iniciado,,1.0
+TR000852,C07-E0035,C07,Fundamentos de IA Generativa,IA Generativa,2025-11-12,,Nao Iniciado,,2.4
+TR000853,C08-E0001,C08,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-28,,Em Andamento,,1.7
+TR000854,C08-E0005,C08,Fundamentos de IA Generativa,IA Generativa,2026-07-14,2026-08-10,Concluido,72.0,2.3
+TR000855,C08-E0020,C08,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-02-05,,Nao Iniciado,,1.0
+TR000856,C08-E0008,C08,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-07-05,2025-08-30,Concluido,69.0,0.9
+TR000857,C08-E0008,C08,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-12-27,2026-01-31,Concluido,96.0,1.8
+TR000858,C08-E0032,C08,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-06-06,2026-07-04,Concluido,88.0,2.0
+TR000859,C08-E0023,C08,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-25,,Em Andamento,,1.1
+TR000860,C08-E0023,C08,Analise de Dados com IA,Dados e Analytics,2025-08-28,,Em Andamento,,3.8
+TR000861,C08-E0040,C08,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-10-28,,Em Andamento,,2.1
+TR000862,C08-E0040,C08,IA Responsavel: Vieses e Limitacoes,Governanca,2025-11-16,2025-12-31,Concluido,73.0,1.3
+TR000863,C08-E0034,C08,Fundamentos de IA Generativa,IA Generativa,2026-05-17,2026-07-05,Concluido,72.0,2.0
+TR000864,C08-E0027,C08,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-07-12,,Abandonado,,1.9
+TR000865,C08-E0027,C08,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-24,2026-01-31,Concluido,100.0,4.4
+TR000866,C08-E0013,C08,Prompt Engineering na Pratica,IA Generativa,2025-12-02,2025-12-25,Concluido,55.0,2.7
+TR000867,C08-E0013,C08,Automatizacao de Tarefas com IA,Produtividade,2025-07-20,2025-09-18,Concluido,56.0,2.3
+TR000868,C08-E0013,C08,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-09-14,2025-10-29,Concluido,78.0,2.4
+TR000869,C08-E0011,C08,Automatizacao de Tarefas com IA,Produtividade,2025-10-30,,Em Andamento,,2.2
+TR000870,C08-E0031,C08,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-04-30,2026-06-14,Concluido,59.0,4.7
+TR000871,C08-E0033,C08,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-05-21,2026-06-06,Concluido,96.0,1.6
+TR000872,C08-E0033,C08,Fundamentos de IA Generativa,IA Generativa,2025-12-29,2026-01-05,Concluido,60.0,1.9
+TR000873,C08-E0035,C08,Etica e Governanca de Dados em IA,Governanca,2025-08-16,2025-09-15,Concluido,90.0,2.2
+TR000874,C08-E0022,C08,Etica e Governanca de Dados em IA,Governanca,2026-05-08,2026-06-01,Concluido,94.0,2.1
+TR000875,C08-E0010,C08,Prompt Engineering na Pratica,IA Generativa,2025-11-04,2025-12-25,Concluido,89.0,2.6
+TR000876,C08-E0010,C08,Etica e Governanca de Dados em IA,Governanca,2025-10-25,2025-11-14,Concluido,96.0,1.8
+TR000877,C09-E0044,C09,Automatizacao de Tarefas com IA,Produtividade,2026-06-21,2026-08-10,Concluido,94.0,2.9
+TR000878,C09-E0089,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-25,2025-07-27,Concluido,65.0,3.7
+TR000879,C09-E0081,C09,Fundamentos de IA Generativa,IA Generativa,2026-02-11,2026-03-20,Concluido,66.0,1.8
+TR000880,C09-E0200,C09,Automatizacao de Tarefas com IA,Produtividade,2025-06-29,,Nao Iniciado,,2.6
+TR000881,C09-E0316,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-04-12,,Em Andamento,,1.9
+TR000882,C09-E0002,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-02-09,,Nao Iniciado,,4.6
+TR000883,C09-E0209,C09,Automatizacao de Tarefas com IA,Produtividade,2026-01-12,2026-01-16,Concluido,69.0,2.2
+TR000884,C09-E0209,C09,Prompt Engineering na Pratica,IA Generativa,2025-11-03,,Abandonado,,3.2
+TR000885,C09-E0021,C09,Automatizacao de Tarefas com IA,Produtividade,2025-08-23,,Em Andamento,,2.5
+TR000886,C09-E0021,C09,Fundamentos de IA Generativa,IA Generativa,2026-07-16,2026-08-10,Concluido,75.0,2.3
+TR000887,C09-E0021,C09,Analise de Dados com IA,Dados e Analytics,2026-06-03,,Nao Iniciado,,3.9
+TR000888,C09-E0153,C09,Automatizacao de Tarefas com IA,Produtividade,2026-07-11,2026-07-17,Concluido,79.0,2.8
+TR000889,C09-E0007,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2025-08-06,,Abandonado,,1.3
+TR000890,C09-E0152,C09,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-11-23,,Em Andamento,,1.6
+TR000891,C09-E0152,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2026-04-24,,Em Andamento,,1.4
+TR000892,C09-E0049,C09,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-07-10,,Nao Iniciado,,1.0
+TR000893,C09-E0116,C09,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-12-28,2026-01-27,Concluido,55.0,1.8
+TR000894,C09-E0116,C09,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-06-28,2025-07-24,Concluido,95.0,1.1
+TR000895,C09-E0022,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-02-06,,Abandonado,,4.5
+TR000896,C09-E0166,C09,Prompt Engineering na Pratica,IA Generativa,2025-06-09,2025-07-08,Concluido,56.0,3.2
+TR000897,C09-E0166,C09,Analise de Dados com IA,Dados e Analytics,2026-06-08,2026-06-19,Concluido,99.0,4.5
+TR000898,C09-E0271,C09,Prompt Engineering na Pratica,IA Generativa,2025-12-13,2026-01-25,Concluido,56.0,3.5
+TR000899,C09-E0015,C09,Automatizacao de Tarefas com IA,Produtividade,2026-04-12,,Nao Iniciado,,2.6
+TR000900,C09-E0328,C09,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-06-24,2026-07-02,Concluido,98.0,0.9
+TR000901,C09-E0196,C09,Fundamentos de IA Generativa,IA Generativa,2026-02-02,2026-03-02,Concluido,82.0,2.4
+TR000902,C09-E0065,C09,Etica e Governanca de Dados em IA,Governanca,2025-07-29,,Em Andamento,,2.3
+TR000903,C09-E0065,C09,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-09-02,2025-09-25,Concluido,69.0,1.7
+TR000904,C09-E0113,C09,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-08-17,,Abandonado,,1.0
+TR000905,C09-E0298,C09,Automatizacao de Tarefas com IA,Produtividade,2025-11-19,2026-01-05,Concluido,71.0,2.3
+TR000906,C09-E0159,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-11-26,2025-12-11,Concluido,68.0,2.2
+TR000907,C09-E0263,C09,Analise de Dados com IA,Dados e Analytics,2025-11-23,2025-12-01,Concluido,68.0,4.1
+TR000908,C09-E0092,C09,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-15,,Abandonado,,1.5
+TR000909,C09-E0092,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-28,2026-06-09,Concluido,85.0,4.1
+TR000910,C09-E0122,C09,Automatizacao de Tarefas com IA,Produtividade,2026-06-09,,Em Andamento,,2.2
+TR000911,C09-E0109,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-01,2025-06-24,Concluido,91.0,3.5
+TR000912,C09-E0109,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-12-06,2026-01-17,Concluido,84.0,1.9
+TR000913,C09-E0109,C09,IA para Times Comerciais,Aplicacoes de Negocio,2025-08-08,,Em Andamento,,1.6
+TR000914,C09-E0251,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-08-24,,Nao Iniciado,,1.8
+TR000915,C09-E0071,C09,Automatizacao de Tarefas com IA,Produtividade,2025-10-01,,Nao Iniciado,,2.6
+TR000916,C09-E0071,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-20,2025-08-12,Concluido,89.0,1.4
+TR000917,C09-E0087,C09,IA para Times Comerciais,Aplicacoes de Negocio,2026-03-02,,Nao Iniciado,,1.4
+TR000918,C09-E0080,C09,IA para Times Comerciais,Aplicacoes de Negocio,2025-10-28,2025-12-25,Concluido,94.0,1.4
+TR000919,C09-E0055,C09,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-07-21,2026-08-10,Concluido,82.0,1.7
+TR000920,C09-E0218,C09,Prompt Engineering na Pratica,IA Generativa,2025-12-19,,Em Andamento,,2.8
+TR000921,C09-E0214,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-01,,Nao Iniciado,,1.5
+TR000922,C09-E0124,C09,Analise de Dados com IA,Dados e Analytics,2025-06-06,2025-07-06,Concluido,99.0,4.2
+TR000923,C09-E0124,C09,Etica e Governanca de Dados em IA,Governanca,2025-06-12,,Em Andamento,,1.9
+TR000924,C09-E0095,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-07-19,,Em Andamento,,4.6
+TR000925,C09-E0192,C09,Etica e Governanca de Dados em IA,Governanca,2025-11-04,2025-12-23,Concluido,89.0,1.9
+TR000926,C09-E0192,C09,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-03-16,2026-03-22,Concluido,75.0,1.0
+TR000927,C09-E0312,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-08-16,,Nao Iniciado,,3.4
+TR000928,C09-E0191,C09,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-02-06,2026-03-18,Concluido,89.0,2.2
+TR000929,C09-E0003,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-08-17,,Em Andamento,,4.1
+TR000930,C09-E0003,C09,IA para Times Comerciais,Aplicacoes de Negocio,2025-11-24,,Em Andamento,,1.3
+TR000931,C09-E0003,C09,Automatizacao de Tarefas com IA,Produtividade,2026-06-18,,Abandonado,,2.1
+TR000932,C09-E0333,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-22,,Em Andamento,,2.3
+TR000933,C09-E0027,C09,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-31,2026-02-25,Concluido,100.0,0.9
+TR000934,C09-E0126,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-06-16,2026-07-27,Concluido,57.0,3.4
+TR000935,C09-E0183,C09,Automatizacao de Tarefas com IA,Produtividade,2026-03-01,2026-03-28,Concluido,79.0,2.4
+TR000936,C09-E0183,C09,Fundamentos de IA Generativa,IA Generativa,2025-10-02,,Abandonado,,1.7
+TR000937,C09-E0012,C09,Prompt Engineering na Pratica,IA Generativa,2026-01-08,2026-01-16,Concluido,61.0,2.9
+TR000938,C09-E0012,C09,Automatizacao de Tarefas com IA,Produtividade,2026-04-20,2026-05-12,Concluido,75.0,2.4
+TR000939,C09-E0129,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-09,2025-08-08,Concluido,73.0,1.7
+TR000940,C09-E0129,C09,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-06-04,,Em Andamento,,2.3
+TR000941,C09-E0339,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-18,,Em Andamento,,4.6
+TR000942,C09-E0228,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-05,,Em Andamento,,1.8
+TR000943,C09-E0181,C09,Prompt Engineering na Pratica,IA Generativa,2025-11-23,2025-12-07,Concluido,81.0,2.8
+TR000944,C09-E0151,C09,Prompt Engineering na Pratica,IA Generativa,2025-12-31,2026-02-09,Concluido,59.0,3.3
+TR000945,C09-E0151,C09,Etica e Governanca de Dados em IA,Governanca,2026-07-12,2026-07-16,Concluido,83.0,1.7
+TR000946,C09-E0231,C09,Automatizacao de Tarefas com IA,Produtividade,2025-09-19,2025-11-03,Concluido,88.0,2.6
+TR000947,C09-E0231,C09,IA para Times Comerciais,Aplicacoes de Negocio,2025-10-21,,Abandonado,,1.7
+TR000948,C09-E0231,C09,Fundamentos de IA Generativa,IA Generativa,2025-10-30,2025-11-11,Concluido,59.0,1.8
+TR000949,C09-E0309,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-07-24,2025-08-15,Concluido,62.0,4.1
+TR000950,C09-E0070,C09,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-10-03,,Nao Iniciado,,1.6
+TR000951,C09-E0070,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-15,,Em Andamento,,2.3
+TR000952,C09-E0070,C09,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-12-10,,Nao Iniciado,,1.0
+TR000953,C09-E0072,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-12,2026-02-24,Concluido,78.0,1.8
+TR000954,C09-E0072,C09,Prompt Engineering na Pratica,IA Generativa,2026-02-24,2026-04-11,Concluido,56.0,3.3
+TR000955,C09-E0178,C09,Etica e Governanca de Dados em IA,Governanca,2025-12-31,,Abandonado,,1.9
+TR000956,C09-E0178,C09,Fundamentos de IA Generativa,IA Generativa,2025-11-10,,Nao Iniciado,,1.8
+TR000957,C09-E0178,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2026-06-27,,Nao Iniciado,,1.4
+TR000958,C09-E0313,C09,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-07-28,2026-08-10,Concluido,60.0,1.0
+TR000959,C09-E0313,C09,IA para Times Comerciais,Aplicacoes de Negocio,2025-10-20,2025-11-21,Concluido,91.0,1.5
+TR000960,C09-E0112,C09,Analise de Dados com IA,Dados e Analytics,2025-12-19,,Em Andamento,,3.5
+TR000961,C09-E0056,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-21,,Em Andamento,,3.8
+TR000962,C09-E0056,C09,Fundamentos de IA Generativa,IA Generativa,2026-07-17,,Em Andamento,,1.9
+TR000963,C09-E0187,C09,Etica e Governanca de Dados em IA,Governanca,2025-10-13,,Nao Iniciado,,2.2
+TR000964,C09-E0187,C09,Analise de Dados com IA,Dados e Analytics,2025-10-02,2025-10-29,Concluido,76.0,4.7
+TR000965,C09-E0199,C09,Prompt Engineering na Pratica,IA Generativa,2025-08-22,2025-10-15,Concluido,74.0,3.1
+TR000966,C09-E0105,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-07-15,,Em Andamento,,4.7
+TR000967,C09-E0105,C09,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-07-19,2026-08-10,Concluido,59.0,2.2
+TR000968,C09-E0043,C09,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-04-01,2026-05-30,Concluido,63.0,2.0
+TR000969,C09-E0269,C09,Fundamentos de IA Generativa,IA Generativa,2026-05-10,,Em Andamento,,1.9
+TR000970,C09-E0269,C09,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-02-12,2026-03-07,Concluido,82.0,1.6
+TR000971,C09-E0269,C09,Automatizacao de Tarefas com IA,Produtividade,2025-12-10,2026-02-01,Concluido,61.0,2.6
+TR000972,C09-E0279,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-30,2025-08-25,Concluido,84.0,1.4
+TR000973,C09-E0279,C09,Prompt Engineering na Pratica,IA Generativa,2025-09-12,,Em Andamento,,3.0
+TR000974,C09-E0279,C09,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-06-03,,Abandonado,,1.4
+TR000975,C09-E0259,C09,IA para Times Comerciais,Aplicacoes de Negocio,2025-07-08,,Em Andamento,,1.5
+TR000976,C09-E0247,C09,Automatizacao de Tarefas com IA,Produtividade,2026-03-28,2026-05-01,Concluido,57.0,2.6
+TR000977,C09-E0034,C09,Prompt Engineering na Pratica,IA Generativa,2026-03-11,,Em Andamento,,3.1
+TR000978,C09-E0104,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2026-06-30,,Em Andamento,,1.6
+TR000979,C09-E0104,C09,IA para Times Comerciais,Aplicacoes de Negocio,2026-05-31,2026-06-25,Concluido,90.0,1.4
+TR000980,C09-E0104,C09,Prompt Engineering na Pratica,IA Generativa,2025-07-31,,Em Andamento,,2.6
+TR000981,C09-E0180,C09,Automatizacao de Tarefas com IA,Produtividade,2025-06-06,,Em Andamento,,2.3
+TR000982,C09-E0180,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-16,2025-09-11,Concluido,100.0,1.3
+TR000983,C09-E0238,C09,Prompt Engineering na Pratica,IA Generativa,2026-04-30,,Em Andamento,,2.9
+TR000984,C09-E0238,C09,Analise de Dados com IA,Dados e Analytics,2026-05-23,2026-06-24,Concluido,75.0,3.6
+TR000985,C09-E0238,C09,Automatizacao de Tarefas com IA,Produtividade,2025-07-06,2025-07-14,Concluido,76.0,2.6
+TR000986,C09-E0319,C09,Analise de Dados com IA,Dados e Analytics,2025-12-25,2026-01-14,Concluido,77.0,4.1
+TR000987,C09-E0319,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-07-31,2025-08-13,Concluido,77.0,3.9
+TR000988,C09-E0208,C09,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-08-17,2025-08-27,Concluido,78.0,2.1
+TR000989,C09-E0221,C09,IA para Times Comerciais,Aplicacoes de Negocio,2025-08-31,2025-09-14,Concluido,94.0,1.8
+TR000990,C09-E0202,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2026-07-13,2026-07-22,Concluido,77.0,1.5
+TR000991,C09-E0303,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-27,2026-06-01,Concluido,70.0,1.7
+TR000992,C09-E0303,C09,Etica e Governanca de Dados em IA,Governanca,2025-12-12,2026-02-03,Concluido,80.0,2.0
+TR000993,C09-E0264,C09,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-20,2026-02-21,Concluido,60.0,1.1
+TR000994,C09-E0265,C09,IA para Times Comerciais,Aplicacoes de Negocio,2025-10-19,,Nao Iniciado,,1.7
+TR000995,C09-E0265,C09,Prompt Engineering na Pratica,IA Generativa,2026-07-04,2026-07-09,Concluido,56.0,3.0
+TR000996,C09-E0324,C09,Automatizacao de Tarefas com IA,Produtividade,2025-06-22,,Em Andamento,,2.8
+TR000997,C09-E0324,C09,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-09-21,,Nao Iniciado,,1.8
+TR000998,C09-E0274,C09,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-08-30,,Abandonado,,1.7
+TR000999,C09-E0274,C09,Etica e Governanca de Dados em IA,Governanca,2026-06-12,,Em Andamento,,2.0
+TR001000,C09-E0274,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-03-17,2026-04-27,Concluido,94.0,4.2
+TR001001,C09-E0278,C09,Analise de Dados com IA,Dados e Analytics,2025-06-12,2025-06-20,Concluido,95.0,4.6
+TR001002,C09-E0171,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-11,2025-08-31,Concluido,59.0,1.4
+TR001003,C09-E0322,C09,Automatizacao de Tarefas com IA,Produtividade,2025-08-29,,Em Andamento,,2.9
+TR001004,C09-E0322,C09,Analise de Dados com IA,Dados e Analytics,2025-09-08,,Abandonado,,4.6
+TR001005,C09-E0039,C09,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-07-01,2026-07-14,Concluido,91.0,1.9
+TR001006,C09-E0170,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-06-21,,Em Andamento,,3.7
+TR001007,C09-E0174,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-03-17,,Em Andamento,,1.9
+TR001008,C09-E0306,C09,Prompt Engineering na Pratica,IA Generativa,2025-08-16,,Em Andamento,,3.2
+TR001009,C09-E0235,C09,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-07-16,,Em Andamento,,1.4
+TR001010,C09-E0108,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2025-06-12,,Nao Iniciado,,1.6
+TR001011,C09-E0096,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-06,,Abandonado,,3.7
+TR001012,C09-E0096,C09,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-01-03,,Nao Iniciado,,2.4
+TR001013,C09-E0096,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-07-30,,Em Andamento,,2.3
+TR001014,C09-E0237,C09,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-04-17,,Em Andamento,,0.9
+TR001015,C09-E0237,C09,Analise de Dados com IA,Dados e Analytics,2026-02-28,2026-03-07,Concluido,56.0,4.4
+TR001016,C09-E0227,C09,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-08-26,2025-09-13,Concluido,76.0,1.7
+TR001017,C09-E0227,C09,Prompt Engineering na Pratica,IA Generativa,2026-03-12,2026-05-06,Concluido,62.0,2.7
+TR001018,C09-E0337,C09,Prompt Engineering na Pratica,IA Generativa,2026-03-18,2026-05-02,Concluido,75.0,3.0
+TR001019,C09-E0337,C09,IA para Times Comerciais,Aplicacoes de Negocio,2026-03-05,,Abandonado,,1.8
+TR001020,C09-E0076,C09,Prompt Engineering na Pratica,IA Generativa,2026-01-30,2026-02-14,Concluido,68.0,2.8
+TR001021,C09-E0155,C09,IA para Times Comerciais,Aplicacoes de Negocio,2026-05-21,2026-06-25,Concluido,80.0,1.4
+TR001022,C09-E0155,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-10-26,2025-12-14,Concluido,79.0,2.3
+TR001023,C09-E0011,C09,IA para Times Comerciais,Aplicacoes de Negocio,2025-12-26,,Abandonado,,1.4
+TR001024,C09-E0050,C09,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-16,2026-06-24,Concluido,97.0,1.8
+TR001025,C09-E0213,C09,IA Responsavel: Vieses e Limitacoes,Governanca,2026-02-18,,Em Andamento,,1.7
+TR001026,C09-E0078,C09,Automatizacao de Tarefas com IA,Produtividade,2026-01-05,2026-02-03,Concluido,63.0,2.7
+TR001027,C09-E0130,C09,Analise de Dados com IA,Dados e Analytics,2026-06-19,,Nao Iniciado,,3.7
+TR001028,C09-E0141,C09,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-09-08,2025-09-27,Concluido,70.0,4.2
+TR001029,C09-E0029,C09,Prompt Engineering na Pratica,IA Generativa,2026-05-05,2026-06-13,Concluido,56.0,3.1
+TR001030,C09-E0102,C09,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-14,,Em Andamento,,1.4
+TR001031,C09-E0075,C09,IA para Times Comerciais,Aplicacoes de Negocio,2025-12-05,,Nao Iniciado,,1.5
+TR001032,C09-E0075,C09,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-07-26,2025-08-27,Concluido,68.0,1.0
+TR001033,C10-E0127,C10,Etica e Governanca de Dados em IA,Governanca,2025-07-10,,Em Andamento,,2.3
+TR001034,C10-E0127,C10,Analise de Dados com IA,Dados e Analytics,2026-05-09,2026-05-21,Concluido,95.0,4.0
+TR001035,C10-E0085,C10,Fundamentos de IA Generativa,IA Generativa,2026-01-04,,Nao Iniciado,,1.8
+TR001036,C10-E0085,C10,IA para Times Comerciais,Aplicacoes de Negocio,2025-10-29,,Em Andamento,,1.7
+TR001037,C10-E0085,C10,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-09-07,2025-09-18,Concluido,79.0,2.2
+TR001038,C10-E0086,C10,Analise de Dados com IA,Dados e Analytics,2026-04-09,2026-04-12,Concluido,80.0,3.7
+TR001039,C10-E0121,C10,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-02-24,2026-03-25,Concluido,93.0,1.0
+TR001040,C10-E0112,C10,Automatizacao de Tarefas com IA,Produtividade,2026-02-25,2026-03-07,Concluido,60.0,2.4
+TR001041,C10-E0061,C10,Analise de Dados com IA,Dados e Analytics,2025-08-13,,Em Andamento,,3.7
+TR001042,C10-E0061,C10,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-06-17,2026-08-06,Concluido,65.0,2.0
+TR001043,C10-E0044,C10,IA para Times Comerciais,Aplicacoes de Negocio,2026-07-02,2026-08-10,Concluido,93.0,1.6
+TR001044,C10-E0129,C10,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-04,,Nao Iniciado,,1.9
+TR001045,C10-E0129,C10,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-03-18,,Nao Iniciado,,4.0
+TR001046,C10-E0129,C10,Etica e Governanca de Dados em IA,Governanca,2025-11-14,2025-12-04,Concluido,87.0,2.0
+TR001047,C10-E0133,C10,Prompt Engineering na Pratica,IA Generativa,2026-04-27,2026-05-22,Concluido,90.0,3.6
+TR001048,C10-E0133,C10,IA Responsavel: Vieses e Limitacoes,Governanca,2026-05-08,,Nao Iniciado,,1.7
+TR001049,C10-E0131,C10,Automatizacao de Tarefas com IA,Produtividade,2026-06-16,,Em Andamento,,2.8
+TR001050,C10-E0131,C10,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-02-14,,Nao Iniciado,,0.9
+TR001051,C10-E0050,C10,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-10-21,,Nao Iniciado,,1.0
+TR001052,C10-E0050,C10,Automatizacao de Tarefas com IA,Produtividade,2025-07-23,2025-09-02,Concluido,80.0,2.5
+TR001053,C10-E0045,C10,Analise de Dados com IA,Dados e Analytics,2025-07-23,2025-09-01,Concluido,70.0,4.1
+TR001054,C10-E0102,C10,Analise de Dados com IA,Dados e Analytics,2026-05-17,2026-06-23,Concluido,79.0,3.7
+TR001055,C10-E0090,C10,IA Responsavel: Vieses e Limitacoes,Governanca,2025-09-26,2025-10-23,Concluido,91.0,1.4
+TR001056,C10-E0035,C10,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-07,2026-01-01,Concluido,81.0,1.7
+TR001057,C10-E0010,C10,Automatizacao de Tarefas com IA,Produtividade,2026-01-07,,Abandonado,,2.6
+TR001058,C10-E0115,C10,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-06-28,2025-07-19,Concluido,72.0,1.0
+TR001059,C10-E0115,C10,Prompt Engineering na Pratica,IA Generativa,2026-02-23,,Nao Iniciado,,2.9
+TR001060,C10-E0117,C10,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-02-19,2026-03-07,Concluido,96.0,1.9
+TR001061,C10-E0021,C10,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-03-21,2026-05-06,Concluido,56.0,2.2
+TR001062,C10-E0089,C10,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-07-09,2026-07-19,Concluido,68.0,2.3
+TR001063,C10-E0026,C10,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-07-19,2026-08-03,Concluido,76.0,2.2
+TR001064,C10-E0056,C10,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-06-09,,Nao Iniciado,,1.5
+TR001065,C10-E0077,C10,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-03-18,,Nao Iniciado,,1.1
+TR001066,C10-E0077,C10,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-02-15,2026-02-18,Concluido,97.0,1.5
+TR001067,C10-E0036,C10,Automatizacao de Tarefas com IA,Produtividade,2025-10-24,2025-10-31,Concluido,55.0,2.8
+TR001068,C10-E0016,C10,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-27,,Em Andamento,,2.2
+TR001069,C10-E0009,C10,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-01,2026-02-12,Concluido,55.0,2.2
+TR001070,C10-E0046,C10,Etica e Governanca de Dados em IA,Governanca,2026-06-27,2026-07-02,Concluido,58.0,2.2
+TR001071,C10-E0084,C10,Fundamentos de IA Generativa,IA Generativa,2026-01-14,2026-02-26,Concluido,96.0,1.9
+TR001072,C10-E0011,C10,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-12-22,,Abandonado,,1.8
+TR001073,C10-E0011,C10,Fundamentos de IA Generativa,IA Generativa,2025-12-10,2026-02-02,Concluido,77.0,2.0
+TR001074,C10-E0037,C10,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-10-31,2025-12-02,Concluido,91.0,3.5
+TR001075,C10-E0037,C10,Fundamentos de IA Generativa,IA Generativa,2025-11-16,2025-12-30,Concluido,55.0,2.3
+TR001076,C10-E0024,C10,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-06-08,2026-06-17,Concluido,82.0,2.4
+TR001077,C10-E0095,C10,Prompt Engineering na Pratica,IA Generativa,2025-07-11,2025-09-04,Concluido,76.0,3.3
+TR001078,C10-E0049,C10,Fundamentos de IA Generativa,IA Generativa,2026-07-07,,Em Andamento,,2.4
+TR001079,C10-E0065,C10,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-20,2026-05-31,Concluido,74.0,1.8
+TR001080,C10-E0065,C10,Automatizacao de Tarefas com IA,Produtividade,2026-02-28,,Nao Iniciado,,2.1
+TR001081,C10-E0065,C10,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-30,2026-08-10,Concluido,73.0,1.3
+TR001082,C10-E0067,C10,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-12-13,,Em Andamento,,2.3
+TR001083,C10-E0020,C10,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-19,,Em Andamento,,1.6
+TR001084,C10-E0020,C10,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-01,2025-07-11,Concluido,70.0,3.8
+TR001085,C10-E0073,C10,Automatizacao de Tarefas com IA,Produtividade,2026-07-07,2026-08-10,Concluido,80.0,2.7
+TR001086,C10-E0073,C10,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-24,2026-07-17,Concluido,57.0,2.1
+TR001087,C10-E0098,C10,Automatizacao de Tarefas com IA,Produtividade,2025-09-09,,Em Andamento,,2.4
+TR001088,C10-E0052,C10,IA Responsavel: Vieses e Limitacoes,Governanca,2025-06-09,,Nao Iniciado,,1.7
+TR001089,C10-E0122,C10,Analise de Dados com IA,Dados e Analytics,2026-06-25,,Em Andamento,,4.1
+TR001090,C10-E0122,C10,IA Responsavel: Vieses e Limitacoes,Governanca,2026-05-27,2026-07-04,Concluido,78.0,1.7
+TR001091,C10-E0118,C10,Fundamentos de IA Generativa,IA Generativa,2026-04-12,2026-05-17,Concluido,78.0,2.1
+TR001092,C10-E0032,C10,Analise de Dados com IA,Dados e Analytics,2026-06-28,,Nao Iniciado,,3.7
+TR001093,C10-E0012,C10,Etica e Governanca de Dados em IA,Governanca,2025-06-10,2025-08-08,Concluido,60.0,2.2
+TR001094,C10-E0106,C10,Fundamentos de IA Generativa,IA Generativa,2025-12-06,,Nao Iniciado,,2.3
+TR001095,C10-E0106,C10,IA Responsavel: Vieses e Limitacoes,Governanca,2026-03-11,,Nao Iniciado,,1.7
+TR001096,C11-E0007,C11,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-08-27,2025-10-20,Concluido,63.0,4.1
+TR001097,C11-E0007,C11,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-06-27,,Nao Iniciado,,2.0
+TR001098,C11-E0027,C11,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-25,2026-07-04,Concluido,90.0,4.6
+TR001099,C11-E0027,C11,IA Responsavel: Vieses e Limitacoes,Governanca,2026-06-12,,Abandonado,,1.6
+TR001100,C11-E0033,C11,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-07-20,,Abandonado,,1.0
+TR001101,C11-E0033,C11,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-08-27,2025-10-18,Concluido,75.0,1.5
+TR001102,C11-E0013,C11,IA Responsavel: Vieses e Limitacoes,Governanca,2026-02-08,2026-03-30,Concluido,84.0,1.8
+TR001103,C11-E0003,C11,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-06-17,2026-08-05,Concluido,68.0,4.3
+TR001104,C11-E0003,C11,Analise de Dados com IA,Dados e Analytics,2026-05-26,,Em Andamento,,3.9
+TR001105,C11-E0012,C11,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-20,2026-02-02,Concluido,58.0,4.0
+TR001106,C11-E0004,C11,Etica e Governanca de Dados em IA,Governanca,2025-08-13,2025-09-19,Concluido,93.0,2.2
+TR001107,C11-E0032,C11,Automatizacao de Tarefas com IA,Produtividade,2026-01-16,2026-02-03,Concluido,67.0,2.8
+TR001108,C11-E0032,C11,Fundamentos de IA Generativa,IA Generativa,2025-07-22,,Abandonado,,2.4
+TR001109,C11-E0001,C11,Prompt Engineering na Pratica,IA Generativa,2025-12-04,2026-01-29,Concluido,72.0,2.9
+TR001110,C11-E0010,C11,IA para Times Comerciais,Aplicacoes de Negocio,2026-07-02,2026-07-22,Concluido,57.0,1.6
+TR001111,C11-E0037,C11,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-04-17,,Abandonado,,2.2
+TR001112,C12-E0251,C12,Fundamentos de IA Generativa,IA Generativa,2026-07-28,,Nao Iniciado,,2.1
+TR001113,C12-E0194,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-12-17,2025-12-25,Concluido,65.0,2.4
+TR001114,C12-E0194,C12,Analise de Dados com IA,Dados e Analytics,2025-12-07,2025-12-22,Concluido,88.0,4.5
+TR001115,C12-E0060,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-06-21,2026-06-30,Concluido,75.0,2.3
+TR001116,C12-E0117,C12,Analise de Dados com IA,Dados e Analytics,2026-02-22,2026-04-15,Concluido,68.0,4.1
+TR001117,C12-E0017,C12,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-05-10,2026-05-20,Concluido,57.0,1.1
+TR001118,C12-E0017,C12,Automatizacao de Tarefas com IA,Produtividade,2026-02-01,2026-03-09,Concluido,93.0,2.4
+TR001119,C12-E0253,C12,Fundamentos de IA Generativa,IA Generativa,2026-07-02,,Abandonado,,2.0
+TR001120,C12-E0141,C12,IA Responsavel: Vieses e Limitacoes,Governanca,2025-06-29,2025-07-06,Concluido,82.0,1.4
+TR001121,C12-E0141,C12,Automatizacao de Tarefas com IA,Produtividade,2026-01-04,,Abandonado,,2.7
+TR001122,C12-E0070,C12,Automatizacao de Tarefas com IA,Produtividade,2026-04-25,,Nao Iniciado,,2.7
+TR001123,C12-E0088,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-07-15,2025-08-14,Concluido,97.0,2.0
+TR001124,C12-E0088,C12,IA para Times Comerciais,Aplicacoes de Negocio,2026-03-27,,Nao Iniciado,,1.5
+TR001125,C12-E0035,C12,Etica e Governanca de Dados em IA,Governanca,2025-07-29,,Nao Iniciado,,1.9
+TR001126,C12-E0051,C12,IA para Times Comerciais,Aplicacoes de Negocio,2025-11-26,2026-01-23,Concluido,58.0,1.7
+TR001127,C12-E0051,C12,Automatizacao de Tarefas com IA,Produtividade,2026-07-07,,Nao Iniciado,,2.3
+TR001128,C12-E0221,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-14,2026-04-20,Concluido,84.0,1.4
+TR001129,C12-E0221,C12,Analise de Dados com IA,Dados e Analytics,2025-08-31,2025-09-05,Concluido,79.0,4.5
+TR001130,C12-E0134,C12,Prompt Engineering na Pratica,IA Generativa,2026-04-14,2026-04-26,Concluido,71.0,3.1
+TR001131,C12-E0214,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-16,2025-12-18,Concluido,80.0,1.8
+TR001132,C12-E0214,C12,Automatizacao de Tarefas com IA,Produtividade,2026-02-12,2026-04-08,Concluido,87.0,2.4
+TR001133,C12-E0214,C12,IA para Times Comerciais,Aplicacoes de Negocio,2025-11-19,2025-12-31,Concluido,86.0,1.6
+TR001134,C12-E0161,C12,Analise de Dados com IA,Dados e Analytics,2026-05-07,2026-05-25,Concluido,57.0,3.6
+TR001135,C12-E0161,C12,Fundamentos de IA Generativa,IA Generativa,2026-01-04,,Nao Iniciado,,2.4
+TR001136,C12-E0161,C12,IA Responsavel: Vieses e Limitacoes,Governanca,2025-11-11,,Abandonado,,1.7
+TR001137,C12-E0069,C12,Fundamentos de IA Generativa,IA Generativa,2025-12-21,2025-12-28,Concluido,58.0,2.3
+TR001138,C12-E0126,C12,IA para Times Comerciais,Aplicacoes de Negocio,2026-05-29,,Em Andamento,,1.6
+TR001139,C12-E0169,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-08-29,2025-10-18,Concluido,91.0,1.6
+TR001140,C12-E0045,C12,Prompt Engineering na Pratica,IA Generativa,2026-04-24,,Em Andamento,,2.9
+TR001141,C12-E0164,C12,IA para Times Comerciais,Aplicacoes de Negocio,2025-10-12,2025-11-19,Concluido,69.0,1.5
+TR001142,C12-E0164,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-06-28,2025-07-30,Concluido,90.0,1.4
+TR001143,C12-E0164,C12,Etica e Governanca de Dados em IA,Governanca,2025-11-21,2025-12-01,Concluido,69.0,1.7
+TR001144,C12-E0096,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-01-13,2026-02-22,Concluido,91.0,1.7
+TR001145,C12-E0109,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-22,2026-06-27,Concluido,95.0,2.1
+TR001146,C12-E0109,C12,Etica e Governanca de Dados em IA,Governanca,2025-09-17,2025-10-28,Concluido,64.0,1.9
+TR001147,C12-E0049,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-02-06,2026-03-08,Concluido,63.0,1.4
+TR001148,C12-E0227,C12,Etica e Governanca de Dados em IA,Governanca,2025-12-28,2026-01-12,Concluido,91.0,2.3
+TR001149,C12-E0227,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-12,2026-04-14,Concluido,84.0,1.8
+TR001150,C12-E0097,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-09-22,,Nao Iniciado,,1.3
+TR001151,C12-E0094,C12,IA para Times Comerciais,Aplicacoes de Negocio,2026-07-21,2026-08-10,Concluido,91.0,1.4
+TR001152,C12-E0094,C12,Automatizacao de Tarefas com IA,Produtividade,2026-05-17,,Abandonado,,2.7
+TR001153,C12-E0098,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-04-12,2026-05-05,Concluido,86.0,2.0
+TR001154,C12-E0152,C12,Analise de Dados com IA,Dados e Analytics,2025-07-31,2025-09-04,Concluido,60.0,3.9
+TR001155,C12-E0152,C12,Automatizacao de Tarefas com IA,Produtividade,2025-12-09,,Abandonado,,2.8
+TR001156,C12-E0152,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-05,,Abandonado,,1.9
+TR001157,C12-E0122,C12,Etica e Governanca de Dados em IA,Governanca,2025-12-19,2026-01-13,Concluido,57.0,2.3
+TR001158,C12-E0029,C12,Fundamentos de IA Generativa,IA Generativa,2026-07-17,,Em Andamento,,1.9
+TR001159,C12-E0026,C12,Etica e Governanca de Dados em IA,Governanca,2025-07-19,,Abandonado,,2.2
+TR001160,C12-E0026,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-09-20,2025-10-05,Concluido,84.0,1.4
+TR001161,C12-E0148,C12,Analise de Dados com IA,Dados e Analytics,2025-12-10,,Nao Iniciado,,3.7
+TR001162,C12-E0148,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-09-12,2025-09-23,Concluido,55.0,1.7
+TR001163,C12-E0033,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-06-20,2026-07-07,Concluido,65.0,2.1
+TR001164,C12-E0061,C12,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-07-27,2026-08-10,Concluido,58.0,4.1
+TR001165,C12-E0061,C12,Analise de Dados com IA,Dados e Analytics,2026-07-30,2026-08-10,Concluido,61.0,4.2
+TR001166,C12-E0091,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-03-21,2026-03-25,Concluido,56.0,1.9
+TR001167,C12-E0091,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-06-25,2025-08-22,Concluido,59.0,1.9
+TR001168,C12-E0201,C12,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-15,,Abandonado,,4.5
+TR001169,C12-E0023,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-09-21,,Nao Iniciado,,2.1
+TR001170,C12-E0259,C12,IA para Times Comerciais,Aplicacoes de Negocio,2025-12-27,,Em Andamento,,1.3
+TR001171,C12-E0259,C12,Analise de Dados com IA,Dados e Analytics,2025-08-28,,Abandonado,,4.3
+TR001172,C12-E0259,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-07-24,2025-08-28,Concluido,85.0,2.0
+TR001173,C12-E0230,C12,Fundamentos de IA Generativa,IA Generativa,2026-05-29,2026-06-23,Concluido,95.0,1.8
+TR001174,C12-E0243,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-04-08,,Abandonado,,2.3
+TR001175,C12-E0243,C12,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-30,,Em Andamento,,1.6
+TR001176,C12-E0243,C12,Prompt Engineering na Pratica,IA Generativa,2026-04-30,2026-06-29,Concluido,61.0,2.9
+TR001177,C12-E0009,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-08-27,2025-10-06,Concluido,81.0,1.6
+TR001178,C12-E0172,C12,Prompt Engineering na Pratica,IA Generativa,2025-12-26,,Abandonado,,3.2
+TR001179,C12-E0263,C12,Etica e Governanca de Dados em IA,Governanca,2025-12-14,2026-02-03,Concluido,64.0,2.1
+TR001180,C12-E0119,C12,IA para Times Comerciais,Aplicacoes de Negocio,2025-11-21,,Nao Iniciado,,1.8
+TR001181,C12-E0008,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-20,2026-03-08,Concluido,73.0,1.9
+TR001182,C12-E0206,C12,Prompt Engineering na Pratica,IA Generativa,2026-07-02,,Nao Iniciado,,2.9
+TR001183,C12-E0206,C12,IA Responsavel: Vieses e Limitacoes,Governanca,2026-07-12,,Em Andamento,,1.4
+TR001184,C12-E0036,C12,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-06-18,2026-07-21,Concluido,86.0,1.1
+TR001185,C12-E0135,C12,Fundamentos de IA Generativa,IA Generativa,2026-06-07,2026-07-04,Concluido,76.0,2.0
+TR001186,C12-E0018,C12,Prompt Engineering na Pratica,IA Generativa,2025-12-14,2026-02-02,Concluido,91.0,3.6
+TR001187,C12-E0100,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-04-16,2026-06-10,Concluido,80.0,2.3
+TR001188,C12-E0100,C12,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-03,2026-02-06,Concluido,57.0,1.3
+TR001189,C12-E0053,C12,Prompt Engineering na Pratica,IA Generativa,2025-09-01,2025-10-07,Concluido,57.0,2.8
+TR001190,C12-E0053,C12,IA Responsavel: Vieses e Limitacoes,Governanca,2025-10-07,2025-10-19,Concluido,98.0,1.4
+TR001191,C12-E0184,C12,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-04-14,2026-04-25,Concluido,66.0,4.5
+TR001192,C12-E0107,C12,IA Responsavel: Vieses e Limitacoes,Governanca,2025-11-13,,Abandonado,,1.4
+TR001193,C12-E0107,C12,Analise de Dados com IA,Dados e Analytics,2025-08-24,2025-09-06,Concluido,79.0,3.8
+TR001194,C12-E0107,C12,IA para Times Comerciais,Aplicacoes de Negocio,2026-05-15,2026-05-21,Concluido,87.0,1.5
+TR001195,C12-E0022,C12,Automatizacao de Tarefas com IA,Produtividade,2026-02-15,2026-04-05,Concluido,75.0,2.5
+TR001196,C12-E0180,C12,Fundamentos de IA Generativa,IA Generativa,2025-11-10,,Abandonado,,2.1
+TR001197,C12-E0225,C12,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-02-12,2026-03-26,Concluido,60.0,1.2
+TR001198,C12-E0178,C12,Fundamentos de IA Generativa,IA Generativa,2026-07-21,,Em Andamento,,1.8
+TR001199,C12-E0178,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-06-11,,Nao Iniciado,,2.1
+TR001200,C12-E0178,C12,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-19,,Nao Iniciado,,1.4
+TR001201,C12-E0132,C12,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-02,2026-02-23,Concluido,75.0,1.3
+TR001202,C12-E0174,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-02-27,2026-03-27,Concluido,56.0,2.3
+TR001203,C12-E0204,C12,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-07-20,2026-07-23,Concluido,74.0,4.3
+TR001204,C12-E0040,C12,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-16,2026-03-11,Concluido,81.0,1.6
+TR001205,C12-E0040,C12,IA Responsavel: Vieses e Limitacoes,Governanca,2025-12-31,,Em Andamento,,1.4
+TR001206,C12-E0200,C12,Fundamentos de IA Generativa,IA Generativa,2026-06-28,,Em Andamento,,1.9
+TR001207,C12-E0200,C12,Analise de Dados com IA,Dados e Analytics,2025-07-04,2025-07-15,Concluido,85.0,4.3
+TR001208,C12-E0065,C12,Prompt Engineering na Pratica,IA Generativa,2025-09-09,,Em Andamento,,2.9
+TR001209,C12-E0087,C12,Fundamentos de IA Generativa,IA Generativa,2025-09-17,2025-10-08,Concluido,71.0,1.8
+TR001210,C12-E0003,C12,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-01,,Nao Iniciado,,4.0
+TR001211,C12-E0176,C12,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-06-09,,Nao Iniciado,,4.2
+TR001212,C12-E0024,C12,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-07-23,,Abandonado,,4.3
+TR001213,C12-E0125,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-23,2026-05-12,Concluido,89.0,1.5
+TR001214,C12-E0120,C12,Automatizacao de Tarefas com IA,Produtividade,2026-03-05,2026-04-29,Concluido,57.0,2.9
+TR001215,C12-E0185,C12,Fundamentos de IA Generativa,IA Generativa,2026-07-14,,Abandonado,,2.0
+TR001216,C12-E0173,C12,Prompt Engineering na Pratica,IA Generativa,2026-05-20,,Em Andamento,,2.8
+TR001217,C12-E0102,C12,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-05-01,2026-06-26,Concluido,91.0,1.0
+TR001218,C12-E0102,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-11,,Abandonado,,2.4
+TR001219,C12-E0102,C12,Fundamentos de IA Generativa,IA Generativa,2025-10-11,,Abandonado,,1.8
+TR001220,C12-E0237,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-06-14,2025-07-18,Concluido,77.0,1.3
+TR001221,C12-E0237,C12,Fundamentos de IA Generativa,IA Generativa,2026-05-14,2026-06-17,Concluido,99.0,2.0
+TR001222,C12-E0058,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-02-02,2026-03-18,Concluido,71.0,1.8
+TR001223,C12-E0056,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-07-04,2026-08-10,Concluido,62.0,1.5
+TR001224,C12-E0056,C12,Analise de Dados com IA,Dados e Analytics,2026-05-01,2026-05-25,Concluido,80.0,4.8
+TR001225,C12-E0013,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-01-09,2026-02-24,Concluido,62.0,1.8
+TR001226,C12-E0133,C12,Prompt Engineering na Pratica,IA Generativa,2025-06-28,,Em Andamento,,2.9
+TR001227,C12-E0130,C12,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-10-10,,Abandonado,,3.5
+TR001228,C12-E0130,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-20,,Nao Iniciado,,2.0
+TR001229,C12-E0130,C12,Analise de Dados com IA,Dados e Analytics,2026-05-14,2026-06-19,Concluido,86.0,4.7
+TR001230,C12-E0020,C12,Fundamentos de IA Generativa,IA Generativa,2025-07-27,2025-08-14,Concluido,81.0,1.8
+TR001231,C12-E0145,C12,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-11-20,2025-11-30,Concluido,84.0,3.9
+TR001232,C12-E0044,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-11-03,,Em Andamento,,2.2
+TR001233,C12-E0232,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-04-19,,Abandonado,,2.4
+TR001234,C12-E0208,C12,Fundamentos de IA Generativa,IA Generativa,2025-11-29,2025-12-13,Concluido,64.0,1.9
+TR001235,C12-E0106,C12,IA Responsavel: Vieses e Limitacoes,Governanca,2025-11-11,2026-01-07,Concluido,82.0,1.4
+TR001236,C12-E0085,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-26,2026-06-16,Concluido,77.0,2.2
+TR001237,C12-E0030,C12,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-06-22,2025-07-05,Concluido,75.0,1.1
+TR001238,C12-E0142,C12,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-05-29,,Nao Iniciado,,0.9
+TR001239,C12-E0228,C12,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-28,,Nao Iniciado,,1.6
+TR001240,C12-E0228,C12,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-14,,Nao Iniciado,,3.6
+TR001241,C12-E0257,C12,IA Responsavel: Vieses e Limitacoes,Governanca,2025-12-05,,Nao Iniciado,,1.5
+TR001242,C12-E0195,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-07-11,,Em Andamento,,2.2
+TR001243,C12-E0006,C12,Analise de Dados com IA,Dados e Analytics,2026-03-01,,Abandonado,,4.1
+TR001244,C12-E0034,C12,Analise de Dados com IA,Dados e Analytics,2026-01-11,,Abandonado,,4.4
+TR001245,C12-E0034,C12,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-03-22,2026-03-25,Concluido,83.0,1.1
+TR001246,C12-E0217,C12,IA Responsavel: Vieses e Limitacoes,Governanca,2026-03-08,,Abandonado,,1.6
+TR001247,C12-E0154,C12,Prompt Engineering na Pratica,IA Generativa,2026-06-07,2026-07-23,Concluido,65.0,3.1
+TR001248,C12-E0129,C12,Fundamentos de IA Generativa,IA Generativa,2026-02-02,,Em Andamento,,2.4
+TR001249,C12-E0057,C12,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-11-02,2025-11-16,Concluido,81.0,1.0
+TR001250,C12-E0057,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-07-20,,Nao Iniciado,,2.0
+TR001251,C12-E0057,C12,Etica e Governanca de Dados em IA,Governanca,2025-09-10,2025-10-31,Concluido,85.0,1.8
+TR001252,C12-E0160,C12,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-07-28,2026-08-10,Concluido,89.0,3.4
+TR001253,C12-E0160,C12,Fundamentos de IA Generativa,IA Generativa,2025-09-10,2025-10-23,Concluido,91.0,1.8
+TR001254,C12-E0160,C12,IA para Times Comerciais,Aplicacoes de Negocio,2026-04-05,,Em Andamento,,1.6
+TR001255,C12-E0226,C12,IA para Times Comerciais,Aplicacoes de Negocio,2026-05-31,2026-06-15,Concluido,55.0,1.5
+TR001256,C12-E0143,C12,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-03-21,2026-03-24,Concluido,92.0,1.2
+TR001257,C12-E0143,C12,Analise de Dados com IA,Dados e Analytics,2025-08-22,,Em Andamento,,4.8
+TR001258,C12-E0143,C12,Etica e Governanca de Dados em IA,Governanca,2025-12-22,,Abandonado,,2.2
+TR001259,C12-E0187,C12,Fundamentos de IA Generativa,IA Generativa,2025-10-17,,Em Andamento,,2.2
+TR001260,C12-E0187,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-06-11,2025-06-29,Concluido,89.0,1.7
+TR001261,C12-E0189,C12,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-07-30,,Em Andamento,,2.1
+TR001262,C12-E0189,C12,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-03,2025-07-29,Concluido,60.0,4.3
+TR001263,C12-E0112,C12,Fundamentos de IA Generativa,IA Generativa,2026-06-17,2026-07-01,Concluido,61.0,1.8
+TR001264,C12-E0112,C12,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-01-13,2026-01-31,Concluido,97.0,1.9
+TR001265,C12-E0270,C12,Analise de Dados com IA,Dados e Analytics,2025-08-26,,Nao Iniciado,,4.6
+TR001266,C12-E0270,C12,IA para Times Comerciais,Aplicacoes de Negocio,2025-07-16,,Nao Iniciado,,1.6
+TR001267,C12-E0197,C12,Automatizacao de Tarefas com IA,Produtividade,2026-01-31,,Em Andamento,,2.2
+TR001268,C12-E0095,C12,Prompt Engineering na Pratica,IA Generativa,2025-07-11,2025-08-03,Concluido,87.0,2.7
+TR001269,C12-E0001,C12,Fundamentos de IA Generativa,IA Generativa,2025-10-18,2025-12-09,Concluido,67.0,2.1
+TR001270,C12-E0001,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-08-19,,Nao Iniciado,,1.7
+TR001271,C12-E0124,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-07,,Nao Iniciado,,1.6
+TR001272,C12-E0124,C12,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-03-17,,Em Andamento,,1.1
+TR001273,C12-E0042,C12,Automatizacao de Tarefas com IA,Produtividade,2025-07-29,2025-09-27,Concluido,75.0,3.0
+TR001274,C12-E0118,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-07-30,2025-08-20,Concluido,84.0,1.7
+TR001275,C12-E0118,C12,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-06-20,,Nao Iniciado,,1.0
+TR001276,C12-E0047,C12,Automatizacao de Tarefas com IA,Produtividade,2025-09-27,2025-11-15,Concluido,92.0,2.8
+TR001277,C12-E0239,C12,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-03-18,2026-04-02,Concluido,64.0,1.1
+TR001278,C12-E0079,C12,Fundamentos de IA Generativa,IA Generativa,2025-11-25,,Abandonado,,2.1
+TR001279,C12-E0004,C12,Fundamentos de IA Generativa,IA Generativa,2026-01-18,,Em Andamento,,1.9
+TR001280,C12-E0205,C12,Etica e Governanca de Dados em IA,Governanca,2025-06-01,,Abandonado,,1.9
+TR001281,C12-E0205,C12,Automatizacao de Tarefas com IA,Produtividade,2025-09-28,2025-11-15,Concluido,58.0,2.2
+TR001282,C12-E0193,C12,Prompt Engineering na Pratica,IA Generativa,2026-02-19,,Em Andamento,,3.4
+TR001283,C12-E0193,C12,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-08-02,2025-08-11,Concluido,70.0,1.7
+TR001284,C13-E0081,C13,Etica e Governanca de Dados em IA,Governanca,2026-06-04,,Abandonado,,2.1
+TR001285,C13-E0081,C13,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-04,2025-11-08,Concluido,94.0,1.8
+TR001286,C13-E0019,C13,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-12-25,2026-01-24,Concluido,57.0,2.0
+TR001287,C13-E0019,C13,Etica e Governanca de Dados em IA,Governanca,2025-09-02,2025-09-12,Concluido,94.0,2.0
+TR001288,C13-E0064,C13,Etica e Governanca de Dados em IA,Governanca,2026-02-25,2026-03-13,Concluido,70.0,1.7
+TR001289,C13-E0061,C13,Automatizacao de Tarefas com IA,Produtividade,2025-10-28,,Em Andamento,,2.9
+TR001290,C13-E0030,C13,IA para Times Comerciais,Aplicacoes de Negocio,2025-10-30,2025-11-06,Concluido,81.0,1.5
+TR001291,C13-E0030,C13,Etica e Governanca de Dados em IA,Governanca,2025-11-30,,Em Andamento,,1.9
+TR001292,C13-E0052,C13,Fundamentos de IA Generativa,IA Generativa,2025-12-30,2026-01-21,Concluido,56.0,1.9
+TR001293,C13-E0031,C13,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-11-14,,Nao Iniciado,,4.2
+TR001294,C13-E0042,C13,Etica e Governanca de Dados em IA,Governanca,2026-07-17,2026-08-08,Concluido,63.0,2.0
+TR001295,C13-E0022,C13,Analise de Dados com IA,Dados e Analytics,2026-05-10,2026-06-04,Concluido,73.0,4.0
+TR001296,C13-E0056,C13,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-03-03,2026-03-23,Concluido,82.0,2.0
+TR001297,C13-E0047,C13,Prompt Engineering na Pratica,IA Generativa,2026-01-04,2026-01-21,Concluido,85.0,3.2
+TR001298,C13-E0047,C13,IA para Times Comerciais,Aplicacoes de Negocio,2026-04-23,2026-06-21,Concluido,99.0,1.5
+TR001299,C13-E0048,C13,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-12-14,2026-02-09,Concluido,75.0,1.0
+TR001300,C13-E0048,C13,Analise de Dados com IA,Dados e Analytics,2025-11-23,2026-01-18,Concluido,80.0,4.8
+TR001301,C13-E0048,C13,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-03-26,2026-05-22,Concluido,72.0,4.4
+TR001302,C13-E0003,C13,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-09-05,,Em Andamento,,1.1
+TR001303,C13-E0003,C13,Analise de Dados com IA,Dados e Analytics,2025-08-04,2025-09-10,Concluido,84.0,4.0
+TR001304,C13-E0054,C13,Fundamentos de IA Generativa,IA Generativa,2026-05-10,2026-05-30,Concluido,80.0,1.9
+TR001305,C13-E0070,C13,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-08,,Nao Iniciado,,3.9
+TR001306,C13-E0075,C13,Automatizacao de Tarefas com IA,Produtividade,2025-10-28,2025-11-09,Concluido,69.0,2.1
+TR001307,C13-E0062,C13,Prompt Engineering na Pratica,IA Generativa,2025-07-14,2025-08-31,Concluido,58.0,3.2
+TR001308,C13-E0053,C13,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-11-27,,Em Andamento,,2.2
+TR001309,C13-E0053,C13,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-12-25,,Abandonado,,1.6
+TR001310,C13-E0053,C13,Analise de Dados com IA,Dados e Analytics,2026-07-02,,Em Andamento,,3.8
+TR001311,C13-E0023,C13,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-07-15,,Em Andamento,,2.2
+TR001312,C13-E0023,C13,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-12,2026-04-10,Concluido,98.0,1.5
+TR001313,C13-E0005,C13,Etica e Governanca de Dados em IA,Governanca,2026-03-19,,Nao Iniciado,,2.0
+TR001314,C13-E0026,C13,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-21,,Em Andamento,,0.9
+TR001315,C13-E0026,C13,Prompt Engineering na Pratica,IA Generativa,2026-05-15,,Em Andamento,,3.2
+TR001316,C14-E0112,C14,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-08-26,2025-09-26,Concluido,68.0,2.2
+TR001317,C14-E0031,C14,Analise de Dados com IA,Dados e Analytics,2026-03-09,2026-04-05,Concluido,97.0,4.1
+TR001318,C14-E0094,C14,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-21,,Nao Iniciado,,1.4
+TR001319,C14-E0092,C14,Etica e Governanca de Dados em IA,Governanca,2026-03-02,2026-03-05,Concluido,73.0,2.0
+TR001320,C14-E0092,C14,Prompt Engineering na Pratica,IA Generativa,2026-03-21,2026-04-15,Concluido,69.0,3.5
+TR001321,C14-E0096,C14,IA Responsavel: Vieses e Limitacoes,Governanca,2026-01-19,2026-01-30,Concluido,93.0,1.5
+TR001322,C14-E0096,C14,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-11,,Em Andamento,,2.2
+TR001323,C14-E0056,C14,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-08-25,2025-10-18,Concluido,81.0,1.8
+TR001324,C14-E0085,C14,Fundamentos de IA Generativa,IA Generativa,2026-03-26,2026-05-04,Concluido,89.0,2.0
+TR001325,C14-E0103,C14,Fundamentos de IA Generativa,IA Generativa,2025-06-27,2025-07-15,Concluido,69.0,2.1
+TR001326,C14-E0048,C14,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-13,,Em Andamento,,1.4
+TR001327,C14-E0014,C14,Prompt Engineering na Pratica,IA Generativa,2026-03-14,,Nao Iniciado,,3.3
+TR001328,C14-E0014,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-04-25,2026-05-30,Concluido,87.0,1.8
+TR001329,C14-E0014,C14,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-12-19,2025-12-24,Concluido,60.0,1.0
+TR001330,C14-E0051,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-11-12,2025-11-25,Concluido,79.0,1.5
+TR001331,C14-E0051,C14,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-04-10,2026-05-04,Concluido,100.0,2.4
+TR001332,C14-E0018,C14,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-05-28,2026-05-31,Concluido,80.0,0.9
+TR001333,C14-E0080,C14,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-05,2025-07-26,Concluido,56.0,1.9
+TR001334,C14-E0099,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-11-08,,Nao Iniciado,,1.7
+TR001335,C14-E0028,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-04-27,,Nao Iniciado,,1.4
+TR001336,C14-E0001,C14,IA Responsavel: Vieses e Limitacoes,Governanca,2025-08-16,2025-09-23,Concluido,71.0,1.8
+TR001337,C14-E0001,C14,IA para Times Comerciais,Aplicacoes de Negocio,2025-09-14,,Nao Iniciado,,1.7
+TR001338,C14-E0027,C14,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-26,,Em Andamento,,1.4
+TR001339,C14-E0027,C14,Etica e Governanca de Dados em IA,Governanca,2025-10-30,,Nao Iniciado,,2.3
+TR001340,C14-E0105,C14,Fundamentos de IA Generativa,IA Generativa,2026-03-11,2026-04-06,Concluido,72.0,2.1
+TR001341,C14-E0064,C14,Etica e Governanca de Dados em IA,Governanca,2026-02-11,2026-04-03,Concluido,60.0,1.9
+TR001342,C14-E0083,C14,IA Responsavel: Vieses e Limitacoes,Governanca,2026-02-15,2026-02-28,Concluido,59.0,1.3
+TR001343,C14-E0083,C14,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-20,,Nao Iniciado,,1.0
+TR001344,C14-E0003,C14,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-02-07,2026-03-21,Concluido,68.0,2.1
+TR001345,C14-E0003,C14,Etica e Governanca de Dados em IA,Governanca,2025-06-19,2025-07-26,Concluido,82.0,1.9
+TR001346,C14-E0104,C14,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-04-28,2026-05-03,Concluido,89.0,4.3
+TR001347,C14-E0023,C14,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-03-29,,Nao Iniciado,,4.2
+TR001348,C14-E0072,C14,Etica e Governanca de Dados em IA,Governanca,2026-06-04,,Nao Iniciado,,2.3
+TR001349,C14-E0072,C14,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-07-30,2025-08-04,Concluido,76.0,1.0
+TR001350,C14-E0100,C14,Prompt Engineering na Pratica,IA Generativa,2026-01-25,2026-03-08,Concluido,59.0,3.1
+TR001351,C14-E0100,C14,Automatizacao de Tarefas com IA,Produtividade,2026-01-02,2026-01-26,Concluido,94.0,3.0
+TR001352,C14-E0032,C14,Analise de Dados com IA,Dados e Analytics,2025-11-04,,Nao Iniciado,,3.6
+TR001353,C14-E0032,C14,Fundamentos de IA Generativa,IA Generativa,2025-10-26,,Em Andamento,,1.9
+TR001354,C14-E0055,C14,Analise de Dados com IA,Dados e Analytics,2025-10-25,,Nao Iniciado,,4.0
+TR001355,C14-E0012,C14,Etica e Governanca de Dados em IA,Governanca,2025-06-13,2025-08-10,Concluido,72.0,2.3
+TR001356,C14-E0013,C14,Etica e Governanca de Dados em IA,Governanca,2026-04-17,2026-05-20,Concluido,64.0,2.0
+TR001357,C14-E0071,C14,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-08-29,,Nao Iniciado,,2.3
+TR001358,C14-E0091,C14,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-07,,Nao Iniciado,,4.1
+TR001359,C14-E0057,C14,Etica e Governanca de Dados em IA,Governanca,2025-12-23,2026-01-30,Concluido,78.0,1.8
+TR001360,C14-E0061,C14,Analise de Dados com IA,Dados e Analytics,2026-03-13,2026-03-31,Concluido,84.0,3.9
+TR001361,C14-E0061,C14,Prompt Engineering na Pratica,IA Generativa,2025-11-07,,Abandonado,,3.3
+TR001362,C14-E0029,C14,Analise de Dados com IA,Dados e Analytics,2026-07-06,,Em Andamento,,3.5
+TR001363,C14-E0101,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-10-06,2025-10-31,Concluido,79.0,1.4
+TR001364,C14-E0117,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-07-17,,Abandonado,,1.8
+TR001365,C14-E0095,C14,Fundamentos de IA Generativa,IA Generativa,2026-01-12,2026-01-16,Concluido,75.0,2.1
+TR001366,C14-E0067,C14,Prompt Engineering na Pratica,IA Generativa,2026-02-22,,Abandonado,,3.1
+TR001367,C14-E0067,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-04-23,,Nao Iniciado,,1.7
+TR001368,C14-E0067,C14,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-13,2026-05-23,Concluido,60.0,2.1
+TR001369,C14-E0017,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-17,2026-03-25,Concluido,63.0,1.3
+TR001370,C14-E0120,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-07-26,2026-08-10,Concluido,87.0,1.7
+TR001371,C14-E0120,C14,Prompt Engineering na Pratica,IA Generativa,2025-07-31,2025-08-27,Concluido,62.0,3.5
+TR001372,C14-E0002,C14,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-02-12,2026-02-18,Concluido,90.0,1.8
+TR001373,C14-E0043,C14,Etica e Governanca de Dados em IA,Governanca,2025-08-13,2025-08-17,Concluido,78.0,2.2
+TR001374,C14-E0113,C14,IA para Times Comerciais,Aplicacoes de Negocio,2025-08-04,,Em Andamento,,1.3
+TR001375,C14-E0113,C14,Etica e Governanca de Dados em IA,Governanca,2025-08-23,2025-09-03,Concluido,65.0,1.7
+TR001376,C14-E0036,C14,Fundamentos de IA Generativa,IA Generativa,2026-02-26,,Abandonado,,1.9
+TR001377,C14-E0036,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-12-10,,Abandonado,,1.4
+TR001378,C14-E0036,C14,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-11-01,,Em Andamento,,4.2
+TR001379,C14-E0111,C14,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-01-12,2026-02-02,Concluido,61.0,2.2
+TR001380,C14-E0049,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-07-27,,Nao Iniciado,,1.3
+TR001381,C14-E0054,C14,Analise de Dados com IA,Dados e Analytics,2025-12-21,2026-02-12,Concluido,69.0,3.5
+TR001382,C14-E0054,C14,Automatizacao de Tarefas com IA,Produtividade,2026-05-23,,Em Andamento,,2.7
+TR001383,C14-E0007,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-05-15,,Em Andamento,,1.7
+TR001384,C14-E0035,C14,IA Responsavel: Vieses e Limitacoes,Governanca,2026-05-04,2026-05-08,Concluido,99.0,1.5
+TR001385,C14-E0035,C14,IA para Times Comerciais,Aplicacoes de Negocio,2026-03-07,,Em Andamento,,1.4
+TR001386,C14-E0035,C14,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-09-15,,Abandonado,,0.9
+TR001387,C14-E0086,C14,Automatizacao de Tarefas com IA,Produtividade,2025-12-20,,Em Andamento,,2.5
+TR001388,C14-E0089,C14,Analise de Dados com IA,Dados e Analytics,2025-08-23,2025-10-06,Concluido,65.0,3.8
+TR001389,C14-E0005,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-02-06,2026-03-03,Concluido,84.0,1.8
+TR001390,C14-E0106,C14,Analise de Dados com IA,Dados e Analytics,2025-11-05,2025-12-16,Concluido,70.0,3.8
+TR001391,C14-E0106,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-06-13,,Em Andamento,,1.7
+TR001392,C14-E0106,C14,IA para Times Comerciais,Aplicacoes de Negocio,2026-04-10,2026-05-02,Concluido,77.0,1.7
+TR001393,C14-E0098,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-12-24,2025-12-30,Concluido,95.0,1.3
+TR001394,C14-E0082,C14,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-09,,Em Andamento,,0.9
+TR001395,C14-E0082,C14,Automatizacao de Tarefas com IA,Produtividade,2026-04-20,2026-05-26,Concluido,86.0,2.6
+TR001396,C14-E0034,C14,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-08-19,,Nao Iniciado,,3.5
+TR001397,C14-E0034,C14,IA para Times Comerciais,Aplicacoes de Negocio,2025-11-17,,Em Andamento,,1.3
+TR001398,C14-E0040,C14,IA Responsavel: Vieses e Limitacoes,Governanca,2026-04-04,2026-05-25,Concluido,69.0,1.4
+TR001399,C14-E0093,C14,Etica e Governanca de Dados em IA,Governanca,2025-10-15,2025-10-19,Concluido,62.0,1.9
+TR001400,C14-E0088,C14,IA Responsavel: Vieses e Limitacoes,Governanca,2025-12-27,,Em Andamento,,1.4
+TR001401,C14-E0088,C14,Automatizacao de Tarefas com IA,Produtividade,2026-06-20,,Em Andamento,,2.5
+TR001402,C14-E0050,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-02-15,2026-04-15,Concluido,99.0,1.5
+TR001403,C14-E0122,C14,Fundamentos de IA Generativa,IA Generativa,2026-01-27,,Abandonado,,1.8
+TR001404,C14-E0122,C14,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-06-22,,Em Andamento,,2.0
+TR001405,C14-E0122,C14,IA para Times Comerciais,Aplicacoes de Negocio,2025-12-23,2026-02-04,Concluido,90.0,1.8
+TR001406,C14-E0115,C14,Etica e Governanca de Dados em IA,Governanca,2025-11-28,2025-12-07,Concluido,74.0,1.8
+TR001407,C14-E0008,C14,Fundamentos de IA Generativa,IA Generativa,2026-02-25,2026-03-16,Concluido,69.0,1.9
+TR001408,C14-E0008,C14,Automatizacao de Tarefas com IA,Produtividade,2026-04-17,,Em Andamento,,2.3
+TR001409,C14-E0074,C14,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-08,2025-07-13,Concluido,88.0,1.5
+TR001410,C14-E0062,C14,IA Responsavel: Vieses e Limitacoes,Governanca,2026-06-22,2026-07-28,Concluido,61.0,1.6
+TR001411,C14-E0107,C14,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-02-19,,Em Andamento,,4.3
+TR001412,C14-E0006,C14,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-11-07,2025-12-13,Concluido,60.0,1.7
+TR001413,C14-E0006,C14,Automatizacao de Tarefas com IA,Produtividade,2025-08-18,2025-10-05,Concluido,79.0,2.4
+TR001414,C14-E0006,C14,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-06-26,,Nao Iniciado,,3.8
+TR001415,C14-E0081,C14,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-12-10,,Nao Iniciado,,1.0
+TR001416,C14-E0081,C14,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-30,2025-08-28,Concluido,85.0,2.4
+TR001417,C14-E0026,C14,Fundamentos de IA Generativa,IA Generativa,2025-08-03,2025-09-28,Concluido,59.0,2.2
+TR001418,C15-E0077,C15,Fundamentos de IA Generativa,IA Generativa,2026-01-30,,Abandonado,,2.3
+TR001419,C15-E0077,C15,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-17,2025-08-31,Concluido,74.0,1.6
+TR001420,C15-E0036,C15,Fundamentos de IA Generativa,IA Generativa,2025-06-21,2025-07-29,Concluido,80.0,2.3
+TR001421,C15-E0036,C15,IA Responsavel: Vieses e Limitacoes,Governanca,2025-08-25,2025-09-01,Concluido,89.0,1.5
+TR001422,C15-E0036,C15,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-06-04,2026-06-09,Concluido,83.0,1.1
+TR001423,C15-E0017,C15,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-10-20,,Abandonado,,2.4
+TR001424,C15-E0017,C15,IA para Times Comerciais,Aplicacoes de Negocio,2025-11-27,2026-01-19,Concluido,88.0,1.7
+TR001425,C15-E0017,C15,Analise de Dados com IA,Dados e Analytics,2025-10-11,,Em Andamento,,3.9
+TR001426,C15-E0023,C15,Etica e Governanca de Dados em IA,Governanca,2025-10-01,,Abandonado,,2.3
+TR001427,C15-E0023,C15,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-08,2026-04-26,Concluido,82.0,1.7
+TR001428,C15-E0035,C15,IA Responsavel: Vieses e Limitacoes,Governanca,2026-07-19,2026-08-10,Concluido,76.0,1.3
+TR001429,C15-E0035,C15,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-12-11,2025-12-14,Concluido,60.0,1.0
+TR001430,C15-E0050,C15,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-09,,Em Andamento,,1.9
+TR001431,C15-E0050,C15,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-08-17,2025-09-12,Concluido,78.0,4.2
+TR001432,C15-E0005,C15,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-07-11,2025-08-27,Concluido,64.0,1.0
+TR001433,C15-E0007,C15,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-12-01,2025-12-29,Concluido,90.0,0.9
+TR001434,C15-E0007,C15,Analise de Dados com IA,Dados e Analytics,2026-01-15,2026-02-27,Concluido,99.0,4.0
+TR001435,C15-E0013,C15,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-01-18,2026-01-23,Concluido,92.0,1.6
+TR001436,C15-E0013,C15,IA Responsavel: Vieses e Limitacoes,Governanca,2025-11-30,,Abandonado,,1.7
+TR001437,C15-E0009,C15,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-08-17,2025-10-14,Concluido,93.0,2.0
+TR001438,C15-E0009,C15,Etica e Governanca de Dados em IA,Governanca,2026-05-03,2026-06-17,Concluido,59.0,1.8
+TR001439,C15-E0025,C15,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-11-27,,Abandonado,,2.2
+TR001440,C15-E0025,C15,Prompt Engineering na Pratica,IA Generativa,2025-08-31,2025-09-19,Concluido,87.0,2.6
+TR001441,C15-E0025,C15,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-03,2026-05-14,Concluido,81.0,1.8
+TR001442,C15-E0076,C15,Etica e Governanca de Dados em IA,Governanca,2025-07-31,,Em Andamento,,2.2
+TR001443,C15-E0076,C15,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-10-26,2025-10-29,Concluido,67.0,1.0
+TR001444,C15-E0057,C15,Prompt Engineering na Pratica,IA Generativa,2025-10-01,,Em Andamento,,3.1
+TR001445,C15-E0057,C15,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-10-04,2025-11-17,Concluido,72.0,3.8
+TR001446,C15-E0055,C15,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-11,,Abandonado,,3.4
+TR001447,C15-E0056,C15,Prompt Engineering na Pratica,IA Generativa,2025-08-09,,Em Andamento,,3.4
+TR001448,C15-E0037,C15,Analise de Dados com IA,Dados e Analytics,2026-07-10,,Em Andamento,,3.6
+TR001449,C15-E0047,C15,Etica e Governanca de Dados em IA,Governanca,2026-02-11,,Em Andamento,,1.7
+TR001450,C15-E0047,C15,Analise de Dados com IA,Dados e Analytics,2025-12-01,2025-12-25,Concluido,57.0,4.7
+TR001451,C15-E0022,C15,Prompt Engineering na Pratica,IA Generativa,2026-04-28,,Em Andamento,,2.9
+TR001452,C15-E0022,C15,IA para Times Comerciais,Aplicacoes de Negocio,2026-06-29,2026-08-10,Concluido,91.0,1.7
+TR001453,C15-E0004,C15,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-04-08,2026-05-10,Concluido,56.0,3.9
+TR001454,C15-E0028,C15,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-06-11,2025-08-04,Concluido,83.0,1.1
+TR001455,C15-E0028,C15,Automatizacao de Tarefas com IA,Produtividade,2026-01-14,,Em Andamento,,2.5
+TR001456,C15-E0028,C15,Etica e Governanca de Dados em IA,Governanca,2025-10-08,2025-11-15,Concluido,67.0,1.9
+TR001457,C15-E0070,C15,Analise de Dados com IA,Dados e Analytics,2025-08-18,,Em Andamento,,4.7
+TR001458,C15-E0070,C15,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-14,,Em Andamento,,2.2
+TR001459,C15-E0074,C15,Automatizacao de Tarefas com IA,Produtividade,2026-01-25,2026-03-02,Concluido,64.0,2.2
+TR001460,C15-E0046,C15,Fundamentos de IA Generativa,IA Generativa,2026-06-12,,Em Andamento,,1.8
+TR001461,C15-E0046,C15,Prompt Engineering na Pratica,IA Generativa,2026-04-07,,Em Andamento,,2.8
+TR001462,C15-E0046,C15,IA para Times Comerciais,Aplicacoes de Negocio,2026-04-21,2026-04-26,Concluido,92.0,1.8
+TR001463,C15-E0062,C15,Etica e Governanca de Dados em IA,Governanca,2025-11-06,2025-12-26,Concluido,100.0,2.0
+TR001464,C15-E0052,C15,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-23,,Em Andamento,,1.9
+TR001465,C15-E0038,C15,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-12-30,2026-02-23,Concluido,99.0,4.0
+TR001466,C15-E0043,C15,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-07-28,,Em Andamento,,1.2
+TR001467,C15-E0014,C15,Fundamentos de IA Generativa,IA Generativa,2026-01-25,2026-01-31,Concluido,57.0,2.2
+TR001468,C15-E0014,C15,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-12-26,,Nao Iniciado,,2.3
+TR001469,C15-E0067,C15,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-03-23,2026-04-12,Concluido,88.0,3.5
+TR001470,C15-E0067,C15,Fundamentos de IA Generativa,IA Generativa,2026-04-18,2026-04-28,Concluido,63.0,1.7
+TR001471,C15-E0067,C15,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-10-19,2025-12-03,Concluido,93.0,2.3
+TR001472,C15-E0054,C15,IA para Times Comerciais,Aplicacoes de Negocio,2026-01-04,2026-02-18,Concluido,84.0,1.6
+TR001473,C15-E0059,C15,Analise de Dados com IA,Dados e Analytics,2026-05-12,,Em Andamento,,4.2
+TR001474,C15-E0059,C15,IA para Times Comerciais,Aplicacoes de Negocio,2025-12-08,2025-12-12,Concluido,97.0,1.6
+TR001475,C15-E0059,C15,Automatizacao de Tarefas com IA,Produtividade,2026-03-07,2026-05-02,Concluido,85.0,2.5
+TR001476,C15-E0069,C15,Automatizacao de Tarefas com IA,Produtividade,2025-09-01,2025-10-25,Concluido,80.0,2.9
+TR001477,C15-E0069,C15,IA Responsavel: Vieses e Limitacoes,Governanca,2026-03-04,2026-03-26,Concluido,94.0,1.4
+TR001478,C15-E0068,C15,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-12-30,,Nao Iniciado,,1.1
+TR001479,C15-E0068,C15,Automatizacao de Tarefas com IA,Produtividade,2025-06-20,2025-07-01,Concluido,95.0,2.7
+TR001480,C15-E0049,C15,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-07-15,,Nao Iniciado,,1.9
+TR001481,C15-E0049,C15,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-02-01,,Em Andamento,,1.5
+TR001482,C15-E0058,C15,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-09-26,2025-10-03,Concluido,65.0,3.9
+TR001483,C15-E0048,C15,Automatizacao de Tarefas com IA,Produtividade,2025-12-19,2026-02-03,Concluido,72.0,2.3
+TR001484,C15-E0066,C15,Prompt Engineering na Pratica,IA Generativa,2026-04-13,,Em Andamento,,3.4
+TR001485,C15-E0003,C15,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-03-05,2026-04-01,Concluido,84.0,1.6
+TR001486,C15-E0003,C15,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-08-22,,Em Andamento,,0.9
+TR001487,C15-E0064,C15,Prompt Engineering na Pratica,IA Generativa,2026-03-21,,Em Andamento,,3.1
+TR001488,C15-E0064,C15,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-07-28,2026-08-10,Concluido,65.0,0.9
+TR001489,C15-E0001,C15,IA Responsavel: Vieses e Limitacoes,Governanca,2025-12-08,2025-12-18,Concluido,73.0,1.7
+TR001490,C15-E0001,C15,Automatizacao de Tarefas com IA,Produtividade,2025-06-07,2025-06-15,Concluido,57.0,2.3
+TR001491,C15-E0015,C15,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-06-25,2025-07-29,Concluido,84.0,1.8
+TR001492,C15-E0015,C15,IA Responsavel: Vieses e Limitacoes,Governanca,2026-04-06,2026-05-19,Concluido,81.0,1.3
+TR001493,C15-E0030,C15,Prompt Engineering na Pratica,IA Generativa,2025-07-16,2025-09-04,Concluido,85.0,2.9
+TR001494,C15-E0011,C15,Analise de Dados com IA,Dados e Analytics,2025-06-11,2025-06-19,Concluido,78.0,3.6
+TR001495,C15-E0040,C15,Etica e Governanca de Dados em IA,Governanca,2025-10-15,2025-11-23,Concluido,63.0,1.9
+TR001496,C15-E0019,C15,Analise de Dados com IA,Dados e Analytics,2025-09-04,,Nao Iniciado,,4.5
+TR001497,C15-E0019,C15,Prompt Engineering na Pratica,IA Generativa,2026-01-10,,Em Andamento,,3.0
+TR001498,C15-E0045,C15,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-10-16,,Em Andamento,,1.4
+TR001499,C15-E0045,C15,Analise de Dados com IA,Dados e Analytics,2026-04-13,,Em Andamento,,4.8
+TR001500,C15-E0082,C15,Prompt Engineering na Pratica,IA Generativa,2026-03-13,2026-04-10,Concluido,63.0,3.1
+TR001501,C16-E0033,C16,Prompt Engineering na Pratica,IA Generativa,2026-07-12,,Em Andamento,,2.7
+TR001502,C16-E0033,C16,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-08-04,,Em Andamento,,2.3
+TR001503,C16-E0019,C16,IA para Times Comerciais,Aplicacoes de Negocio,2026-05-17,2026-05-31,Concluido,87.0,1.6
+TR001504,C16-E0019,C16,Prompt Engineering na Pratica,IA Generativa,2025-09-19,,Nao Iniciado,,3.4
+TR001505,C16-E0019,C16,Fundamentos de IA Generativa,IA Generativa,2026-02-23,,Abandonado,,2.4
+TR001506,C16-E0006,C16,Prompt Engineering na Pratica,IA Generativa,2025-12-05,2026-01-29,Concluido,86.0,2.6
+TR001507,C16-E0006,C16,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-12-20,2026-01-02,Concluido,71.0,0.9
+TR001508,C16-E0004,C16,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-02-03,2026-03-17,Concluido,76.0,1.6
+TR001509,C16-E0004,C16,IA para Times Comerciais,Aplicacoes de Negocio,2025-07-06,2025-08-21,Concluido,92.0,1.4
+TR001510,C16-E0004,C16,Prompt Engineering na Pratica,IA Generativa,2025-12-11,2026-01-02,Concluido,63.0,2.6
+TR001511,C16-E0028,C16,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-07-20,,Nao Iniciado,,2.0
+TR001512,C16-E0028,C16,IA para Times Comerciais,Aplicacoes de Negocio,2025-10-28,,Nao Iniciado,,1.8
+TR001513,C16-E0028,C16,Prompt Engineering na Pratica,IA Generativa,2025-08-31,,Nao Iniciado,,2.7
+TR001514,C16-E0026,C16,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-07-06,2025-07-20,Concluido,84.0,4.3
+TR001515,C16-E0026,C16,Analise de Dados com IA,Dados e Analytics,2025-11-30,2026-01-14,Concluido,86.0,3.8
+TR001516,C16-E0026,C16,Etica e Governanca de Dados em IA,Governanca,2025-09-29,2025-10-04,Concluido,89.0,2.2
+TR001517,C16-E0030,C16,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-11-29,2025-12-08,Concluido,85.0,4.5
+TR001518,C16-E0001,C16,IA para Times Comerciais,Aplicacoes de Negocio,2026-02-11,,Em Andamento,,1.7
+TR001519,C16-E0034,C16,IA para Times Comerciais,Aplicacoes de Negocio,2026-06-13,2026-08-10,Concluido,72.0,1.7
+TR001520,C16-E0024,C16,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-24,2026-05-31,Concluido,61.0,2.3
+TR001521,C16-E0022,C16,Automatizacao de Tarefas com IA,Produtividade,2026-07-12,2026-08-10,Concluido,86.0,2.5
+TR001522,C16-E0002,C16,Etica e Governanca de Dados em IA,Governanca,2025-07-26,2025-09-11,Concluido,100.0,1.9
+TR001523,C17-E0031,C17,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-10-10,,Nao Iniciado,,4.5
+TR001524,C17-E0002,C17,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-06-13,,Nao Iniciado,,3.5
+TR001525,C17-E0037,C17,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-03-25,,Em Andamento,,1.1
+TR001526,C17-E0037,C17,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-12-24,2026-02-13,Concluido,56.0,1.5
+TR001527,C17-E0032,C17,Fundamentos de IA Generativa,IA Generativa,2026-07-19,2026-08-01,Concluido,87.0,2.1
+TR001528,C17-E0019,C17,Prompt Engineering na Pratica,IA Generativa,2025-06-07,2025-08-06,Concluido,91.0,3.2
+TR001529,C17-E0004,C17,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-09-01,,Em Andamento,,1.7
+TR001530,C17-E0004,C17,IA para Times Comerciais,Aplicacoes de Negocio,2026-03-07,,Nao Iniciado,,1.5
+TR001531,C17-E0004,C17,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-05-05,2026-06-27,Concluido,58.0,4.7
+TR001532,C17-E0036,C17,Etica e Governanca de Dados em IA,Governanca,2025-11-22,2025-12-02,Concluido,85.0,2.3
+TR001533,C17-E0048,C17,IA para Times Comerciais,Aplicacoes de Negocio,2026-01-28,,Em Andamento,,1.6
+TR001534,C17-E0048,C17,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-12,2026-02-15,Concluido,78.0,0.9
+TR001535,C17-E0006,C17,IA Responsavel: Vieses e Limitacoes,Governanca,2025-09-23,,Em Andamento,,1.6
+TR001536,C17-E0030,C17,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2025-09-02,2025-10-01,Concluido,74.0,1.6
+TR001537,C17-E0014,C17,Fundamentos de IA Generativa,IA Generativa,2025-06-24,,Em Andamento,,2.0
+TR001538,C17-E0014,C17,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-11-01,,Em Andamento,,4.5
+TR001539,C17-E0018,C17,Analise de Dados com IA,Dados e Analytics,2025-09-13,2025-09-26,Concluido,100.0,3.7
+TR001540,C17-E0047,C17,Analise de Dados com IA,Dados e Analytics,2026-04-03,2026-05-10,Concluido,55.0,4.6
+TR001541,C17-E0047,C17,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-07-24,2026-08-10,Concluido,75.0,1.1
+TR001542,C17-E0009,C17,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-13,2025-07-02,Concluido,60.0,3.5
+TR001543,C17-E0003,C17,IA Responsavel: Vieses e Limitacoes,Governanca,2026-01-01,2026-01-10,Concluido,71.0,1.4
+TR001544,C17-E0024,C17,IA para Times Comerciais,Aplicacoes de Negocio,2025-12-28,2026-01-24,Concluido,67.0,1.7
+TR001545,C17-E0024,C17,Automatizacao de Tarefas com IA,Produtividade,2026-07-31,2026-08-10,Concluido,77.0,2.6
+TR001546,C17-E0008,C17,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-19,2026-07-05,Concluido,82.0,2.2
+TR001547,C17-E0028,C17,Automatizacao de Tarefas com IA,Produtividade,2026-07-02,2026-08-10,Concluido,75.0,2.3
+TR001548,C17-E0044,C17,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-01-22,2026-03-23,Concluido,99.0,0.9
+TR001549,C17-E0044,C17,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-05-01,,Nao Iniciado,,1.4
+TR001550,C17-E0007,C17,Analise de Dados com IA,Dados e Analytics,2026-03-13,,Nao Iniciado,,3.6
+TR001551,C17-E0035,C17,Fundamentos de IA Generativa,IA Generativa,2026-06-12,2026-08-10,Concluido,55.0,2.4
+TR001552,C17-E0010,C17,Prompt Engineering na Pratica,IA Generativa,2025-11-05,2025-12-19,Concluido,82.0,3.6
+TR001553,C18-E0060,C18,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-09-06,2025-10-03,Concluido,75.0,4.4
+TR001554,C18-E0060,C18,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-23,,Abandonado,,1.4
+TR001555,C18-E0002,C18,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-06-28,,Em Andamento,,4.7
+TR001556,C18-E0003,C18,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-01-05,2026-01-11,Concluido,80.0,2.4
+TR001557,C18-E0017,C18,Etica e Governanca de Dados em IA,Governanca,2026-04-21,2026-06-07,Concluido,64.0,2.3
+TR001558,C18-E0039,C18,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-06-23,2025-07-10,Concluido,91.0,1.9
+TR001559,C18-E0039,C18,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-01-19,,Nao Iniciado,,1.8
+TR001560,C18-E0058,C18,Fundamentos de IA Generativa,IA Generativa,2026-06-21,,Abandonado,,2.2
+TR001561,C18-E0006,C18,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-07-16,2025-08-29,Concluido,91.0,1.1
+TR001562,C18-E0006,C18,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-05-06,2026-06-11,Concluido,72.0,2.1
+TR001563,C18-E0048,C18,IA Responsavel: Vieses e Limitacoes,Governanca,2026-06-16,,Nao Iniciado,,1.7
+TR001564,C18-E0050,C18,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-07-23,,Em Andamento,,3.8
+TR001565,C18-E0040,C18,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-08-26,2025-10-21,Concluido,67.0,2.2
+TR001566,C18-E0014,C18,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2025-10-02,2025-11-07,Concluido,82.0,1.2
+TR001567,C18-E0055,C18,Prompt Engineering na Pratica,IA Generativa,2025-06-12,,Nao Iniciado,,3.0
+TR001568,C18-E0062,C18,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2025-10-13,2025-12-11,Concluido,70.0,1.8
+TR001569,C18-E0064,C18,Analise de Dados com IA,Dados e Analytics,2026-04-07,2026-06-03,Concluido,55.0,4.0
+TR001570,C18-E0056,C18,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-05-27,2026-07-21,Concluido,92.0,1.7
+TR001571,C18-E0056,C18,IA Responsavel: Vieses e Limitacoes,Governanca,2026-03-15,,Abandonado,,1.5
+TR001572,C18-E0021,C18,IA Responsavel: Vieses e Limitacoes,Governanca,2026-01-02,2026-01-21,Concluido,61.0,1.5
+TR001573,C18-E0021,C18,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-05-04,2026-05-15,Concluido,87.0,1.4
+TR001574,C18-E0035,C18,Fundamentos de IA Generativa,IA Generativa,2025-09-24,,Em Andamento,,2.0
+TR001575,C18-E0035,C18,Prompt Engineering na Pratica,IA Generativa,2026-02-05,2026-03-28,Concluido,66.0,2.6
+TR001576,C18-E0011,C18,Prompt Engineering na Pratica,IA Generativa,2026-04-21,,Nao Iniciado,,3.6
+TR001577,C18-E0034,C18,LGPD e Ferramentas de IA,Seguranca e Compliance,2025-11-13,,Abandonado,,2.0
+TR001578,C18-E0042,C18,Etica e Governanca de Dados em IA,Governanca,2025-07-15,2025-08-14,Concluido,60.0,2.4
+TR001579,C18-E0013,C18,Etica e Governanca de Dados em IA,Governanca,2026-02-23,2026-03-15,Concluido,58.0,1.8
+TR001580,C18-E0013,C18,IA Responsavel: Vieses e Limitacoes,Governanca,2025-07-29,2025-08-25,Concluido,75.0,1.6
+TR001581,C18-E0013,C18,Fundamentos de IA Generativa,IA Generativa,2025-10-01,2025-11-27,Concluido,97.0,2.0
+TR001582,C18-E0007,C18,LGPD e Ferramentas de IA,Seguranca e Compliance,2026-02-15,2026-03-12,Concluido,78.0,2.3
+TR001583,C18-E0007,C18,Introducao ao ChatGPT Enterprise,Ferramentas Corporativas,2026-04-06,,Em Andamento,,0.9
+TR001584,C18-E0033,C18,Seguranca da Informacao e Uso de IA,Seguranca e Compliance,2026-05-29,2026-06-09,Concluido,75.0,1.7
+TR001585,C18-E0033,C18,Analise de Dados com IA,Dados e Analytics,2026-03-07,2026-05-03,Concluido,69.0,4.3
+TR001586,C18-E0069,C18,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-02-07,2026-03-19,Concluido,74.0,2.3
+TR001587,C18-E0069,C18,Etica e Governanca de Dados em IA,Governanca,2025-11-18,2025-12-23,Concluido,63.0,2.1
+TR001588,C18-E0069,C18,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2025-07-20,2025-09-02,Concluido,75.0,4.7
+TR001589,C18-E0028,C18,Etica e Governanca de Dados em IA,Governanca,2025-07-18,2025-09-09,Concluido,89.0,2.2
+TR001590,C18-E0066,C18,Copilot para Desenvolvedores,Ferramentas de Desenvolvimento,2026-03-22,2026-05-21,Concluido,77.0,3.9
+TR001591,C18-E0037,C18,Prompt Engineering na Pratica,IA Generativa,2025-06-15,2025-06-28,Concluido,73.0,3.0
+TR001592,C18-E0057,C18,Fundamentos de IA Generativa,IA Generativa,2026-03-06,2026-04-10,Concluido,76.0,2.1
+TR001593,C18-E0012,C18,Analise de Dados com IA,Dados e Analytics,2026-05-02,2026-06-09,Concluido,66.0,4.4
+TR001594,C18-E0019,C18,Fundamentos de IA Generativa,IA Generativa,2025-06-10,2025-08-01,Concluido,64.0,2.3
+TR001595,C18-E0019,C18,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-06-22,2026-07-03,Concluido,63.0,2.0
+TR001596,C18-E0004,C18,Analise de Dados com IA,Dados e Analytics,2026-07-13,2026-08-08,Concluido,72.0,4.0
+TR001597,C18-E0031,C18,Microsoft 365 Copilot na Pratica,Ferramentas Corporativas,2026-05-23,,Abandonado,,2.2

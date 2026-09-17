@@ -1,0 +1,93 @@
+services:
+
+  postgres:
+    image: postgres:17-alpine
+    container_name: qsoft-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: iadb
+      POSTGRES_USER: ia
+      POSTGRES_PASSWORD: ia
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ia -d iadb"]
+      interval: 5s
+      timeout: 3s
+      retries: 15
+    networks:
+      - app_net
+
+  pgadmin:
+    image: dpage/pgadmin4:9
+    container_name: qsoft-pgadmin
+    restart: unless-stopped
+    depends_on:
+      - postgres
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+      PGADMIN_CONFIG_SERVER_MODE: "False"
+    ports:
+      - "5050:80"
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+    networks:
+      - app_net
+
+  alert-service:
+    build:
+      context: ./alert-service
+    container_name: qsoft-alert-service
+    restart: unless-stopped
+    environment:
+      PORT: 3001
+    ports:
+      - "3001:3001"
+    networks:
+      - app_net
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: qsoft-backend
+    restart: unless-stopped
+    environment:
+      DB_URL: jdbc:postgresql://postgres:5432/iadb
+      DB_USER: ia
+      DB_PASSWORD: ia
+      ALERT_SERVICE_URL: http://alert-service:3001
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres
+      - alert-service
+    networks:
+      - app_net
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: qsoft-frontend-bff
+    restart: unless-stopped
+    environment:
+      PORT: 3000
+      API_BASE_URL: http://backend:8080
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    networks:
+      - app_net
+
+volumes:
+  postgres_data:
+  pgadmin_data:
+
+networks:
+  app_net:
+    driver: bridge

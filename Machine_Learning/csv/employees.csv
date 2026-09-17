@@ -1,0 +1,2357 @@
+employee_id,company_id,department_id,job_role,seniority,hire_date,cost_center,active
+C01-E0001,C01,C01-D02,Engenheiro(a) DevOps,Pleno,2026-03-01,CC-C01-D02,False
+C01-E0002,C01,C01-D10,Analista Financeiro,Junior,2023-12-10,CC-C01-D10,True
+C01-E0003,C01,C01-D07,Analista de Marketing,Junior,2025-06-20,CC-C01-D07,True
+C01-E0004,C01,C01-D05,Analista de Dados,Senior,2025-12-12,CC-C01-D05,True
+C01-E0005,C01,C01-D01,Desenvolvedor(a) Frontend,Pleno,2020-10-11,CC-C01-D01,True
+C01-E0006,C01,C01-D01,Desenvolvedor(a) Frontend,Senior,2022-02-06,CC-C01-D01,True
+C01-E0007,C01,C01-D01,Engenheiro(a) de Software,Junior,2023-12-22,CC-C01-D01,True
+C01-E0008,C01,C01-D08,Especialista em Atendimento,Pleno,2026-05-16,CC-C01-D08,False
+C01-E0009,C01,C01-D05,Analista de Dados,Pleno,2021-09-14,CC-C01-D05,True
+C01-E0010,C01,C01-D06,Executivo(a) de Vendas,Pleno,2024-01-12,CC-C01-D06,True
+C01-E0011,C01,C01-D01,Desenvolvedor(a) Full Stack,Especialista,2025-07-17,CC-C01-D01,True
+C01-E0012,C01,C01-D10,Analista Financeiro,Gerente,2024-02-07,CC-C01-D10,True
+C01-E0013,C01,C01-D08,Especialista em Atendimento,Pleno,2025-12-16,CC-C01-D08,True
+C01-E0014,C01,C01-D01,Desenvolvedor(a) Backend,Senior,2020-08-29,CC-C01-D01,True
+C01-E0015,C01,C01-D01,Desenvolvedor(a) Backend,Pleno,2023-02-27,CC-C01-D01,True
+C01-E0016,C01,C01-D01,Desenvolvedor(a) Full Stack,Pleno,2024-04-15,CC-C01-D01,True
+C01-E0017,C01,C01-D02,Engenheiro(a) DevOps,Senior,2022-05-29,CC-C01-D02,True
+C01-E0018,C01,C01-D04,Engenheiro(a) de Testes,Senior,2025-09-01,CC-C01-D04,True
+C01-E0019,C01,C01-D03,Product Manager,Gerente,2023-12-26,CC-C01-D03,True
+C01-E0020,C01,C01-D01,Desenvolvedor(a) Full Stack,Gerente,2025-03-15,CC-C01-D01,True
+C01-E0021,C01,C01-D05,Analista de Dados,Junior,2023-06-14,CC-C01-D05,True
+C01-E0022,C01,C01-D01,Desenvolvedor(a) Backend,Junior,2024-07-11,CC-C01-D01,True
+C01-E0023,C01,C01-D01,Desenvolvedor(a) Frontend,Pleno,2024-08-11,CC-C01-D01,True
+C01-E0024,C01,C01-D02,Engenheiro(a) de Infraestrutura,Gerente,2020-12-04,CC-C01-D02,True
+C01-E0025,C01,C01-D03,Analista de Produto,Senior,2024-11-19,CC-C01-D03,True
+C01-E0026,C01,C01-D08,Analista de Suporte,Junior,2023-11-16,CC-C01-D08,True
+C01-E0027,C01,C01-D01,Desenvolvedor(a) Full Stack,Pleno,2021-12-11,CC-C01-D01,True
+C01-E0028,C01,C01-D04,Analista de QA,Pleno,2022-12-01,CC-C01-D04,True
+C01-E0029,C01,C01-D05,Engenheiro(a) de Dados,Pleno,2022-01-03,CC-C01-D05,False
+C01-E0030,C01,C01-D01,Engenheiro(a) de Software,Junior,2024-11-03,CC-C01-D01,True
+C01-E0031,C01,C01-D05,Analista de Dados,Pleno,2023-07-01,CC-C01-D05,True
+C01-E0032,C01,C01-D01,Engenheiro(a) de Software,Senior,2021-01-30,CC-C01-D01,True
+C01-E0033,C01,C01-D01,Desenvolvedor(a) Full Stack,Senior,2024-11-19,CC-C01-D01,False
+C01-E0034,C01,C01-D10,Analista Financeiro,Especialista,2023-04-05,CC-C01-D10,True
+C01-E0035,C01,C01-D10,Analista Financeiro,Junior,2025-03-19,CC-C01-D10,True
+C01-E0036,C01,C01-D08,Analista de Suporte,Gerente,2021-09-03,CC-C01-D08,True
+C01-E0037,C01,C01-D02,Site Reliability Engineer,Pleno,2025-09-24,CC-C01-D02,True
+C01-E0038,C01,C01-D01,Engenheiro(a) de Software,Senior,2023-02-24,CC-C01-D01,False
+C01-E0039,C01,C01-D06,Coordenador(a) de Vendas,Pleno,2026-04-25,CC-C01-D06,True
+C01-E0040,C01,C01-D03,Product Manager,Gerente,2022-04-17,CC-C01-D03,True
+C01-E0041,C01,C01-D01,Desenvolvedor(a) Full Stack,Senior,2021-10-21,CC-C01-D01,True
+C01-E0042,C01,C01-D04,Analista de QA,Pleno,2023-02-25,CC-C01-D04,True
+C01-E0043,C01,C01-D01,Engenheiro(a) de Software,Senior,2026-02-05,CC-C01-D01,True
+C01-E0044,C01,C01-D09,Recrutador(a),Junior,2023-06-29,CC-C01-D09,True
+C01-E0045,C01,C01-D01,Desenvolvedor(a) Frontend,Pleno,2020-10-01,CC-C01-D01,True
+C01-E0046,C01,C01-D06,Coordenador(a) de Vendas,Pleno,2023-02-05,CC-C01-D06,True
+C01-E0047,C01,C01-D02,Site Reliability Engineer,Pleno,2024-03-19,CC-C01-D02,True
+C01-E0048,C01,C01-D04,Analista de QA,Pleno,2026-06-09,CC-C01-D04,True
+C01-E0049,C01,C01-D04,Engenheiro(a) de Testes,Especialista,2026-01-03,CC-C01-D04,True
+C01-E0050,C01,C01-D01,Desenvolvedor(a) Full Stack,Pleno,2022-12-30,CC-C01-D01,False
+C01-E0051,C01,C01-D10,Analista Financeiro,Pleno,2025-07-24,CC-C01-D10,True
+C01-E0052,C01,C01-D07,Coordenador(a) de Marketing,Junior,2025-09-01,CC-C01-D07,True
+C01-E0053,C01,C01-D09,Recrutador(a),Senior,2021-10-27,CC-C01-D09,True
+C01-E0054,C01,C01-D08,Especialista em Atendimento,Senior,2020-10-21,CC-C01-D08,True
+C01-E0055,C01,C01-D05,Engenheiro(a) de Dados,Junior,2021-09-12,CC-C01-D05,True
+C01-E0056,C01,C01-D09,Recrutador(a),Junior,2024-03-10,CC-C01-D09,True
+C01-E0057,C01,C01-D01,Engenheiro(a) de Software,Pleno,2022-04-04,CC-C01-D01,True
+C01-E0058,C01,C01-D01,Engenheiro(a) de Software,Pleno,2025-02-01,CC-C01-D01,True
+C01-E0059,C01,C01-D01,Desenvolvedor(a) Backend,Especialista,2024-03-21,CC-C01-D01,True
+C01-E0060,C01,C01-D02,Site Reliability Engineer,Junior,2023-11-12,CC-C01-D02,True
+C01-E0061,C01,C01-D03,Product Manager,Pleno,2025-08-25,CC-C01-D03,True
+C01-E0062,C01,C01-D01,Desenvolvedor(a) Backend,Junior,2023-11-17,CC-C01-D01,True
+C01-E0063,C01,C01-D08,Analista de Suporte,Especialista,2021-04-18,CC-C01-D08,True
+C01-E0064,C01,C01-D02,Site Reliability Engineer,Pleno,2023-10-11,CC-C01-D02,True
+C01-E0065,C01,C01-D01,Engenheiro(a) de Software,Pleno,2024-01-16,CC-C01-D01,True
+C01-E0066,C01,C01-D04,Engenheiro(a) de Testes,Junior,2023-09-20,CC-C01-D04,True
+C01-E0067,C01,C01-D01,Engenheiro(a) de Software,Senior,2025-01-18,CC-C01-D01,True
+C01-E0068,C01,C01-D08,Especialista em Atendimento,Pleno,2022-06-21,CC-C01-D08,True
+C01-E0069,C01,C01-D01,Engenheiro(a) de Software,Junior,2025-11-02,CC-C01-D01,True
+C01-E0070,C01,C01-D11,Analista Juridico,Pleno,2025-10-06,CC-C01-D11,False
+C01-E0071,C01,C01-D07,Coordenador(a) de Marketing,Junior,2025-03-21,CC-C01-D07,True
+C01-E0072,C01,C01-D01,Desenvolvedor(a) Frontend,Junior,2021-05-31,CC-C01-D01,True
+C01-E0073,C01,C01-D01,Desenvolvedor(a) Frontend,Especialista,2024-07-21,CC-C01-D01,True
+C01-E0074,C01,C01-D08,Analista de Suporte,Junior,2021-06-22,CC-C01-D08,True
+C01-E0075,C01,C01-D06,Coordenador(a) de Vendas,Senior,2025-07-26,CC-C01-D06,True
+C01-E0076,C01,C01-D06,Coordenador(a) de Vendas,Especialista,2021-06-05,,True
+C01-E0077,C01,C01-D07,Analista de Marketing,Junior,2023-10-17,CC-C01-D07,True
+C01-E0078,C01,C01-D01,Engenheiro(a) de Software,Pleno,2021-01-17,CC-C01-D01,True
+C01-E0079,C01,C01-D02,Engenheiro(a) de Infraestrutura,Pleno,2025-10-14,CC-C01-D02,True
+C01-E0080,C01,C01-D01,Desenvolvedor(a) Backend,Pleno,2022-01-24,CC-C01-D01,True
+C01-E0081,C01,C01-D08,Especialista em Atendimento,Junior,2023-03-31,CC-C01-D08,True
+C01-E0082,C01,C01-D05,Cientista de Dados,Senior,2021-09-21,CC-C01-D05,True
+C01-E0083,C01,C01-D02,Site Reliability Engineer,Pleno,2020-12-26,CC-C01-D02,True
+C01-E0084,C01,C01-D01,Desenvolvedor(a) Full Stack,Junior,2024-01-02,CC-C01-D01,True
+C01-E0085,C01,C01-D02,Site Reliability Engineer,Senior,2021-12-28,CC-C01-D02,True
+C01-E0086,C01,C01-D02,Site Reliability Engineer,Junior,2022-12-05,CC-C01-D02,True
+C01-E0087,C01,C01-D06,Coordenador(a) de Vendas,Pleno,2021-02-05,CC-C01-D06,True
+C01-E0088,C01,C01-D06,Coordenador(a) de Vendas,Pleno,2024-09-05,CC-C01-D06,True
+C01-E0089,C01,C01-D08,Analista de Suporte,Pleno,2024-05-11,CC-C01-D08,True
+C01-E0090,C01,C01-D04,Analista de QA,Pleno,2023-10-22,CC-C01-D04,True
+C01-E0091,C01,C01-D01,Desenvolvedor(a) Frontend,Pleno,2025-12-31,CC-C01-D01,True
+C01-E0092,C01,C01-D06,Representante Comercial,Junior,2022-11-24,CC-C01-D06,True
+C01-E0093,C01,C01-D07,Analista de Marketing,Pleno,2022-12-03,CC-C01-D07,True
+C01-E0094,C01,C01-D05,Engenheiro(a) de Dados,Junior,2024-12-22,CC-C01-D05,True
+C01-E0095,C01,C01-D07,Coordenador(a) de Marketing,Pleno,2021-04-26,CC-C01-D07,True
+C01-E0096,C01,C01-D04,Analista de QA,Junior,2026-05-04,CC-C01-D04,True
+C01-E0097,C01,C01-D04,Analista de QA,Pleno,2025-08-15,CC-C01-D04,True
+C01-E0098,C01,C01-D03,Analista de Produto,Senior,2024-08-17,CC-C01-D03,True
+C01-E0099,C01,C01-D01,Desenvolvedor(a) Full Stack,Pleno,2025-09-03,CC-C01-D01,True
+C01-E0100,C01,C01-D01,Desenvolvedor(a) Full Stack,Pleno,2023-04-01,CC-C01-D01,True
+C01-E0101,C01,C01-D01,Desenvolvedor(a) Full Stack,Especialista,2022-09-08,CC-C01-D01,True
+C01-E0102,C01,C01-D06,Coordenador(a) de Vendas,Junior,2026-05-10,CC-C01-D06,True
+C01-E0103,C01,C01-D02,Site Reliability Engineer,Pleno,2023-02-01,CC-C01-D02,True
+C01-E0104,C01,C01-D04,Analista de QA,Pleno,2024-12-08,CC-C01-D04,True
+C01-E0105,C01,C01-D09,Analista de RH,Senior,2021-12-14,CC-C01-D09,False
+C01-E0106,C01,C01-D01,Desenvolvedor(a) Full Stack,Gerente,2024-07-14,CC-C01-D01,True
+C01-E0107,C01,C01-D03,Analista de Produto,Especialista,2024-03-11,CC-C01-D03,True
+C01-E0108,C01,C01-D07,Especialista em Midias Digitais,Junior,2023-06-26,CC-C01-D07,True
+C01-E0109,C01,C01-D01,Desenvolvedor(a) Full Stack,Junior,2025-11-15,CC-C01-D01,True
+C01-E0110,C01,C01-D01,Engenheiro(a) de Software,Pleno,2023-05-05,CC-C01-D01,True
+C01-E0111,C01,C01-D01,Desenvolvedor(a) Full Stack,Pleno,2024-12-23,CC-C01-D01,True
+C01-E0112,C01,C01-D01,Desenvolvedor(a) Full Stack,Pleno,2024-08-19,CC-C01-D01,True
+C01-E0113,C01,C01-D09,Recrutador(a),Pleno,2021-08-25,CC-C01-D09,True
+C01-E0114,C01,C01-D08,Analista de Suporte,Junior,2025-08-07,CC-C01-D08,True
+C01-E0115,C01,C01-D06,Coordenador(a) de Vendas,Gerente,2021-01-17,CC-C01-D06,True
+C01-E0116,C01,C01-D08,Analista de Suporte,Junior,2022-04-21,CC-C01-D08,True
+C01-E0117,C01,C01-D08,Analista de Suporte,Junior,2021-08-16,CC-C01-D08,True
+C01-E0118,C01,C01-D01,Desenvolvedor(a) Full Stack,Senior,2024-01-27,CC-C01-D01,True
+C01-E0119,C01,C01-D08,Analista de Suporte,Pleno,2022-06-07,CC-C01-D08,True
+C01-E0120,C01,C01-D04,Analista de QA,Senior,2022-05-18,CC-C01-D04,False
+C01-E0121,C01,C01-D08,Especialista em Atendimento,Junior,2024-09-16,CC-C01-D08,True
+C01-E0122,C01,C01-D08,Analista de Suporte,Senior,2021-04-08,CC-C01-D08,True
+C01-E0123,C01,C01-D02,Engenheiro(a) DevOps,Junior,2021-10-27,CC-C01-D02,True
+C01-E0124,C01,C01-D01,Desenvolvedor(a) Full Stack,Senior,2021-09-23,CC-C01-D01,True
+C01-E0125,C01,C01-D01,Desenvolvedor(a) Frontend,Junior,2023-06-15,CC-C01-D01,True
+C01-E0126,C01,C01-D03,Analista de Produto,Senior,2025-07-05,CC-C01-D03,True
+C01-E0127,C01,C01-D08,Analista de Suporte,Especialista,2021-04-20,CC-C01-D08,True
+C01-E0128,C01,C01-D08,Analista de Suporte,Senior,2021-07-15,CC-C01-D08,True
+C01-E0129,C01,C01-D01,Desenvolvedor(a) Full Stack,Pleno,2023-01-08,CC-C01-D01,True
+C01-E0130,C01,C01-D04,Analista de QA,Pleno,2023-12-11,CC-C01-D04,True
+C01-E0131,C01,C01-D03,Product Manager,Especialista,2023-11-18,CC-C01-D03,True
+C01-E0132,C01,C01-D01,Desenvolvedor(a) Backend,Pleno,2023-04-25,CC-C01-D01,True
+C01-E0133,C01,C01-D01,Engenheiro(a) de Software,Pleno,2022-09-24,CC-C01-D01,True
+C01-E0134,C01,C01-D02,Engenheiro(a) DevOps,Gerente,2021-03-13,CC-C01-D02,True
+C01-E0135,C01,C01-D10,Analista Financeiro,Junior,2023-06-20,CC-C01-D10,True
+C01-E0136,C01,C01-D02,Site Reliability Engineer,Senior,2023-09-06,CC-C01-D02,True
+C01-E0137,C01,C01-D04,Engenheiro(a) de Testes,Junior,2021-07-20,CC-C01-D04,True
+C01-E0138,C01,C01-D06,Coordenador(a) de Vendas,Junior,2025-02-23,CC-C01-D06,True
+C01-E0139,C01,C01-D02,Site Reliability Engineer,Pleno,2024-04-24,CC-C01-D02,True
+C01-E0140,C01,C01-D10,Analista de Contas a Pagar,Junior,2021-07-21,,True
+C01-E0141,C01,C01-D10,Analista de Contas a Pagar,Pleno,2024-03-26,CC-C01-D10,True
+C01-E0142,C01,C01-D01,Desenvolvedor(a) Backend,Senior,2020-10-17,CC-C01-D01,False
+C01-E0143,C01,C01-D04,Engenheiro(a) de Testes,Junior,2022-12-04,CC-C01-D04,True
+C01-E0144,C01,C01-D02,Engenheiro(a) DevOps,Pleno,2023-01-28,CC-C01-D02,True
+C01-E0145,C01,C01-D01,Engenheiro(a) de Software,Senior,2024-04-14,CC-C01-D01,True
+C01-E0146,C01,C01-D01,Desenvolvedor(a) Full Stack,Senior,2023-01-03,CC-C01-D01,True
+C01-E0147,C01,C01-D05,Engenheiro(a) de Dados,Senior,2022-05-22,CC-C01-D05,True
+C01-E0148,C01,C01-D04,Analista de QA,Pleno,2023-01-26,CC-C01-D04,True
+C01-E0149,C01,C01-D01,Desenvolvedor(a) Backend,Junior,2023-01-14,CC-C01-D01,False
+C01-E0150,C01,C01-D01,Engenheiro(a) de Software,Especialista,2021-09-16,CC-C01-D01,True
+C01-E0151,C01,C01-D09,Recrutador(a),Senior,2024-04-23,CC-C01-D09,True
+C01-E0152,C01,C01-D01,Engenheiro(a) de Software,Junior,2024-01-18,CC-C01-D01,False
+C01-E0153,C01,C01-D01,Desenvolvedor(a) Frontend,Junior,2025-06-29,CC-C01-D01,True
+C01-E0154,C01,C01-D04,Engenheiro(a) de Testes,Senior,2025-08-04,CC-C01-D04,True
+C01-E0155,C01,C01-D11,Analista Juridico,Gerente,2022-05-06,CC-C01-D11,False
+C01-E0156,C01,C01-D01,Desenvolvedor(a) Frontend,Pleno,2024-10-16,CC-C01-D01,True
+C01-E0157,C01,C01-D06,Executivo(a) de Vendas,Pleno,2021-02-11,CC-C01-D06,True
+C01-E0158,C01,C01-D07,Analista de Marketing,Junior,2021-05-03,CC-C01-D07,True
+C01-E0159,C01,C01-D01,Desenvolvedor(a) Frontend,Senior,2022-02-01,CC-C01-D01,True
+C01-E0160,C01,C01-D06,Representante Comercial,Junior,2021-12-18,CC-C01-D06,True
+C01-E0161,C01,C01-D02,Site Reliability Engineer,Junior,2026-05-20,CC-C01-D02,True
+C01-E0162,C01,C01-D06,Executivo(a) de Vendas,Gerente,2021-10-01,CC-C01-D06,True
+C01-E0163,C01,C01-D06,Executivo(a) de Vendas,Pleno,2020-08-20,CC-C01-D06,True
+C01-E0164,C01,C01-D04,Analista de QA,Senior,2020-12-21,CC-C01-D04,True
+C01-E0165,C01,C01-D01,Engenheiro(a) de Software,Senior,2025-05-14,CC-C01-D01,True
+C01-E0166,C01,C01-D08,Especialista em Atendimento,Pleno,2021-06-25,CC-C01-D08,True
+C01-E0167,C01,C01-D02,Site Reliability Engineer,Junior,2020-10-13,CC-C01-D02,False
+C01-E0168,C01,C01-D01,Engenheiro(a) de Software,Junior,2024-08-29,CC-C01-D01,False
+C01-E0169,C01,C01-D01,Engenheiro(a) de Software,Junior,2021-05-25,CC-C01-D01,True
+C01-E0170,C01,C01-D05,Analista de Dados,Gerente,2021-05-28,CC-C01-D05,True
+C01-E0171,C01,C01-D06,Coordenador(a) de Vendas,Senior,2023-05-26,CC-C01-D06,True
+C01-E0172,C01,C01-D01,Desenvolvedor(a) Full Stack,Junior,2021-07-06,CC-C01-D01,True
+C01-E0173,C01,C01-D04,Engenheiro(a) de Testes,Pleno,2023-10-25,CC-C01-D04,True
+C01-E0174,C01,C01-D01,Desenvolvedor(a) Full Stack,Senior,2021-02-09,CC-C01-D01,True
+C01-E0175,C01,C01-D06,Executivo(a) de Vendas,Junior,2024-10-02,CC-C01-D06,True
+C01-E0176,C01,C01-D01,Desenvolvedor(a) Frontend,Junior,2024-01-17,CC-C01-D01,True
+C01-E0177,C01,C01-D06,Representante Comercial,Junior,2022-09-25,CC-C01-D06,True
+C01-E0178,C01,C01-D03,Product Owner,Junior,2025-09-29,CC-C01-D03,True
+C01-E0179,C01,C01-D09,Business Partner de RH,Junior,2022-01-28,CC-C01-D09,True
+C01-E0180,C01,C01-D01,Desenvolvedor(a) Backend,Senior,2021-04-24,CC-C01-D01,True
+C01-E0181,C01,C01-D02,Site Reliability Engineer,Pleno,2022-03-06,CC-C01-D02,True
+C01-E0182,C01,C01-D01,Desenvolvedor(a) Full Stack,Senior,2024-06-10,CC-C01-D01,True
+C01-E0183,C01,C01-D09,Business Partner de RH,Especialista,2023-02-05,CC-C01-D09,True
+C01-E0184,C01,C01-D08,Analista de Suporte,Senior,2023-05-19,CC-C01-D08,True
+C01-E0185,C01,C01-D01,Engenheiro(a) de Software,Senior,2023-05-24,CC-C01-D01,True
+C01-E0186,C01,C01-D06,Representante Comercial,Especialista,2022-05-14,CC-C01-D06,True
+C01-E0187,C01,C01-D08,Especialista em Atendimento,Junior,2024-08-04,CC-C01-D08,True
+C01-E0188,C01,C01-D04,Analista de QA,Senior,2020-08-13,CC-C01-D04,True
+C01-E0189,C01,C01-D04,Analista de QA,Pleno,2022-01-10,CC-C01-D04,True
+C01-E0190,C01,C01-D01,Desenvolvedor(a) Backend,Senior,2025-08-24,CC-C01-D01,True
+C01-E0191,C01,C01-D01,Desenvolvedor(a) Frontend,Junior,2021-04-07,CC-C01-D01,True
+C01-E0192,C01,C01-D08,Especialista em Atendimento,Senior,2023-12-28,CC-C01-D08,False
+C01-E0193,C01,C01-D09,Business Partner de RH,Especialista,2024-04-13,CC-C01-D09,True
+C01-E0194,C01,C01-D06,Representante Comercial,Junior,2023-04-29,CC-C01-D06,True
+C01-E0195,C01,C01-D02,Engenheiro(a) de Infraestrutura,Pleno,2023-08-13,CC-C01-D02,True
+C01-E0196,C01,C01-D02,Engenheiro(a) de Infraestrutura,Junior,2026-03-24,CC-C01-D02,True
+C01-E0197,C01,C01-D06,Executivo(a) de Vendas,Senior,2020-10-11,CC-C01-D06,True
+C01-E0198,C01,C01-D08,Analista de Suporte,Pleno,2025-12-29,CC-C01-D08,True
+C01-E0199,C01,C01-D08,Analista de Suporte,Senior,2024-12-30,CC-C01-D08,True
+C01-E0200,C01,C01-D07,Especialista em Midias Digitais,Gerente,2025-04-05,CC-C01-D07,True
+C01-E0201,C01,C01-D06,Representante Comercial,Especialista,2022-05-12,CC-C01-D06,True
+C01-E0202,C01,C01-D01,Desenvolvedor(a) Frontend,Gerente,2023-07-05,CC-C01-D01,True
+C01-E0203,C01,C01-D01,Desenvolvedor(a) Full Stack,Junior,2024-07-24,CC-C01-D01,True
+C01-E0204,C01,C01-D08,Analista de Suporte,Senior,2021-10-03,CC-C01-D08,True
+C01-E0205,C01,C01-D05,Engenheiro(a) de Dados,Junior,2025-03-26,CC-C01-D05,True
+C01-E0206,C01,C01-D01,Desenvolvedor(a) Full Stack,Senior,2022-11-20,CC-C01-D01,True
+C01-E0207,C01,C01-D01,Engenheiro(a) de Software,Junior,2021-12-30,CC-C01-D01,False
+C01-E0208,C01,C01-D06,Executivo(a) de Vendas,Junior,2025-08-04,CC-C01-D06,True
+C01-E0209,C01,C01-D01,Desenvolvedor(a) Frontend,Pleno,2025-04-20,CC-C01-D01,True
+C01-E0210,C01,C01-D01,Desenvolvedor(a) Full Stack,Junior,2025-02-01,CC-C01-D01,True
+C01-E0211,C01,C01-D04,Analista de QA,Pleno,2022-07-20,CC-C01-D04,True
+C01-E0212,C01,C01-D06,Coordenador(a) de Vendas,Pleno,2022-04-16,CC-C01-D06,True
+C01-E0213,C01,C01-D06,Coordenador(a) de Vendas,Senior,2024-03-15,,True
+C01-E0214,C01,C01-D01,Engenheiro(a) de Software,Junior,2020-12-12,CC-C01-D01,False
+C01-E0215,C01,C01-D06,Representante Comercial,Pleno,2021-04-15,CC-C01-D06,True
+C01-E0216,C01,C01-D01,Engenheiro(a) de Software,Pleno,2024-06-20,CC-C01-D01,True
+C01-E0217,C01,C01-D02,Site Reliability Engineer,Pleno,2023-06-01,CC-C01-D02,True
+C01-E0218,C01,C01-D07,Especialista em Midias Digitais,Pleno,2021-01-08,CC-C01-D07,True
+C01-E0219,C01,C01-D06,Coordenador(a) de Vendas,Junior,2023-06-08,CC-C01-D06,True
+C01-E0220,C01,C01-D08,Analista de Suporte,Junior,2025-06-22,CC-C01-D08,False
+C01-E0221,C01,C01-D06,Representante Comercial,Pleno,2023-09-17,CC-C01-D06,True
+C01-E0222,C01,C01-D05,Cientista de Dados,Pleno,2022-03-12,CC-C01-D05,True
+C01-E0223,C01,C01-D01,Engenheiro(a) de Software,Especialista,2021-05-06,CC-C01-D01,True
+C01-E0224,C01,C01-D02,Engenheiro(a) de Infraestrutura,Pleno,2024-01-25,CC-C01-D02,True
+C01-E0225,C01,C01-D01,Desenvolvedor(a) Full Stack,Junior,2022-08-17,CC-C01-D01,True
+C01-E0226,C01,C01-D01,Desenvolvedor(a) Full Stack,Senior,2022-12-31,,True
+C01-E0227,C01,C01-D10,Analista Financeiro,Senior,2025-08-20,CC-C01-D10,True
+C01-E0228,C01,C01-D03,Product Owner,Junior,2020-12-18,CC-C01-D03,True
+C01-E0229,C01,C01-D08,Analista de Suporte,Pleno,2021-02-07,CC-C01-D08,True
+C01-E0230,C01,C01-D06,Representante Comercial,Pleno,2021-06-02,CC-C01-D06,True
+C01-E0231,C01,C01-D08,Analista de Suporte,Junior,2023-02-22,CC-C01-D08,True
+C01-E0232,C01,C01-D04,Analista de QA,Pleno,2023-01-04,CC-C01-D04,True
+C01-E0233,C01,C01-D05,Engenheiro(a) de Dados,Pleno,2021-02-19,CC-C01-D05,True
+C01-E0234,C01,C01-D04,Engenheiro(a) de Testes,Pleno,2021-09-03,CC-C01-D04,True
+C01-E0235,C01,C01-D01,Desenvolvedor(a) Full Stack,Junior,2022-07-01,CC-C01-D01,True
+C01-E0236,C01,C01-D06,Representante Comercial,Junior,2023-01-03,CC-C01-D06,True
+C01-E0237,C01,C01-D01,Desenvolvedor(a) Backend,Pleno,2024-04-14,CC-C01-D01,True
+C01-E0238,C01,C01-D01,Desenvolvedor(a) Frontend,Gerente,2025-01-15,CC-C01-D01,True
+C01-E0239,C01,C01-D06,Representante Comercial,Pleno,2023-05-06,CC-C01-D06,True
+C01-E0240,C01,C01-D01,Desenvolvedor(a) Full Stack,Junior,2025-04-26,CC-C01-D01,True
+C01-E0241,C01,C01-D10,Controller Junior,Senior,2024-11-03,CC-C01-D10,True
+C01-E0242,C01,C01-D10,Controller Junior,Junior,2026-04-15,CC-C01-D10,True
+C01-E0243,C01,C01-D09,Analista de RH,Senior,2024-07-30,CC-C01-D09,True
+C01-E0244,C01,C01-D02,Engenheiro(a) DevOps,Pleno,2023-03-03,CC-C01-D02,True
+C01-E0245,C01,C01-D01,Desenvolvedor(a) Frontend,Junior,2020-12-09,CC-C01-D01,True
+C01-E0246,C01,C01-D09,Analista de RH,Junior,2023-04-04,CC-C01-D09,True
+C01-E0247,C01,C01-D03,Product Owner,Especialista,2024-03-16,CC-C01-D03,True
+C01-E0248,C01,C01-D10,Analista Financeiro,Gerente,2024-09-12,CC-C01-D10,False
+C01-E0249,C01,C01-D10,Controller Junior,Gerente,2025-06-23,CC-C01-D10,True
+C01-E0250,C01,C01-D08,Especialista em Atendimento,Pleno,2020-12-05,CC-C01-D08,True
+C01-E0251,C01,C01-D01,Desenvolvedor(a) Backend,Junior,2024-09-28,CC-C01-D01,True
+C01-E0252,C01,C01-D03,Analista de Produto,Gerente,2020-10-17,CC-C01-D03,True
+C01-E0253,C01,C01-D08,Analista de Suporte,Pleno,2025-02-11,CC-C01-D08,True
+C01-E0254,C01,C01-D02,Engenheiro(a) de Infraestrutura,Especialista,2022-09-19,CC-C01-D02,True
+C01-E0255,C01,C01-D01,Desenvolvedor(a) Frontend,Pleno,2022-03-06,CC-C01-D01,True
+C01-E0256,C01,C01-D04,Engenheiro(a) de Testes,Senior,2024-06-13,CC-C01-D04,True
+C01-E0257,C01,C01-D09,Business Partner de RH,Senior,2024-05-27,CC-C01-D09,True
+C01-E0258,C01,C01-D06,Executivo(a) de Vendas,Gerente,2022-09-12,CC-C01-D06,True
+C01-E0259,C01,C01-D05,Analista de Dados,Pleno,2024-02-11,CC-C01-D05,True
+C01-E0260,C01,C01-D01,Desenvolvedor(a) Full Stack,Especialista,2022-05-31,CC-C01-D01,True
+C01-E0261,C01,C01-D05,Analista de Dados,Senior,2025-02-21,CC-C01-D05,True
+C01-E0262,C01,C01-D11,Analista Juridico,Senior,2026-02-06,CC-C01-D11,True
+C01-E0263,C01,C01-D01,Engenheiro(a) de Software,Junior,2023-03-07,CC-C01-D01,True
+C01-E0264,C01,C01-D04,Engenheiro(a) de Testes,Pleno,2023-04-10,CC-C01-D04,True
+C01-E0265,C01,C01-D08,Especialista em Atendimento,Pleno,2025-08-24,CC-C01-D08,True
+C01-E0266,C01,C01-D07,Coordenador(a) de Marketing,Pleno,2024-03-23,CC-C01-D07,True
+C01-E0267,C01,C01-D06,Coordenador(a) de Vendas,Senior,2024-11-08,CC-C01-D06,True
+C01-E0268,C01,C01-D06,Representante Comercial,Pleno,2024-11-06,CC-C01-D06,True
+C01-E0269,C01,C01-D02,Engenheiro(a) DevOps,Pleno,2022-12-30,CC-C01-D02,True
+C01-E0270,C01,C01-D01,Desenvolvedor(a) Full Stack,Gerente,2023-08-27,CC-C01-D01,True
+C01-E0271,C01,C01-D08,Especialista em Atendimento,Junior,2021-12-06,CC-C01-D08,True
+C01-E0272,C01,C01-D08,Especialista em Atendimento,Junior,2021-07-14,CC-C01-D08,False
+C01-E0273,C01,C01-D08,Analista de Suporte,Junior,2021-08-07,CC-C01-D08,True
+C01-E0274,C01,C01-D09,Recrutador(a),Senior,2024-09-17,CC-C01-D09,True
+C01-E0275,C01,C01-D04,Analista de QA,Pleno,2026-03-19,CC-C01-D04,True
+C01-E0276,C01,C01-D04,Engenheiro(a) de Testes,Junior,2025-12-29,CC-C01-D04,True
+C01-E0277,C01,C01-D08,Analista de Suporte,Pleno,2021-03-02,CC-C01-D08,True
+C01-E0278,C01,C01-D06,Representante Comercial,Gerente,2020-12-23,CC-C01-D06,True
+C01-E0279,C01,C01-D06,Coordenador(a) de Vendas,Pleno,2021-07-22,CC-C01-D06,True
+C01-E0280,C01,C01-D08,Especialista em Atendimento,Senior,2020-09-06,CC-C01-D08,True
+C01-E0281,C01,C01-D08,Especialista em Atendimento,Junior,2021-11-12,CC-C01-D08,True
+C01-E0282,C01,C01-D02,Site Reliability Engineer,Pleno,2025-04-09,CC-C01-D02,True
+C01-E0283,C01,C01-D02,Engenheiro(a) de Infraestrutura,Junior,2021-10-29,CC-C01-D02,True
+C01-E0284,C01,C01-D01,Desenvolvedor(a) Full Stack,Pleno,2021-12-14,CC-C01-D01,True
+C01-E0285,C01,C01-D05,Cientista de Dados,Junior,2026-01-12,CC-C01-D05,True
+C01-E0286,C01,C01-D01,Desenvolvedor(a) Full Stack,Junior,2023-08-13,CC-C01-D01,True
+C01-E0287,C01,C01-D04,Engenheiro(a) de Testes,Pleno,2020-09-03,CC-C01-D04,True
+C01-E0288,C01,C01-D04,Analista de QA,Gerente,2022-06-06,CC-C01-D04,True
+C01-E0289,C01,C01-D01,Engenheiro(a) de Software,Pleno,2021-10-23,CC-C01-D01,True
+C01-E0290,C01,C01-D05,Cientista de Dados,Junior,2022-05-22,CC-C01-D05,True
+C01-E0291,C01,C01-D01,Engenheiro(a) de Software,Pleno,2021-06-27,CC-C01-D01,True
+C01-E0292,C01,C01-D01,Desenvolvedor(a) Frontend,Junior,2023-06-14,CC-C01-D01,True
+C01-E0293,C01,C01-D08,Especialista em Atendimento,Senior,2023-08-29,CC-C01-D08,True
+C01-E0294,C01,C01-D02,Engenheiro(a) de Infraestrutura,Pleno,2025-01-30,CC-C01-D02,True
+C01-E0295,C01,C01-D01,Desenvolvedor(a) Frontend,Senior,2022-02-19,CC-C01-D01,False
+C01-E0296,C01,C01-D04,Analista de QA,Pleno,2021-11-13,CC-C01-D04,True
+C01-E0297,C01,C01-D07,Analista de Marketing,Gerente,2023-07-12,CC-C01-D07,True
+C01-E0298,C01,C01-D01,Desenvolvedor(a) Frontend,Junior,2020-11-08,CC-C01-D01,True
+C01-E0299,C01,C01-D05,Engenheiro(a) de Dados,Pleno,2020-09-26,CC-C01-D05,True
+C01-E0300,C01,C01-D01,Engenheiro(a) de Software,Gerente,2021-06-08,CC-C01-D01,False
+C01-E0301,C01,C01-D01,Engenheiro(a) de Software,Senior,2024-09-30,CC-C01-D01,True
+C01-E0302,C01,C01-D04,Analista de QA,Junior,2022-02-21,CC-C01-D04,True
+C01-E0303,C01,C01-D04,Analista de QA,Senior,2021-04-09,CC-C01-D04,True
+C01-E0304,C01,C01-D06,Representante Comercial,Junior,2022-08-19,CC-C01-D06,False
+C01-E0305,C01,C01-D06,Coordenador(a) de Vendas,Pleno,2023-06-13,CC-C01-D06,True
+C01-E0306,C01,C01-D10,Controller Junior,Especialista,2022-01-17,CC-C01-D10,True
+C01-E0307,C01,C01-D04,Engenheiro(a) de Testes,Senior,2021-04-06,CC-C01-D04,True
+C01-E0308,C01,C01-D02,Site Reliability Engineer,Senior,2023-05-27,CC-C01-D02,True
+C01-E0309,C01,C01-D08,Especialista em Atendimento,Pleno,2021-05-03,CC-C01-D08,True
+C01-E0310,C01,C01-D01,Desenvolvedor(a) Frontend,Pleno,2023-10-07,CC-C01-D01,False
+C01-E0311,C01,C01-D03,Product Manager,Senior,2021-04-25,CC-C01-D03,True
+C01-E0312,C01,C01-D01,Desenvolvedor(a) Backend,Junior,2022-11-16,CC-C01-D01,True
+C01-E0313,C01,C01-D01,Engenheiro(a) de Software,Junior,2022-02-11,CC-C01-D01,True
+C01-E0314,C01,C01-D10,Analista de Contas a Pagar,Pleno,2024-09-26,CC-C01-D10,True
+C01-E0315,C01,C01-D08,Analista de Suporte,Junior,2025-01-10,CC-C01-D08,True
+C01-E0316,C01,C01-D06,Coordenador(a) de Vendas,Junior,2022-09-21,CC-C01-D06,True
+C01-E0317,C01,C01-D03,Product Owner,Pleno,2025-04-29,CC-C01-D03,True
+C01-E0318,C01,C01-D01,Engenheiro(a) de Software,Pleno,2026-04-10,CC-C01-D01,True
+C01-E0319,C01,C01-D01,Engenheiro(a) de Software,Junior,2024-09-17,CC-C01-D01,True
+C01-E0320,C01,C01-D01,Desenvolvedor(a) Full Stack,Pleno,2022-08-25,CC-C01-D01,True
+C01-E0321,C01,C01-D04,Engenheiro(a) de Testes,Especialista,2022-06-22,CC-C01-D04,True
+C01-E0322,C01,C01-D06,Representante Comercial,Senior,2021-05-03,CC-C01-D06,True
+C01-E0323,C01,C01-D06,Coordenador(a) de Vendas,Junior,2022-03-08,CC-C01-D06,True
+C01-E0324,C01,C01-D01,Engenheiro(a) de Software,Senior,2021-03-23,CC-C01-D01,True
+C01-E0325,C01,C01-D10,Analista de Contas a Pagar,Junior,2025-09-04,CC-C01-D10,True
+C01-E0326,C01,C01-D07,Especialista em Midias Digitais,Pleno,2023-03-22,CC-C01-D07,True
+C01-E0327,C01,C01-D04,Analista de QA,Pleno,2021-07-30,CC-C01-D04,True
+C01-E0328,C01,C01-D05,Cientista de Dados,Pleno,2025-04-26,CC-C01-D05,True
+C01-E0329,C01,C01-D03,Analista de Produto,Senior,2024-06-08,CC-C01-D03,True
+C01-E0330,C01,C01-D01,Desenvolvedor(a) Backend,Junior,2022-10-22,CC-C01-D01,True
+C01-E0331,C01,C01-D02,Engenheiro(a) de Infraestrutura,Especialista,2024-02-08,CC-C01-D02,True
+C01-E0332,C01,C01-D07,Analista de Marketing,Senior,2024-09-29,CC-C01-D07,True
+C01-E0333,C01,C01-D01,Desenvolvedor(a) Frontend,Pleno,2024-07-15,CC-C01-D01,True
+C01-E0334,C01,C01-D01,Engenheiro(a) de Software,Junior,2023-09-29,CC-C01-D01,True
+C01-E0335,C01,C01-D01,Desenvolvedor(a) Frontend,Junior,2023-11-03,CC-C01-D01,True
+C01-E0336,C01,C01-D01,Desenvolvedor(a) Full Stack,Pleno,2021-04-16,CC-C01-D01,True
+C01-E0337,C01,C01-D08,Analista de Suporte,Junior,2021-03-24,CC-C01-D08,True
+C01-E0338,C01,C01-D06,Coordenador(a) de Vendas,Junior,2024-09-02,CC-C01-D06,True
+C01-E0339,C01,C01-D04,Engenheiro(a) de Testes,Gerente,2022-10-27,CC-C01-D04,True
+C01-E0340,C01,C01-D01,Engenheiro(a) de Software,Junior,2023-08-22,CC-C01-D01,True
+C01-E0341,C01,C01-D04,Engenheiro(a) de Testes,Senior,2024-12-31,CC-C01-D04,True
+C01-E0342,C01,C01-D04,Engenheiro(a) de Testes,Senior,2025-07-08,CC-C01-D04,True
+C01-E0343,C01,C01-D01,Desenvolvedor(a) Full Stack,Pleno,2023-02-16,CC-C01-D01,True
+C01-E0344,C01,C01-D03,Product Owner,Junior,2026-03-14,CC-C01-D03,True
+C01-E0345,C01,C01-D03,Analista de Produto,Junior,2022-01-02,CC-C01-D03,True
+C01-E0346,C01,C01-D05,Cientista de Dados,Especialista,2021-04-07,CC-C01-D05,True
+C01-E0347,C01,C01-D06,Coordenador(a) de Vendas,Junior,2025-11-23,CC-C01-D06,True
+C01-E0348,C01,C01-D01,Engenheiro(a) de Software,Senior,2021-06-12,CC-C01-D01,True
+C01-E0349,C01,C01-D02,Engenheiro(a) de Infraestrutura,Junior,2023-11-12,CC-C01-D02,True
+C01-E0350,C01,C01-D05,Engenheiro(a) de Dados,Senior,2024-11-20,CC-C01-D05,True
+C01-E0351,C01,C01-D04,Engenheiro(a) de Testes,Pleno,2024-11-28,CC-C01-D04,False
+C01-E0352,C01,C01-D08,Analista de Suporte,Senior,2024-05-20,CC-C01-D08,True
+C01-E0353,C01,C01-D06,Executivo(a) de Vendas,Senior,2022-11-13,CC-C01-D06,True
+C01-E0354,C01,C01-D01,Desenvolvedor(a) Frontend,Pleno,2025-06-07,CC-C01-D01,True
+C01-E0355,C01,C01-D01,Desenvolvedor(a) Full Stack,Especialista,2021-12-04,CC-C01-D01,True
+C01-E0356,C01,C01-D06,Executivo(a) de Vendas,Junior,2024-12-17,CC-C01-D06,True
+C01-E0357,C01,C01-D01,Desenvolvedor(a) Full Stack,Gerente,2023-02-20,CC-C01-D01,True
+C01-E0358,C01,C01-D05,Engenheiro(a) de Dados,Pleno,2024-08-07,CC-C01-D05,True
+C01-E0359,C01,C01-D10,Controller Junior,Junior,2023-02-19,CC-C01-D10,True
+C01-E0360,C01,C01-D05,Engenheiro(a) de Dados,Senior,2021-08-09,CC-C01-D05,True
+C01-E0361,C01,C01-D03,Product Manager,Junior,2024-11-12,CC-C01-D03,False
+C01-E0362,C01,C01-D06,Executivo(a) de Vendas,Pleno,2021-12-27,CC-C01-D06,True
+C01-E0363,C01,C01-D03,Analista de Produto,Pleno,2022-05-05,CC-C01-D03,True
+C02-E0001,C02,C02-D03,Product Manager,Junior,2023-06-24,CC-C02-D03,True
+C02-E0002,C02,C02-D03,Product Owner,Pleno,2022-04-24,CC-C02-D03,True
+C02-E0003,C02,C02-D06,Coordenador(a) de Vendas,Pleno,2023-07-04,CC-C02-D06,True
+C02-E0004,C02,C02-D01,Desenvolvedor(a) Full Stack,Pleno,2025-03-25,CC-C02-D01,True
+C02-E0005,C02,C02-D05,Engenheiro(a) de Dados,Senior,2025-12-22,CC-C02-D05,True
+C02-E0006,C02,C02-D02,Site Reliability Engineer,Pleno,2022-10-07,CC-C02-D02,True
+C02-E0007,C02,C02-D08,Analista de Suporte,Junior,2025-09-26,CC-C02-D08,True
+C02-E0008,C02,C02-D01,Engenheiro(a) de Software,Pleno,2023-01-21,CC-C02-D01,True
+C02-E0009,C02,C02-D05,Analista de Dados,Especialista,2025-05-01,CC-C02-D05,True
+C02-E0010,C02,C02-D04,Analista de QA,Pleno,2023-01-12,CC-C02-D04,False
+C02-E0011,C02,C02-D06,Executivo(a) de Vendas,Pleno,2025-05-09,CC-C02-D06,True
+C02-E0012,C02,C02-D01,Desenvolvedor(a) Frontend,Senior,2023-12-09,CC-C02-D01,True
+C02-E0013,C02,C02-D05,Cientista de Dados,Junior,2021-09-29,CC-C02-D05,True
+C02-E0014,C02,C02-D05,Cientista de Dados,Senior,2025-04-01,CC-C02-D05,True
+C02-E0015,C02,C02-D05,Cientista de Dados,Especialista,2025-07-24,CC-C02-D05,True
+C02-E0016,C02,C02-D05,Cientista de Dados,Senior,2023-10-30,CC-C02-D05,True
+C02-E0017,C02,C02-D06,Representante Comercial,Junior,2026-01-28,CC-C02-D06,False
+C02-E0018,C02,C02-D08,Analista de Suporte,Junior,2021-06-21,CC-C02-D08,True
+C02-E0019,C02,C02-D01,Desenvolvedor(a) Frontend,Pleno,2022-05-18,CC-C02-D01,True
+C02-E0020,C02,C02-D08,Especialista em Atendimento,Especialista,2023-01-23,CC-C02-D08,True
+C02-E0021,C02,C02-D04,Engenheiro(a) de Testes,Gerente,2025-10-10,CC-C02-D04,True
+C02-E0022,C02,C02-D01,Desenvolvedor(a) Frontend,Junior,2025-01-27,CC-C02-D01,True
+C02-E0023,C02,C02-D01,Engenheiro(a) de Software,Pleno,2025-06-01,CC-C02-D01,True
+C02-E0024,C02,C02-D02,Site Reliability Engineer,Especialista,2022-07-13,CC-C02-D02,True
+C02-E0025,C02,C02-D08,Analista de Suporte,Senior,2025-10-31,CC-C02-D08,True
+C02-E0026,C02,C02-D06,Executivo(a) de Vendas,Pleno,2025-01-12,CC-C02-D06,True
+C02-E0027,C02,C02-D08,Analista de Suporte,Pleno,2025-09-03,CC-C02-D08,True
+C02-E0028,C02,C02-D04,Analista de QA,Junior,2024-01-09,CC-C02-D04,True
+C02-E0029,C02,C02-D03,Product Manager,Pleno,2022-10-05,CC-C02-D03,True
+C02-E0030,C02,C02-D01,Desenvolvedor(a) Backend,Pleno,2023-05-03,CC-C02-D01,True
+C02-E0031,C02,C02-D02,Engenheiro(a) DevOps,Senior,2025-05-21,CC-C02-D02,True
+C02-E0032,C02,C02-D03,Product Manager,Pleno,2025-03-18,CC-C02-D03,True
+C02-E0033,C02,C02-D01,Desenvolvedor(a) Backend,Junior,2024-12-19,,True
+C02-E0034,C02,C02-D01,Desenvolvedor(a) Frontend,Pleno,2022-10-24,,True
+C02-E0035,C02,C02-D05,Engenheiro(a) de Dados,Especialista,2025-10-27,CC-C02-D05,True
+C02-E0036,C02,C02-D07,Coordenador(a) de Marketing,Senior,2023-03-02,CC-C02-D07,True
+C02-E0037,C02,C02-D11,Analista Juridico,Junior,2021-02-07,CC-C02-D11,True
+C02-E0038,C02,C02-D09,Business Partner de RH,Senior,2023-03-28,CC-C02-D09,True
+C02-E0039,C02,C02-D06,Representante Comercial,Pleno,2020-10-17,CC-C02-D06,True
+C02-E0040,C02,C02-D03,Analista de Produto,Especialista,2025-11-15,CC-C02-D03,True
+C02-E0041,C02,C02-D06,Coordenador(a) de Vendas,Senior,2023-03-12,CC-C02-D06,True
+C02-E0042,C02,C02-D08,Analista de Suporte,Gerente,2025-10-10,CC-C02-D08,True
+C02-E0043,C02,C02-D01,Engenheiro(a) de Software,Especialista,2023-09-22,CC-C02-D01,True
+C02-E0044,C02,C02-D03,Product Owner,Pleno,2021-06-21,CC-C02-D03,True
+C02-E0045,C02,C02-D08,Analista de Suporte,Pleno,2022-10-31,CC-C02-D08,True
+C02-E0046,C02,C02-D03,Product Manager,Junior,2025-01-11,CC-C02-D03,True
+C02-E0047,C02,C02-D05,Cientista de Dados,Especialista,2022-11-01,CC-C02-D05,True
+C02-E0048,C02,C02-D05,Engenheiro(a) de Dados,Junior,2022-03-04,CC-C02-D05,True
+C02-E0049,C02,C02-D01,Desenvolvedor(a) Full Stack,Senior,2023-07-28,CC-C02-D01,True
+C02-E0050,C02,C02-D02,Engenheiro(a) de Infraestrutura,Senior,2025-07-23,CC-C02-D02,True
+C02-E0051,C02,C02-D02,Engenheiro(a) DevOps,Especialista,2021-05-02,CC-C02-D02,True
+C02-E0052,C02,C02-D01,Desenvolvedor(a) Frontend,Pleno,2021-08-15,CC-C02-D01,True
+C02-E0053,C02,C02-D01,Desenvolvedor(a) Frontend,Especialista,2023-10-18,CC-C02-D01,True
+C02-E0054,C02,C02-D08,Especialista em Atendimento,Senior,2023-11-18,CC-C02-D08,True
+C02-E0055,C02,C02-D01,Desenvolvedor(a) Backend,Junior,2022-12-09,CC-C02-D01,True
+C02-E0056,C02,C02-D04,Engenheiro(a) de Testes,Senior,2024-01-07,CC-C02-D04,False
+C02-E0057,C02,C02-D01,Engenheiro(a) de Software,Senior,2025-09-27,CC-C02-D01,True
+C02-E0058,C02,C02-D10,Analista Financeiro,Pleno,2025-05-26,CC-C02-D10,True
+C02-E0059,C02,C02-D01,Desenvolvedor(a) Full Stack,Pleno,2024-12-26,CC-C02-D01,True
+C02-E0060,C02,C02-D03,Analista de Produto,Pleno,2022-09-30,CC-C02-D03,True
+C02-E0061,C02,C02-D08,Especialista em Atendimento,Pleno,2022-06-24,CC-C02-D08,True
+C02-E0062,C02,C02-D08,Especialista em Atendimento,Pleno,2025-11-13,CC-C02-D08,True
+C02-E0063,C02,C02-D01,Desenvolvedor(a) Full Stack,Pleno,2022-07-02,CC-C02-D01,True
+C02-E0064,C02,C02-D08,Analista de Suporte,Senior,2025-04-01,CC-C02-D08,False
+C02-E0065,C02,C02-D03,Product Manager,Pleno,2025-03-25,CC-C02-D03,True
+C02-E0066,C02,C02-D04,Engenheiro(a) de Testes,Senior,2025-06-21,CC-C02-D04,True
+C02-E0067,C02,C02-D01,Desenvolvedor(a) Frontend,Senior,2021-08-03,CC-C02-D01,True
+C02-E0068,C02,C02-D01,Desenvolvedor(a) Backend,Junior,2023-06-12,CC-C02-D01,True
+C02-E0069,C02,C02-D06,Representante Comercial,Junior,2022-12-24,CC-C02-D06,True
+C02-E0070,C02,C02-D04,Engenheiro(a) de Testes,Pleno,2026-05-17,CC-C02-D04,True
+C02-E0071,C02,C02-D03,Product Manager,Junior,2021-12-13,CC-C02-D03,True
+C02-E0072,C02,C02-D06,Coordenador(a) de Vendas,Senior,2022-07-26,CC-C02-D06,True
+C02-E0073,C02,C02-D07,Analista de Marketing,Senior,2021-12-06,CC-C02-D07,True
+C02-E0074,C02,C02-D01,Engenheiro(a) de Software,Especialista,2023-10-06,CC-C02-D01,True
+C02-E0075,C02,C02-D05,Analista de Dados,Junior,2022-04-18,CC-C02-D05,True
+C02-E0076,C02,C02-D01,Desenvolvedor(a) Full Stack,Pleno,2025-06-29,CC-C02-D01,True
+C02-E0077,C02,C02-D07,Analista de Marketing,Senior,2025-03-26,CC-C02-D07,True
+C02-E0078,C02,C02-D06,Executivo(a) de Vendas,Pleno,2025-07-12,CC-C02-D06,True
+C02-E0079,C02,C02-D10,Analista de Contas a Pagar,Pleno,2021-09-09,CC-C02-D10,True
+C02-E0080,C02,C02-D01,Engenheiro(a) de Software,Senior,2023-10-17,CC-C02-D01,True
+C02-E0081,C02,C02-D01,Desenvolvedor(a) Backend,Pleno,2022-07-29,CC-C02-D01,True
+C02-E0082,C02,C02-D01,Desenvolvedor(a) Full Stack,Senior,2022-04-25,CC-C02-D01,True
+C02-E0083,C02,C02-D01,Engenheiro(a) de Software,Especialista,2023-02-28,CC-C02-D01,True
+C02-E0084,C02,C02-D01,Desenvolvedor(a) Backend,Junior,2023-12-21,CC-C02-D01,True
+C02-E0085,C02,C02-D09,Recrutador(a),Pleno,2025-10-30,,True
+C02-E0086,C02,C02-D01,Desenvolvedor(a) Full Stack,Pleno,2024-01-28,CC-C02-D01,True
+C02-E0087,C02,C02-D01,Desenvolvedor(a) Full Stack,Pleno,2023-03-14,CC-C02-D01,True
+C02-E0088,C02,C02-D07,Analista de Marketing,Gerente,2023-04-30,CC-C02-D07,True
+C02-E0089,C02,C02-D03,Product Manager,Senior,2025-05-23,CC-C02-D03,True
+C02-E0090,C02,C02-D07,Especialista em Midias Digitais,Especialista,2024-10-28,CC-C02-D07,True
+C02-E0091,C02,C02-D01,Desenvolvedor(a) Full Stack,Pleno,2025-08-20,CC-C02-D01,True
+C02-E0092,C02,C02-D04,Analista de QA,Pleno,2021-07-21,,False
+C02-E0093,C02,C02-D01,Desenvolvedor(a) Backend,Pleno,2022-12-07,CC-C02-D01,True
+C02-E0094,C02,C02-D01,Engenheiro(a) de Software,Pleno,2021-10-05,CC-C02-D01,True
+C02-E0095,C02,C02-D09,Business Partner de RH,Junior,2026-03-18,CC-C02-D09,True
+C02-E0096,C02,C02-D01,Desenvolvedor(a) Frontend,Pleno,2021-04-14,CC-C02-D01,True
+C02-E0097,C02,C02-D04,Engenheiro(a) de Testes,Pleno,2025-06-16,CC-C02-D04,True
+C02-E0098,C02,C02-D03,Product Manager,Pleno,2023-09-19,CC-C02-D03,True
+C02-E0099,C02,C02-D02,Engenheiro(a) de Infraestrutura,Pleno,2025-07-24,CC-C02-D02,True
+C02-E0100,C02,C02-D08,Especialista em Atendimento,Junior,2022-08-21,CC-C02-D08,True
+C02-E0101,C02,C02-D01,Desenvolvedor(a) Frontend,Especialista,2025-09-08,CC-C02-D01,True
+C02-E0102,C02,C02-D06,Executivo(a) de Vendas,Senior,2023-02-21,CC-C02-D06,True
+C02-E0103,C02,C02-D10,Controller Junior,Junior,2022-07-04,CC-C02-D10,True
+C02-E0104,C02,C02-D05,Cientista de Dados,Junior,2024-10-15,CC-C02-D05,True
+C02-E0105,C02,C02-D09,Analista de RH,Pleno,2023-07-29,CC-C02-D09,True
+C02-E0106,C02,C02-D01,Desenvolvedor(a) Frontend,Junior,2025-08-07,CC-C02-D01,True
+C02-E0107,C02,C02-D03,Analista de Produto,Pleno,2020-11-26,CC-C02-D03,True
+C02-E0108,C02,C02-D01,Engenheiro(a) de Software,Pleno,2022-10-27,CC-C02-D01,True
+C02-E0109,C02,C02-D07,Especialista em Midias Digitais,Junior,2022-11-25,CC-C02-D07,True
+C02-E0110,C02,C02-D11,Analista Juridico,Pleno,2021-03-09,CC-C02-D11,True
+C02-E0111,C02,C02-D01,Desenvolvedor(a) Full Stack,Pleno,2023-05-13,CC-C02-D01,False
+C02-E0112,C02,C02-D06,Representante Comercial,Pleno,2020-10-02,CC-C02-D06,True
+C02-E0113,C02,C02-D01,Engenheiro(a) de Software,Pleno,2021-05-17,CC-C02-D01,True
+C02-E0114,C02,C02-D05,Engenheiro(a) de Dados,Junior,2023-03-24,CC-C02-D05,True
+C02-E0115,C02,C02-D04,Analista de QA,Senior,2022-09-01,CC-C02-D04,True
+C02-E0116,C02,C02-D10,Controller Junior,Junior,2021-04-03,CC-C02-D10,True
+C02-E0117,C02,C02-D05,Cientista de Dados,Senior,2021-02-03,CC-C02-D05,True
+C02-E0118,C02,C02-D02,Site Reliability Engineer,Pleno,2024-05-01,CC-C02-D02,True
+C02-E0119,C02,C02-D01,Engenheiro(a) de Software,Pleno,2020-10-27,CC-C02-D01,True
+C02-E0120,C02,C02-D01,Desenvolvedor(a) Backend,Especialista,2023-08-04,CC-C02-D01,True
+C03-E0001,C03,C03-D01,Desenvolvedor(a) Backend,Pleno,2020-10-14,CC-C03-D01,True
+C03-E0002,C03,C03-D04,Analista de QA,Junior,2023-09-01,CC-C03-D04,True
+C03-E0003,C03,C03-D08,Especialista em Atendimento,Junior,2024-08-30,CC-C03-D08,True
+C03-E0004,C03,C03-D06,Representante Comercial,Junior,2022-02-06,CC-C03-D06,True
+C03-E0005,C03,C03-D01,Desenvolvedor(a) Full Stack,Junior,2025-11-09,CC-C03-D01,True
+C03-E0006,C03,C03-D01,Desenvolvedor(a) Full Stack,Pleno,2025-09-15,CC-C03-D01,True
+C03-E0007,C03,C03-D03,Analista de Produto,Pleno,2022-02-09,CC-C03-D03,True
+C03-E0008,C03,C03-D01,Desenvolvedor(a) Frontend,Pleno,2022-09-15,CC-C03-D01,True
+C03-E0009,C03,C03-D01,Desenvolvedor(a) Frontend,Senior,2020-12-22,CC-C03-D01,True
+C03-E0010,C03,C03-D01,Engenheiro(a) de Software,Senior,2025-05-23,CC-C03-D01,True
+C03-E0011,C03,C03-D08,Analista de Suporte,Senior,2024-05-18,CC-C03-D08,False
+C03-E0012,C03,C03-D09,Recrutador(a),Pleno,2022-10-05,CC-C03-D09,True
+C03-E0013,C03,C03-D03,Analista de Produto,Pleno,2025-05-25,CC-C03-D03,False
+C03-E0014,C03,C03-D09,Business Partner de RH,Pleno,2020-09-28,CC-C03-D09,True
+C03-E0015,C03,C03-D02,Engenheiro(a) de Infraestrutura,Junior,2022-12-24,CC-C03-D02,True
+C03-E0016,C03,C03-D04,Analista de QA,Senior,2024-03-14,CC-C03-D04,True
+C03-E0017,C03,C03-D01,Engenheiro(a) de Software,Especialista,2025-01-14,CC-C03-D01,True
+C03-E0018,C03,C03-D06,Executivo(a) de Vendas,Pleno,2024-09-15,CC-C03-D06,True
+C03-E0019,C03,C03-D10,Analista Financeiro,Pleno,2020-10-01,CC-C03-D10,True
+C03-E0020,C03,C03-D05,Cientista de Dados,Senior,2021-02-28,CC-C03-D05,True
+C03-E0021,C03,C03-D02,Site Reliability Engineer,Junior,2022-09-01,CC-C03-D02,True
+C03-E0022,C03,C03-D06,Coordenador(a) de Vendas,Junior,2024-12-22,CC-C03-D06,True
+C03-E0023,C03,C03-D01,Desenvolvedor(a) Frontend,Pleno,2024-08-16,CC-C03-D01,True
+C03-E0024,C03,C03-D08,Analista de Suporte,Junior,2021-07-15,CC-C03-D08,True
+C03-E0025,C03,C03-D04,Engenheiro(a) de Testes,Pleno,2023-10-13,CC-C03-D04,True
+C03-E0026,C03,C03-D03,Analista de Produto,Pleno,2023-04-01,CC-C03-D03,False
+C03-E0027,C03,C03-D05,Engenheiro(a) de Dados,Junior,2023-10-27,CC-C03-D05,True
+C03-E0028,C03,C03-D05,Engenheiro(a) de Dados,Senior,2020-09-13,CC-C03-D05,True
+C03-E0029,C03,C03-D01,Engenheiro(a) de Software,Pleno,2024-04-08,CC-C03-D01,True
+C03-E0030,C03,C03-D06,Coordenador(a) de Vendas,Senior,2023-08-24,CC-C03-D06,True
+C03-E0031,C03,C03-D01,Desenvolvedor(a) Full Stack,Pleno,2022-02-28,CC-C03-D01,True
+C03-E0032,C03,C03-D06,Representante Comercial,Junior,2024-08-17,CC-C03-D06,True
+C03-E0033,C03,C03-D08,Analista de Suporte,Pleno,2023-08-22,CC-C03-D08,True
+C03-E0034,C03,C03-D08,Especialista em Atendimento,Especialista,2021-03-19,CC-C03-D08,True
+C03-E0035,C03,C03-D04,Analista de QA,Junior,2020-08-28,CC-C03-D04,True
+C04-E0001,C04,C04-D01,Desenvolvedor(a) Backend,Pleno,2024-08-24,CC-C04-D01,True
+C04-E0002,C04,C04-D01,Desenvolvedor(a) Frontend,Especialista,2021-06-16,CC-C04-D01,True
+C04-E0003,C04,C04-D05,Analista de Dados,Junior,2021-05-21,CC-C04-D05,True
+C04-E0004,C04,C04-D08,Analista de Suporte,Pleno,2021-10-16,CC-C04-D08,True
+C04-E0005,C04,C04-D05,Cientista de Dados,Pleno,2022-04-02,CC-C04-D05,True
+C04-E0006,C04,C04-D01,Desenvolvedor(a) Backend,Especialista,2024-01-06,CC-C04-D01,True
+C04-E0007,C04,C04-D08,Especialista em Atendimento,Senior,2020-11-23,CC-C04-D08,True
+C04-E0008,C04,C04-D06,Coordenador(a) de Vendas,Junior,2022-09-07,CC-C04-D06,True
+C04-E0009,C04,C04-D03,Product Manager,Junior,2026-01-06,CC-C04-D03,True
+C04-E0010,C04,C04-D06,Representante Comercial,Senior,2022-03-19,CC-C04-D06,True
+C04-E0011,C04,C04-D01,Engenheiro(a) de Software,Senior,2023-08-08,CC-C04-D01,True
+C04-E0012,C04,C04-D02,Engenheiro(a) DevOps,Junior,2026-03-26,CC-C04-D02,True
+C04-E0013,C04,C04-D09,Analista de RH,Junior,2021-09-12,CC-C04-D09,True
+C04-E0014,C04,C04-D01,Desenvolvedor(a) Full Stack,Junior,2023-10-12,CC-C04-D01,True
+C04-E0015,C04,C04-D04,Analista de QA,Junior,2023-10-09,CC-C04-D04,True
+C04-E0016,C04,C04-D08,Especialista em Atendimento,Senior,2025-10-06,CC-C04-D08,True
+C04-E0017,C04,C04-D06,Representante Comercial,Pleno,2026-04-05,CC-C04-D06,True
+C04-E0018,C04,C04-D01,Desenvolvedor(a) Frontend,Especialista,2022-02-01,CC-C04-D01,True
+C04-E0019,C04,C04-D01,Engenheiro(a) de Software,Senior,2026-02-08,CC-C04-D01,True
+C04-E0020,C04,C04-D01,Desenvolvedor(a) Frontend,Pleno,2021-10-09,CC-C04-D01,True
+C04-E0021,C04,C04-D06,Coordenador(a) de Vendas,Senior,2025-08-20,CC-C04-D06,True
+C04-E0022,C04,C04-D03,Product Owner,Senior,2025-09-26,CC-C04-D03,True
+C04-E0023,C04,C04-D01,Desenvolvedor(a) Backend,Pleno,2022-01-24,CC-C04-D01,True
+C04-E0024,C04,C04-D10,Analista Financeiro,Senior,2022-07-21,CC-C04-D10,True
+C04-E0025,C04,C04-D04,Engenheiro(a) de Testes,Especialista,2024-09-10,CC-C04-D04,True
+C04-E0026,C04,C04-D01,Desenvolvedor(a) Full Stack,Senior,2021-09-11,CC-C04-D01,True
+C04-E0027,C04,C04-D04,Analista de QA,Pleno,2025-04-13,CC-C04-D04,False
+C04-E0028,C04,C04-D06,Coordenador(a) de Vendas,Pleno,2022-09-19,CC-C04-D06,False
+C04-E0029,C04,C04-D01,Desenvolvedor(a) Full Stack,Pleno,2022-08-25,CC-C04-D01,True
+C04-E0030,C04,C04-D01,Desenvolvedor(a) Frontend,Junior,2021-03-26,CC-C04-D01,True
+C04-E0031,C04,C04-D08,Especialista em Atendimento,Senior,2022-07-29,CC-C04-D08,False
+C04-E0032,C04,C04-D03,Product Manager,Senior,2025-10-05,CC-C04-D03,True
+C04-E0033,C04,C04-D04,Engenheiro(a) de Testes,Junior,2026-01-11,CC-C04-D04,True
+C04-E0034,C04,C04-D03,Product Manager,Senior,2021-09-05,CC-C04-D03,True
+C04-E0035,C04,C04-D01,Desenvolvedor(a) Backend,Junior,2022-11-27,CC-C04-D01,True
+C04-E0036,C04,C04-D01,Engenheiro(a) de Software,Especialista,2021-07-18,CC-C04-D01,True
+C04-E0037,C04,C04-D03,Product Owner,Junior,2026-01-13,CC-C04-D03,True
+C04-E0038,C04,C04-D01,Desenvolvedor(a) Frontend,Junior,2023-03-28,CC-C04-D01,True
+C04-E0039,C04,C04-D01,Desenvolvedor(a) Backend,Pleno,2022-09-21,CC-C04-D01,True
+C04-E0040,C04,C04-D08,Especialista em Atendimento,Pleno,2021-07-18,CC-C04-D08,True
+C04-E0041,C04,C04-D11,Advogado(a) Corporativo,Junior,2022-02-09,CC-C04-D11,True
+C04-E0042,C04,C04-D08,Analista de Suporte,Pleno,2020-11-17,CC-C04-D08,True
+C04-E0043,C04,C04-D08,Especialista em Atendimento,Especialista,2020-12-07,CC-C04-D08,True
+C04-E0044,C04,C04-D01,Desenvolvedor(a) Full Stack,Pleno,2025-07-08,CC-C04-D01,True
+C04-E0045,C04,C04-D10,Analista Financeiro,Junior,2021-08-13,CC-C04-D10,True
+C04-E0046,C04,C04-D01,Desenvolvedor(a) Frontend,Pleno,2023-02-24,CC-C04-D01,True
+C04-E0047,C04,C04-D10,Analista Financeiro,Junior,2022-10-07,CC-C04-D10,True
+C04-E0048,C04,C04-D11,Advogado(a) Corporativo,Pleno,2021-06-11,CC-C04-D11,True
+C04-E0049,C04,C04-D06,Representante Comercial,Junior,2024-07-29,CC-C04-D06,True
+C04-E0050,C04,C04-D11,Advogado(a) Corporativo,Gerente,2023-08-11,CC-C04-D11,True
+C04-E0051,C04,C04-D05,Engenheiro(a) de Dados,Junior,2021-07-26,CC-C04-D05,False
+C04-E0052,C04,C04-D01,Desenvolvedor(a) Backend,Pleno,2025-08-08,CC-C04-D01,True
+C04-E0053,C04,C04-D03,Product Owner,Junior,2022-05-15,CC-C04-D03,False
+C04-E0054,C04,C04-D05,Cientista de Dados,Pleno,2024-08-25,CC-C04-D05,True
+C04-E0055,C04,C04-D01,Desenvolvedor(a) Frontend,Pleno,2021-07-13,CC-C04-D01,True
+C04-E0056,C04,C04-D05,Analista de Dados,Pleno,2023-10-19,CC-C04-D05,True
+C04-E0057,C04,C04-D11,Advogado(a) Corporativo,Pleno,2022-05-20,CC-C04-D11,True
+C04-E0058,C04,C04-D01,Desenvolvedor(a) Backend,Gerente,2022-09-21,CC-C04-D01,True
+C04-E0059,C04,C04-D08,Especialista em Atendimento,Junior,2022-04-14,CC-C04-D08,True
+C04-E0060,C04,C04-D09,Analista de RH,Senior,2022-11-24,CC-C04-D09,True
+C04-E0061,C04,C04-D10,Controller Junior,Junior,2021-12-24,CC-C04-D10,True
+C04-E0062,C04,C04-D10,Controller Junior,Junior,2023-08-24,CC-C04-D10,True
+C04-E0063,C04,C04-D04,Analista de QA,Junior,2024-05-10,CC-C04-D04,True
+C04-E0064,C04,C04-D10,Controller Junior,Junior,2025-02-14,CC-C04-D10,True
+C04-E0065,C04,C04-D07,Coordenador(a) de Marketing,Senior,2022-03-03,CC-C04-D07,True
+C04-E0066,C04,C04-D01,Desenvolvedor(a) Full Stack,Senior,2022-03-23,CC-C04-D01,True
+C04-E0067,C04,C04-D04,Engenheiro(a) de Testes,Especialista,2024-12-29,CC-C04-D04,True
+C04-E0068,C04,C04-D06,Executivo(a) de Vendas,Senior,2023-08-01,CC-C04-D06,True
+C04-E0069,C04,C04-D01,Engenheiro(a) de Software,Pleno,2025-06-17,CC-C04-D01,False
+C04-E0070,C04,C04-D06,Representante Comercial,Pleno,2022-07-19,CC-C04-D06,True
+C04-E0071,C04,C04-D06,Coordenador(a) de Vendas,Senior,2023-01-28,CC-C04-D06,True
+C04-E0072,C04,C04-D01,Desenvolvedor(a) Full Stack,Pleno,2024-09-04,CC-C04-D01,True
+C04-E0073,C04,C04-D05,Cientista de Dados,Especialista,2022-07-16,CC-C04-D05,True
+C04-E0074,C04,C04-D07,Coordenador(a) de Marketing,Junior,2020-09-27,CC-C04-D07,True
+C04-E0075,C04,C04-D04,Analista de QA,Junior,2024-11-20,CC-C04-D04,True
+C04-E0076,C04,C04-D01,Engenheiro(a) de Software,Junior,2026-02-24,CC-C04-D01,True
+C04-E0077,C04,C04-D01,Desenvolvedor(a) Full Stack,Junior,2021-03-15,CC-C04-D01,True
+C04-E0078,C04,C04-D02,Site Reliability Engineer,Senior,2025-05-22,CC-C04-D02,True
+C04-E0079,C04,C04-D09,Analista de RH,Pleno,2025-09-15,CC-C04-D09,True
+C04-E0080,C04,C04-D01,Engenheiro(a) de Software,Pleno,2021-11-02,CC-C04-D01,True
+C04-E0081,C04,C04-D06,Coordenador(a) de Vendas,Pleno,2025-08-13,CC-C04-D06,True
+C04-E0082,C04,C04-D01,Desenvolvedor(a) Full Stack,Pleno,2025-08-12,CC-C04-D01,False
+C04-E0083,C04,C04-D02,Site Reliability Engineer,Junior,2020-08-22,CC-C04-D02,True
+C04-E0084,C04,C04-D08,Analista de Suporte,Senior,2021-10-23,CC-C04-D08,True
+C04-E0085,C04,C04-D06,Representante Comercial,Senior,2023-04-19,CC-C04-D06,True
+C04-E0086,C04,C04-D01,Desenvolvedor(a) Backend,Senior,2021-06-15,CC-C04-D01,True
+C04-E0087,C04,C04-D03,Product Manager,Junior,2023-01-13,CC-C04-D03,True
+C04-E0088,C04,C04-D01,Desenvolvedor(a) Full Stack,Junior,2023-12-01,CC-C04-D01,True
+C04-E0089,C04,C04-D04,Engenheiro(a) de Testes,Junior,2025-07-23,CC-C04-D04,True
+C04-E0090,C04,C04-D06,Coordenador(a) de Vendas,Junior,2023-05-14,CC-C04-D06,True
+C04-E0091,C04,C04-D01,Desenvolvedor(a) Full Stack,Junior,2025-05-25,CC-C04-D01,True
+C04-E0092,C04,C04-D01,Desenvolvedor(a) Frontend,Gerente,2022-10-18,CC-C04-D01,True
+C04-E0093,C04,C04-D03,Product Manager,Pleno,2024-07-10,CC-C04-D03,True
+C04-E0094,C04,C04-D09,Recrutador(a),Junior,2022-08-29,CC-C04-D09,True
+C04-E0095,C04,C04-D11,Analista Juridico,Especialista,2021-06-27,CC-C04-D11,True
+C04-E0096,C04,C04-D01,Desenvolvedor(a) Backend,Junior,2025-12-07,CC-C04-D01,True
+C04-E0097,C04,C04-D07,Especialista em Midias Digitais,Senior,2024-08-18,CC-C04-D07,True
+C04-E0098,C04,C04-D02,Site Reliability Engineer,Pleno,2021-10-09,CC-C04-D02,True
+C04-E0099,C04,C04-D03,Product Manager,Senior,2023-04-29,CC-C04-D03,True
+C04-E0100,C04,C04-D07,Especialista em Midias Digitais,Senior,2024-06-28,CC-C04-D07,True
+C04-E0101,C04,C04-D09,Business Partner de RH,Senior,2023-05-29,CC-C04-D09,True
+C04-E0102,C04,C04-D10,Analista de Contas a Pagar,Pleno,2021-11-21,CC-C04-D10,True
+C04-E0103,C04,C04-D05,Analista de Dados,Pleno,2025-10-09,CC-C04-D05,True
+C04-E0104,C04,C04-D02,Engenheiro(a) de Infraestrutura,Senior,2023-05-27,CC-C04-D02,True
+C04-E0105,C04,C04-D08,Especialista em Atendimento,Junior,2024-10-31,CC-C04-D08,True
+C04-E0106,C04,C04-D01,Desenvolvedor(a) Full Stack,Junior,2022-07-28,CC-C04-D01,True
+C05-E0001,C05,C05-D02,Engenheiro(a) de Infraestrutura,Pleno,2020-09-01,CC-C05-D02,True
+C05-E0002,C05,C05-D08,Especialista em Atendimento,Junior,2023-09-25,CC-C05-D08,True
+C05-E0003,C05,C05-D03,Product Owner,Senior,2023-08-06,CC-C05-D03,True
+C05-E0004,C05,C05-D11,Analista Juridico,Especialista,2025-10-31,CC-C05-D11,True
+C05-E0005,C05,C05-D04,Engenheiro(a) de Testes,Junior,2021-10-03,CC-C05-D04,True
+C05-E0006,C05,C05-D02,Engenheiro(a) DevOps,Pleno,2022-10-09,CC-C05-D02,True
+C05-E0007,C05,C05-D01,Desenvolvedor(a) Full Stack,Pleno,2024-04-25,CC-C05-D01,True
+C05-E0008,C05,C05-D02,Engenheiro(a) de Infraestrutura,Senior,2023-03-25,CC-C05-D02,True
+C05-E0009,C05,C05-D02,Engenheiro(a) de Infraestrutura,Senior,2023-04-30,CC-C05-D02,True
+C05-E0010,C05,C05-D01,Engenheiro(a) de Software,Especialista,2023-04-13,CC-C05-D01,True
+C05-E0011,C05,C05-D02,Engenheiro(a) DevOps,Junior,2024-01-12,CC-C05-D02,True
+C05-E0012,C05,C05-D04,Analista de QA,Junior,2025-11-16,CC-C05-D04,True
+C05-E0013,C05,C05-D06,Coordenador(a) de Vendas,Senior,2021-03-02,CC-C05-D06,True
+C05-E0014,C05,C05-D06,Coordenador(a) de Vendas,Junior,2021-03-02,CC-C05-D06,True
+C05-E0015,C05,C05-D06,Executivo(a) de Vendas,Especialista,2021-05-13,CC-C05-D06,True
+C05-E0016,C05,C05-D01,Desenvolvedor(a) Frontend,Pleno,2023-06-24,CC-C05-D01,True
+C05-E0017,C05,C05-D01,Engenheiro(a) de Software,Pleno,2022-05-05,CC-C05-D01,True
+C05-E0018,C05,C05-D06,Executivo(a) de Vendas,Junior,2024-04-05,CC-C05-D06,True
+C05-E0019,C05,C05-D04,Engenheiro(a) de Testes,Pleno,2025-08-14,CC-C05-D04,True
+C05-E0020,C05,C05-D01,Engenheiro(a) de Software,Junior,2023-04-23,CC-C05-D01,True
+C05-E0021,C05,C05-D08,Analista de Suporte,Junior,2024-12-31,CC-C05-D08,True
+C05-E0022,C05,C05-D07,Coordenador(a) de Marketing,Pleno,2022-04-05,CC-C05-D07,True
+C05-E0023,C05,C05-D04,Engenheiro(a) de Testes,Junior,2022-05-06,CC-C05-D04,True
+C05-E0024,C05,C05-D01,Desenvolvedor(a) Frontend,Senior,2022-09-27,CC-C05-D01,True
+C05-E0025,C05,C05-D07,Especialista em Midias Digitais,Pleno,2025-12-29,CC-C05-D07,True
+C05-E0026,C05,C05-D05,Analista de Dados,Senior,2022-02-11,CC-C05-D05,True
+C05-E0027,C05,C05-D08,Especialista em Atendimento,Pleno,2020-08-14,CC-C05-D08,True
+C05-E0028,C05,C05-D07,Especialista em Midias Digitais,Pleno,2020-08-30,CC-C05-D07,True
+C05-E0029,C05,C05-D08,Especialista em Atendimento,Gerente,2025-03-16,CC-C05-D08,False
+C06-E0001,C06,C06-D04,Especialista em Relacionamento com Cliente,Gerente,2022-10-15,CC-C06-D04,True
+C06-E0002,C06,C06-D01,Especialista em Produtos Bancarios,Junior,2023-01-31,CC-C06-D01,True
+C06-E0003,C06,C06-D03,Analista de TI,Pleno,2022-04-25,CC-C06-D03,True
+C06-E0004,C06,C06-D04,Analista de Atendimento,Pleno,2021-10-09,CC-C06-D04,True
+C06-E0005,C06,C06-D04,Analista de Atendimento,Pleno,2021-02-14,CC-C06-D04,True
+C06-E0006,C06,C06-D02,Analista de Risco,Junior,2025-11-13,CC-C06-D02,True
+C06-E0007,C06,C06-D07,Analista de RH,Junior,2022-03-07,CC-C06-D07,True
+C06-E0008,C06,C06-D01,Analista de Operacoes,Senior,2025-12-09,CC-C06-D01,True
+C06-E0009,C06,C06-D03,Analista de TI,Junior,2024-04-21,,False
+C06-E0010,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2021-09-30,CC-C06-D04,True
+C06-E0011,C06,C06-D04,Analista de Atendimento,Senior,2023-10-25,CC-C06-D04,False
+C06-E0012,C06,C06-D04,Especialista em Relacionamento com Cliente,Senior,2021-03-22,CC-C06-D04,True
+C06-E0013,C06,C06-D01,Analista de Operacoes,Especialista,2022-02-27,CC-C06-D01,True
+C06-E0014,C06,C06-D01,Analista de Operacoes,Pleno,2022-10-19,CC-C06-D01,True
+C06-E0015,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2022-03-21,CC-C06-D04,True
+C06-E0016,C06,C06-D04,Analista de Atendimento,Junior,2021-04-16,CC-C06-D04,True
+C06-E0017,C06,C06-D01,Especialista em Produtos Bancarios,Junior,2022-06-21,CC-C06-D01,True
+C06-E0018,C06,C06-D04,Especialista em Relacionamento com Cliente,Junior,2021-01-05,CC-C06-D04,True
+C06-E0019,C06,C06-D03,Administrador(a) de Sistemas,Especialista,2024-07-20,CC-C06-D03,True
+C06-E0020,C06,C06-D04,Analista de Atendimento,Pleno,2023-02-08,CC-C06-D04,True
+C06-E0021,C06,C06-D05,Coordenador(a) Comercial,Pleno,2024-02-13,CC-C06-D05,True
+C06-E0022,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2024-05-03,CC-C06-D01,True
+C06-E0023,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2024-07-02,CC-C06-D01,True
+C06-E0024,C06,C06-D05,Coordenador(a) Comercial,Pleno,2022-03-09,CC-C06-D05,True
+C06-E0025,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2022-07-29,CC-C06-D04,True
+C06-E0026,C06,C06-D04,Analista de Atendimento,Pleno,2023-03-10,CC-C06-D04,True
+C06-E0027,C06,C06-D05,Coordenador(a) Comercial,Pleno,2025-07-23,CC-C06-D05,True
+C06-E0028,C06,C06-D05,Analista Comercial,Especialista,2022-06-09,CC-C06-D05,True
+C06-E0029,C06,C06-D07,Business Partner de RH,Junior,2024-01-17,CC-C06-D07,True
+C06-E0030,C06,C06-D04,Especialista em Relacionamento com Cliente,Senior,2020-11-19,CC-C06-D04,True
+C06-E0031,C06,C06-D03,Suporte Tecnico,Pleno,2024-11-26,CC-C06-D03,True
+C06-E0032,C06,C06-D03,Administrador(a) de Sistemas,Junior,2023-09-22,CC-C06-D03,True
+C06-E0033,C06,C06-D01,Analista de Operacoes,Pleno,2023-11-01,CC-C06-D01,True
+C06-E0034,C06,C06-D04,Especialista em Relacionamento com Cliente,Senior,2024-04-06,CC-C06-D04,True
+C06-E0035,C06,C06-D01,Analista de Operacoes,Senior,2022-04-18,CC-C06-D01,False
+C06-E0036,C06,C06-D07,Analista de RH,Junior,2024-09-03,CC-C06-D07,True
+C06-E0037,C06,C06-D04,Especialista em Relacionamento com Cliente,Junior,2021-02-02,CC-C06-D04,True
+C06-E0038,C06,C06-D04,Especialista em Relacionamento com Cliente,Junior,2022-11-04,CC-C06-D04,True
+C06-E0039,C06,C06-D02,Analista de Risco,Pleno,2025-06-10,CC-C06-D02,False
+C06-E0040,C06,C06-D01,Analista de Operacoes,Junior,2026-01-10,CC-C06-D01,True
+C06-E0041,C06,C06-D01,Analista de Operacoes,Pleno,2021-10-04,CC-C06-D01,True
+C06-E0042,C06,C06-D03,Administrador(a) de Sistemas,Senior,2020-11-17,CC-C06-D03,True
+C06-E0043,C06,C06-D01,Especialista em Produtos Bancarios,Especialista,2021-09-12,CC-C06-D01,True
+C06-E0044,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2026-01-09,,True
+C06-E0045,C06,C06-D06,Analista de Contas a Pagar,Pleno,2025-03-29,CC-C06-D06,True
+C06-E0046,C06,C06-D06,Controller Junior,Pleno,2023-04-03,CC-C06-D06,True
+C06-E0047,C06,C06-D04,Especialista em Relacionamento com Cliente,Junior,2024-12-09,CC-C06-D04,True
+C06-E0048,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2024-08-02,CC-C06-D01,True
+C06-E0049,C06,C06-D06,Analista Financeiro,Junior,2022-09-26,CC-C06-D06,True
+C06-E0050,C06,C06-D06,Controller Junior,Especialista,2022-06-25,CC-C06-D06,True
+C06-E0051,C06,C06-D01,Analista de Operacoes,Junior,2026-04-15,CC-C06-D01,True
+C06-E0052,C06,C06-D05,Analista Comercial,Senior,2022-12-07,CC-C06-D05,True
+C06-E0053,C06,C06-D01,Analista de Operacoes,Pleno,2024-06-23,CC-C06-D01,True
+C06-E0054,C06,C06-D05,Coordenador(a) Comercial,Junior,2021-11-24,CC-C06-D05,False
+C06-E0055,C06,C06-D08,Advogado(a) Corporativo,Pleno,2025-06-21,CC-C06-D08,True
+C06-E0056,C06,C06-D01,Analista de Operacoes,Pleno,2024-05-16,CC-C06-D01,True
+C06-E0057,C06,C06-D06,Controller Junior,Junior,2022-10-25,CC-C06-D06,False
+C06-E0058,C06,C06-D04,Analista de Atendimento,Senior,2024-08-26,CC-C06-D04,True
+C06-E0059,C06,C06-D08,Advogado(a) Corporativo,Junior,2023-06-14,CC-C06-D08,True
+C06-E0060,C06,C06-D03,Suporte Tecnico,Junior,2026-04-26,CC-C06-D03,False
+C06-E0061,C06,C06-D06,Controller Junior,Senior,2022-03-26,CC-C06-D06,True
+C06-E0062,C06,C06-D01,Analista de Operacoes,Senior,2023-07-04,CC-C06-D01,True
+C06-E0063,C06,C06-D02,Analista de Compliance,Junior,2020-10-22,CC-C06-D02,True
+C06-E0064,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2025-02-16,CC-C06-D01,True
+C06-E0065,C06,C06-D08,Advogado(a) Corporativo,Junior,2022-04-28,CC-C06-D08,True
+C06-E0066,C06,C06-D05,Executivo(a) de Contas,Pleno,2024-12-11,CC-C06-D05,False
+C06-E0067,C06,C06-D06,Controller Junior,Junior,2022-04-03,CC-C06-D06,True
+C06-E0068,C06,C06-D07,Recrutador(a),Senior,2020-12-30,CC-C06-D07,True
+C06-E0069,C06,C06-D01,Analista de Operacoes,Senior,2021-11-04,CC-C06-D01,False
+C06-E0070,C06,C06-D02,Analista de Risco,Especialista,2023-03-03,CC-C06-D02,True
+C06-E0071,C06,C06-D01,Especialista em Produtos Bancarios,Junior,2025-07-27,CC-C06-D01,True
+C06-E0072,C06,C06-D01,Analista de Operacoes,Especialista,2025-10-08,CC-C06-D01,True
+C06-E0073,C06,C06-D01,Analista de Operacoes,Pleno,2024-10-06,CC-C06-D01,True
+C06-E0074,C06,C06-D03,Analista de Infraestrutura,Senior,2025-06-18,CC-C06-D03,True
+C06-E0075,C06,C06-D01,Especialista em Produtos Bancarios,Junior,2025-06-04,CC-C06-D01,True
+C06-E0076,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2021-07-31,CC-C06-D01,True
+C06-E0077,C06,C06-D01,Analista de Operacoes,Pleno,2020-09-08,CC-C06-D01,True
+C06-E0078,C06,C06-D01,Analista de Operacoes,Pleno,2021-04-05,CC-C06-D01,True
+C06-E0079,C06,C06-D08,Advogado(a) Corporativo,Pleno,2026-03-14,CC-C06-D08,True
+C06-E0080,C06,C06-D05,Executivo(a) de Contas,Junior,2024-01-01,CC-C06-D05,True
+C06-E0081,C06,C06-D07,Analista de RH,Junior,2021-09-10,CC-C06-D07,True
+C06-E0082,C06,C06-D03,Analista de TI,Gerente,2023-01-30,CC-C06-D03,True
+C06-E0083,C06,C06-D01,Analista de Operacoes,Pleno,2021-02-24,CC-C06-D01,True
+C06-E0084,C06,C06-D05,Analista Comercial,Junior,2024-06-04,CC-C06-D05,True
+C06-E0085,C06,C06-D02,Analista de Compliance,Gerente,2024-01-07,CC-C06-D02,True
+C06-E0086,C06,C06-D01,Especialista em Produtos Bancarios,Especialista,2023-08-08,CC-C06-D01,False
+C06-E0087,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2022-03-26,CC-C06-D01,True
+C06-E0088,C06,C06-D01,Analista de Operacoes,Senior,2022-06-14,CC-C06-D01,True
+C06-E0089,C06,C06-D01,Analista de Operacoes,Pleno,2024-06-10,CC-C06-D01,True
+C06-E0090,C06,C06-D02,Analista de Compliance,Senior,2023-02-24,CC-C06-D02,True
+C06-E0091,C06,C06-D04,Analista de Atendimento,Junior,2026-05-28,CC-C06-D04,True
+C06-E0092,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2021-04-02,CC-C06-D01,True
+C06-E0093,C06,C06-D01,Especialista em Produtos Bancarios,Gerente,2023-02-18,CC-C06-D01,True
+C06-E0094,C06,C06-D05,Executivo(a) de Contas,Pleno,2023-09-02,CC-C06-D05,True
+C06-E0095,C06,C06-D01,Analista de Operacoes,Junior,2023-05-09,CC-C06-D01,True
+C06-E0096,C06,C06-D02,Analista de Risco,Junior,2026-01-31,CC-C06-D02,True
+C06-E0097,C06,C06-D06,Controller Junior,Pleno,2026-04-08,CC-C06-D06,True
+C06-E0098,C06,C06-D01,Analista de Operacoes,Pleno,2025-04-24,CC-C06-D01,True
+C06-E0099,C06,C06-D01,Especialista em Produtos Bancarios,Junior,2025-11-24,CC-C06-D01,True
+C06-E0100,C06,C06-D03,Analista de TI,Pleno,2021-12-07,CC-C06-D03,True
+C06-E0101,C06,C06-D02,Analista de Risco,Pleno,2025-10-23,CC-C06-D02,True
+C06-E0102,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2023-10-26,CC-C06-D04,False
+C06-E0103,C06,C06-D05,Coordenador(a) Comercial,Gerente,2022-11-20,CC-C06-D05,True
+C06-E0104,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2023-10-15,CC-C06-D01,True
+C06-E0105,C06,C06-D04,Analista de Atendimento,Pleno,2023-12-19,CC-C06-D04,True
+C06-E0106,C06,C06-D03,Suporte Tecnico,Junior,2025-10-05,CC-C06-D03,True
+C06-E0107,C06,C06-D01,Analista de Operacoes,Pleno,2021-08-27,CC-C06-D01,True
+C06-E0108,C06,C06-D04,Analista de Atendimento,Senior,2020-08-30,CC-C06-D04,False
+C06-E0109,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2022-11-14,CC-C06-D01,True
+C06-E0110,C06,C06-D03,Analista de Infraestrutura,Pleno,2024-10-08,CC-C06-D03,True
+C06-E0111,C06,C06-D01,Analista de Operacoes,Senior,2021-11-19,CC-C06-D01,True
+C06-E0112,C06,C06-D03,Administrador(a) de Sistemas,Pleno,2023-12-01,CC-C06-D03,True
+C06-E0113,C06,C06-D02,Analista de Risco,Senior,2021-08-06,CC-C06-D02,True
+C06-E0114,C06,C06-D05,Executivo(a) de Contas,Pleno,2021-10-25,CC-C06-D05,True
+C06-E0115,C06,C06-D01,Analista de Operacoes,Junior,2022-02-02,CC-C06-D01,True
+C06-E0116,C06,C06-D03,Administrador(a) de Sistemas,Junior,2022-09-28,CC-C06-D03,False
+C06-E0117,C06,C06-D03,Analista de Infraestrutura,Junior,2022-04-14,CC-C06-D03,True
+C06-E0118,C06,C06-D05,Coordenador(a) Comercial,Senior,2021-06-19,CC-C06-D05,True
+C06-E0119,C06,C06-D04,Especialista em Relacionamento com Cliente,Especialista,2024-01-01,CC-C06-D04,False
+C06-E0120,C06,C06-D04,Analista de Atendimento,Senior,2021-03-20,CC-C06-D04,True
+C06-E0121,C06,C06-D05,Coordenador(a) Comercial,Especialista,2022-01-20,CC-C06-D05,True
+C06-E0122,C06,C06-D06,Analista Financeiro,Senior,2023-06-06,CC-C06-D06,False
+C06-E0123,C06,C06-D02,Analista de Compliance,Senior,2024-06-01,CC-C06-D02,True
+C06-E0124,C06,C06-D04,Analista de Atendimento,Pleno,2024-01-26,CC-C06-D04,True
+C06-E0125,C06,C06-D06,Analista de Contas a Pagar,Junior,2025-02-16,CC-C06-D06,True
+C06-E0126,C06,C06-D08,Advogado(a) Corporativo,Pleno,2023-09-22,CC-C06-D08,True
+C06-E0127,C06,C06-D06,Analista de Contas a Pagar,Senior,2024-12-20,CC-C06-D06,True
+C06-E0128,C06,C06-D02,Analista de Risco,Pleno,2022-11-02,CC-C06-D02,False
+C06-E0129,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2021-03-20,CC-C06-D01,True
+C06-E0130,C06,C06-D03,Suporte Tecnico,Junior,2022-12-26,CC-C06-D03,True
+C06-E0131,C06,C06-D05,Coordenador(a) Comercial,Senior,2021-03-02,CC-C06-D05,True
+C06-E0132,C06,C06-D03,Analista de TI,Junior,2021-03-06,CC-C06-D03,True
+C06-E0133,C06,C06-D03,Suporte Tecnico,Pleno,2024-03-01,CC-C06-D03,True
+C06-E0134,C06,C06-D05,Analista Comercial,Pleno,2025-12-06,CC-C06-D05,True
+C06-E0135,C06,C06-D02,Analista de Risco,Junior,2024-10-22,,True
+C06-E0136,C06,C06-D06,Analista de Contas a Pagar,Especialista,2020-11-15,CC-C06-D06,True
+C06-E0137,C06,C06-D03,Analista de Infraestrutura,Junior,2023-02-18,CC-C06-D03,False
+C06-E0138,C06,C06-D02,Analista de Compliance,Pleno,2023-11-12,CC-C06-D02,True
+C06-E0139,C06,C06-D03,Administrador(a) de Sistemas,Pleno,2020-11-04,CC-C06-D03,True
+C06-E0140,C06,C06-D05,Coordenador(a) Comercial,Gerente,2024-03-22,CC-C06-D05,True
+C06-E0141,C06,C06-D01,Especialista em Produtos Bancarios,Junior,2020-12-10,CC-C06-D01,True
+C06-E0142,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2024-07-18,CC-C06-D01,True
+C06-E0143,C06,C06-D07,Recrutador(a),Junior,2020-12-19,CC-C06-D07,True
+C06-E0144,C06,C06-D01,Analista de Operacoes,Pleno,2026-01-24,CC-C06-D01,True
+C06-E0145,C06,C06-D04,Analista de Atendimento,Junior,2025-11-25,CC-C06-D04,True
+C06-E0146,C06,C06-D04,Especialista em Relacionamento com Cliente,Senior,2025-05-06,CC-C06-D04,True
+C06-E0147,C06,C06-D03,Administrador(a) de Sistemas,Pleno,2025-09-06,CC-C06-D03,True
+C06-E0148,C06,C06-D04,Analista de Atendimento,Gerente,2024-11-21,CC-C06-D04,True
+C06-E0149,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2025-10-07,CC-C06-D01,True
+C06-E0150,C06,C06-D04,Especialista em Relacionamento com Cliente,Junior,2020-12-21,,True
+C06-E0151,C06,C06-D02,Analista de Compliance,Pleno,2026-04-24,,True
+C06-E0152,C06,C06-D04,Especialista em Relacionamento com Cliente,Senior,2023-02-10,CC-C06-D04,True
+C06-E0153,C06,C06-D01,Analista de Operacoes,Pleno,2020-10-23,CC-C06-D01,True
+C06-E0154,C06,C06-D04,Especialista em Relacionamento com Cliente,Gerente,2021-08-05,CC-C06-D04,True
+C06-E0155,C06,C06-D01,Analista de Operacoes,Junior,2025-03-30,CC-C06-D01,False
+C06-E0156,C06,C06-D01,Analista de Operacoes,Especialista,2024-10-06,CC-C06-D01,False
+C06-E0157,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2022-06-21,CC-C06-D01,True
+C06-E0158,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2025-07-23,CC-C06-D01,True
+C06-E0159,C06,C06-D05,Analista Comercial,Pleno,2021-04-18,CC-C06-D05,True
+C06-E0160,C06,C06-D01,Analista de Operacoes,Junior,2023-01-30,CC-C06-D01,True
+C06-E0161,C06,C06-D07,Analista de RH,Senior,2022-06-14,CC-C06-D07,True
+C06-E0162,C06,C06-D07,Recrutador(a),Senior,2021-11-09,CC-C06-D07,True
+C06-E0163,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2022-03-11,CC-C06-D04,True
+C06-E0164,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2025-10-25,CC-C06-D01,True
+C06-E0165,C06,C06-D02,Analista de Risco,Junior,2025-07-08,CC-C06-D02,True
+C06-E0166,C06,C06-D05,Analista Comercial,Junior,2022-09-24,CC-C06-D05,True
+C06-E0167,C06,C06-D02,Analista de Risco,Pleno,2025-12-19,CC-C06-D02,True
+C06-E0168,C06,C06-D01,Especialista em Produtos Bancarios,Junior,2023-05-28,CC-C06-D01,True
+C06-E0169,C06,C06-D04,Analista de Atendimento,Pleno,2023-04-20,CC-C06-D04,True
+C06-E0170,C06,C06-D06,Analista de Contas a Pagar,Senior,2022-06-05,CC-C06-D06,True
+C06-E0171,C06,C06-D05,Analista Comercial,Junior,2026-04-08,CC-C06-D05,True
+C06-E0172,C06,C06-D01,Analista de Operacoes,Pleno,2021-12-23,CC-C06-D01,True
+C06-E0173,C06,C06-D04,Especialista em Relacionamento com Cliente,Junior,2024-08-15,CC-C06-D04,True
+C06-E0174,C06,C06-D01,Especialista em Produtos Bancarios,Junior,2022-09-22,CC-C06-D01,True
+C06-E0175,C06,C06-D01,Analista de Operacoes,Senior,2021-09-07,CC-C06-D01,True
+C06-E0176,C06,C06-D06,Analista de Contas a Pagar,Especialista,2025-09-04,CC-C06-D06,True
+C06-E0177,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2025-10-25,CC-C06-D01,False
+C06-E0178,C06,C06-D01,Analista de Operacoes,Senior,2021-05-31,CC-C06-D01,True
+C06-E0179,C06,C06-D01,Especialista em Produtos Bancarios,Junior,2022-10-14,CC-C06-D01,True
+C06-E0180,C06,C06-D06,Controller Junior,Pleno,2021-05-23,CC-C06-D06,True
+C06-E0181,C06,C06-D05,Analista Comercial,Pleno,2022-03-27,CC-C06-D05,True
+C06-E0182,C06,C06-D04,Especialista em Relacionamento com Cliente,Gerente,2025-08-20,CC-C06-D04,True
+C06-E0183,C06,C06-D05,Analista Comercial,Senior,2021-08-22,CC-C06-D05,True
+C06-E0184,C06,C06-D01,Analista de Operacoes,Pleno,2025-07-10,CC-C06-D01,True
+C06-E0185,C06,C06-D03,Analista de Infraestrutura,Junior,2024-09-18,CC-C06-D03,True
+C06-E0186,C06,C06-D02,Analista de Compliance,Pleno,2022-05-26,CC-C06-D02,True
+C06-E0187,C06,C06-D01,Analista de Operacoes,Junior,2022-12-27,CC-C06-D01,True
+C06-E0188,C06,C06-D03,Suporte Tecnico,Especialista,2025-07-17,CC-C06-D03,True
+C06-E0189,C06,C06-D07,Analista de RH,Junior,2021-08-11,CC-C06-D07,False
+C06-E0190,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2025-04-14,CC-C06-D01,True
+C06-E0191,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2025-05-26,CC-C06-D01,True
+C06-E0192,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2022-02-15,,True
+C06-E0193,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2023-12-10,CC-C06-D01,False
+C06-E0194,C06,C06-D06,Analista de Contas a Pagar,Pleno,2023-09-21,CC-C06-D06,True
+C06-E0195,C06,C06-D03,Administrador(a) de Sistemas,Pleno,2022-03-05,CC-C06-D03,True
+C06-E0196,C06,C06-D03,Suporte Tecnico,Junior,2023-01-25,CC-C06-D03,False
+C06-E0197,C06,C06-D05,Executivo(a) de Contas,Senior,2025-10-05,CC-C06-D05,False
+C06-E0198,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2023-10-03,CC-C06-D01,True
+C06-E0199,C06,C06-D03,Analista de TI,Junior,2022-05-24,CC-C06-D03,True
+C06-E0200,C06,C06-D03,Administrador(a) de Sistemas,Junior,2020-11-19,CC-C06-D03,True
+C06-E0201,C06,C06-D04,Analista de Atendimento,Junior,2021-04-23,CC-C06-D04,True
+C06-E0202,C06,C06-D08,Advogado(a) Corporativo,Junior,2026-05-15,CC-C06-D08,True
+C06-E0203,C06,C06-D05,Analista Comercial,Senior,2021-05-25,CC-C06-D05,True
+C06-E0204,C06,C06-D02,Analista de Compliance,Junior,2021-07-04,CC-C06-D02,True
+C06-E0205,C06,C06-D05,Coordenador(a) Comercial,Especialista,2020-08-26,CC-C06-D05,True
+C06-E0206,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2022-11-06,CC-C06-D01,True
+C06-E0207,C06,C06-D01,Analista de Operacoes,Junior,2021-01-26,CC-C06-D01,False
+C06-E0208,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2020-09-07,CC-C06-D01,True
+C06-E0209,C06,C06-D02,Analista de Compliance,Pleno,2023-09-23,CC-C06-D02,True
+C06-E0210,C06,C06-D03,Suporte Tecnico,Pleno,2022-01-14,CC-C06-D03,True
+C06-E0211,C06,C06-D04,Analista de Atendimento,Gerente,2022-10-18,CC-C06-D04,True
+C06-E0212,C06,C06-D06,Analista Financeiro,Senior,2022-04-17,CC-C06-D06,True
+C06-E0213,C06,C06-D03,Analista de TI,Junior,2021-04-08,CC-C06-D03,True
+C06-E0214,C06,C06-D03,Administrador(a) de Sistemas,Pleno,2021-07-12,CC-C06-D03,True
+C06-E0215,C06,C06-D01,Analista de Operacoes,Pleno,2021-11-09,CC-C06-D01,True
+C06-E0216,C06,C06-D01,Analista de Operacoes,Pleno,2023-01-18,CC-C06-D01,False
+C06-E0217,C06,C06-D04,Analista de Atendimento,Pleno,2021-09-12,CC-C06-D04,True
+C06-E0218,C06,C06-D03,Analista de TI,Especialista,2023-08-07,CC-C06-D03,True
+C06-E0219,C06,C06-D05,Analista Comercial,Junior,2021-12-13,CC-C06-D05,True
+C06-E0220,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2026-01-12,CC-C06-D01,True
+C06-E0221,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2025-06-28,CC-C06-D01,True
+C06-E0222,C06,C06-D03,Administrador(a) de Sistemas,Junior,2022-06-18,CC-C06-D03,False
+C06-E0223,C06,C06-D01,Analista de Operacoes,Pleno,2021-12-18,CC-C06-D01,True
+C06-E0224,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2020-09-13,CC-C06-D01,True
+C06-E0225,C06,C06-D05,Executivo(a) de Contas,Gerente,2026-01-21,CC-C06-D05,True
+C06-E0226,C06,C06-D01,Analista de Operacoes,Pleno,2020-09-19,CC-C06-D01,False
+C06-E0227,C06,C06-D04,Analista de Atendimento,Pleno,2021-06-12,CC-C06-D04,True
+C06-E0228,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2020-10-31,CC-C06-D01,True
+C06-E0229,C06,C06-D01,Analista de Operacoes,Junior,2021-01-11,CC-C06-D01,True
+C06-E0230,C06,C06-D02,Analista de Compliance,Pleno,2025-06-25,CC-C06-D02,True
+C06-E0231,C06,C06-D05,Coordenador(a) Comercial,Gerente,2025-04-27,CC-C06-D05,True
+C06-E0232,C06,C06-D02,Analista de Compliance,Pleno,2021-05-03,CC-C06-D02,True
+C06-E0233,C06,C06-D05,Coordenador(a) Comercial,Senior,2023-05-29,CC-C06-D05,True
+C06-E0234,C06,C06-D01,Analista de Operacoes,Especialista,2023-08-29,CC-C06-D01,True
+C06-E0235,C06,C06-D05,Analista Comercial,Gerente,2024-04-29,CC-C06-D05,True
+C06-E0236,C06,C06-D01,Analista de Operacoes,Junior,2025-02-25,CC-C06-D01,True
+C06-E0237,C06,C06-D04,Especialista em Relacionamento com Cliente,Especialista,2022-06-25,CC-C06-D04,True
+C06-E0238,C06,C06-D04,Analista de Atendimento,Especialista,2020-11-25,CC-C06-D04,True
+C06-E0239,C06,C06-D07,Analista de RH,Pleno,2020-08-28,CC-C06-D07,True
+C06-E0240,C06,C06-D02,Analista de Risco,Senior,2024-04-05,CC-C06-D02,True
+C06-E0241,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2024-10-25,CC-C06-D01,True
+C06-E0242,C06,C06-D01,Analista de Operacoes,Pleno,2024-05-09,CC-C06-D01,True
+C06-E0243,C06,C06-D05,Analista Comercial,Junior,2022-01-03,CC-C06-D05,False
+C06-E0244,C06,C06-D04,Analista de Atendimento,Pleno,2021-05-27,CC-C06-D04,True
+C06-E0245,C06,C06-D05,Analista Comercial,Junior,2026-05-24,CC-C06-D05,True
+C06-E0246,C06,C06-D01,Analista de Operacoes,Gerente,2024-07-21,CC-C06-D01,True
+C06-E0247,C06,C06-D02,Analista de Risco,Junior,2025-04-21,CC-C06-D02,True
+C06-E0248,C06,C06-D01,Analista de Operacoes,Especialista,2024-01-24,CC-C06-D01,True
+C06-E0249,C06,C06-D07,Business Partner de RH,Pleno,2025-03-02,CC-C06-D07,True
+C06-E0250,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2022-12-06,CC-C06-D04,True
+C06-E0251,C06,C06-D07,Recrutador(a),Junior,2022-01-16,CC-C06-D07,True
+C06-E0252,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2022-07-01,CC-C06-D01,True
+C06-E0253,C06,C06-D04,Analista de Atendimento,Senior,2021-07-21,CC-C06-D04,True
+C06-E0254,C06,C06-D04,Especialista em Relacionamento com Cliente,Senior,2020-12-18,CC-C06-D04,True
+C06-E0255,C06,C06-D02,Analista de Risco,Senior,2022-05-07,CC-C06-D02,True
+C06-E0256,C06,C06-D06,Analista Financeiro,Pleno,2023-10-08,CC-C06-D06,True
+C06-E0257,C06,C06-D07,Analista de RH,Pleno,2022-04-04,CC-C06-D07,True
+C06-E0258,C06,C06-D06,Analista de Contas a Pagar,Junior,2022-02-01,CC-C06-D06,True
+C06-E0259,C06,C06-D05,Executivo(a) de Contas,Junior,2022-02-21,CC-C06-D05,False
+C06-E0260,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2022-07-21,CC-C06-D01,True
+C06-E0261,C06,C06-D01,Analista de Operacoes,Junior,2024-07-28,CC-C06-D01,True
+C06-E0262,C06,C06-D07,Analista de RH,Pleno,2024-05-06,CC-C06-D07,True
+C06-E0263,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2022-08-23,CC-C06-D01,True
+C06-E0264,C06,C06-D04,Especialista em Relacionamento com Cliente,Junior,2026-05-03,CC-C06-D04,True
+C06-E0265,C06,C06-D04,Analista de Atendimento,Especialista,2021-07-18,CC-C06-D04,True
+C06-E0266,C06,C06-D04,Especialista em Relacionamento com Cliente,Gerente,2023-10-28,CC-C06-D04,True
+C06-E0267,C06,C06-D08,Advogado(a) Corporativo,Pleno,2021-06-19,CC-C06-D08,True
+C06-E0268,C06,C06-D02,Analista de Risco,Pleno,2026-02-05,CC-C06-D02,True
+C06-E0269,C06,C06-D02,Analista de Risco,Especialista,2024-06-23,CC-C06-D02,True
+C06-E0270,C06,C06-D01,Analista de Operacoes,Senior,2023-02-06,CC-C06-D01,True
+C06-E0271,C06,C06-D03,Analista de Infraestrutura,Senior,2022-12-11,CC-C06-D03,True
+C06-E0272,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2020-09-18,CC-C06-D01,True
+C06-E0273,C06,C06-D02,Analista de Risco,Junior,2023-06-10,CC-C06-D02,True
+C06-E0274,C06,C06-D05,Analista Comercial,Pleno,2025-12-23,CC-C06-D05,True
+C06-E0275,C06,C06-D07,Business Partner de RH,Especialista,2023-01-20,CC-C06-D07,True
+C06-E0276,C06,C06-D01,Especialista em Produtos Bancarios,Junior,2025-04-18,CC-C06-D01,True
+C06-E0277,C06,C06-D02,Analista de Risco,Junior,2023-02-08,CC-C06-D02,False
+C06-E0278,C06,C06-D07,Analista de RH,Senior,2023-08-05,CC-C06-D07,True
+C06-E0279,C06,C06-D01,Analista de Operacoes,Pleno,2021-07-09,CC-C06-D01,True
+C06-E0280,C06,C06-D01,Analista de Operacoes,Gerente,2021-10-07,CC-C06-D01,True
+C06-E0281,C06,C06-D01,Analista de Operacoes,Especialista,2021-07-27,CC-C06-D01,True
+C06-E0282,C06,C06-D04,Especialista em Relacionamento com Cliente,Senior,2021-04-15,CC-C06-D04,True
+C06-E0283,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2024-08-01,CC-C06-D01,True
+C06-E0284,C06,C06-D07,Analista de RH,Senior,2021-07-21,CC-C06-D07,True
+C06-E0285,C06,C06-D03,Analista de TI,Senior,2022-12-02,CC-C06-D03,True
+C06-E0286,C06,C06-D03,Suporte Tecnico,Junior,2024-07-22,CC-C06-D03,True
+C06-E0287,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2024-06-29,CC-C06-D01,True
+C06-E0288,C06,C06-D03,Analista de TI,Gerente,2025-05-10,CC-C06-D03,True
+C06-E0289,C06,C06-D04,Especialista em Relacionamento com Cliente,Junior,2025-10-12,CC-C06-D04,True
+C06-E0290,C06,C06-D05,Coordenador(a) Comercial,Pleno,2025-01-08,CC-C06-D05,True
+C06-E0291,C06,C06-D05,Executivo(a) de Contas,Pleno,2023-08-24,CC-C06-D05,True
+C06-E0292,C06,C06-D04,Especialista em Relacionamento com Cliente,Senior,2021-06-21,CC-C06-D04,False
+C06-E0293,C06,C06-D06,Analista de Contas a Pagar,Senior,2023-11-30,CC-C06-D06,True
+C06-E0294,C06,C06-D05,Coordenador(a) Comercial,Pleno,2023-06-07,CC-C06-D05,True
+C06-E0295,C06,C06-D05,Analista Comercial,Senior,2023-08-01,CC-C06-D05,True
+C06-E0296,C06,C06-D01,Analista de Operacoes,Pleno,2021-12-04,CC-C06-D01,True
+C06-E0297,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2022-04-22,CC-C06-D01,False
+C06-E0298,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2022-10-10,CC-C06-D01,True
+C06-E0299,C06,C06-D04,Analista de Atendimento,Junior,2021-04-21,CC-C06-D04,True
+C06-E0300,C06,C06-D03,Suporte Tecnico,Pleno,2025-09-25,CC-C06-D03,True
+C06-E0301,C06,C06-D03,Analista de Infraestrutura,Junior,2024-01-01,CC-C06-D03,True
+C06-E0302,C06,C06-D06,Analista Financeiro,Junior,2020-11-23,CC-C06-D06,True
+C06-E0303,C06,C06-D06,Controller Junior,Pleno,2022-08-28,CC-C06-D06,True
+C06-E0304,C06,C06-D06,Analista Financeiro,Pleno,2021-01-01,CC-C06-D06,True
+C06-E0305,C06,C06-D02,Analista de Risco,Junior,2025-12-05,CC-C06-D02,True
+C06-E0306,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2026-04-06,CC-C06-D04,True
+C06-E0307,C06,C06-D01,Analista de Operacoes,Junior,2021-06-30,CC-C06-D01,True
+C06-E0308,C06,C06-D01,Especialista em Produtos Bancarios,Senior,2024-12-24,CC-C06-D01,False
+C06-E0309,C06,C06-D01,Analista de Operacoes,Senior,2021-03-03,CC-C06-D01,True
+C06-E0310,C06,C06-D02,Analista de Risco,Senior,2021-03-19,CC-C06-D02,True
+C06-E0311,C06,C06-D03,Suporte Tecnico,Pleno,2025-05-25,CC-C06-D03,True
+C06-E0312,C06,C06-D05,Analista Comercial,Pleno,2025-07-09,CC-C06-D05,True
+C06-E0313,C06,C06-D01,Analista de Operacoes,Pleno,2025-11-11,CC-C06-D01,True
+C06-E0314,C06,C06-D05,Analista Comercial,Gerente,2022-01-17,CC-C06-D05,True
+C06-E0315,C06,C06-D04,Analista de Atendimento,Especialista,2023-09-16,CC-C06-D04,True
+C06-E0316,C06,C06-D01,Analista de Operacoes,Pleno,2026-06-07,CC-C06-D01,True
+C06-E0317,C06,C06-D03,Analista de TI,Especialista,2025-05-16,CC-C06-D03,True
+C06-E0318,C06,C06-D01,Especialista em Produtos Bancarios,Pleno,2026-05-04,,True
+C06-E0319,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2025-02-03,CC-C06-D04,True
+C06-E0320,C06,C06-D03,Analista de Infraestrutura,Pleno,2024-12-17,CC-C06-D03,True
+C06-E0321,C06,C06-D01,Analista de Operacoes,Pleno,2022-02-23,CC-C06-D01,True
+C06-E0322,C06,C06-D01,Analista de Operacoes,Junior,2025-04-15,CC-C06-D01,True
+C06-E0323,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2024-11-27,CC-C06-D04,True
+C06-E0324,C06,C06-D06,Analista Financeiro,Pleno,2024-11-03,CC-C06-D06,True
+C06-E0325,C06,C06-D02,Analista de Risco,Senior,2022-09-11,CC-C06-D02,True
+C06-E0326,C06,C06-D05,Analista Comercial,Senior,2024-02-23,CC-C06-D05,False
+C06-E0327,C06,C06-D04,Analista de Atendimento,Junior,2021-10-29,CC-C06-D04,True
+C06-E0328,C06,C06-D07,Business Partner de RH,Senior,2021-04-17,CC-C06-D07,False
+C06-E0329,C06,C06-D05,Executivo(a) de Contas,Junior,2024-11-15,CC-C06-D05,True
+C06-E0330,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2022-07-03,CC-C06-D04,False
+C06-E0331,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2024-11-16,CC-C06-D04,True
+C06-E0332,C06,C06-D06,Analista de Contas a Pagar,Senior,2025-08-23,CC-C06-D06,True
+C06-E0333,C06,C06-D02,Analista de Compliance,Pleno,2026-02-22,CC-C06-D02,True
+C06-E0334,C06,C06-D02,Analista de Compliance,Junior,2024-02-21,CC-C06-D02,True
+C06-E0335,C06,C06-D01,Analista de Operacoes,Pleno,2022-01-19,CC-C06-D01,True
+C06-E0336,C06,C06-D05,Executivo(a) de Contas,Pleno,2023-10-05,CC-C06-D05,True
+C06-E0337,C06,C06-D05,Executivo(a) de Contas,Pleno,2023-09-28,CC-C06-D05,True
+C06-E0338,C06,C06-D01,Analista de Operacoes,Pleno,2026-04-23,CC-C06-D01,True
+C06-E0339,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2024-12-18,CC-C06-D04,False
+C06-E0340,C06,C06-D03,Analista de Infraestrutura,Pleno,2022-05-07,CC-C06-D03,True
+C06-E0341,C06,C06-D01,Analista de Operacoes,Senior,2021-11-02,CC-C06-D01,True
+C06-E0342,C06,C06-D08,Analista Juridico,Pleno,2026-04-04,CC-C06-D08,False
+C06-E0343,C06,C06-D01,Analista de Operacoes,Pleno,2023-07-04,CC-C06-D01,True
+C06-E0344,C06,C06-D01,Analista de Operacoes,Pleno,2021-12-24,CC-C06-D01,True
+C06-E0345,C06,C06-D04,Especialista em Relacionamento com Cliente,Junior,2021-09-11,CC-C06-D04,False
+C06-E0346,C06,C06-D05,Executivo(a) de Contas,Pleno,2024-09-24,CC-C06-D05,True
+C06-E0347,C06,C06-D01,Especialista em Produtos Bancarios,Junior,2025-07-23,CC-C06-D01,True
+C06-E0348,C06,C06-D04,Analista de Atendimento,Pleno,2024-09-13,CC-C06-D04,True
+C06-E0349,C06,C06-D04,Especialista em Relacionamento com Cliente,Pleno,2025-09-14,CC-C06-D04,False
+C06-E0350,C06,C06-D01,Especialista em Produtos Bancarios,Junior,2023-10-08,CC-C06-D01,True
+C06-E0351,C06,C06-D01,Analista de Operacoes,Junior,2021-07-28,CC-C06-D01,True
+C06-E0352,C06,C06-D04,Analista de Atendimento,Pleno,2022-12-23,CC-C06-D04,True
+C06-E0353,C06,C06-D01,Analista de Operacoes,Pleno,2025-02-07,,True
+C06-E0354,C06,C06-D07,Analista de RH,Senior,2022-03-08,,True
+C06-E0355,C06,C06-D05,Analista Comercial,Pleno,2022-07-22,CC-C06-D05,True
+C06-E0356,C06,C06-D08,Advogado(a) Corporativo,Especialista,2025-03-07,CC-C06-D08,True
+C06-E0357,C06,C06-D01,Especialista em Produtos Bancarios,Gerente,2022-01-02,CC-C06-D01,True
+C07-E0001,C07,C07-D01,Especialista em Produtos Bancarios,Senior,2021-08-04,CC-C07-D01,True
+C07-E0002,C07,C07-D07,Recrutador(a),Senior,2025-10-04,CC-C07-D07,True
+C07-E0003,C07,C07-D01,Analista de Operacoes,Pleno,2020-11-17,CC-C07-D01,True
+C07-E0004,C07,C07-D04,Especialista em Relacionamento com Cliente,Gerente,2025-10-21,CC-C07-D04,True
+C07-E0005,C07,C07-D01,Analista de Operacoes,Especialista,2024-01-20,CC-C07-D01,False
+C07-E0006,C07,C07-D01,Analista de Operacoes,Senior,2021-02-06,CC-C07-D01,True
+C07-E0007,C07,C07-D03,Analista de TI,Junior,2023-11-19,CC-C07-D03,True
+C07-E0008,C07,C07-D08,Analista Juridico,Pleno,2025-12-13,CC-C07-D08,True
+C07-E0009,C07,C07-D01,Analista de Operacoes,Pleno,2023-09-14,CC-C07-D01,False
+C07-E0010,C07,C07-D04,Especialista em Relacionamento com Cliente,Gerente,2023-12-20,CC-C07-D04,True
+C07-E0011,C07,C07-D01,Analista de Operacoes,Senior,2020-11-22,CC-C07-D01,True
+C07-E0012,C07,C07-D01,Analista de Operacoes,Pleno,2021-09-28,CC-C07-D01,True
+C07-E0013,C07,C07-D03,Administrador(a) de Sistemas,Senior,2023-10-13,CC-C07-D03,True
+C07-E0014,C07,C07-D03,Suporte Tecnico,Junior,2023-05-27,CC-C07-D03,False
+C07-E0015,C07,C07-D01,Especialista em Produtos Bancarios,Junior,2025-02-07,CC-C07-D01,True
+C07-E0016,C07,C07-D02,Analista de Risco,Pleno,2024-06-07,CC-C07-D02,True
+C07-E0017,C07,C07-D01,Analista de Operacoes,Pleno,2021-12-12,CC-C07-D01,True
+C07-E0018,C07,C07-D02,Analista de Compliance,Gerente,2021-04-05,CC-C07-D02,False
+C07-E0019,C07,C07-D07,Business Partner de RH,Junior,2022-10-10,CC-C07-D07,True
+C07-E0020,C07,C07-D07,Business Partner de RH,Senior,2026-01-26,CC-C07-D07,True
+C07-E0021,C07,C07-D02,Analista de Compliance,Pleno,2023-01-14,CC-C07-D02,True
+C07-E0022,C07,C07-D04,Analista de Atendimento,Junior,2021-03-29,CC-C07-D04,True
+C07-E0023,C07,C07-D06,Controller Junior,Senior,2021-10-13,CC-C07-D06,True
+C07-E0024,C07,C07-D01,Analista de Operacoes,Pleno,2024-10-03,,True
+C07-E0025,C07,C07-D05,Analista Comercial,Gerente,2025-12-25,CC-C07-D05,True
+C07-E0026,C07,C07-D07,Business Partner de RH,Junior,2026-05-03,CC-C07-D07,True
+C07-E0027,C07,C07-D01,Analista de Operacoes,Junior,2022-03-23,CC-C07-D01,True
+C07-E0028,C07,C07-D01,Especialista em Produtos Bancarios,Pleno,2025-04-12,CC-C07-D01,True
+C07-E0029,C07,C07-D07,Analista de RH,Junior,2021-09-26,CC-C07-D07,True
+C07-E0030,C07,C07-D04,Analista de Atendimento,Pleno,2024-11-05,CC-C07-D04,True
+C07-E0031,C07,C07-D01,Analista de Operacoes,Pleno,2025-12-14,CC-C07-D01,True
+C07-E0032,C07,C07-D01,Especialista em Produtos Bancarios,Senior,2022-03-09,CC-C07-D01,True
+C07-E0033,C07,C07-D03,Analista de Infraestrutura,Senior,2020-08-26,CC-C07-D03,True
+C07-E0034,C07,C07-D04,Analista de Atendimento,Pleno,2020-10-10,CC-C07-D04,True
+C07-E0035,C07,C07-D05,Analista Comercial,Junior,2025-08-09,CC-C07-D05,True
+C07-E0036,C07,C07-D08,Analista Juridico,Senior,2023-09-05,CC-C07-D08,True
+C07-E0037,C07,C07-D01,Analista de Operacoes,Junior,2023-10-16,CC-C07-D01,True
+C07-E0038,C07,C07-D04,Especialista em Relacionamento com Cliente,Junior,2022-01-14,CC-C07-D04,True
+C07-E0039,C07,C07-D04,Especialista em Relacionamento com Cliente,Senior,2024-05-01,CC-C07-D04,True
+C07-E0040,C07,C07-D03,Administrador(a) de Sistemas,Especialista,2025-09-12,CC-C07-D03,True
+C07-E0041,C07,C07-D01,Analista de Operacoes,Senior,2021-09-28,CC-C07-D01,True
+C07-E0042,C07,C07-D08,Analista Juridico,Pleno,2024-09-13,CC-C07-D08,False
+C07-E0043,C07,C07-D06,Controller Junior,Junior,2021-03-21,CC-C07-D06,False
+C07-E0044,C07,C07-D03,Analista de TI,Gerente,2023-02-10,CC-C07-D03,True
+C07-E0045,C07,C07-D04,Analista de Atendimento,Senior,2023-08-01,CC-C07-D04,True
+C07-E0046,C07,C07-D01,Especialista em Produtos Bancarios,Especialista,2021-05-03,CC-C07-D01,True
+C07-E0047,C07,C07-D04,Analista de Atendimento,Pleno,2023-01-12,CC-C07-D04,True
+C07-E0048,C07,C07-D04,Analista de Atendimento,Pleno,2024-01-13,CC-C07-D04,True
+C07-E0049,C07,C07-D03,Suporte Tecnico,Senior,2025-04-14,CC-C07-D03,True
+C07-E0050,C07,C07-D08,Analista Juridico,Pleno,2022-06-15,CC-C07-D08,True
+C07-E0051,C07,C07-D04,Analista de Atendimento,Senior,2022-04-27,CC-C07-D04,True
+C07-E0052,C07,C07-D02,Analista de Risco,Junior,2026-02-04,CC-C07-D02,True
+C07-E0053,C07,C07-D05,Analista Comercial,Pleno,2023-08-23,CC-C07-D05,True
+C07-E0054,C07,C07-D01,Analista de Operacoes,Junior,2024-11-16,CC-C07-D01,True
+C07-E0055,C07,C07-D02,Analista de Risco,Junior,2023-12-14,CC-C07-D02,True
+C07-E0056,C07,C07-D02,Analista de Compliance,Junior,2022-04-09,CC-C07-D02,True
+C07-E0057,C07,C07-D03,Analista de TI,Senior,2022-11-07,CC-C07-D03,True
+C07-E0058,C07,C07-D05,Executivo(a) de Contas,Pleno,2026-03-14,CC-C07-D05,True
+C07-E0059,C07,C07-D03,Administrador(a) de Sistemas,Pleno,2021-06-21,CC-C07-D03,True
+C07-E0060,C07,C07-D05,Executivo(a) de Contas,Pleno,2022-09-22,CC-C07-D05,True
+C07-E0061,C07,C07-D04,Especialista em Relacionamento com Cliente,Junior,2025-11-16,CC-C07-D04,True
+C07-E0062,C07,C07-D02,Analista de Compliance,Pleno,2022-01-06,CC-C07-D02,True
+C07-E0063,C07,C07-D05,Analista Comercial,Senior,2022-04-14,CC-C07-D05,True
+C07-E0064,C07,C07-D01,Especialista em Produtos Bancarios,Junior,2024-01-14,CC-C07-D01,True
+C07-E0065,C07,C07-D01,Especialista em Produtos Bancarios,Junior,2023-04-22,CC-C07-D01,True
+C07-E0066,C07,C07-D03,Administrador(a) de Sistemas,Senior,2025-12-03,CC-C07-D03,True
+C07-E0067,C07,C07-D01,Analista de Operacoes,Senior,2022-06-27,CC-C07-D01,True
+C07-E0068,C07,C07-D01,Especialista em Produtos Bancarios,Senior,2021-03-02,CC-C07-D01,True
+C07-E0069,C07,C07-D04,Analista de Atendimento,Junior,2025-06-17,CC-C07-D04,True
+C07-E0070,C07,C07-D03,Administrador(a) de Sistemas,Junior,2021-09-28,CC-C07-D03,True
+C07-E0071,C07,C07-D03,Administrador(a) de Sistemas,Junior,2026-03-24,CC-C07-D03,True
+C07-E0072,C07,C07-D07,Recrutador(a),Junior,2022-06-02,CC-C07-D07,True
+C07-E0073,C07,C07-D04,Especialista em Relacionamento com Cliente,Junior,2022-08-02,CC-C07-D04,True
+C08-E0001,C08,C08-D03,Suporte Tecnico,Junior,2022-02-02,CC-C08-D03,True
+C08-E0002,C08,C08-D03,Analista de TI,Especialista,2024-04-29,CC-C08-D03,True
+C08-E0003,C08,C08-D08,Analista Juridico,Gerente,2021-02-03,CC-C08-D08,False
+C08-E0004,C08,C08-D01,Especialista em Produtos Bancarios,Junior,2025-10-15,CC-C08-D01,True
+C08-E0005,C08,C08-D01,Especialista em Produtos Bancarios,Pleno,2022-06-08,CC-C08-D01,True
+C08-E0006,C08,C08-D02,Analista de Risco,Pleno,2024-08-27,CC-C08-D02,True
+C08-E0007,C08,C08-D04,Analista de Atendimento,Junior,2023-06-16,CC-C08-D04,True
+C08-E0008,C08,C08-D01,Analista de Operacoes,Senior,2021-10-31,CC-C08-D01,True
+C08-E0009,C08,C08-D06,Analista Financeiro,Pleno,2022-02-02,CC-C08-D06,True
+C08-E0010,C08,C08-D01,Analista de Operacoes,Senior,2025-02-16,CC-C08-D01,True
+C08-E0011,C08,C08-D06,Controller Junior,Junior,2022-06-03,CC-C08-D06,True
+C08-E0012,C08,C08-D01,Analista de Operacoes,Junior,2022-07-02,CC-C08-D01,True
+C08-E0013,C08,C08-D04,Analista de Atendimento,Especialista,2022-12-16,CC-C08-D04,True
+C08-E0014,C08,C08-D06,Controller Junior,Junior,2022-12-24,CC-C08-D06,False
+C08-E0015,C08,C08-D01,Analista de Operacoes,Senior,2025-08-11,CC-C08-D01,True
+C08-E0016,C08,C08-D07,Recrutador(a),Pleno,2023-12-28,,False
+C08-E0017,C08,C08-D03,Analista de Infraestrutura,Gerente,2026-02-10,CC-C08-D03,True
+C08-E0018,C08,C08-D07,Recrutador(a),Junior,2024-03-08,CC-C08-D07,True
+C08-E0019,C08,C08-D04,Especialista em Relacionamento com Cliente,Pleno,2024-06-15,CC-C08-D04,True
+C08-E0020,C08,C08-D02,Analista de Compliance,Senior,2025-10-13,CC-C08-D02,True
+C08-E0021,C08,C08-D01,Analista de Operacoes,Junior,2025-03-14,CC-C08-D01,True
+C08-E0022,C08,C08-D02,Analista de Compliance,Gerente,2020-09-23,CC-C08-D02,True
+C08-E0023,C08,C08-D01,Especialista em Produtos Bancarios,Pleno,2025-04-24,CC-C08-D01,True
+C08-E0024,C08,C08-D01,Especialista em Produtos Bancarios,Pleno,2024-11-30,CC-C08-D01,True
+C08-E0025,C08,C08-D01,Especialista em Produtos Bancarios,Junior,2020-12-24,CC-C08-D01,True
+C08-E0026,C08,C08-D03,Administrador(a) de Sistemas,Junior,2022-06-11,CC-C08-D03,True
+C08-E0027,C08,C08-D05,Coordenador(a) Comercial,Gerente,2021-07-19,CC-C08-D05,True
+C08-E0028,C08,C08-D01,Especialista em Produtos Bancarios,Pleno,2023-02-21,CC-C08-D01,True
+C08-E0029,C08,C08-D01,Analista de Operacoes,Pleno,2022-01-20,CC-C08-D01,True
+C08-E0030,C08,C08-D04,Analista de Atendimento,Senior,2025-02-04,CC-C08-D04,True
+C08-E0031,C08,C08-D01,Analista de Operacoes,Pleno,2025-04-11,CC-C08-D01,True
+C08-E0032,C08,C08-D01,Analista de Operacoes,Pleno,2022-09-24,CC-C08-D01,True
+C08-E0033,C08,C08-D01,Analista de Operacoes,Senior,2024-03-03,CC-C08-D01,True
+C08-E0034,C08,C08-D07,Analista de RH,Junior,2025-06-13,CC-C08-D07,True
+C08-E0035,C08,C08-D05,Coordenador(a) Comercial,Especialista,2022-07-14,CC-C08-D05,True
+C08-E0036,C08,C08-D02,Analista de Compliance,Senior,2023-08-12,,True
+C08-E0037,C08,C08-D04,Analista de Atendimento,Junior,2023-08-24,CC-C08-D04,True
+C08-E0038,C08,C08-D04,Especialista em Relacionamento com Cliente,Gerente,2024-09-04,CC-C08-D04,True
+C08-E0039,C08,C08-D04,Analista de Atendimento,Pleno,2025-11-26,CC-C08-D04,True
+C08-E0040,C08,C08-D04,Especialista em Relacionamento com Cliente,Pleno,2024-07-30,CC-C08-D04,True
+C08-E0041,C08,C08-D04,Especialista em Relacionamento com Cliente,Especialista,2021-03-04,CC-C08-D04,True
+C09-E0001,C09,C09-D03,Coordenador(a) de Logistica,Junior,2025-04-22,CC-C09-D03,True
+C09-E0002,C09,C09-D01,Tecnico(a) de Producao,Senior,2022-06-19,CC-C09-D01,True
+C09-E0003,C09,C09-D09,Administrador(a) de Sistemas,Senior,2025-03-15,CC-C09-D09,True
+C09-E0004,C09,C09-D04,Analista de Qualidade,Pleno,2023-02-20,CC-C09-D04,True
+C09-E0005,C09,C09-D01,Supervisor(a) de Producao,Especialista,2020-10-11,CC-C09-D01,True
+C09-E0006,C09,C09-D03,Coordenador(a) de Logistica,Junior,2024-07-15,CC-C09-D03,True
+C09-E0007,C09,C09-D01,Operador(a) de Producao,Junior,2025-08-08,CC-C09-D01,True
+C09-E0008,C09,C09-D09,Analista de TI,Junior,2022-08-27,CC-C09-D09,True
+C09-E0009,C09,C09-D01,Tecnico(a) de Producao,Pleno,2021-01-11,CC-C09-D01,False
+C09-E0010,C09,C09-D04,Engenheiro(a) de Qualidade,Gerente,2020-10-30,CC-C09-D04,True
+C09-E0011,C09,C09-D01,Tecnico(a) de Producao,Especialista,2021-02-15,CC-C09-D01,True
+C09-E0012,C09,C09-D05,Analista de Compras,Senior,2025-07-19,CC-C09-D05,True
+C09-E0013,C09,C09-D06,Executivo(a) de Contas,Senior,2023-10-27,CC-C09-D06,True
+C09-E0014,C09,C09-D05,Comprador(a) Tecnico(a),Pleno,2023-04-15,CC-C09-D05,True
+C09-E0015,C09,C09-D04,Analista de Qualidade,Pleno,2025-11-20,CC-C09-D04,True
+C09-E0016,C09,C09-D08,Recrutador(a),Senior,2021-05-28,CC-C09-D08,True
+C09-E0017,C09,C09-D01,Operador(a) de Producao,Junior,2022-05-26,,True
+C09-E0018,C09,C09-D01,Operador(a) de Producao,Junior,2023-02-21,CC-C09-D01,True
+C09-E0019,C09,C09-D01,Tecnico(a) de Producao,Pleno,2021-01-21,CC-C09-D01,True
+C09-E0020,C09,C09-D09,Analista de TI,Junior,2024-02-15,CC-C09-D09,True
+C09-E0021,C09,C09-D02,Engenheiro(a) de Manutencao,Junior,2025-07-11,CC-C09-D02,True
+C09-E0022,C09,C09-D06,Executivo(a) de Contas,Senior,2024-05-21,CC-C09-D06,True
+C09-E0023,C09,C09-D05,Comprador(a) Tecnico(a),Junior,2020-12-16,CC-C09-D05,True
+C09-E0024,C09,C09-D01,Supervisor(a) de Producao,Junior,2025-06-03,CC-C09-D01,True
+C09-E0025,C09,C09-D01,Supervisor(a) de Producao,Pleno,2024-05-15,CC-C09-D01,False
+C09-E0026,C09,C09-D01,Supervisor(a) de Producao,Especialista,2024-01-17,CC-C09-D01,True
+C09-E0027,C09,C09-D02,Tecnico(a) de Manutencao,Pleno,2023-06-29,CC-C09-D02,True
+C09-E0028,C09,C09-D01,Supervisor(a) de Producao,Pleno,2023-11-28,CC-C09-D01,True
+C09-E0029,C09,C09-D01,Tecnico(a) de Producao,Senior,2025-10-08,CC-C09-D01,True
+C09-E0030,C09,C09-D07,Analista de Contas a Pagar,Junior,2025-05-11,CC-C09-D07,True
+C09-E0031,C09,C09-D09,Suporte Tecnico,Senior,2021-08-01,CC-C09-D09,False
+C09-E0032,C09,C09-D01,Tecnico(a) de Producao,Junior,2023-11-23,CC-C09-D01,True
+C09-E0033,C09,C09-D01,Supervisor(a) de Producao,Pleno,2021-10-01,CC-C09-D01,True
+C09-E0034,C09,C09-D01,Tecnico(a) de Producao,Junior,2021-02-13,CC-C09-D01,True
+C09-E0035,C09,C09-D05,Analista de Compras,Senior,2023-06-12,CC-C09-D05,False
+C09-E0036,C09,C09-D06,Analista Comercial,Pleno,2026-01-20,CC-C09-D06,True
+C09-E0037,C09,C09-D01,Tecnico(a) de Producao,Especialista,2021-08-17,CC-C09-D01,True
+C09-E0038,C09,C09-D01,Tecnico(a) de Producao,Pleno,2024-10-16,CC-C09-D01,False
+C09-E0039,C09,C09-D06,Analista Comercial,Pleno,2024-07-03,CC-C09-D06,True
+C09-E0040,C09,C09-D04,Analista de Qualidade,Pleno,2024-01-26,CC-C09-D04,True
+C09-E0041,C09,C09-D01,Operador(a) de Producao,Pleno,2025-12-19,CC-C09-D01,False
+C09-E0042,C09,C09-D04,Engenheiro(a) de Qualidade,Pleno,2024-03-06,CC-C09-D04,True
+C09-E0043,C09,C09-D01,Tecnico(a) de Producao,Senior,2025-04-15,CC-C09-D01,True
+C09-E0044,C09,C09-D02,Engenheiro(a) de Manutencao,Especialista,2024-04-28,CC-C09-D02,True
+C09-E0045,C09,C09-D06,Executivo(a) de Contas,Pleno,2025-06-20,CC-C09-D06,True
+C09-E0046,C09,C09-D06,Analista Comercial,Senior,2023-01-08,CC-C09-D06,True
+C09-E0047,C09,C09-D02,Engenheiro(a) de Manutencao,Pleno,2020-08-13,CC-C09-D02,False
+C09-E0048,C09,C09-D09,Analista de TI,Senior,2021-09-15,CC-C09-D09,False
+C09-E0049,C09,C09-D02,Engenheiro(a) de Manutencao,Pleno,2025-03-08,CC-C09-D02,True
+C09-E0050,C09,C09-D06,Executivo(a) de Contas,Junior,2025-04-27,CC-C09-D06,True
+C09-E0051,C09,C09-D03,Analista de Logistica,Senior,2021-09-16,CC-C09-D03,False
+C09-E0052,C09,C09-D08,Recrutador(a),Pleno,2022-08-03,CC-C09-D08,True
+C09-E0053,C09,C09-D08,Business Partner de RH,Senior,2023-12-20,CC-C09-D08,True
+C09-E0054,C09,C09-D01,Tecnico(a) de Producao,Senior,2022-09-13,CC-C09-D01,False
+C09-E0055,C09,C09-D08,Analista de RH,Junior,2023-05-10,CC-C09-D08,True
+C09-E0056,C09,C09-D06,Coordenador(a) Comercial,Pleno,2021-12-09,CC-C09-D06,True
+C09-E0057,C09,C09-D06,Analista Comercial,Pleno,2023-10-12,CC-C09-D06,False
+C09-E0058,C09,C09-D01,Supervisor(a) de Producao,Pleno,2023-06-07,CC-C09-D01,True
+C09-E0059,C09,C09-D06,Executivo(a) de Contas,Junior,2022-08-28,CC-C09-D06,False
+C09-E0060,C09,C09-D07,Controller Junior,Junior,2022-12-16,CC-C09-D07,True
+C09-E0061,C09,C09-D01,Supervisor(a) de Producao,Junior,2025-05-05,CC-C09-D01,True
+C09-E0062,C09,C09-D09,Administrador(a) de Sistemas,Senior,2025-05-12,CC-C09-D09,True
+C09-E0063,C09,C09-D01,Tecnico(a) de Producao,Senior,2023-08-19,CC-C09-D01,True
+C09-E0064,C09,C09-D01,Supervisor(a) de Producao,Senior,2024-08-09,CC-C09-D01,True
+C09-E0065,C09,C09-D03,Analista de Logistica,Junior,2024-05-03,CC-C09-D03,True
+C09-E0066,C09,C09-D03,Coordenador(a) de Logistica,Junior,2021-01-04,CC-C09-D03,False
+C09-E0067,C09,C09-D04,Engenheiro(a) de Qualidade,Senior,2021-07-06,CC-C09-D04,True
+C09-E0068,C09,C09-D01,Operador(a) de Producao,Especialista,2025-09-30,CC-C09-D01,True
+C09-E0069,C09,C09-D09,Analista de Infraestrutura,Junior,2024-12-03,CC-C09-D09,True
+C09-E0070,C09,C09-D01,Tecnico(a) de Producao,Junior,2026-02-13,CC-C09-D01,True
+C09-E0071,C09,C09-D01,Operador(a) de Producao,Junior,2025-10-18,CC-C09-D01,True
+C09-E0072,C09,C09-D01,Supervisor(a) de Producao,Junior,2025-11-16,CC-C09-D01,True
+C09-E0073,C09,C09-D03,Analista de Logistica,Pleno,2023-05-16,CC-C09-D03,True
+C09-E0074,C09,C09-D08,Business Partner de RH,Senior,2023-04-14,CC-C09-D08,False
+C09-E0075,C09,C09-D04,Analista de Qualidade,Pleno,2026-02-06,CC-C09-D04,True
+C09-E0076,C09,C09-D06,Analista Comercial,Senior,2022-10-14,CC-C09-D06,True
+C09-E0077,C09,C09-D01,Supervisor(a) de Producao,Pleno,2022-07-10,CC-C09-D01,True
+C09-E0078,C09,C09-D03,Coordenador(a) de Logistica,Pleno,2025-06-06,CC-C09-D03,True
+C09-E0079,C09,C09-D02,Engenheiro(a) de Manutencao,Especialista,2025-11-02,CC-C09-D02,True
+C09-E0080,C09,C09-D03,Analista de Logistica,Pleno,2023-12-18,CC-C09-D03,True
+C09-E0081,C09,C09-D01,Tecnico(a) de Producao,Senior,2024-12-15,CC-C09-D01,True
+C09-E0082,C09,C09-D05,Comprador(a) Tecnico(a),Senior,2023-03-28,CC-C09-D05,True
+C09-E0083,C09,C09-D03,Analista de Logistica,Junior,2021-02-16,CC-C09-D03,False
+C09-E0084,C09,C09-D06,Coordenador(a) Comercial,Pleno,2024-07-02,CC-C09-D06,True
+C09-E0085,C09,C09-D03,Analista de Logistica,Junior,2023-12-08,CC-C09-D03,True
+C09-E0086,C09,C09-D01,Supervisor(a) de Producao,Senior,2022-02-13,CC-C09-D01,True
+C09-E0087,C09,C09-D04,Engenheiro(a) de Qualidade,Junior,2021-09-10,CC-C09-D04,True
+C09-E0088,C09,C09-D01,Supervisor(a) de Producao,Pleno,2021-04-18,CC-C09-D01,True
+C09-E0089,C09,C09-D07,Controller Junior,Pleno,2023-01-21,CC-C09-D07,True
+C09-E0090,C09,C09-D04,Engenheiro(a) de Qualidade,Senior,2022-11-02,CC-C09-D04,True
+C09-E0091,C09,C09-D01,Tecnico(a) de Producao,Senior,2022-05-27,CC-C09-D01,True
+C09-E0092,C09,C09-D09,Suporte Tecnico,Senior,2022-12-20,CC-C09-D09,True
+C09-E0093,C09,C09-D03,Coordenador(a) de Logistica,Pleno,2023-02-05,CC-C09-D03,True
+C09-E0094,C09,C09-D01,Supervisor(a) de Producao,Pleno,2025-09-23,CC-C09-D01,True
+C09-E0095,C09,C09-D04,Engenheiro(a) de Qualidade,Pleno,2022-10-19,CC-C09-D04,True
+C09-E0096,C09,C09-D01,Supervisor(a) de Producao,Junior,2023-02-04,CC-C09-D01,True
+C09-E0097,C09,C09-D06,Coordenador(a) Comercial,Junior,2023-10-01,CC-C09-D06,True
+C09-E0098,C09,C09-D06,Coordenador(a) Comercial,Junior,2021-11-29,CC-C09-D06,True
+C09-E0099,C09,C09-D09,Administrador(a) de Sistemas,Pleno,2026-02-27,CC-C09-D09,True
+C09-E0100,C09,C09-D03,Coordenador(a) de Logistica,Pleno,2023-07-15,CC-C09-D03,True
+C09-E0101,C09,C09-D02,Engenheiro(a) de Manutencao,Junior,2022-02-02,CC-C09-D02,True
+C09-E0102,C09,C09-D06,Coordenador(a) Comercial,Junior,2024-04-25,CC-C09-D06,True
+C09-E0103,C09,C09-D01,Tecnico(a) de Producao,Junior,2023-12-14,CC-C09-D01,True
+C09-E0104,C09,C09-D03,Coordenador(a) de Logistica,Senior,2021-01-12,CC-C09-D03,True
+C09-E0105,C09,C09-D03,Coordenador(a) de Logistica,Junior,2020-10-03,CC-C09-D03,True
+C09-E0106,C09,C09-D01,Operador(a) de Producao,Senior,2021-05-27,CC-C09-D01,True
+C09-E0107,C09,C09-D02,Tecnico(a) de Manutencao,Senior,2024-06-20,CC-C09-D02,True
+C09-E0108,C09,C09-D07,Analista Financeiro,Senior,2021-12-17,CC-C09-D07,True
+C09-E0109,C09,C09-D07,Analista de Contas a Pagar,Senior,2021-11-02,CC-C09-D07,True
+C09-E0110,C09,C09-D01,Tecnico(a) de Producao,Especialista,2021-01-26,CC-C09-D01,True
+C09-E0111,C09,C09-D01,Operador(a) de Producao,Especialista,2024-11-13,CC-C09-D01,True
+C09-E0112,C09,C09-D01,Tecnico(a) de Producao,Senior,2021-03-25,CC-C09-D01,True
+C09-E0113,C09,C09-D07,Controller Junior,Pleno,2022-04-11,CC-C09-D07,True
+C09-E0114,C09,C09-D01,Supervisor(a) de Producao,Senior,2023-07-08,CC-C09-D01,True
+C09-E0115,C09,C09-D05,Comprador(a) Tecnico(a),Junior,2025-11-04,CC-C09-D05,True
+C09-E0116,C09,C09-D01,Tecnico(a) de Producao,Especialista,2022-11-11,CC-C09-D01,True
+C09-E0117,C09,C09-D04,Analista de Qualidade,Pleno,2021-02-23,CC-C09-D04,False
+C09-E0118,C09,C09-D02,Tecnico(a) de Manutencao,Pleno,2022-03-01,CC-C09-D02,False
+C09-E0119,C09,C09-D06,Analista Comercial,Junior,2025-11-02,CC-C09-D06,False
+C09-E0120,C09,C09-D01,Operador(a) de Producao,Pleno,2024-11-26,CC-C09-D01,True
+C09-E0121,C09,C09-D04,Engenheiro(a) de Qualidade,Pleno,2021-11-08,CC-C09-D04,True
+C09-E0122,C09,C09-D01,Supervisor(a) de Producao,Junior,2024-11-02,CC-C09-D01,True
+C09-E0123,C09,C09-D05,Analista de Compras,Especialista,2021-09-30,CC-C09-D05,False
+C09-E0124,C09,C09-D07,Controller Junior,Junior,2024-06-17,CC-C09-D07,True
+C09-E0125,C09,C09-D01,Operador(a) de Producao,Junior,2026-05-23,CC-C09-D01,True
+C09-E0126,C09,C09-D07,Analista Financeiro,Gerente,2021-11-06,CC-C09-D07,True
+C09-E0127,C09,C09-D04,Analista de Qualidade,Pleno,2020-12-14,CC-C09-D04,True
+C09-E0128,C09,C09-D01,Operador(a) de Producao,Especialista,2025-05-22,CC-C09-D01,True
+C09-E0129,C09,C09-D02,Engenheiro(a) de Manutencao,Pleno,2021-12-02,CC-C09-D02,True
+C09-E0130,C09,C09-D01,Supervisor(a) de Producao,Pleno,2022-02-22,,True
+C09-E0131,C09,C09-D05,Analista de Compras,Pleno,2022-04-05,CC-C09-D05,True
+C09-E0132,C09,C09-D06,Analista Comercial,Junior,2024-04-22,,True
+C09-E0133,C09,C09-D01,Operador(a) de Producao,Senior,2022-08-08,CC-C09-D01,True
+C09-E0134,C09,C09-D03,Analista de Logistica,Senior,2022-03-24,CC-C09-D03,True
+C09-E0135,C09,C09-D06,Analista Comercial,Senior,2025-05-23,CC-C09-D06,True
+C09-E0136,C09,C09-D08,Recrutador(a),Senior,2022-10-25,CC-C09-D08,True
+C09-E0137,C09,C09-D03,Analista de Logistica,Pleno,2025-12-06,CC-C09-D03,False
+C09-E0138,C09,C09-D09,Suporte Tecnico,Senior,2023-07-24,CC-C09-D09,True
+C09-E0139,C09,C09-D03,Coordenador(a) de Logistica,Junior,2021-07-31,CC-C09-D03,True
+C09-E0140,C09,C09-D02,Tecnico(a) de Manutencao,Junior,2022-08-08,CC-C09-D02,False
+C09-E0141,C09,C09-D07,Controller Junior,Junior,2022-06-01,CC-C09-D07,True
+C09-E0142,C09,C09-D03,Analista de Logistica,Pleno,2021-12-02,,True
+C09-E0143,C09,C09-D03,Analista de Logistica,Especialista,2022-01-14,CC-C09-D03,True
+C09-E0144,C09,C09-D03,Analista de Logistica,Especialista,2021-12-31,CC-C09-D03,True
+C09-E0145,C09,C09-D07,Analista de Contas a Pagar,Especialista,2025-03-02,CC-C09-D07,False
+C09-E0146,C09,C09-D07,Analista de Contas a Pagar,Pleno,2026-01-09,CC-C09-D07,True
+C09-E0147,C09,C09-D02,Engenheiro(a) de Manutencao,Gerente,2021-10-16,CC-C09-D02,True
+C09-E0148,C09,C09-D01,Operador(a) de Producao,Senior,2022-10-14,CC-C09-D01,True
+C09-E0149,C09,C09-D03,Analista de Logistica,Junior,2026-03-23,CC-C09-D03,True
+C09-E0150,C09,C09-D03,Analista de Logistica,Pleno,2021-10-08,CC-C09-D03,True
+C09-E0151,C09,C09-D01,Operador(a) de Producao,Especialista,2023-01-18,CC-C09-D01,True
+C09-E0152,C09,C09-D06,Coordenador(a) Comercial,Pleno,2024-09-22,CC-C09-D06,True
+C09-E0153,C09,C09-D03,Analista de Logistica,Pleno,2023-01-25,CC-C09-D03,True
+C09-E0154,C09,C09-D01,Operador(a) de Producao,Junior,2023-06-02,CC-C09-D01,True
+C09-E0155,C09,C09-D01,Tecnico(a) de Producao,Junior,2024-11-27,CC-C09-D01,True
+C09-E0156,C09,C09-D01,Operador(a) de Producao,Pleno,2020-09-15,CC-C09-D01,False
+C09-E0157,C09,C09-D09,Analista de TI,Junior,2023-04-11,CC-C09-D09,True
+C09-E0158,C09,C09-D01,Operador(a) de Producao,Pleno,2020-11-11,CC-C09-D01,True
+C09-E0159,C09,C09-D01,Operador(a) de Producao,Junior,2023-06-30,CC-C09-D01,True
+C09-E0160,C09,C09-D02,Tecnico(a) de Manutencao,Pleno,2022-06-06,CC-C09-D02,True
+C09-E0161,C09,C09-D01,Supervisor(a) de Producao,Senior,2025-03-20,CC-C09-D01,True
+C09-E0162,C09,C09-D01,Supervisor(a) de Producao,Especialista,2021-01-04,CC-C09-D01,True
+C09-E0163,C09,C09-D01,Supervisor(a) de Producao,Senior,2024-04-05,CC-C09-D01,True
+C09-E0164,C09,C09-D03,Analista de Logistica,Senior,2022-05-08,CC-C09-D03,True
+C09-E0165,C09,C09-D03,Analista de Logistica,Senior,2021-06-07,CC-C09-D03,True
+C09-E0166,C09,C09-D02,Engenheiro(a) de Manutencao,Senior,2025-04-12,CC-C09-D02,True
+C09-E0167,C09,C09-D02,Tecnico(a) de Manutencao,Junior,2025-04-23,CC-C09-D02,True
+C09-E0168,C09,C09-D09,Administrador(a) de Sistemas,Senior,2023-07-22,CC-C09-D09,False
+C09-E0169,C09,C09-D02,Engenheiro(a) de Manutencao,Pleno,2023-06-26,CC-C09-D02,False
+C09-E0170,C09,C09-D01,Operador(a) de Producao,Senior,2021-07-22,CC-C09-D01,True
+C09-E0171,C09,C09-D01,Operador(a) de Producao,Pleno,2023-03-09,CC-C09-D01,True
+C09-E0172,C09,C09-D02,Engenheiro(a) de Manutencao,Pleno,2021-09-01,CC-C09-D02,True
+C09-E0173,C09,C09-D06,Executivo(a) de Contas,Senior,2021-05-05,CC-C09-D06,True
+C09-E0174,C09,C09-D01,Operador(a) de Producao,Senior,2026-01-23,CC-C09-D01,True
+C09-E0175,C09,C09-D05,Analista de Compras,Pleno,2022-10-04,CC-C09-D05,True
+C09-E0176,C09,C09-D01,Supervisor(a) de Producao,Especialista,2020-10-04,CC-C09-D01,True
+C09-E0177,C09,C09-D02,Tecnico(a) de Manutencao,Especialista,2024-01-10,CC-C09-D02,True
+C09-E0178,C09,C09-D06,Executivo(a) de Contas,Senior,2025-06-23,CC-C09-D06,True
+C09-E0179,C09,C09-D01,Supervisor(a) de Producao,Pleno,2023-05-25,CC-C09-D01,True
+C09-E0180,C09,C09-D03,Coordenador(a) de Logistica,Junior,2021-09-18,CC-C09-D03,True
+C09-E0181,C09,C09-D01,Operador(a) de Producao,Senior,2025-06-25,CC-C09-D01,True
+C09-E0182,C09,C09-D06,Coordenador(a) Comercial,Pleno,2025-10-14,CC-C09-D06,True
+C09-E0183,C09,C09-D01,Operador(a) de Producao,Senior,2025-07-14,CC-C09-D01,True
+C09-E0184,C09,C09-D07,Analista de Contas a Pagar,Pleno,2021-01-11,CC-C09-D07,True
+C09-E0185,C09,C09-D01,Tecnico(a) de Producao,Pleno,2021-07-13,CC-C09-D01,True
+C09-E0186,C09,C09-D07,Controller Junior,Junior,2022-06-04,CC-C09-D07,True
+C09-E0187,C09,C09-D02,Tecnico(a) de Manutencao,Senior,2023-05-29,CC-C09-D02,True
+C09-E0188,C09,C09-D05,Analista de Compras,Especialista,2021-02-20,CC-C09-D05,True
+C09-E0189,C09,C09-D01,Operador(a) de Producao,Junior,2025-09-25,CC-C09-D01,True
+C09-E0190,C09,C09-D08,Business Partner de RH,Especialista,2026-01-17,CC-C09-D08,True
+C09-E0191,C09,C09-D01,Tecnico(a) de Producao,Junior,2023-12-07,CC-C09-D01,True
+C09-E0192,C09,C09-D01,Tecnico(a) de Producao,Especialista,2021-03-21,CC-C09-D01,True
+C09-E0193,C09,C09-D03,Analista de Logistica,Senior,2023-09-09,CC-C09-D03,True
+C09-E0194,C09,C09-D01,Operador(a) de Producao,Junior,2021-01-15,CC-C09-D01,True
+C09-E0195,C09,C09-D01,Tecnico(a) de Producao,Pleno,2022-02-16,CC-C09-D01,True
+C09-E0196,C09,C09-D09,Analista de TI,Pleno,2026-04-25,CC-C09-D09,True
+C09-E0197,C09,C09-D09,Administrador(a) de Sistemas,Senior,2023-04-13,CC-C09-D09,True
+C09-E0198,C09,C09-D02,Engenheiro(a) de Manutencao,Senior,2021-03-29,CC-C09-D02,True
+C09-E0199,C09,C09-D08,Business Partner de RH,Pleno,2022-11-06,CC-C09-D08,True
+C09-E0200,C09,C09-D03,Coordenador(a) de Logistica,Pleno,2025-11-17,CC-C09-D03,True
+C09-E0201,C09,C09-D01,Tecnico(a) de Producao,Junior,2022-03-14,CC-C09-D01,True
+C09-E0202,C09,C09-D05,Analista de Compras,Junior,2025-07-24,CC-C09-D05,True
+C09-E0203,C09,C09-D04,Engenheiro(a) de Qualidade,Pleno,2025-06-16,CC-C09-D04,True
+C09-E0204,C09,C09-D09,Analista de Infraestrutura,Pleno,2022-11-25,CC-C09-D09,True
+C09-E0205,C09,C09-D01,Supervisor(a) de Producao,Junior,2026-03-31,CC-C09-D01,True
+C09-E0206,C09,C09-D05,Comprador(a) Tecnico(a),Pleno,2026-01-16,CC-C09-D05,True
+C09-E0207,C09,C09-D01,Operador(a) de Producao,Pleno,2025-06-04,CC-C09-D01,True
+C09-E0208,C09,C09-D01,Tecnico(a) de Producao,Pleno,2023-01-11,CC-C09-D01,True
+C09-E0209,C09,C09-D01,Tecnico(a) de Producao,Junior,2024-02-15,CC-C09-D01,True
+C09-E0210,C09,C09-D09,Analista de Infraestrutura,Senior,2020-10-14,CC-C09-D09,True
+C09-E0211,C09,C09-D06,Executivo(a) de Contas,Junior,2023-12-11,CC-C09-D06,True
+C09-E0212,C09,C09-D06,Analista Comercial,Senior,2022-12-22,CC-C09-D06,True
+C09-E0213,C09,C09-D03,Coordenador(a) de Logistica,Pleno,2022-05-15,CC-C09-D03,True
+C09-E0214,C09,C09-D01,Operador(a) de Producao,Pleno,2025-05-08,CC-C09-D01,True
+C09-E0215,C09,C09-D01,Operador(a) de Producao,Pleno,2026-06-03,CC-C09-D01,True
+C09-E0216,C09,C09-D01,Tecnico(a) de Producao,Senior,2020-09-15,CC-C09-D01,True
+C09-E0217,C09,C09-D02,Engenheiro(a) de Manutencao,Pleno,2025-04-02,CC-C09-D02,True
+C09-E0218,C09,C09-D06,Executivo(a) de Contas,Pleno,2020-12-03,CC-C09-D06,True
+C09-E0219,C09,C09-D03,Coordenador(a) de Logistica,Pleno,2025-03-30,CC-C09-D03,False
+C09-E0220,C09,C09-D01,Operador(a) de Producao,Junior,2024-05-04,CC-C09-D01,True
+C09-E0221,C09,C09-D01,Supervisor(a) de Producao,Senior,2024-11-27,CC-C09-D01,True
+C09-E0222,C09,C09-D01,Operador(a) de Producao,Pleno,2022-08-27,CC-C09-D01,True
+C09-E0223,C09,C09-D02,Engenheiro(a) de Manutencao,Pleno,2025-12-03,CC-C09-D02,True
+C09-E0224,C09,C09-D08,Recrutador(a),Junior,2025-01-23,CC-C09-D08,True
+C09-E0225,C09,C09-D04,Engenheiro(a) de Qualidade,Especialista,2023-07-21,CC-C09-D04,True
+C09-E0226,C09,C09-D06,Coordenador(a) Comercial,Especialista,2025-05-12,CC-C09-D06,True
+C09-E0227,C09,C09-D02,Tecnico(a) de Manutencao,Pleno,2025-11-25,CC-C09-D02,True
+C09-E0228,C09,C09-D02,Engenheiro(a) de Manutencao,Junior,2021-01-10,CC-C09-D02,True
+C09-E0229,C09,C09-D01,Operador(a) de Producao,Pleno,2024-06-30,CC-C09-D01,True
+C09-E0230,C09,C09-D07,Analista Financeiro,Especialista,2025-07-14,CC-C09-D07,True
+C09-E0231,C09,C09-D06,Coordenador(a) Comercial,Pleno,2022-11-01,CC-C09-D06,True
+C09-E0232,C09,C09-D01,Supervisor(a) de Producao,Junior,2021-10-01,CC-C09-D01,True
+C09-E0233,C09,C09-D03,Analista de Logistica,Pleno,2023-05-18,CC-C09-D03,True
+C09-E0234,C09,C09-D03,Coordenador(a) de Logistica,Senior,2020-09-03,CC-C09-D03,True
+C09-E0235,C09,C09-D04,Analista de Qualidade,Pleno,2024-11-23,CC-C09-D04,True
+C09-E0236,C09,C09-D09,Suporte Tecnico,Junior,2022-12-04,CC-C09-D09,True
+C09-E0237,C09,C09-D03,Analista de Logistica,Especialista,2024-12-27,CC-C09-D03,True
+C09-E0238,C09,C09-D03,Coordenador(a) de Logistica,Junior,2022-07-28,CC-C09-D03,True
+C09-E0239,C09,C09-D01,Operador(a) de Producao,Pleno,2024-06-13,CC-C09-D01,True
+C09-E0240,C09,C09-D01,Tecnico(a) de Producao,Senior,2022-07-18,CC-C09-D01,True
+C09-E0241,C09,C09-D01,Operador(a) de Producao,Pleno,2022-06-30,CC-C09-D01,True
+C09-E0242,C09,C09-D01,Tecnico(a) de Producao,Senior,2022-12-01,CC-C09-D01,True
+C09-E0243,C09,C09-D06,Coordenador(a) Comercial,Especialista,2023-10-11,CC-C09-D06,True
+C09-E0244,C09,C09-D05,Comprador(a) Tecnico(a),Pleno,2021-09-15,CC-C09-D05,True
+C09-E0245,C09,C09-D01,Tecnico(a) de Producao,Pleno,2025-04-01,CC-C09-D01,True
+C09-E0246,C09,C09-D07,Analista Financeiro,Especialista,2025-10-26,CC-C09-D07,True
+C09-E0247,C09,C09-D01,Operador(a) de Producao,Junior,2023-06-14,CC-C09-D01,True
+C09-E0248,C09,C09-D01,Operador(a) de Producao,Junior,2023-03-26,CC-C09-D01,True
+C09-E0249,C09,C09-D01,Operador(a) de Producao,Senior,2021-05-29,CC-C09-D01,True
+C09-E0250,C09,C09-D02,Engenheiro(a) de Manutencao,Junior,2024-02-27,CC-C09-D02,True
+C09-E0251,C09,C09-D01,Operador(a) de Producao,Pleno,2022-06-03,CC-C09-D01,True
+C09-E0252,C09,C09-D03,Analista de Logistica,Junior,2023-12-06,CC-C09-D03,False
+C09-E0253,C09,C09-D02,Engenheiro(a) de Manutencao,Senior,2024-10-13,CC-C09-D02,True
+C09-E0254,C09,C09-D09,Suporte Tecnico,Junior,2025-12-01,CC-C09-D09,True
+C09-E0255,C09,C09-D01,Supervisor(a) de Producao,Senior,2023-10-12,CC-C09-D01,True
+C09-E0256,C09,C09-D01,Tecnico(a) de Producao,Especialista,2024-05-12,CC-C09-D01,True
+C09-E0257,C09,C09-D01,Operador(a) de Producao,Junior,2026-04-19,CC-C09-D01,True
+C09-E0258,C09,C09-D04,Analista de Qualidade,Especialista,2022-08-21,CC-C09-D04,True
+C09-E0259,C09,C09-D01,Supervisor(a) de Producao,Pleno,2023-12-01,CC-C09-D01,True
+C09-E0260,C09,C09-D07,Analista de Contas a Pagar,Senior,2022-02-19,CC-C09-D07,False
+C09-E0261,C09,C09-D03,Analista de Logistica,Junior,2024-04-10,CC-C09-D03,True
+C09-E0262,C09,C09-D03,Analista de Logistica,Gerente,2022-04-15,CC-C09-D03,False
+C09-E0263,C09,C09-D03,Analista de Logistica,Especialista,2021-12-29,CC-C09-D03,True
+C09-E0264,C09,C09-D01,Supervisor(a) de Producao,Pleno,2025-12-27,CC-C09-D01,True
+C09-E0265,C09,C09-D01,Tecnico(a) de Producao,Pleno,2023-06-25,CC-C09-D01,True
+C09-E0266,C09,C09-D01,Tecnico(a) de Producao,Junior,2023-08-02,,True
+C09-E0267,C09,C09-D04,Engenheiro(a) de Qualidade,Junior,2024-09-15,CC-C09-D04,True
+C09-E0268,C09,C09-D01,Supervisor(a) de Producao,Pleno,2025-11-15,CC-C09-D01,True
+C09-E0269,C09,C09-D01,Tecnico(a) de Producao,Pleno,2023-01-25,CC-C09-D01,True
+C09-E0270,C09,C09-D09,Suporte Tecnico,Pleno,2025-08-17,CC-C09-D09,True
+C09-E0271,C09,C09-D01,Supervisor(a) de Producao,Junior,2023-12-24,CC-C09-D01,True
+C09-E0272,C09,C09-D06,Coordenador(a) Comercial,Junior,2025-09-05,CC-C09-D06,True
+C09-E0273,C09,C09-D06,Executivo(a) de Contas,Junior,2021-10-12,CC-C09-D06,True
+C09-E0274,C09,C09-D01,Supervisor(a) de Producao,Pleno,2025-05-31,CC-C09-D01,True
+C09-E0275,C09,C09-D01,Operador(a) de Producao,Gerente,2022-05-25,CC-C09-D01,True
+C09-E0276,C09,C09-D01,Supervisor(a) de Producao,Junior,2023-02-25,CC-C09-D01,True
+C09-E0277,C09,C09-D05,Comprador(a) Tecnico(a),Pleno,2026-05-06,CC-C09-D05,True
+C09-E0278,C09,C09-D04,Engenheiro(a) de Qualidade,Pleno,2021-06-12,CC-C09-D04,True
+C09-E0279,C09,C09-D06,Coordenador(a) Comercial,Pleno,2023-09-17,CC-C09-D06,True
+C09-E0280,C09,C09-D08,Recrutador(a),Pleno,2022-11-05,CC-C09-D08,True
+C09-E0281,C09,C09-D05,Analista de Compras,Junior,2022-02-12,CC-C09-D05,True
+C09-E0282,C09,C09-D01,Tecnico(a) de Producao,Junior,2023-04-10,CC-C09-D01,True
+C09-E0283,C09,C09-D01,Tecnico(a) de Producao,Junior,2022-03-29,CC-C09-D01,True
+C09-E0284,C09,C09-D07,Analista de Contas a Pagar,Pleno,2021-06-12,CC-C09-D07,True
+C09-E0285,C09,C09-D01,Supervisor(a) de Producao,Junior,2024-04-14,CC-C09-D01,True
+C09-E0286,C09,C09-D01,Operador(a) de Producao,Especialista,2020-10-19,CC-C09-D01,False
+C09-E0287,C09,C09-D05,Analista de Compras,Pleno,2025-09-16,CC-C09-D05,True
+C09-E0288,C09,C09-D02,Tecnico(a) de Manutencao,Especialista,2021-04-07,CC-C09-D02,True
+C09-E0289,C09,C09-D08,Analista de RH,Pleno,2024-02-20,CC-C09-D08,True
+C09-E0290,C09,C09-D04,Engenheiro(a) de Qualidade,Senior,2022-06-28,CC-C09-D04,True
+C09-E0291,C09,C09-D01,Operador(a) de Producao,Pleno,2024-09-20,CC-C09-D01,True
+C09-E0292,C09,C09-D09,Suporte Tecnico,Especialista,2025-11-26,CC-C09-D09,True
+C09-E0293,C09,C09-D01,Operador(a) de Producao,Junior,2024-06-12,CC-C09-D01,True
+C09-E0294,C09,C09-D01,Tecnico(a) de Producao,Pleno,2025-08-27,CC-C09-D01,False
+C09-E0295,C09,C09-D02,Tecnico(a) de Manutencao,Senior,2021-01-03,CC-C09-D02,True
+C09-E0296,C09,C09-D01,Supervisor(a) de Producao,Senior,2023-08-03,CC-C09-D01,True
+C09-E0297,C09,C09-D03,Coordenador(a) de Logistica,Senior,2024-05-05,,True
+C09-E0298,C09,C09-D01,Tecnico(a) de Producao,Junior,2025-02-12,CC-C09-D01,True
+C09-E0299,C09,C09-D02,Tecnico(a) de Manutencao,Especialista,2021-11-16,CC-C09-D02,True
+C09-E0300,C09,C09-D02,Tecnico(a) de Manutencao,Senior,2022-03-09,CC-C09-D02,False
+C09-E0301,C09,C09-D06,Analista Comercial,Junior,2020-10-21,CC-C09-D06,True
+C09-E0302,C09,C09-D06,Coordenador(a) Comercial,Senior,2024-06-04,CC-C09-D06,True
+C09-E0303,C09,C09-D01,Supervisor(a) de Producao,Pleno,2021-07-15,CC-C09-D01,True
+C09-E0304,C09,C09-D02,Tecnico(a) de Manutencao,Pleno,2021-02-16,CC-C09-D02,True
+C09-E0305,C09,C09-D02,Tecnico(a) de Manutencao,Junior,2024-11-30,CC-C09-D02,True
+C09-E0306,C09,C09-D01,Tecnico(a) de Producao,Senior,2024-06-17,CC-C09-D01,True
+C09-E0307,C09,C09-D06,Executivo(a) de Contas,Pleno,2023-02-07,CC-C09-D06,True
+C09-E0308,C09,C09-D05,Comprador(a) Tecnico(a),Pleno,2026-04-27,CC-C09-D05,False
+C09-E0309,C09,C09-D01,Tecnico(a) de Producao,Junior,2024-11-09,CC-C09-D01,True
+C09-E0310,C09,C09-D02,Tecnico(a) de Manutencao,Especialista,2022-11-27,CC-C09-D02,True
+C09-E0311,C09,C09-D01,Tecnico(a) de Producao,Pleno,2025-06-28,CC-C09-D01,True
+C09-E0312,C09,C09-D04,Engenheiro(a) de Qualidade,Pleno,2024-01-26,CC-C09-D04,True
+C09-E0313,C09,C09-D01,Tecnico(a) de Producao,Senior,2021-05-05,CC-C09-D01,True
+C09-E0314,C09,C09-D09,Administrador(a) de Sistemas,Especialista,2025-01-31,CC-C09-D09,True
+C09-E0315,C09,C09-D06,Analista Comercial,Junior,2024-04-07,CC-C09-D06,True
+C09-E0316,C09,C09-D02,Tecnico(a) de Manutencao,Junior,2021-04-09,CC-C09-D02,True
+C09-E0317,C09,C09-D03,Analista de Logistica,Senior,2024-06-26,CC-C09-D03,True
+C09-E0318,C09,C09-D08,Business Partner de RH,Junior,2025-05-05,CC-C09-D08,True
+C09-E0319,C09,C09-D03,Coordenador(a) de Logistica,Senior,2020-10-12,CC-C09-D03,True
+C09-E0320,C09,C09-D01,Operador(a) de Producao,Junior,2023-10-25,CC-C09-D01,True
+C09-E0321,C09,C09-D02,Tecnico(a) de Manutencao,Especialista,2021-01-25,CC-C09-D02,True
+C09-E0322,C09,C09-D07,Controller Junior,Pleno,2021-05-23,CC-C09-D07,True
+C09-E0323,C09,C09-D04,Engenheiro(a) de Qualidade,Senior,2022-03-24,CC-C09-D04,True
+C09-E0324,C09,C09-D04,Engenheiro(a) de Qualidade,Pleno,2022-11-24,CC-C09-D04,True
+C09-E0325,C09,C09-D07,Analista Financeiro,Pleno,2026-05-23,CC-C09-D07,True
+C09-E0326,C09,C09-D08,Analista de RH,Gerente,2022-02-14,CC-C09-D08,True
+C09-E0327,C09,C09-D08,Business Partner de RH,Pleno,2023-05-05,CC-C09-D08,True
+C09-E0328,C09,C09-D01,Operador(a) de Producao,Especialista,2022-04-22,CC-C09-D01,True
+C09-E0329,C09,C09-D03,Coordenador(a) de Logistica,Senior,2023-07-10,CC-C09-D03,True
+C09-E0330,C09,C09-D06,Analista Comercial,Senior,2023-05-21,CC-C09-D06,True
+C09-E0331,C09,C09-D06,Executivo(a) de Contas,Pleno,2025-07-11,CC-C09-D06,True
+C09-E0332,C09,C09-D04,Analista de Qualidade,Pleno,2024-03-29,CC-C09-D04,True
+C09-E0333,C09,C09-D01,Tecnico(a) de Producao,Senior,2025-09-08,CC-C09-D01,True
+C09-E0334,C09,C09-D06,Executivo(a) de Contas,Junior,2020-10-03,CC-C09-D06,True
+C09-E0335,C09,C09-D05,Comprador(a) Tecnico(a),Senior,2021-10-20,CC-C09-D05,True
+C09-E0336,C09,C09-D01,Operador(a) de Producao,Pleno,2023-07-10,CC-C09-D01,True
+C09-E0337,C09,C09-D02,Engenheiro(a) de Manutencao,Pleno,2024-10-11,CC-C09-D02,True
+C09-E0338,C09,C09-D01,Operador(a) de Producao,Senior,2021-02-12,CC-C09-D01,True
+C09-E0339,C09,C09-D01,Tecnico(a) de Producao,Pleno,2023-03-08,CC-C09-D01,True
+C10-E0001,C10,C10-D03,Analista de Logistica,Junior,2021-12-29,CC-C10-D03,True
+C10-E0002,C10,C10-D03,Analista de Logistica,Junior,2023-10-07,CC-C10-D03,True
+C10-E0003,C10,C10-D06,Coordenador(a) Comercial,Junior,2024-08-01,CC-C10-D06,False
+C10-E0004,C10,C10-D09,Administrador(a) de Sistemas,Pleno,2021-06-10,CC-C10-D09,True
+C10-E0005,C10,C10-D01,Tecnico(a) de Producao,Pleno,2024-10-21,CC-C10-D01,True
+C10-E0006,C10,C10-D01,Supervisor(a) de Producao,Pleno,2022-06-03,CC-C10-D01,True
+C10-E0007,C10,C10-D08,Business Partner de RH,Junior,2023-11-05,CC-C10-D08,True
+C10-E0008,C10,C10-D03,Coordenador(a) de Logistica,Senior,2024-10-20,CC-C10-D03,True
+C10-E0009,C10,C10-D04,Analista de Qualidade,Junior,2020-08-20,CC-C10-D04,True
+C10-E0010,C10,C10-D03,Coordenador(a) de Logistica,Pleno,2022-02-03,CC-C10-D03,True
+C10-E0011,C10,C10-D01,Supervisor(a) de Producao,Pleno,2025-12-03,CC-C10-D01,True
+C10-E0012,C10,C10-D06,Coordenador(a) Comercial,Pleno,2022-10-23,CC-C10-D06,True
+C10-E0013,C10,C10-D06,Coordenador(a) Comercial,Junior,2023-05-18,CC-C10-D06,True
+C10-E0014,C10,C10-D01,Supervisor(a) de Producao,Junior,2024-06-29,CC-C10-D01,True
+C10-E0015,C10,C10-D01,Supervisor(a) de Producao,Junior,2022-05-07,CC-C10-D01,True
+C10-E0016,C10,C10-D07,Analista Financeiro,Junior,2020-08-25,CC-C10-D07,True
+C10-E0017,C10,C10-D01,Operador(a) de Producao,Senior,2023-03-22,CC-C10-D01,True
+C10-E0018,C10,C10-D07,Controller Junior,Junior,2020-12-25,CC-C10-D07,True
+C10-E0019,C10,C10-D01,Tecnico(a) de Producao,Junior,2026-05-15,CC-C10-D01,True
+C10-E0020,C10,C10-D04,Analista de Qualidade,Pleno,2021-07-06,CC-C10-D04,True
+C10-E0021,C10,C10-D08,Analista de RH,Senior,2023-03-26,CC-C10-D08,True
+C10-E0022,C10,C10-D05,Analista de Compras,Senior,2025-04-10,CC-C10-D05,True
+C10-E0023,C10,C10-D02,Engenheiro(a) de Manutencao,Pleno,2025-02-12,CC-C10-D02,True
+C10-E0024,C10,C10-D05,Comprador(a) Tecnico(a),Senior,2021-07-26,CC-C10-D05,True
+C10-E0025,C10,C10-D01,Operador(a) de Producao,Especialista,2023-06-01,CC-C10-D01,True
+C10-E0026,C10,C10-D01,Supervisor(a) de Producao,Junior,2024-01-30,CC-C10-D01,True
+C10-E0027,C10,C10-D09,Analista de Infraestrutura,Junior,2026-03-12,CC-C10-D09,True
+C10-E0028,C10,C10-D06,Executivo(a) de Contas,Senior,2022-11-25,CC-C10-D06,True
+C10-E0029,C10,C10-D04,Analista de Qualidade,Senior,2022-08-02,CC-C10-D04,True
+C10-E0030,C10,C10-D02,Tecnico(a) de Manutencao,Senior,2025-10-20,CC-C10-D02,True
+C10-E0031,C10,C10-D01,Operador(a) de Producao,Pleno,2020-08-25,CC-C10-D01,True
+C10-E0032,C10,C10-D01,Tecnico(a) de Producao,Pleno,2026-03-27,CC-C10-D01,True
+C10-E0033,C10,C10-D03,Coordenador(a) de Logistica,Pleno,2025-06-25,CC-C10-D03,True
+C10-E0034,C10,C10-D06,Coordenador(a) Comercial,Senior,2023-06-22,CC-C10-D06,False
+C10-E0035,C10,C10-D03,Analista de Logistica,Especialista,2024-11-19,CC-C10-D03,True
+C10-E0036,C10,C10-D07,Analista de Contas a Pagar,Senior,2025-04-25,CC-C10-D07,True
+C10-E0037,C10,C10-D01,Operador(a) de Producao,Pleno,2020-09-18,CC-C10-D01,True
+C10-E0038,C10,C10-D02,Engenheiro(a) de Manutencao,Junior,2021-05-11,CC-C10-D02,True
+C10-E0039,C10,C10-D01,Operador(a) de Producao,Pleno,2023-11-13,CC-C10-D01,True
+C10-E0040,C10,C10-D02,Tecnico(a) de Manutencao,Senior,2025-07-04,,True
+C10-E0041,C10,C10-D01,Tecnico(a) de Producao,Senior,2021-04-18,CC-C10-D01,True
+C10-E0042,C10,C10-D09,Analista de Infraestrutura,Senior,2021-06-25,CC-C10-D09,True
+C10-E0043,C10,C10-D01,Operador(a) de Producao,Senior,2025-02-13,CC-C10-D01,True
+C10-E0044,C10,C10-D08,Recrutador(a),Pleno,2026-01-03,CC-C10-D08,True
+C10-E0045,C10,C10-D02,Tecnico(a) de Manutencao,Especialista,2025-08-05,CC-C10-D02,True
+C10-E0046,C10,C10-D09,Administrador(a) de Sistemas,Senior,2021-01-21,CC-C10-D09,True
+C10-E0047,C10,C10-D03,Analista de Logistica,Senior,2021-02-01,CC-C10-D03,True
+C10-E0048,C10,C10-D08,Recrutador(a),Junior,2021-08-09,CC-C10-D08,True
+C10-E0049,C10,C10-D01,Supervisor(a) de Producao,Senior,2021-03-18,CC-C10-D01,True
+C10-E0050,C10,C10-D06,Coordenador(a) Comercial,Pleno,2021-08-19,CC-C10-D06,True
+C10-E0051,C10,C10-D08,Business Partner de RH,Senior,2021-09-08,CC-C10-D08,True
+C10-E0052,C10,C10-D01,Supervisor(a) de Producao,Pleno,2025-05-07,CC-C10-D01,True
+C10-E0053,C10,C10-D01,Supervisor(a) de Producao,Pleno,2021-02-03,CC-C10-D01,True
+C10-E0054,C10,C10-D02,Tecnico(a) de Manutencao,Junior,2023-04-08,CC-C10-D02,True
+C10-E0055,C10,C10-D08,Recrutador(a),Pleno,2021-11-11,CC-C10-D08,False
+C10-E0056,C10,C10-D03,Analista de Logistica,Junior,2026-05-13,CC-C10-D03,True
+C10-E0057,C10,C10-D03,Analista de Logistica,Senior,2023-03-15,,True
+C10-E0058,C10,C10-D01,Tecnico(a) de Producao,Junior,2024-02-21,CC-C10-D01,True
+C10-E0059,C10,C10-D01,Supervisor(a) de Producao,Pleno,2021-11-10,CC-C10-D01,True
+C10-E0060,C10,C10-D06,Executivo(a) de Contas,Pleno,2021-08-31,CC-C10-D06,True
+C10-E0061,C10,C10-D01,Supervisor(a) de Producao,Pleno,2023-07-07,CC-C10-D01,True
+C10-E0062,C10,C10-D04,Engenheiro(a) de Qualidade,Pleno,2022-05-06,CC-C10-D04,True
+C10-E0063,C10,C10-D08,Recrutador(a),Pleno,2021-12-27,CC-C10-D08,True
+C10-E0064,C10,C10-D01,Supervisor(a) de Producao,Pleno,2021-01-12,CC-C10-D01,True
+C10-E0065,C10,C10-D04,Engenheiro(a) de Qualidade,Senior,2024-09-10,CC-C10-D04,True
+C10-E0066,C10,C10-D01,Tecnico(a) de Producao,Senior,2024-03-08,CC-C10-D01,True
+C10-E0067,C10,C10-D04,Engenheiro(a) de Qualidade,Pleno,2024-11-23,CC-C10-D04,True
+C10-E0068,C10,C10-D01,Tecnico(a) de Producao,Junior,2025-02-09,CC-C10-D01,True
+C10-E0069,C10,C10-D06,Analista Comercial,Pleno,2024-08-18,CC-C10-D06,True
+C10-E0070,C10,C10-D01,Tecnico(a) de Producao,Pleno,2021-12-14,CC-C10-D01,True
+C10-E0071,C10,C10-D02,Tecnico(a) de Manutencao,Pleno,2024-08-22,CC-C10-D02,True
+C10-E0072,C10,C10-D04,Analista de Qualidade,Senior,2021-08-09,CC-C10-D04,True
+C10-E0073,C10,C10-D01,Operador(a) de Producao,Junior,2021-02-26,CC-C10-D01,True
+C10-E0074,C10,C10-D06,Analista Comercial,Pleno,2025-06-15,CC-C10-D06,True
+C10-E0075,C10,C10-D01,Operador(a) de Producao,Junior,2022-04-15,CC-C10-D01,False
+C10-E0076,C10,C10-D04,Analista de Qualidade,Junior,2022-02-18,CC-C10-D04,True
+C10-E0077,C10,C10-D01,Supervisor(a) de Producao,Senior,2022-09-03,CC-C10-D01,True
+C10-E0078,C10,C10-D05,Comprador(a) Tecnico(a),Gerente,2022-02-15,CC-C10-D05,True
+C10-E0079,C10,C10-D01,Operador(a) de Producao,Senior,2020-10-24,CC-C10-D01,True
+C10-E0080,C10,C10-D02,Tecnico(a) de Manutencao,Junior,2020-11-25,CC-C10-D02,True
+C10-E0081,C10,C10-D01,Operador(a) de Producao,Pleno,2020-08-19,CC-C10-D01,True
+C10-E0082,C10,C10-D06,Executivo(a) de Contas,Especialista,2021-09-20,CC-C10-D06,True
+C10-E0083,C10,C10-D01,Tecnico(a) de Producao,Pleno,2023-11-06,CC-C10-D01,True
+C10-E0084,C10,C10-D07,Analista de Contas a Pagar,Junior,2026-01-15,CC-C10-D07,True
+C10-E0085,C10,C10-D08,Recrutador(a),Junior,2026-06-10,CC-C10-D08,True
+C10-E0086,C10,C10-D01,Operador(a) de Producao,Junior,2023-05-08,CC-C10-D01,True
+C10-E0087,C10,C10-D04,Engenheiro(a) de Qualidade,Senior,2022-05-12,CC-C10-D04,True
+C10-E0088,C10,C10-D01,Tecnico(a) de Producao,Senior,2024-12-28,CC-C10-D01,True
+C10-E0089,C10,C10-D02,Tecnico(a) de Manutencao,Pleno,2025-06-07,CC-C10-D02,True
+C10-E0090,C10,C10-D05,Comprador(a) Tecnico(a),Pleno,2022-07-19,CC-C10-D05,True
+C10-E0091,C10,C10-D04,Engenheiro(a) de Qualidade,Senior,2024-11-05,CC-C10-D04,True
+C10-E0092,C10,C10-D04,Analista de Qualidade,Junior,2021-05-06,CC-C10-D04,True
+C10-E0093,C10,C10-D01,Tecnico(a) de Producao,Senior,2026-02-02,CC-C10-D01,True
+C10-E0094,C10,C10-D02,Engenheiro(a) de Manutencao,Junior,2020-10-07,CC-C10-D02,True
+C10-E0095,C10,C10-D01,Operador(a) de Producao,Junior,2020-10-20,CC-C10-D01,True
+C10-E0096,C10,C10-D05,Analista de Compras,Pleno,2020-09-08,CC-C10-D05,True
+C10-E0097,C10,C10-D03,Coordenador(a) de Logistica,Especialista,2022-03-23,CC-C10-D03,True
+C10-E0098,C10,C10-D05,Comprador(a) Tecnico(a),Especialista,2022-12-16,CC-C10-D05,True
+C10-E0099,C10,C10-D01,Operador(a) de Producao,Pleno,2022-08-20,CC-C10-D01,True
+C10-E0100,C10,C10-D01,Supervisor(a) de Producao,Pleno,2021-04-11,CC-C10-D01,True
+C10-E0101,C10,C10-D01,Operador(a) de Producao,Senior,2023-05-31,CC-C10-D01,True
+C10-E0102,C10,C10-D01,Operador(a) de Producao,Junior,2022-02-25,CC-C10-D01,True
+C10-E0103,C10,C10-D01,Operador(a) de Producao,Junior,2023-11-13,CC-C10-D01,True
+C10-E0104,C10,C10-D06,Analista Comercial,Senior,2020-10-04,CC-C10-D06,False
+C10-E0105,C10,C10-D08,Recrutador(a),Junior,2026-05-03,CC-C10-D08,False
+C10-E0106,C10,C10-D03,Coordenador(a) de Logistica,Senior,2024-09-21,CC-C10-D03,True
+C10-E0107,C10,C10-D02,Engenheiro(a) de Manutencao,Senior,2022-05-04,CC-C10-D02,True
+C10-E0108,C10,C10-D01,Supervisor(a) de Producao,Pleno,2025-08-04,CC-C10-D01,True
+C10-E0109,C10,C10-D07,Analista Financeiro,Junior,2021-02-06,CC-C10-D07,True
+C10-E0110,C10,C10-D01,Operador(a) de Producao,Senior,2021-02-06,CC-C10-D01,True
+C10-E0111,C10,C10-D09,Administrador(a) de Sistemas,Pleno,2024-04-24,CC-C10-D09,False
+C10-E0112,C10,C10-D03,Analista de Logistica,Pleno,2023-10-24,CC-C10-D03,True
+C10-E0113,C10,C10-D01,Supervisor(a) de Producao,Junior,2024-02-16,CC-C10-D01,True
+C10-E0114,C10,C10-D08,Analista de RH,Senior,2021-06-05,CC-C10-D08,True
+C10-E0115,C10,C10-D01,Operador(a) de Producao,Pleno,2025-04-01,CC-C10-D01,True
+C10-E0116,C10,C10-D03,Analista de Logistica,Senior,2022-04-29,CC-C10-D03,True
+C10-E0117,C10,C10-D03,Coordenador(a) de Logistica,Junior,2026-05-15,CC-C10-D03,True
+C10-E0118,C10,C10-D01,Tecnico(a) de Producao,Pleno,2025-12-20,CC-C10-D01,True
+C10-E0119,C10,C10-D02,Engenheiro(a) de Manutencao,Junior,2022-11-28,CC-C10-D02,True
+C10-E0120,C10,C10-D04,Engenheiro(a) de Qualidade,Pleno,2020-12-09,CC-C10-D04,True
+C10-E0121,C10,C10-D05,Comprador(a) Tecnico(a),Junior,2021-12-25,CC-C10-D05,True
+C10-E0122,C10,C10-D01,Tecnico(a) de Producao,Pleno,2025-01-02,CC-C10-D01,True
+C10-E0123,C10,C10-D08,Business Partner de RH,Senior,2023-06-08,CC-C10-D08,True
+C10-E0124,C10,C10-D01,Operador(a) de Producao,Pleno,2020-10-22,CC-C10-D01,True
+C10-E0125,C10,C10-D01,Tecnico(a) de Producao,Especialista,2021-10-06,CC-C10-D01,True
+C10-E0126,C10,C10-D01,Operador(a) de Producao,Senior,2022-03-14,CC-C10-D01,True
+C10-E0127,C10,C10-D01,Supervisor(a) de Producao,Gerente,2022-04-02,,True
+C10-E0128,C10,C10-D01,Tecnico(a) de Producao,Junior,2024-01-30,CC-C10-D01,True
+C10-E0129,C10,C10-D09,Analista de TI,Senior,2024-04-16,CC-C10-D09,True
+C10-E0130,C10,C10-D01,Supervisor(a) de Producao,Pleno,2024-05-06,CC-C10-D01,True
+C10-E0131,C10,C10-D01,Operador(a) de Producao,Senior,2024-08-09,CC-C10-D01,True
+C10-E0132,C10,C10-D01,Tecnico(a) de Producao,Pleno,2022-08-06,CC-C10-D01,True
+C10-E0133,C10,C10-D05,Comprador(a) Tecnico(a),Pleno,2021-09-09,CC-C10-D05,True
+C10-E0134,C10,C10-D07,Analista de Contas a Pagar,Pleno,2022-04-09,CC-C10-D07,True
+C11-E0001,C11,C11-D01,Supervisor(a) de Producao,Pleno,2021-05-22,CC-C11-D01,True
+C11-E0002,C11,C11-D01,Operador(a) de Producao,Senior,2020-08-16,CC-C11-D01,True
+C11-E0003,C11,C11-D03,Analista de Logistica,Junior,2025-04-28,CC-C11-D03,True
+C11-E0004,C11,C11-D02,Tecnico(a) de Manutencao,Junior,2021-08-06,CC-C11-D02,True
+C11-E0005,C11,C11-D03,Analista de Logistica,Pleno,2024-10-22,CC-C11-D03,True
+C11-E0006,C11,C11-D01,Tecnico(a) de Producao,Gerente,2025-04-11,CC-C11-D01,True
+C11-E0007,C11,C11-D04,Analista de Qualidade,Pleno,2024-06-18,CC-C11-D04,True
+C11-E0008,C11,C11-D07,Analista Financeiro,Senior,2021-02-08,CC-C11-D07,True
+C11-E0009,C11,C11-D01,Tecnico(a) de Producao,Senior,2023-02-14,CC-C11-D01,True
+C11-E0010,C11,C11-D03,Coordenador(a) de Logistica,Senior,2024-06-07,CC-C11-D03,True
+C11-E0011,C11,C11-D09,Analista de TI,Junior,2021-12-23,CC-C11-D09,True
+C11-E0012,C11,C11-D01,Operador(a) de Producao,Gerente,2025-10-12,CC-C11-D01,True
+C11-E0013,C11,C11-D04,Engenheiro(a) de Qualidade,Junior,2021-02-06,CC-C11-D04,True
+C11-E0014,C11,C11-D01,Operador(a) de Producao,Pleno,2021-05-26,CC-C11-D01,True
+C11-E0015,C11,C11-D04,Engenheiro(a) de Qualidade,Junior,2022-05-25,CC-C11-D04,True
+C11-E0016,C11,C11-D01,Tecnico(a) de Producao,Junior,2023-07-22,CC-C11-D01,True
+C11-E0017,C11,C11-D09,Analista de Infraestrutura,Junior,2025-01-31,CC-C11-D09,False
+C11-E0018,C11,C11-D05,Analista de Compras,Senior,2022-11-18,CC-C11-D05,True
+C11-E0019,C11,C11-D06,Coordenador(a) Comercial,Junior,2024-06-27,CC-C11-D06,True
+C11-E0020,C11,C11-D05,Comprador(a) Tecnico(a),Pleno,2022-06-18,CC-C11-D05,False
+C11-E0021,C11,C11-D03,Coordenador(a) de Logistica,Pleno,2021-06-07,CC-C11-D03,True
+C11-E0022,C11,C11-D02,Engenheiro(a) de Manutencao,Pleno,2023-03-26,CC-C11-D02,False
+C11-E0023,C11,C11-D07,Analista Financeiro,Pleno,2024-07-25,CC-C11-D07,True
+C11-E0024,C11,C11-D09,Suporte Tecnico,Junior,2021-09-18,CC-C11-D09,True
+C11-E0025,C11,C11-D03,Coordenador(a) de Logistica,Junior,2025-08-23,CC-C11-D03,False
+C11-E0026,C11,C11-D08,Business Partner de RH,Pleno,2023-11-20,CC-C11-D08,True
+C11-E0027,C11,C11-D03,Coordenador(a) de Logistica,Pleno,2023-06-12,CC-C11-D03,True
+C11-E0028,C11,C11-D03,Coordenador(a) de Logistica,Pleno,2023-05-27,CC-C11-D03,True
+C11-E0029,C11,C11-D02,Engenheiro(a) de Manutencao,Junior,2021-05-24,CC-C11-D02,True
+C11-E0030,C11,C11-D01,Operador(a) de Producao,Pleno,2026-03-09,CC-C11-D01,True
+C11-E0031,C11,C11-D01,Operador(a) de Producao,Senior,2022-05-28,CC-C11-D01,True
+C11-E0032,C11,C11-D01,Tecnico(a) de Producao,Pleno,2025-07-19,CC-C11-D01,True
+C11-E0033,C11,C11-D03,Coordenador(a) de Logistica,Junior,2025-04-16,CC-C11-D03,True
+C11-E0034,C11,C11-D02,Engenheiro(a) de Manutencao,Senior,2023-01-15,CC-C11-D02,True
+C11-E0035,C11,C11-D02,Engenheiro(a) de Manutencao,Pleno,2025-07-06,CC-C11-D02,True
+C11-E0036,C11,C11-D09,Administrador(a) de Sistemas,Junior,2025-07-01,CC-C11-D09,True
+C11-E0037,C11,C11-D02,Engenheiro(a) de Manutencao,Pleno,2022-12-22,CC-C11-D02,True
+C12-E0001,C12,C12-D02,Coordenador(a) de Logistica,Pleno,2025-01-10,CC-C12-D02,True
+C12-E0002,C12,C12-D01,Gerente de Loja,Senior,2025-12-15,CC-C12-D01,False
+C12-E0003,C12,C12-D02,Coordenador(a) de Logistica,Pleno,2022-10-18,CC-C12-D02,True
+C12-E0004,C12,C12-D02,Coordenador(a) de Logistica,Senior,2020-08-25,CC-C12-D02,True
+C12-E0005,C12,C12-D01,Vendedor(a),Junior,2021-06-15,CC-C12-D01,True
+C12-E0006,C12,C12-D01,Operador(a) de Caixa,Senior,2023-02-03,CC-C12-D01,True
+C12-E0007,C12,C12-D07,Analista de Contas a Pagar,Junior,2021-04-28,CC-C12-D07,True
+C12-E0008,C12,C12-D01,Operador(a) de Caixa,Pleno,2021-07-26,CC-C12-D01,True
+C12-E0009,C12,C12-D05,Especialista em Marketplace,Senior,2021-01-07,CC-C12-D05,True
+C12-E0010,C12,C12-D01,Operador(a) de Caixa,Junior,2023-11-24,CC-C12-D01,True
+C12-E0011,C12,C12-D01,Vendedor(a),Junior,2022-12-28,CC-C12-D01,True
+C12-E0012,C12,C12-D01,Vendedor(a),Senior,2025-03-30,CC-C12-D01,True
+C12-E0013,C12,C12-D01,Gerente de Loja,Junior,2024-11-30,CC-C12-D01,True
+C12-E0014,C12,C12-D06,Especialista em Relacionamento com Cliente,Junior,2026-05-08,CC-C12-D06,True
+C12-E0015,C12,C12-D07,Controller Junior,Junior,2021-02-03,CC-C12-D07,False
+C12-E0016,C12,C12-D01,Vendedor(a),Senior,2021-08-22,CC-C12-D01,True
+C12-E0017,C12,C12-D02,Analista de Supply Chain,Senior,2021-08-25,,True
+C12-E0018,C12,C12-D03,Analista de Compras,Senior,2025-01-21,CC-C12-D03,True
+C12-E0019,C12,C12-D07,Analista de Contas a Pagar,Junior,2021-07-17,CC-C12-D07,True
+C12-E0020,C12,C12-D06,Analista de Atendimento,Pleno,2022-01-27,CC-C12-D06,True
+C12-E0021,C12,C12-D03,Comprador(a),Pleno,2023-06-30,CC-C12-D03,True
+C12-E0022,C12,C12-D05,Analista de E-commerce,Junior,2020-08-25,CC-C12-D05,True
+C12-E0023,C12,C12-D06,Especialista em Relacionamento com Cliente,Pleno,2023-04-02,CC-C12-D06,True
+C12-E0024,C12,C12-D01,Operador(a) de Caixa,Senior,2021-07-31,CC-C12-D01,True
+C12-E0025,C12,C12-D02,Analista de Supply Chain,Pleno,2025-09-04,CC-C12-D02,True
+C12-E0026,C12,C12-D07,Controller Junior,Especialista,2025-06-30,CC-C12-D07,True
+C12-E0027,C12,C12-D06,Especialista em Relacionamento com Cliente,Senior,2024-08-03,CC-C12-D06,False
+C12-E0028,C12,C12-D03,Analista de Compras,Senior,2025-01-23,CC-C12-D03,True
+C12-E0029,C12,C12-D03,Comprador(a),Pleno,2025-11-20,CC-C12-D03,True
+C12-E0030,C12,C12-D01,Gerente de Loja,Senior,2025-01-27,CC-C12-D01,True
+C12-E0031,C12,C12-D03,Analista de Compras,Pleno,2023-06-05,CC-C12-D03,True
+C12-E0032,C12,C12-D05,Especialista em Marketplace,Senior,2022-01-14,,True
+C12-E0033,C12,C12-D02,Analista de Supply Chain,Junior,2024-10-02,,True
+C12-E0034,C12,C12-D06,Analista de Atendimento,Pleno,2022-08-11,CC-C12-D06,True
+C12-E0035,C12,C12-D07,Controller Junior,Senior,2024-01-13,CC-C12-D07,True
+C12-E0036,C12,C12-D01,Gerente de Loja,Pleno,2022-09-28,CC-C12-D01,True
+C12-E0037,C12,C12-D02,Analista de Supply Chain,Pleno,2025-10-25,CC-C12-D02,False
+C12-E0038,C12,C12-D02,Coordenador(a) de Logistica,Junior,2025-08-23,CC-C12-D02,True
+C12-E0039,C12,C12-D05,Analista de E-commerce,Pleno,2024-04-15,CC-C12-D05,True
+C12-E0040,C12,C12-D01,Vendedor(a),Pleno,2022-03-02,CC-C12-D01,True
+C12-E0041,C12,C12-D05,Analista de E-commerce,Pleno,2023-08-27,CC-C12-D05,True
+C12-E0042,C12,C12-D07,Controller Junior,Pleno,2023-09-03,CC-C12-D07,True
+C12-E0043,C12,C12-D02,Analista de Supply Chain,Junior,2024-03-18,CC-C12-D02,True
+C12-E0044,C12,C12-D07,Analista Financeiro,Especialista,2023-03-12,CC-C12-D07,True
+C12-E0045,C12,C12-D09,Administrador(a) de Sistemas,Pleno,2021-02-21,CC-C12-D09,True
+C12-E0046,C12,C12-D01,Vendedor(a),Pleno,2022-10-27,CC-C12-D01,True
+C12-E0047,C12,C12-D01,Operador(a) de Caixa,Pleno,2025-12-21,CC-C12-D01,True
+C12-E0048,C12,C12-D08,Recrutador(a),Senior,2023-03-13,CC-C12-D08,True
+C12-E0049,C12,C12-D08,Business Partner de RH,Junior,2023-02-04,CC-C12-D08,True
+C12-E0050,C12,C12-D01,Gerente de Loja,Pleno,2024-01-01,CC-C12-D01,False
+C12-E0051,C12,C12-D01,Gerente de Loja,Senior,2022-07-26,CC-C12-D01,True
+C12-E0052,C12,C12-D01,Gerente de Loja,Gerente,2025-03-06,CC-C12-D01,True
+C12-E0053,C12,C12-D09,Analista de TI,Junior,2022-01-02,CC-C12-D09,True
+C12-E0054,C12,C12-D01,Gerente de Loja,Pleno,2025-12-21,CC-C12-D01,True
+C12-E0055,C12,C12-D03,Analista Comercial,Junior,2021-02-11,CC-C12-D03,True
+C12-E0056,C12,C12-D06,Analista de Atendimento,Pleno,2022-04-12,CC-C12-D06,True
+C12-E0057,C12,C12-D01,Gerente de Loja,Senior,2025-03-26,CC-C12-D01,True
+C12-E0058,C12,C12-D04,Especialista em Midias Digitais,Pleno,2022-08-25,CC-C12-D04,True
+C12-E0059,C12,C12-D01,Operador(a) de Caixa,Pleno,2025-10-09,CC-C12-D01,True
+C12-E0060,C12,C12-D07,Analista de Contas a Pagar,Pleno,2024-09-19,CC-C12-D07,True
+C12-E0061,C12,C12-D01,Gerente de Loja,Pleno,2025-01-12,CC-C12-D01,True
+C12-E0062,C12,C12-D05,Especialista em Marketplace,Junior,2022-07-20,CC-C12-D05,False
+C12-E0063,C12,C12-D05,Especialista em Marketplace,Pleno,2024-04-12,CC-C12-D05,True
+C12-E0064,C12,C12-D01,Vendedor(a),Pleno,2022-06-05,CC-C12-D01,True
+C12-E0065,C12,C12-D01,Vendedor(a),Junior,2026-01-01,CC-C12-D01,True
+C12-E0066,C12,C12-D02,Coordenador(a) de Logistica,Pleno,2023-02-20,CC-C12-D02,True
+C12-E0067,C12,C12-D01,Vendedor(a),Pleno,2024-04-25,CC-C12-D01,False
+C12-E0068,C12,C12-D06,Especialista em Relacionamento com Cliente,Especialista,2024-04-20,CC-C12-D06,True
+C12-E0069,C12,C12-D06,Especialista em Relacionamento com Cliente,Pleno,2024-08-24,CC-C12-D06,True
+C12-E0070,C12,C12-D02,Analista de Supply Chain,Senior,2023-08-06,CC-C12-D02,True
+C12-E0071,C12,C12-D04,Coordenador(a) de Marketing,Senior,2023-01-29,CC-C12-D04,True
+C12-E0072,C12,C12-D04,Analista de Marketing,Pleno,2020-10-08,CC-C12-D04,True
+C12-E0073,C12,C12-D06,Analista de Atendimento,Gerente,2021-03-01,,True
+C12-E0074,C12,C12-D02,Coordenador(a) de Logistica,Pleno,2023-10-07,CC-C12-D02,True
+C12-E0075,C12,C12-D01,Gerente de Loja,Pleno,2022-02-05,CC-C12-D01,True
+C12-E0076,C12,C12-D01,Operador(a) de Caixa,Junior,2020-11-12,CC-C12-D01,False
+C12-E0077,C12,C12-D03,Comprador(a),Senior,2022-09-05,CC-C12-D03,True
+C12-E0078,C12,C12-D02,Coordenador(a) de Logistica,Pleno,2022-10-31,CC-C12-D02,False
+C12-E0079,C12,C12-D02,Analista de Supply Chain,Senior,2025-11-14,CC-C12-D02,True
+C12-E0080,C12,C12-D01,Gerente de Loja,Senior,2025-02-11,CC-C12-D01,True
+C12-E0081,C12,C12-D06,Analista de Atendimento,Junior,2025-03-30,CC-C12-D06,True
+C12-E0082,C12,C12-D01,Gerente de Loja,Junior,2026-02-01,CC-C12-D01,True
+C12-E0083,C12,C12-D01,Vendedor(a),Junior,2020-12-13,CC-C12-D01,True
+C12-E0084,C12,C12-D02,Coordenador(a) de Logistica,Junior,2025-11-22,CC-C12-D02,False
+C12-E0085,C12,C12-D01,Operador(a) de Caixa,Especialista,2022-02-02,CC-C12-D01,True
+C12-E0086,C12,C12-D04,Analista de Marketing,Pleno,2020-12-07,CC-C12-D04,True
+C12-E0087,C12,C12-D02,Analista de Supply Chain,Especialista,2023-06-29,CC-C12-D02,True
+C12-E0088,C12,C12-D02,Analista de Supply Chain,Pleno,2022-05-25,CC-C12-D02,True
+C12-E0089,C12,C12-D03,Analista de Compras,Junior,2022-04-22,CC-C12-D03,True
+C12-E0090,C12,C12-D01,Gerente de Loja,Junior,2023-06-19,CC-C12-D01,True
+C12-E0091,C12,C12-D01,Operador(a) de Caixa,Pleno,2025-08-27,CC-C12-D01,True
+C12-E0092,C12,C12-D07,Analista Financeiro,Senior,2020-10-26,CC-C12-D07,True
+C12-E0093,C12,C12-D02,Analista de Supply Chain,Especialista,2025-07-19,CC-C12-D02,True
+C12-E0094,C12,C12-D02,Coordenador(a) de Logistica,Junior,2024-04-26,CC-C12-D02,True
+C12-E0095,C12,C12-D01,Operador(a) de Caixa,Pleno,2023-08-28,CC-C12-D01,True
+C12-E0096,C12,C12-D03,Comprador(a),Especialista,2022-12-26,CC-C12-D03,True
+C12-E0097,C12,C12-D03,Analista de Compras,Junior,2025-04-05,CC-C12-D03,True
+C12-E0098,C12,C12-D03,Analista Comercial,Pleno,2022-06-06,CC-C12-D03,True
+C12-E0099,C12,C12-D05,Especialista em Marketplace,Junior,2025-04-11,CC-C12-D05,True
+C12-E0100,C12,C12-D01,Gerente de Loja,Pleno,2021-12-10,CC-C12-D01,True
+C12-E0101,C12,C12-D01,Operador(a) de Caixa,Senior,2025-03-25,CC-C12-D01,True
+C12-E0102,C12,C12-D06,Especialista em Relacionamento com Cliente,Pleno,2022-06-29,CC-C12-D06,True
+C12-E0103,C12,C12-D08,Recrutador(a),Senior,2024-04-18,CC-C12-D08,True
+C12-E0104,C12,C12-D01,Vendedor(a),Pleno,2021-08-13,CC-C12-D01,True
+C12-E0105,C12,C12-D03,Analista de Compras,Pleno,2023-09-30,CC-C12-D03,False
+C12-E0106,C12,C12-D01,Gerente de Loja,Senior,2024-01-05,CC-C12-D01,True
+C12-E0107,C12,C12-D01,Operador(a) de Caixa,Pleno,2023-08-06,CC-C12-D01,True
+C12-E0108,C12,C12-D01,Vendedor(a),Pleno,2021-06-05,CC-C12-D01,False
+C12-E0109,C12,C12-D01,Gerente de Loja,Especialista,2022-01-16,CC-C12-D01,True
+C12-E0110,C12,C12-D05,Especialista em Marketplace,Pleno,2026-04-06,CC-C12-D05,True
+C12-E0111,C12,C12-D03,Analista de Compras,Junior,2026-05-16,CC-C12-D03,True
+C12-E0112,C12,C12-D01,Gerente de Loja,Pleno,2024-01-14,CC-C12-D01,True
+C12-E0113,C12,C12-D01,Gerente de Loja,Pleno,2023-05-08,CC-C12-D01,True
+C12-E0114,C12,C12-D06,Analista de Atendimento,Senior,2025-08-02,CC-C12-D06,True
+C12-E0115,C12,C12-D01,Vendedor(a),Pleno,2024-09-10,CC-C12-D01,True
+C12-E0116,C12,C12-D04,Coordenador(a) de Marketing,Senior,2021-02-16,CC-C12-D04,True
+C12-E0117,C12,C12-D01,Gerente de Loja,Pleno,2023-07-28,CC-C12-D01,True
+C12-E0118,C12,C12-D04,Analista de Marketing,Gerente,2022-12-01,CC-C12-D04,True
+C12-E0119,C12,C12-D01,Gerente de Loja,Senior,2021-12-31,CC-C12-D01,True
+C12-E0120,C12,C12-D01,Vendedor(a),Gerente,2021-09-02,CC-C12-D01,True
+C12-E0121,C12,C12-D01,Vendedor(a),Senior,2021-06-26,CC-C12-D01,True
+C12-E0122,C12,C12-D01,Operador(a) de Caixa,Junior,2025-05-17,CC-C12-D01,True
+C12-E0123,C12,C12-D02,Coordenador(a) de Logistica,Senior,2025-11-27,CC-C12-D02,True
+C12-E0124,C12,C12-D05,Especialista em Marketplace,Senior,2025-09-04,CC-C12-D05,True
+C12-E0125,C12,C12-D01,Vendedor(a),Pleno,2022-07-17,CC-C12-D01,True
+C12-E0126,C12,C12-D01,Vendedor(a),Pleno,2021-10-09,CC-C12-D01,True
+C12-E0127,C12,C12-D03,Comprador(a),Junior,2023-11-26,CC-C12-D03,True
+C12-E0128,C12,C12-D04,Especialista em Midias Digitais,Pleno,2026-04-26,CC-C12-D04,True
+C12-E0129,C12,C12-D09,Analista de Infraestrutura,Junior,2025-11-02,CC-C12-D09,True
+C12-E0130,C12,C12-D04,Analista de Marketing,Especialista,2024-04-29,CC-C12-D04,True
+C12-E0131,C12,C12-D03,Comprador(a),Pleno,2022-10-12,CC-C12-D03,True
+C12-E0132,C12,C12-D04,Analista de Marketing,Junior,2024-09-22,CC-C12-D04,True
+C12-E0133,C12,C12-D08,Recrutador(a),Pleno,2022-01-14,CC-C12-D08,True
+C12-E0134,C12,C12-D06,Analista de Atendimento,Pleno,2023-12-15,CC-C12-D06,True
+C12-E0135,C12,C12-D01,Vendedor(a),Junior,2024-10-13,CC-C12-D01,True
+C12-E0136,C12,C12-D01,Gerente de Loja,Senior,2023-06-13,CC-C12-D01,True
+C12-E0137,C12,C12-D01,Gerente de Loja,Pleno,2021-12-19,CC-C12-D01,True
+C12-E0138,C12,C12-D03,Analista de Compras,Pleno,2020-10-25,CC-C12-D03,False
+C12-E0139,C12,C12-D06,Analista de Atendimento,Pleno,2024-12-06,CC-C12-D06,True
+C12-E0140,C12,C12-D03,Comprador(a),Senior,2023-05-19,CC-C12-D03,True
+C12-E0141,C12,C12-D01,Operador(a) de Caixa,Senior,2025-01-06,CC-C12-D01,True
+C12-E0142,C12,C12-D06,Analista de Atendimento,Junior,2023-09-23,CC-C12-D06,True
+C12-E0143,C12,C12-D06,Especialista em Relacionamento com Cliente,Junior,2022-10-26,CC-C12-D06,True
+C12-E0144,C12,C12-D01,Operador(a) de Caixa,Junior,2025-06-10,CC-C12-D01,False
+C12-E0145,C12,C12-D05,Especialista em Marketplace,Pleno,2021-09-11,CC-C12-D05,True
+C12-E0146,C12,C12-D02,Analista de Supply Chain,Junior,2022-11-06,CC-C12-D02,True
+C12-E0147,C12,C12-D07,Analista de Contas a Pagar,Pleno,2026-03-04,CC-C12-D07,True
+C12-E0148,C12,C12-D06,Analista de Atendimento,Junior,2022-07-10,CC-C12-D06,True
+C12-E0149,C12,C12-D03,Analista de Compras,Senior,2022-08-15,CC-C12-D03,False
+C12-E0150,C12,C12-D05,Analista de E-commerce,Senior,2020-12-07,CC-C12-D05,True
+C12-E0151,C12,C12-D07,Analista Financeiro,Especialista,2022-04-10,CC-C12-D07,True
+C12-E0152,C12,C12-D03,Analista Comercial,Pleno,2025-06-25,CC-C12-D03,True
+C12-E0153,C12,C12-D01,Gerente de Loja,Especialista,2024-10-02,CC-C12-D01,True
+C12-E0154,C12,C12-D06,Analista de Atendimento,Junior,2023-03-21,,True
+C12-E0155,C12,C12-D01,Operador(a) de Caixa,Senior,2021-08-09,CC-C12-D01,True
+C12-E0156,C12,C12-D02,Coordenador(a) de Logistica,Junior,2021-02-28,CC-C12-D02,True
+C12-E0157,C12,C12-D07,Analista Financeiro,Pleno,2024-01-26,CC-C12-D07,False
+C12-E0158,C12,C12-D06,Especialista em Relacionamento com Cliente,Pleno,2021-01-10,CC-C12-D06,True
+C12-E0159,C12,C12-D02,Analista de Supply Chain,Pleno,2026-03-28,CC-C12-D02,True
+C12-E0160,C12,C12-D01,Operador(a) de Caixa,Junior,2025-12-15,CC-C12-D01,True
+C12-E0161,C12,C12-D02,Analista de Supply Chain,Pleno,2023-04-05,CC-C12-D02,True
+C12-E0162,C12,C12-D01,Operador(a) de Caixa,Senior,2022-08-26,CC-C12-D01,True
+C12-E0163,C12,C12-D01,Vendedor(a),Especialista,2022-06-12,CC-C12-D01,True
+C12-E0164,C12,C12-D06,Analista de Atendimento,Pleno,2022-02-01,CC-C12-D06,True
+C12-E0165,C12,C12-D01,Operador(a) de Caixa,Junior,2022-05-28,CC-C12-D01,True
+C12-E0166,C12,C12-D02,Analista de Supply Chain,Pleno,2023-03-01,CC-C12-D02,True
+C12-E0167,C12,C12-D02,Coordenador(a) de Logistica,Junior,2023-11-08,CC-C12-D02,True
+C12-E0168,C12,C12-D09,Analista de TI,Especialista,2021-01-17,CC-C12-D09,True
+C12-E0169,C12,C12-D02,Analista de Supply Chain,Senior,2025-01-26,CC-C12-D02,True
+C12-E0170,C12,C12-D01,Vendedor(a),Pleno,2026-03-15,CC-C12-D01,True
+C12-E0171,C12,C12-D01,Operador(a) de Caixa,Senior,2024-05-28,CC-C12-D01,True
+C12-E0172,C12,C12-D04,Coordenador(a) de Marketing,Especialista,2021-12-10,CC-C12-D04,True
+C12-E0173,C12,C12-D04,Coordenador(a) de Marketing,Pleno,2022-07-01,CC-C12-D04,True
+C12-E0174,C12,C12-D02,Coordenador(a) de Logistica,Senior,2024-10-16,CC-C12-D02,True
+C12-E0175,C12,C12-D02,Coordenador(a) de Logistica,Junior,2025-10-01,CC-C12-D02,True
+C12-E0176,C12,C12-D01,Vendedor(a),Senior,2021-02-14,CC-C12-D01,True
+C12-E0177,C12,C12-D03,Comprador(a),Senior,2020-10-27,CC-C12-D03,True
+C12-E0178,C12,C12-D03,Analista de Compras,Pleno,2023-12-01,CC-C12-D03,True
+C12-E0179,C12,C12-D01,Vendedor(a),Junior,2024-11-26,CC-C12-D01,True
+C12-E0180,C12,C12-D01,Vendedor(a),Pleno,2023-11-23,CC-C12-D01,True
+C12-E0181,C12,C12-D01,Operador(a) de Caixa,Senior,2025-04-05,CC-C12-D01,True
+C12-E0182,C12,C12-D01,Vendedor(a),Junior,2022-10-02,CC-C12-D01,True
+C12-E0183,C12,C12-D04,Analista de Marketing,Pleno,2024-02-16,CC-C12-D04,True
+C12-E0184,C12,C12-D01,Operador(a) de Caixa,Especialista,2023-01-30,CC-C12-D01,True
+C12-E0185,C12,C12-D01,Gerente de Loja,Junior,2024-11-23,CC-C12-D01,True
+C12-E0186,C12,C12-D01,Operador(a) de Caixa,Junior,2024-12-05,CC-C12-D01,False
+C12-E0187,C12,C12-D08,Analista de RH,Pleno,2024-09-02,CC-C12-D08,True
+C12-E0188,C12,C12-D06,Analista de Atendimento,Junior,2024-05-18,CC-C12-D06,True
+C12-E0189,C12,C12-D01,Gerente de Loja,Senior,2022-01-14,CC-C12-D01,True
+C12-E0190,C12,C12-D01,Vendedor(a),Junior,2021-10-20,CC-C12-D01,True
+C12-E0191,C12,C12-D01,Vendedor(a),Pleno,2021-06-23,CC-C12-D01,True
+C12-E0192,C12,C12-D03,Analista Comercial,Junior,2023-05-17,CC-C12-D03,True
+C12-E0193,C12,C12-D01,Gerente de Loja,Pleno,2025-03-31,CC-C12-D01,True
+C12-E0194,C12,C12-D05,Analista de E-commerce,Senior,2021-11-03,CC-C12-D05,True
+C12-E0195,C12,C12-D03,Analista Comercial,Pleno,2023-06-14,CC-C12-D03,True
+C12-E0196,C12,C12-D07,Analista de Contas a Pagar,Junior,2023-11-09,CC-C12-D07,True
+C12-E0197,C12,C12-D01,Gerente de Loja,Pleno,2026-02-25,CC-C12-D01,True
+C12-E0198,C12,C12-D06,Especialista em Relacionamento com Cliente,Senior,2025-05-13,CC-C12-D06,False
+C12-E0199,C12,C12-D06,Especialista em Relacionamento com Cliente,Pleno,2022-04-02,CC-C12-D06,True
+C12-E0200,C12,C12-D01,Vendedor(a),Senior,2023-05-12,CC-C12-D01,True
+C12-E0201,C12,C12-D02,Analista de Supply Chain,Senior,2025-01-12,CC-C12-D02,True
+C12-E0202,C12,C12-D01,Vendedor(a),Junior,2026-04-11,CC-C12-D01,True
+C12-E0203,C12,C12-D01,Vendedor(a),Pleno,2023-12-13,CC-C12-D01,True
+C12-E0204,C12,C12-D01,Gerente de Loja,Junior,2024-02-25,CC-C12-D01,True
+C12-E0205,C12,C12-D03,Analista de Compras,Junior,2020-12-13,CC-C12-D03,True
+C12-E0206,C12,C12-D02,Coordenador(a) de Logistica,Pleno,2023-09-05,CC-C12-D02,True
+C12-E0207,C12,C12-D08,Analista de RH,Junior,2022-03-06,CC-C12-D08,False
+C12-E0208,C12,C12-D01,Vendedor(a),Junior,2026-01-05,CC-C12-D01,True
+C12-E0209,C12,C12-D09,Analista de Infraestrutura,Pleno,2021-04-27,CC-C12-D09,True
+C12-E0210,C12,C12-D01,Gerente de Loja,Junior,2023-09-09,CC-C12-D01,True
+C12-E0211,C12,C12-D06,Especialista em Relacionamento com Cliente,Junior,2026-01-02,CC-C12-D06,True
+C12-E0212,C12,C12-D01,Operador(a) de Caixa,Senior,2021-10-28,CC-C12-D01,True
+C12-E0213,C12,C12-D01,Gerente de Loja,Junior,2024-04-25,CC-C12-D01,False
+C12-E0214,C12,C12-D06,Especialista em Relacionamento com Cliente,Senior,2021-02-26,CC-C12-D06,True
+C12-E0215,C12,C12-D01,Vendedor(a),Junior,2021-04-09,CC-C12-D01,False
+C12-E0216,C12,C12-D05,Especialista em Marketplace,Junior,2025-10-31,CC-C12-D05,False
+C12-E0217,C12,C12-D03,Comprador(a),Especialista,2023-07-08,CC-C12-D03,True
+C12-E0218,C12,C12-D03,Analista de Compras,Junior,2025-06-06,CC-C12-D03,True
+C12-E0219,C12,C12-D03,Comprador(a),Junior,2024-06-05,CC-C12-D03,True
+C12-E0220,C12,C12-D06,Analista de Atendimento,Gerente,2023-11-29,CC-C12-D06,True
+C12-E0221,C12,C12-D01,Vendedor(a),Pleno,2026-03-01,CC-C12-D01,True
+C12-E0222,C12,C12-D05,Analista de E-commerce,Senior,2021-03-02,CC-C12-D05,True
+C12-E0223,C12,C12-D07,Controller Junior,Pleno,2022-10-23,CC-C12-D07,True
+C12-E0224,C12,C12-D01,Operador(a) de Caixa,Junior,2024-08-09,CC-C12-D01,True
+C12-E0225,C12,C12-D01,Gerente de Loja,Especialista,2025-08-09,CC-C12-D01,True
+C12-E0226,C12,C12-D06,Especialista em Relacionamento com Cliente,Junior,2022-05-17,CC-C12-D06,True
+C12-E0227,C12,C12-D02,Coordenador(a) de Logistica,Pleno,2020-09-15,CC-C12-D02,True
+C12-E0228,C12,C12-D02,Analista de Supply Chain,Pleno,2022-03-13,CC-C12-D02,True
+C12-E0229,C12,C12-D01,Gerente de Loja,Junior,2024-07-12,CC-C12-D01,True
+C12-E0230,C12,C12-D03,Analista Comercial,Pleno,2024-10-05,CC-C12-D03,True
+C12-E0231,C12,C12-D01,Gerente de Loja,Senior,2025-02-10,CC-C12-D01,True
+C12-E0232,C12,C12-D03,Comprador(a),Senior,2023-10-06,CC-C12-D03,True
+C12-E0233,C12,C12-D06,Especialista em Relacionamento com Cliente,Senior,2024-06-30,CC-C12-D06,True
+C12-E0234,C12,C12-D01,Gerente de Loja,Gerente,2021-01-28,CC-C12-D01,True
+C12-E0235,C12,C12-D03,Comprador(a),Especialista,2026-02-04,CC-C12-D03,True
+C12-E0236,C12,C12-D09,Suporte Tecnico,Gerente,2026-01-17,CC-C12-D09,True
+C12-E0237,C12,C12-D05,Especialista em Marketplace,Junior,2026-05-19,CC-C12-D05,True
+C12-E0238,C12,C12-D06,Especialista em Relacionamento com Cliente,Pleno,2023-10-11,CC-C12-D06,True
+C12-E0239,C12,C12-D02,Coordenador(a) de Logistica,Junior,2021-05-10,CC-C12-D02,True
+C12-E0240,C12,C12-D06,Analista de Atendimento,Pleno,2026-05-16,CC-C12-D06,True
+C12-E0241,C12,C12-D01,Operador(a) de Caixa,Senior,2024-07-22,CC-C12-D01,True
+C12-E0242,C12,C12-D01,Operador(a) de Caixa,Junior,2024-02-12,CC-C12-D01,True
+C12-E0243,C12,C12-D01,Gerente de Loja,Junior,2025-10-29,CC-C12-D01,True
+C12-E0244,C12,C12-D02,Analista de Supply Chain,Pleno,2024-10-24,CC-C12-D02,True
+C12-E0245,C12,C12-D06,Especialista em Relacionamento com Cliente,Pleno,2022-09-24,CC-C12-D06,True
+C12-E0246,C12,C12-D01,Gerente de Loja,Senior,2025-07-03,CC-C12-D01,True
+C12-E0247,C12,C12-D05,Analista de E-commerce,Junior,2024-08-20,CC-C12-D05,True
+C12-E0248,C12,C12-D05,Analista de E-commerce,Senior,2020-09-12,CC-C12-D05,True
+C12-E0249,C12,C12-D04,Especialista em Midias Digitais,Senior,2024-02-05,CC-C12-D04,True
+C12-E0250,C12,C12-D02,Analista de Supply Chain,Pleno,2023-02-02,CC-C12-D02,True
+C12-E0251,C12,C12-D04,Coordenador(a) de Marketing,Senior,2021-07-08,CC-C12-D04,True
+C12-E0252,C12,C12-D01,Vendedor(a),Pleno,2025-09-19,CC-C12-D01,True
+C12-E0253,C12,C12-D01,Gerente de Loja,Junior,2025-01-28,CC-C12-D01,True
+C12-E0254,C12,C12-D09,Suporte Tecnico,Senior,2024-04-08,CC-C12-D09,True
+C12-E0255,C12,C12-D01,Operador(a) de Caixa,Pleno,2024-02-03,CC-C12-D01,True
+C12-E0256,C12,C12-D01,Operador(a) de Caixa,Senior,2025-10-15,CC-C12-D01,True
+C12-E0257,C12,C12-D07,Analista de Contas a Pagar,Especialista,2020-08-16,CC-C12-D07,True
+C12-E0258,C12,C12-D01,Gerente de Loja,Junior,2021-01-07,CC-C12-D01,True
+C12-E0259,C12,C12-D05,Especialista em Marketplace,Pleno,2021-08-27,CC-C12-D05,True
+C12-E0260,C12,C12-D01,Vendedor(a),Pleno,2023-07-14,CC-C12-D01,True
+C12-E0261,C12,C12-D02,Coordenador(a) de Logistica,Senior,2020-12-01,CC-C12-D02,True
+C12-E0262,C12,C12-D01,Operador(a) de Caixa,Pleno,2020-11-16,CC-C12-D01,True
+C12-E0263,C12,C12-D01,Operador(a) de Caixa,Senior,2023-04-29,CC-C12-D01,True
+C12-E0264,C12,C12-D02,Analista de Supply Chain,Gerente,2021-02-28,CC-C12-D02,False
+C12-E0265,C12,C12-D06,Especialista em Relacionamento com Cliente,Pleno,2024-04-10,,True
+C12-E0266,C12,C12-D03,Comprador(a),Senior,2023-07-05,CC-C12-D03,True
+C12-E0267,C12,C12-D08,Analista de RH,Pleno,2024-02-13,CC-C12-D08,True
+C12-E0268,C12,C12-D01,Vendedor(a),Pleno,2021-10-20,CC-C12-D01,True
+C12-E0269,C12,C12-D03,Analista de Compras,Pleno,2024-01-24,,True
+C12-E0270,C12,C12-D04,Analista de Marketing,Senior,2022-03-31,CC-C12-D04,True
+C12-E0271,C12,C12-D08,Analista de RH,Pleno,2022-12-29,CC-C12-D08,True
+C12-E0272,C12,C12-D01,Operador(a) de Caixa,Pleno,2022-10-24,CC-C12-D01,True
+C13-E0001,C13,C13-D01,Operador(a) de Caixa,Junior,2022-09-15,CC-C13-D01,True
+C13-E0002,C13,C13-D05,Analista de E-commerce,Pleno,2024-06-22,CC-C13-D05,True
+C13-E0003,C13,C13-D06,Especialista em Relacionamento com Cliente,Junior,2021-01-26,CC-C13-D06,True
+C13-E0004,C13,C13-D06,Analista de Atendimento,Pleno,2024-12-02,CC-C13-D06,True
+C13-E0005,C13,C13-D07,Analista de Contas a Pagar,Junior,2021-04-12,CC-C13-D07,True
+C13-E0006,C13,C13-D06,Especialista em Relacionamento com Cliente,Junior,2021-04-04,CC-C13-D06,True
+C13-E0007,C13,C13-D08,Business Partner de RH,Junior,2025-10-25,CC-C13-D08,True
+C13-E0008,C13,C13-D01,Vendedor(a),Senior,2022-12-12,CC-C13-D01,True
+C13-E0009,C13,C13-D03,Analista de Compras,Especialista,2023-01-01,CC-C13-D03,True
+C13-E0010,C13,C13-D01,Gerente de Loja,Senior,2022-11-17,CC-C13-D01,False
+C13-E0011,C13,C13-D01,Vendedor(a),Pleno,2025-09-13,CC-C13-D01,True
+C13-E0012,C13,C13-D01,Vendedor(a),Pleno,2026-02-04,CC-C13-D01,True
+C13-E0013,C13,C13-D01,Vendedor(a),Especialista,2022-08-08,CC-C13-D01,True
+C13-E0014,C13,C13-D01,Gerente de Loja,Pleno,2022-01-28,CC-C13-D01,True
+C13-E0015,C13,C13-D01,Gerente de Loja,Especialista,2021-04-08,CC-C13-D01,True
+C13-E0016,C13,C13-D01,Vendedor(a),Pleno,2022-12-01,CC-C13-D01,True
+C13-E0017,C13,C13-D07,Controller Junior,Especialista,2023-10-18,CC-C13-D07,True
+C13-E0018,C13,C13-D01,Gerente de Loja,Pleno,2022-04-11,CC-C13-D01,True
+C13-E0019,C13,C13-D06,Especialista em Relacionamento com Cliente,Pleno,2024-01-08,CC-C13-D06,True
+C13-E0020,C13,C13-D01,Gerente de Loja,Junior,2025-03-09,CC-C13-D01,True
+C13-E0021,C13,C13-D07,Analista Financeiro,Junior,2024-03-06,CC-C13-D07,True
+C13-E0022,C13,C13-D07,Controller Junior,Senior,2023-04-12,CC-C13-D07,True
+C13-E0023,C13,C13-D05,Especialista em Marketplace,Pleno,2020-11-01,CC-C13-D05,True
+C13-E0024,C13,C13-D05,Especialista em Marketplace,Especialista,2020-12-08,CC-C13-D05,True
+C13-E0025,C13,C13-D01,Operador(a) de Caixa,Senior,2024-05-17,CC-C13-D01,True
+C13-E0026,C13,C13-D09,Administrador(a) de Sistemas,Junior,2025-05-05,CC-C13-D09,True
+C13-E0027,C13,C13-D07,Analista de Contas a Pagar,Pleno,2024-12-15,CC-C13-D07,True
+C13-E0028,C13,C13-D07,Analista Financeiro,Junior,2021-04-17,CC-C13-D07,True
+C13-E0029,C13,C13-D05,Analista de E-commerce,Gerente,2026-02-03,CC-C13-D05,True
+C13-E0030,C13,C13-D01,Gerente de Loja,Senior,2022-04-06,CC-C13-D01,True
+C13-E0031,C13,C13-D07,Analista Financeiro,Pleno,2022-09-15,CC-C13-D07,True
+C13-E0032,C13,C13-D01,Gerente de Loja,Junior,2025-04-15,CC-C13-D01,True
+C13-E0033,C13,C13-D03,Analista Comercial,Senior,2021-12-08,CC-C13-D03,True
+C13-E0034,C13,C13-D01,Operador(a) de Caixa,Pleno,2022-12-11,CC-C13-D01,True
+C13-E0035,C13,C13-D08,Analista de RH,Senior,2024-04-25,CC-C13-D08,True
+C13-E0036,C13,C13-D01,Vendedor(a),Junior,2023-05-05,CC-C13-D01,True
+C13-E0037,C13,C13-D01,Vendedor(a),Pleno,2025-02-15,CC-C13-D01,True
+C13-E0038,C13,C13-D03,Comprador(a),Junior,2023-05-18,CC-C13-D03,True
+C13-E0039,C13,C13-D06,Analista de Atendimento,Junior,2024-02-16,CC-C13-D06,True
+C13-E0040,C13,C13-D04,Especialista em Midias Digitais,Junior,2022-11-15,CC-C13-D04,True
+C13-E0041,C13,C13-D01,Operador(a) de Caixa,Senior,2021-08-10,CC-C13-D01,False
+C13-E0042,C13,C13-D01,Gerente de Loja,Pleno,2024-07-10,CC-C13-D01,True
+C13-E0043,C13,C13-D06,Especialista em Relacionamento com Cliente,Gerente,2023-01-31,CC-C13-D06,True
+C13-E0044,C13,C13-D09,Administrador(a) de Sistemas,Senior,2025-12-14,CC-C13-D09,True
+C13-E0045,C13,C13-D06,Analista de Atendimento,Pleno,2025-04-04,CC-C13-D06,True
+C13-E0046,C13,C13-D02,Analista de Supply Chain,Junior,2021-08-30,CC-C13-D02,True
+C13-E0047,C13,C13-D07,Analista de Contas a Pagar,Pleno,2021-06-11,CC-C13-D07,True
+C13-E0048,C13,C13-D02,Coordenador(a) de Logistica,Pleno,2022-09-19,CC-C13-D02,True
+C13-E0049,C13,C13-D03,Analista Comercial,Especialista,2021-11-11,CC-C13-D03,True
+C13-E0050,C13,C13-D03,Analista Comercial,Junior,2025-07-25,CC-C13-D03,True
+C13-E0051,C13,C13-D02,Coordenador(a) de Logistica,Gerente,2022-12-07,CC-C13-D02,True
+C13-E0052,C13,C13-D06,Especialista em Relacionamento com Cliente,Junior,2025-05-09,CC-C13-D06,True
+C13-E0053,C13,C13-D03,Analista Comercial,Pleno,2021-03-23,CC-C13-D03,True
+C13-E0054,C13,C13-D01,Gerente de Loja,Junior,2024-10-31,CC-C13-D01,True
+C13-E0055,C13,C13-D01,Operador(a) de Caixa,Senior,2024-09-01,CC-C13-D01,True
+C13-E0056,C13,C13-D01,Vendedor(a),Senior,2025-02-01,CC-C13-D01,True
+C13-E0057,C13,C13-D04,Especialista em Midias Digitais,Pleno,2022-09-27,CC-C13-D04,True
+C13-E0058,C13,C13-D01,Vendedor(a),Senior,2023-07-29,CC-C13-D01,True
+C13-E0059,C13,C13-D01,Gerente de Loja,Pleno,2021-02-11,CC-C13-D01,False
+C13-E0060,C13,C13-D05,Especialista em Marketplace,Senior,2023-07-13,CC-C13-D05,True
+C13-E0061,C13,C13-D05,Especialista em Marketplace,Pleno,2022-07-15,CC-C13-D05,True
+C13-E0062,C13,C13-D06,Analista de Atendimento,Senior,2023-04-08,CC-C13-D06,True
+C13-E0063,C13,C13-D03,Analista Comercial,Gerente,2021-08-25,CC-C13-D03,True
+C13-E0064,C13,C13-D07,Analista de Contas a Pagar,Pleno,2025-08-25,CC-C13-D07,True
+C13-E0065,C13,C13-D08,Recrutador(a),Pleno,2021-04-10,CC-C13-D08,True
+C13-E0066,C13,C13-D06,Especialista em Relacionamento com Cliente,Pleno,2023-10-08,CC-C13-D06,True
+C13-E0067,C13,C13-D05,Analista de E-commerce,Senior,2020-08-27,CC-C13-D05,True
+C13-E0068,C13,C13-D01,Gerente de Loja,Junior,2022-08-16,CC-C13-D01,True
+C13-E0069,C13,C13-D09,Analista de Infraestrutura,Senior,2021-09-19,CC-C13-D09,True
+C13-E0070,C13,C13-D01,Operador(a) de Caixa,Pleno,2022-08-10,CC-C13-D01,True
+C13-E0071,C13,C13-D01,Gerente de Loja,Pleno,2024-07-03,CC-C13-D01,True
+C13-E0072,C13,C13-D02,Analista de Supply Chain,Junior,2020-12-26,CC-C13-D02,True
+C13-E0073,C13,C13-D01,Operador(a) de Caixa,Gerente,2023-07-09,CC-C13-D01,True
+C13-E0074,C13,C13-D09,Analista de TI,Junior,2021-06-14,CC-C13-D09,True
+C13-E0075,C13,C13-D04,Coordenador(a) de Marketing,Junior,2025-08-30,CC-C13-D04,True
+C13-E0076,C13,C13-D03,Analista Comercial,Pleno,2022-03-12,CC-C13-D03,True
+C13-E0077,C13,C13-D05,Analista de E-commerce,Pleno,2025-06-06,CC-C13-D05,True
+C13-E0078,C13,C13-D03,Comprador(a),Senior,2021-02-20,CC-C13-D03,True
+C13-E0079,C13,C13-D01,Operador(a) de Caixa,Junior,2026-06-11,CC-C13-D01,True
+C13-E0080,C13,C13-D04,Especialista em Midias Digitais,Pleno,2024-10-08,CC-C13-D04,True
+C13-E0081,C13,C13-D06,Especialista em Relacionamento com Cliente,Pleno,2022-01-26,CC-C13-D06,True
+C13-E0082,C13,C13-D02,Coordenador(a) de Logistica,Gerente,2025-01-07,CC-C13-D02,True
+C13-E0083,C13,C13-D06,Especialista em Relacionamento com Cliente,Pleno,2023-01-31,CC-C13-D06,True
+C13-E0084,C13,C13-D01,Operador(a) de Caixa,Gerente,2024-05-29,CC-C13-D01,True
+C14-E0001,C14,C14-D06,Especialista em Relacionamento com Cliente,Senior,2025-08-13,CC-C14-D06,True
+C14-E0002,C14,C14-D02,Coordenador(a) de Logistica,Pleno,2025-01-05,CC-C14-D02,True
+C14-E0003,C14,C14-D01,Gerente de Loja,Especialista,2024-01-17,CC-C14-D01,True
+C14-E0004,C14,C14-D02,Analista de Supply Chain,Pleno,2026-06-08,CC-C14-D02,True
+C14-E0005,C14,C14-D01,Vendedor(a),Senior,2025-07-02,CC-C14-D01,True
+C14-E0006,C14,C14-D03,Comprador(a),Junior,2023-10-22,CC-C14-D03,True
+C14-E0007,C14,C14-D03,Analista Comercial,Especialista,2023-11-27,CC-C14-D03,True
+C14-E0008,C14,C14-D03,Analista Comercial,Senior,2023-12-21,CC-C14-D03,True
+C14-E0009,C14,C14-D09,Analista de Infraestrutura,Senior,2023-01-22,CC-C14-D09,True
+C14-E0010,C14,C14-D07,Analista Financeiro,Especialista,2023-06-15,CC-C14-D07,True
+C14-E0011,C14,C14-D01,Operador(a) de Caixa,Junior,2022-02-17,CC-C14-D01,True
+C14-E0012,C14,C14-D02,Coordenador(a) de Logistica,Gerente,2021-05-28,CC-C14-D02,True
+C14-E0013,C14,C14-D02,Coordenador(a) de Logistica,Pleno,2025-01-13,CC-C14-D02,True
+C14-E0014,C14,C14-D02,Analista de Supply Chain,Junior,2026-04-08,CC-C14-D02,True
+C14-E0015,C14,C14-D06,Especialista em Relacionamento com Cliente,Gerente,2022-06-05,CC-C14-D06,True
+C14-E0016,C14,C14-D03,Comprador(a),Pleno,2025-06-30,CC-C14-D03,True
+C14-E0017,C14,C14-D04,Coordenador(a) de Marketing,Especialista,2021-04-17,CC-C14-D04,True
+C14-E0018,C14,C14-D06,Especialista em Relacionamento com Cliente,Senior,2022-08-15,CC-C14-D06,True
+C14-E0019,C14,C14-D06,Especialista em Relacionamento com Cliente,Especialista,2023-01-08,CC-C14-D06,True
+C14-E0020,C14,C14-D01,Vendedor(a),Pleno,2022-06-17,CC-C14-D01,True
+C14-E0021,C14,C14-D06,Especialista em Relacionamento com Cliente,Pleno,2026-05-12,CC-C14-D06,True
+C14-E0022,C14,C14-D02,Analista de Supply Chain,Especialista,2022-02-14,CC-C14-D02,True
+C14-E0023,C14,C14-D01,Vendedor(a),Junior,2022-04-30,CC-C14-D01,True
+C14-E0024,C14,C14-D01,Gerente de Loja,Junior,2021-01-09,CC-C14-D01,True
+C14-E0025,C14,C14-D03,Comprador(a),Gerente,2022-11-11,CC-C14-D03,True
+C14-E0026,C14,C14-D02,Analista de Supply Chain,Pleno,2024-11-07,CC-C14-D02,True
+C14-E0027,C14,C14-D01,Operador(a) de Caixa,Junior,2023-04-24,CC-C14-D01,True
+C14-E0028,C14,C14-D05,Analista de E-commerce,Gerente,2023-03-08,CC-C14-D05,True
+C14-E0029,C14,C14-D06,Analista de Atendimento,Pleno,2023-09-11,CC-C14-D06,True
+C14-E0030,C14,C14-D01,Operador(a) de Caixa,Junior,2025-07-27,CC-C14-D01,True
+C14-E0031,C14,C14-D01,Operador(a) de Caixa,Pleno,2022-12-10,CC-C14-D01,True
+C14-E0032,C14,C14-D06,Especialista em Relacionamento com Cliente,Especialista,2023-02-12,CC-C14-D06,True
+C14-E0033,C14,C14-D01,Vendedor(a),Junior,2021-05-09,CC-C14-D01,True
+C14-E0034,C14,C14-D08,Business Partner de RH,Pleno,2022-09-23,CC-C14-D08,True
+C14-E0035,C14,C14-D04,Coordenador(a) de Marketing,Pleno,2023-03-15,CC-C14-D04,True
+C14-E0036,C14,C14-D01,Operador(a) de Caixa,Pleno,2023-01-13,CC-C14-D01,True
+C14-E0037,C14,C14-D01,Operador(a) de Caixa,Pleno,2023-07-11,CC-C14-D01,True
+C14-E0038,C14,C14-D01,Vendedor(a),Junior,2024-07-19,CC-C14-D01,True
+C14-E0039,C14,C14-D01,Operador(a) de Caixa,Senior,2024-06-24,CC-C14-D01,True
+C14-E0040,C14,C14-D01,Operador(a) de Caixa,Especialista,2025-12-18,CC-C14-D01,True
+C14-E0041,C14,C14-D04,Analista de Marketing,Junior,2025-01-08,CC-C14-D04,True
+C14-E0042,C14,C14-D01,Vendedor(a),Junior,2023-08-14,CC-C14-D01,True
+C14-E0043,C14,C14-D03,Analista de Compras,Senior,2024-07-28,CC-C14-D03,True
+C14-E0044,C14,C14-D04,Analista de Marketing,Senior,2021-12-16,CC-C14-D04,True
+C14-E0045,C14,C14-D01,Gerente de Loja,Senior,2021-01-05,CC-C14-D01,True
+C14-E0046,C14,C14-D01,Gerente de Loja,Pleno,2021-06-08,CC-C14-D01,True
+C14-E0047,C14,C14-D01,Gerente de Loja,Junior,2023-07-07,CC-C14-D01,True
+C14-E0048,C14,C14-D01,Gerente de Loja,Gerente,2023-05-25,CC-C14-D01,True
+C14-E0049,C14,C14-D06,Analista de Atendimento,Senior,2024-03-11,CC-C14-D06,True
+C14-E0050,C14,C14-D01,Gerente de Loja,Senior,2022-10-11,CC-C14-D01,True
+C14-E0051,C14,C14-D06,Analista de Atendimento,Pleno,2020-11-18,CC-C14-D06,True
+C14-E0052,C14,C14-D02,Coordenador(a) de Logistica,Pleno,2022-02-23,CC-C14-D02,True
+C14-E0053,C14,C14-D02,Coordenador(a) de Logistica,Especialista,2022-01-17,CC-C14-D02,False
+C14-E0054,C14,C14-D03,Comprador(a),Senior,2022-11-16,CC-C14-D03,True
+C14-E0055,C14,C14-D06,Especialista em Relacionamento com Cliente,Senior,2025-10-23,CC-C14-D06,True
+C14-E0056,C14,C14-D01,Gerente de Loja,Especialista,2025-10-27,CC-C14-D01,True
+C14-E0057,C14,C14-D01,Vendedor(a),Pleno,2021-02-07,CC-C14-D01,True
+C14-E0058,C14,C14-D03,Analista Comercial,Junior,2023-10-28,CC-C14-D03,False
+C14-E0059,C14,C14-D01,Operador(a) de Caixa,Pleno,2022-01-26,CC-C14-D01,True
+C14-E0060,C14,C14-D02,Analista de Supply Chain,Pleno,2021-07-27,,False
+C14-E0061,C14,C14-D05,Especialista em Marketplace,Especialista,2023-12-22,CC-C14-D05,True
+C14-E0062,C14,C14-D03,Analista Comercial,Senior,2022-04-15,CC-C14-D03,True
+C14-E0063,C14,C14-D04,Analista de Marketing,Senior,2020-12-20,CC-C14-D04,True
+C14-E0064,C14,C14-D03,Analista de Compras,Pleno,2021-08-08,CC-C14-D03,True
+C14-E0065,C14,C14-D06,Especialista em Relacionamento com Cliente,Pleno,2022-09-08,CC-C14-D06,True
+C14-E0066,C14,C14-D05,Analista de E-commerce,Especialista,2024-09-07,CC-C14-D05,True
+C14-E0067,C14,C14-D03,Analista de Compras,Pleno,2021-04-10,CC-C14-D03,True
+C14-E0068,C14,C14-D05,Analista de E-commerce,Junior,2024-04-04,CC-C14-D05,True
+C14-E0069,C14,C14-D07,Analista de Contas a Pagar,Pleno,2024-06-05,CC-C14-D07,True
+C14-E0070,C14,C14-D02,Analista de Supply Chain,Junior,2026-05-08,CC-C14-D02,False
+C14-E0071,C14,C14-D02,Analista de Supply Chain,Junior,2021-10-31,CC-C14-D02,True
+C14-E0072,C14,C14-D06,Analista de Atendimento,Junior,2021-06-11,CC-C14-D06,True
+C14-E0073,C14,C14-D04,Especialista em Midias Digitais,Junior,2023-04-08,CC-C14-D04,True
+C14-E0074,C14,C14-D01,Gerente de Loja,Junior,2026-03-06,CC-C14-D01,True
+C14-E0075,C14,C14-D07,Analista Financeiro,Pleno,2024-01-05,CC-C14-D07,True
+C14-E0076,C14,C14-D01,Operador(a) de Caixa,Pleno,2025-01-29,CC-C14-D01,True
+C14-E0077,C14,C14-D06,Analista de Atendimento,Pleno,2025-06-23,CC-C14-D06,True
+C14-E0078,C14,C14-D06,Analista de Atendimento,Senior,2024-01-04,CC-C14-D06,True
+C14-E0079,C14,C14-D08,Recrutador(a),Pleno,2024-05-16,CC-C14-D08,True
+C14-E0080,C14,C14-D01,Operador(a) de Caixa,Pleno,2024-05-18,CC-C14-D01,True
+C14-E0081,C14,C14-D04,Coordenador(a) de Marketing,Junior,2025-08-05,CC-C14-D04,True
+C14-E0082,C14,C14-D02,Coordenador(a) de Logistica,Senior,2021-10-20,CC-C14-D02,True
+C14-E0083,C14,C14-D01,Operador(a) de Caixa,Senior,2021-10-19,CC-C14-D01,True
+C14-E0084,C14,C14-D01,Vendedor(a),Pleno,2024-08-17,CC-C14-D01,True
+C14-E0085,C14,C14-D03,Analista de Compras,Senior,2021-10-04,CC-C14-D03,True
+C14-E0086,C14,C14-D03,Analista de Compras,Especialista,2024-04-01,CC-C14-D03,True
+C14-E0087,C14,C14-D01,Vendedor(a),Senior,2020-10-03,CC-C14-D01,True
+C14-E0088,C14,C14-D04,Analista de Marketing,Pleno,2021-07-03,CC-C14-D04,True
+C14-E0089,C14,C14-D06,Analista de Atendimento,Junior,2022-01-15,CC-C14-D06,True
+C14-E0090,C14,C14-D06,Especialista em Relacionamento com Cliente,Pleno,2025-03-24,CC-C14-D06,False
+C14-E0091,C14,C14-D07,Controller Junior,Senior,2024-11-21,CC-C14-D07,True
+C14-E0092,C14,C14-D02,Analista de Supply Chain,Pleno,2021-06-29,CC-C14-D02,True
+C14-E0093,C14,C14-D08,Analista de RH,Pleno,2026-01-20,CC-C14-D08,True
+C14-E0094,C14,C14-D07,Analista de Contas a Pagar,Junior,2023-08-20,CC-C14-D07,True
+C14-E0095,C14,C14-D01,Gerente de Loja,Senior,2021-02-01,CC-C14-D01,True
+C14-E0096,C14,C14-D01,Operador(a) de Caixa,Especialista,2022-07-11,,True
+C14-E0097,C14,C14-D02,Analista de Supply Chain,Senior,2022-05-22,CC-C14-D02,True
+C14-E0098,C14,C14-D02,Analista de Supply Chain,Pleno,2022-09-30,CC-C14-D02,True
+C14-E0099,C14,C14-D04,Especialista em Midias Digitais,Especialista,2026-02-04,CC-C14-D04,True
+C14-E0100,C14,C14-D04,Coordenador(a) de Marketing,Pleno,2021-01-30,CC-C14-D04,True
+C14-E0101,C14,C14-D06,Analista de Atendimento,Junior,2023-11-29,,True
+C14-E0102,C14,C14-D03,Analista Comercial,Pleno,2021-01-14,CC-C14-D03,False
+C14-E0103,C14,C14-D01,Operador(a) de Caixa,Junior,2022-06-02,CC-C14-D01,True
+C14-E0104,C14,C14-D06,Especialista em Relacionamento com Cliente,Junior,2021-12-14,CC-C14-D06,True
+C14-E0105,C14,C14-D01,Operador(a) de Caixa,Junior,2025-06-05,CC-C14-D01,True
+C14-E0106,C14,C14-D09,Suporte Tecnico,Pleno,2025-07-17,CC-C14-D09,True
+C14-E0107,C14,C14-D01,Vendedor(a),Senior,2022-06-26,CC-C14-D01,True
+C14-E0108,C14,C14-D08,Recrutador(a),Pleno,2026-01-01,CC-C14-D08,True
+C14-E0109,C14,C14-D01,Operador(a) de Caixa,Pleno,2024-04-20,CC-C14-D01,True
+C14-E0110,C14,C14-D01,Vendedor(a),Gerente,2021-02-02,CC-C14-D01,True
+C14-E0111,C14,C14-D01,Operador(a) de Caixa,Especialista,2024-02-07,CC-C14-D01,True
+C14-E0112,C14,C14-D05,Especialista em Marketplace,Senior,2021-12-29,CC-C14-D05,True
+C14-E0113,C14,C14-D06,Analista de Atendimento,Junior,2024-04-12,CC-C14-D06,True
+C14-E0114,C14,C14-D02,Analista de Supply Chain,Junior,2020-12-16,CC-C14-D02,True
+C14-E0115,C14,C14-D08,Recrutador(a),Junior,2022-12-29,CC-C14-D08,True
+C14-E0116,C14,C14-D04,Coordenador(a) de Marketing,Junior,2026-04-05,CC-C14-D04,True
+C14-E0117,C14,C14-D05,Analista de E-commerce,Pleno,2022-08-28,CC-C14-D05,True
+C14-E0118,C14,C14-D06,Analista de Atendimento,Especialista,2023-11-04,CC-C14-D06,True
+C14-E0119,C14,C14-D01,Operador(a) de Caixa,Senior,2022-05-17,CC-C14-D01,False
+C14-E0120,C14,C14-D02,Analista de Supply Chain,Senior,2021-12-17,CC-C14-D02,True
+C14-E0121,C14,C14-D07,Analista Financeiro,Gerente,2025-11-28,CC-C14-D07,True
+C14-E0122,C14,C14-D07,Controller Junior,Senior,2022-06-13,,True
+C14-E0123,C14,C14-D09,Analista de TI,Pleno,2023-09-21,CC-C14-D09,True
+C14-E0124,C14,C14-D07,Analista Financeiro,Junior,2026-04-14,CC-C14-D07,True
+C14-E0125,C14,C14-D01,Gerente de Loja,Especialista,2021-01-16,CC-C14-D01,False
+C15-E0001,C15,C15-D06,Analista de Infraestrutura,Pleno,2024-07-12,CC-C15-D06,True
+C15-E0002,C15,C15-D01,Analista de Operacoes,Especialista,2021-07-13,CC-C15-D01,True
+C15-E0003,C15,C15-D02,Executivo(a) de Contas,Senior,2023-04-30,CC-C15-D02,True
+C15-E0004,C15,C15-D04,Analista de Contas a Pagar,Junior,2023-12-21,CC-C15-D04,True
+C15-E0005,C15,C15-D01,Analista de Operacoes,Junior,2021-08-31,CC-C15-D01,True
+C15-E0006,C15,C15-D05,Recrutador(a),Especialista,2022-04-24,CC-C15-D05,True
+C15-E0007,C15,C15-D07,Consultor(a),Junior,2024-11-26,CC-C15-D07,True
+C15-E0008,C15,C15-D02,Executivo(a) de Contas,Pleno,2025-12-07,CC-C15-D02,True
+C15-E0009,C15,C15-D02,Analista Comercial,Pleno,2025-09-26,CC-C15-D02,True
+C15-E0010,C15,C15-D07,Consultor(a),Junior,2021-10-15,CC-C15-D07,True
+C15-E0011,C15,C15-D06,Suporte Tecnico,Junior,2024-08-05,CC-C15-D06,True
+C15-E0012,C15,C15-D01,Analista de Operacoes,Pleno,2024-12-12,CC-C15-D01,True
+C15-E0013,C15,C15-D02,Coordenador(a) Comercial,Especialista,2022-09-06,CC-C15-D02,True
+C15-E0014,C15,C15-D04,Analista Financeiro,Gerente,2026-01-10,CC-C15-D04,True
+C15-E0015,C15,C15-D03,Analista de Atendimento,Junior,2026-05-16,,True
+C15-E0016,C15,C15-D01,Analista de Operacoes,Pleno,2023-04-06,CC-C15-D01,True
+C15-E0017,C15,C15-D02,Analista Comercial,Especialista,2022-03-27,CC-C15-D02,True
+C15-E0018,C15,C15-D07,Consultor(a),Junior,2023-05-29,CC-C15-D07,True
+C15-E0019,C15,C15-D05,Business Partner de RH,Senior,2024-10-10,CC-C15-D05,True
+C15-E0020,C15,C15-D07,Analista de Consultoria,Junior,2026-01-08,CC-C15-D07,False
+C15-E0021,C15,C15-D06,Analista de Infraestrutura,Pleno,2025-06-16,CC-C15-D06,True
+C15-E0022,C15,C15-D07,Gerente de Projetos,Senior,2024-03-01,CC-C15-D07,True
+C15-E0023,C15,C15-D01,Analista de Operacoes,Senior,2025-01-14,CC-C15-D01,True
+C15-E0024,C15,C15-D06,Analista de TI,Junior,2022-05-21,CC-C15-D06,True
+C15-E0025,C15,C15-D01,Analista de Operacoes,Junior,2021-03-28,CC-C15-D01,True
+C15-E0026,C15,C15-D04,Analista de Contas a Pagar,Gerente,2024-12-12,CC-C15-D04,False
+C15-E0027,C15,C15-D03,Analista de Atendimento,Pleno,2025-03-07,CC-C15-D03,False
+C15-E0028,C15,C15-D02,Coordenador(a) Comercial,Pleno,2021-02-14,CC-C15-D02,True
+C15-E0029,C15,C15-D07,Consultor(a),Senior,2022-05-11,CC-C15-D07,True
+C15-E0030,C15,C15-D07,Consultor(a),Junior,2022-05-12,CC-C15-D07,True
+C15-E0031,C15,C15-D01,Coordenador(a) de Operacoes,Pleno,2023-08-17,CC-C15-D01,True
+C15-E0032,C15,C15-D04,Controller Junior,Pleno,2025-12-16,CC-C15-D04,True
+C15-E0033,C15,C15-D02,Executivo(a) de Contas,Pleno,2024-06-21,CC-C15-D02,False
+C15-E0034,C15,C15-D02,Executivo(a) de Contas,Junior,2021-01-02,CC-C15-D02,True
+C15-E0035,C15,C15-D07,Consultor(a),Junior,2023-10-22,CC-C15-D07,True
+C15-E0036,C15,C15-D02,Coordenador(a) Comercial,Junior,2022-10-15,CC-C15-D02,True
+C15-E0037,C15,C15-D07,Analista de Consultoria,Senior,2022-04-27,CC-C15-D07,True
+C15-E0038,C15,C15-D01,Analista de Operacoes,Pleno,2025-03-17,CC-C15-D01,True
+C15-E0039,C15,C15-D04,Analista Financeiro,Pleno,2023-10-14,CC-C15-D04,False
+C15-E0040,C15,C15-D04,Analista Financeiro,Junior,2022-03-26,CC-C15-D04,True
+C15-E0041,C15,C15-D01,Analista de Operacoes,Senior,2023-06-23,CC-C15-D01,True
+C15-E0042,C15,C15-D02,Executivo(a) de Contas,Junior,2021-07-22,CC-C15-D02,True
+C15-E0043,C15,C15-D07,Analista de Consultoria,Pleno,2021-05-05,CC-C15-D07,True
+C15-E0044,C15,C15-D06,Suporte Tecnico,Senior,2025-05-08,CC-C15-D06,False
+C15-E0045,C15,C15-D02,Executivo(a) de Contas,Senior,2022-07-28,CC-C15-D02,True
+C15-E0046,C15,C15-D03,Especialista em Relacionamento com Cliente,Junior,2024-03-05,CC-C15-D03,True
+C15-E0047,C15,C15-D01,Analista de Operacoes,Junior,2025-10-10,CC-C15-D01,True
+C15-E0048,C15,C15-D01,Analista de Operacoes,Pleno,2021-03-23,CC-C15-D01,True
+C15-E0049,C15,C15-D03,Analista de Atendimento,Pleno,2022-08-04,CC-C15-D03,True
+C15-E0050,C15,C15-D01,Coordenador(a) de Operacoes,Pleno,2024-09-07,CC-C15-D01,True
+C15-E0051,C15,C15-D07,Analista de Consultoria,Especialista,2020-10-09,CC-C15-D07,True
+C15-E0052,C15,C15-D05,Analista de RH,Pleno,2023-11-14,CC-C15-D05,True
+C15-E0053,C15,C15-D07,Analista de Consultoria,Junior,2020-12-16,CC-C15-D07,True
+C15-E0054,C15,C15-D05,Analista de RH,Pleno,2021-02-18,CC-C15-D05,True
+C15-E0055,C15,C15-D07,Gerente de Projetos,Senior,2026-01-13,CC-C15-D07,True
+C15-E0056,C15,C15-D03,Analista de Atendimento,Especialista,2024-09-22,CC-C15-D03,True
+C15-E0057,C15,C15-D04,Analista de Contas a Pagar,Junior,2023-12-14,CC-C15-D04,True
+C15-E0058,C15,C15-D07,Analista de Consultoria,Senior,2020-10-23,CC-C15-D07,True
+C15-E0059,C15,C15-D04,Analista de Contas a Pagar,Junior,2026-05-22,CC-C15-D04,True
+C15-E0060,C15,C15-D01,Analista de Operacoes,Pleno,2025-12-29,CC-C15-D01,False
+C15-E0061,C15,C15-D05,Recrutador(a),Especialista,2021-10-21,CC-C15-D05,True
+C15-E0062,C15,C15-D07,Gerente de Projetos,Junior,2022-01-08,CC-C15-D07,True
+C15-E0063,C15,C15-D06,Analista de TI,Junior,2021-05-15,CC-C15-D06,True
+C15-E0064,C15,C15-D03,Analista de Atendimento,Senior,2022-12-26,CC-C15-D03,True
+C15-E0065,C15,C15-D04,Analista de Contas a Pagar,Pleno,2021-11-19,CC-C15-D04,True
+C15-E0066,C15,C15-D07,Consultor(a),Senior,2024-02-08,CC-C15-D07,True
+C15-E0067,C15,C15-D01,Analista de Operacoes,Junior,2026-04-07,CC-C15-D01,True
+C15-E0068,C15,C15-D04,Controller Junior,Pleno,2024-08-18,CC-C15-D04,True
+C15-E0069,C15,C15-D01,Analista de Operacoes,Pleno,2021-05-05,CC-C15-D01,True
+C15-E0070,C15,C15-D04,Analista Financeiro,Pleno,2021-11-24,CC-C15-D04,True
+C15-E0071,C15,C15-D04,Controller Junior,Pleno,2021-03-28,CC-C15-D04,True
+C15-E0072,C15,C15-D01,Analista de Operacoes,Pleno,2025-08-26,CC-C15-D01,True
+C15-E0073,C15,C15-D01,Coordenador(a) de Operacoes,Junior,2026-01-29,CC-C15-D01,True
+C15-E0074,C15,C15-D04,Controller Junior,Pleno,2024-02-14,CC-C15-D04,True
+C15-E0075,C15,C15-D01,Analista de Operacoes,Senior,2022-08-21,CC-C15-D01,True
+C15-E0076,C15,C15-D01,Analista de Operacoes,Junior,2020-09-02,CC-C15-D01,True
+C15-E0077,C15,C15-D07,Analista de Consultoria,Junior,2022-05-13,CC-C15-D07,True
+C15-E0078,C15,C15-D02,Executivo(a) de Contas,Senior,2023-12-20,CC-C15-D02,False
+C15-E0079,C15,C15-D03,Analista de Atendimento,Especialista,2024-01-25,CC-C15-D03,True
+C15-E0080,C15,C15-D07,Analista de Consultoria,Senior,2022-12-25,CC-C15-D07,True
+C15-E0081,C15,C15-D01,Analista de Operacoes,Pleno,2024-11-22,CC-C15-D01,True
+C15-E0082,C15,C15-D02,Executivo(a) de Contas,Especialista,2023-02-02,CC-C15-D02,True
+C16-E0001,C16,C16-D04,Analista de Contas a Pagar,Especialista,2020-11-06,CC-C16-D04,True
+C16-E0002,C16,C16-D03,Analista de Atendimento,Junior,2023-12-01,CC-C16-D03,True
+C16-E0003,C16,C16-D07,Gerente de Projetos,Especialista,2023-04-17,CC-C16-D07,True
+C16-E0004,C16,C16-D07,Gerente de Projetos,Senior,2025-10-23,CC-C16-D07,True
+C16-E0005,C16,C16-D01,Coordenador(a) de Operacoes,Junior,2021-05-15,CC-C16-D01,False
+C16-E0006,C16,C16-D07,Analista de Consultoria,Senior,2021-06-19,CC-C16-D07,True
+C16-E0007,C16,C16-D02,Coordenador(a) Comercial,Junior,2023-03-02,CC-C16-D02,True
+C16-E0008,C16,C16-D01,Coordenador(a) de Operacoes,Junior,2025-09-16,CC-C16-D01,True
+C16-E0009,C16,C16-D07,Gerente de Projetos,Especialista,2025-08-17,CC-C16-D07,True
+C16-E0010,C16,C16-D02,Executivo(a) de Contas,Especialista,2024-07-01,CC-C16-D02,True
+C16-E0011,C16,C16-D06,Analista de TI,Pleno,2025-03-21,CC-C16-D06,True
+C16-E0012,C16,C16-D01,Analista de Operacoes,Senior,2022-03-17,CC-C16-D01,True
+C16-E0013,C16,C16-D01,Analista de Operacoes,Pleno,2024-02-26,CC-C16-D01,True
+C16-E0014,C16,C16-D03,Analista de Atendimento,Senior,2024-06-21,CC-C16-D03,True
+C16-E0015,C16,C16-D01,Analista de Operacoes,Especialista,2023-06-17,CC-C16-D01,True
+C16-E0016,C16,C16-D06,Analista de Infraestrutura,Gerente,2021-12-24,CC-C16-D06,True
+C16-E0017,C16,C16-D01,Coordenador(a) de Operacoes,Pleno,2024-04-28,CC-C16-D01,True
+C16-E0018,C16,C16-D02,Executivo(a) de Contas,Pleno,2020-08-13,CC-C16-D02,True
+C16-E0019,C16,C16-D01,Coordenador(a) de Operacoes,Pleno,2022-08-07,CC-C16-D01,True
+C16-E0020,C16,C16-D01,Coordenador(a) de Operacoes,Especialista,2023-05-23,CC-C16-D01,True
+C16-E0021,C16,C16-D06,Analista de Infraestrutura,Pleno,2021-04-23,CC-C16-D06,True
+C16-E0022,C16,C16-D01,Analista de Operacoes,Junior,2023-01-03,CC-C16-D01,True
+C16-E0023,C16,C16-D04,Controller Junior,Pleno,2023-11-26,CC-C16-D04,True
+C16-E0024,C16,C16-D07,Gerente de Projetos,Pleno,2025-11-30,CC-C16-D07,True
+C16-E0025,C16,C16-D04,Controller Junior,Pleno,2021-05-01,CC-C16-D04,False
+C16-E0026,C16,C16-D07,Analista de Consultoria,Junior,2024-08-22,CC-C16-D07,True
+C16-E0027,C16,C16-D01,Coordenador(a) de Operacoes,Junior,2024-05-26,CC-C16-D01,True
+C16-E0028,C16,C16-D01,Analista de Operacoes,Gerente,2025-03-18,CC-C16-D01,True
+C16-E0029,C16,C16-D07,Consultor(a),Senior,2024-05-04,CC-C16-D07,True
+C16-E0030,C16,C16-D05,Business Partner de RH,Pleno,2023-07-11,CC-C16-D05,True
+C16-E0031,C16,C16-D04,Analista Financeiro,Junior,2026-01-20,CC-C16-D04,True
+C16-E0032,C16,C16-D04,Controller Junior,Pleno,2024-10-14,CC-C16-D04,True
+C16-E0033,C16,C16-D02,Coordenador(a) Comercial,Junior,2024-08-15,CC-C16-D02,True
+C16-E0034,C16,C16-D01,Analista de Operacoes,Junior,2026-03-01,CC-C16-D01,True
+C16-E0035,C16,C16-D06,Analista de Infraestrutura,Pleno,2024-10-24,CC-C16-D06,True
+C16-E0036,C16,C16-D04,Controller Junior,Pleno,2024-09-10,,True
+C16-E0037,C16,C16-D03,Especialista em Relacionamento com Cliente,Senior,2022-06-27,CC-C16-D03,True
+C16-E0038,C16,C16-D07,Gerente de Projetos,Junior,2023-03-12,CC-C16-D07,True
+C16-E0039,C16,C16-D02,Coordenador(a) Comercial,Senior,2022-05-18,CC-C16-D02,True
+C16-E0040,C16,C16-D01,Coordenador(a) de Operacoes,Pleno,2022-08-24,CC-C16-D01,True
+C17-E0001,C17,C17-D03,Analista de Contas,Gerente,2021-01-25,CC-C17-D03,False
+C17-E0002,C17,C17-D01,Designer Grafico,Junior,2025-02-18,CC-C17-D01,True
+C17-E0003,C17,C17-D02,Especialista em Performance,Senior,2022-08-27,CC-C17-D02,True
+C17-E0004,C17,C17-D03,Analista de Contas,Senior,2024-02-11,CC-C17-D03,True
+C17-E0005,C17,C17-D02,Analista de Midia Paga,Pleno,2024-04-03,CC-C17-D02,False
+C17-E0006,C17,C17-D01,Redator(a) Publicitario(a),Junior,2023-04-30,CC-C17-D01,True
+C17-E0007,C17,C17-D01,Redator(a) Publicitario(a),Pleno,2021-06-13,CC-C17-D01,True
+C17-E0008,C17,C17-D01,Redator(a) Publicitario(a),Senior,2020-08-23,CC-C17-D01,True
+C17-E0009,C17,C17-D01,Redator(a) Publicitario(a),Gerente,2023-05-14,CC-C17-D01,True
+C17-E0010,C17,C17-D01,Designer Grafico,Senior,2023-04-01,CC-C17-D01,True
+C17-E0011,C17,C17-D01,Designer Grafico,Pleno,2022-05-25,CC-C17-D01,True
+C17-E0012,C17,C17-D01,Designer Grafico,Senior,2021-04-30,CC-C17-D01,True
+C17-E0013,C17,C17-D07,Analista de Infraestrutura,Gerente,2024-01-10,,True
+C17-E0014,C17,C17-D02,Especialista em Performance,Pleno,2022-07-03,CC-C17-D02,True
+C17-E0015,C17,C17-D01,Diretor(a) de Arte,Pleno,2025-06-18,CC-C17-D01,True
+C17-E0016,C17,C17-D03,Analista de Contas,Junior,2021-10-13,CC-C17-D03,True
+C17-E0017,C17,C17-D05,Controller Junior,Pleno,2024-08-10,CC-C17-D05,True
+C17-E0018,C17,C17-D03,Analista de Contas,Junior,2021-10-19,CC-C17-D03,True
+C17-E0019,C17,C17-D02,Analista de Midia Paga,Junior,2024-10-31,CC-C17-D02,True
+C17-E0020,C17,C17-D03,Analista de Contas,Junior,2022-09-07,CC-C17-D03,True
+C17-E0021,C17,C17-D04,Analista de Planejamento,Senior,2025-08-14,,True
+C17-E0022,C17,C17-D04,Analista de Planejamento,Junior,2021-10-18,CC-C17-D04,False
+C17-E0023,C17,C17-D03,Analista de Contas,Especialista,2022-02-18,CC-C17-D03,False
+C17-E0024,C17,C17-D05,Analista Financeiro,Gerente,2024-12-30,CC-C17-D05,True
+C17-E0025,C17,C17-D05,Controller Junior,Junior,2023-03-14,CC-C17-D05,False
+C17-E0026,C17,C17-D03,Account Manager,Especialista,2021-07-02,CC-C17-D03,True
+C17-E0027,C17,C17-D02,Especialista em Performance,Senior,2023-05-07,CC-C17-D02,True
+C17-E0028,C17,C17-D03,Analista de Contas,Junior,2023-12-05,CC-C17-D03,True
+C17-E0029,C17,C17-D04,Planejador(a) Estrategico(a),Junior,2024-09-19,CC-C17-D04,True
+C17-E0030,C17,C17-D01,Designer Grafico,Junior,2021-02-22,CC-C17-D01,True
+C17-E0031,C17,C17-D07,Suporte Tecnico,Pleno,2021-10-07,CC-C17-D07,True
+C17-E0032,C17,C17-D01,Designer Grafico,Junior,2023-09-13,CC-C17-D01,True
+C17-E0033,C17,C17-D02,Especialista em Performance,Senior,2023-05-09,CC-C17-D02,False
+C17-E0034,C17,C17-D05,Analista Financeiro,Especialista,2022-10-04,CC-C17-D05,False
+C17-E0035,C17,C17-D01,Designer Grafico,Pleno,2021-01-20,CC-C17-D01,True
+C17-E0036,C17,C17-D02,Especialista em Performance,Junior,2021-02-08,CC-C17-D02,True
+C17-E0037,C17,C17-D01,Redator(a) Publicitario(a),Pleno,2022-04-05,CC-C17-D01,True
+C17-E0038,C17,C17-D02,Analista de Midia Paga,Senior,2021-05-17,CC-C17-D02,True
+C17-E0039,C17,C17-D01,Designer Grafico,Junior,2025-10-15,CC-C17-D01,True
+C17-E0040,C17,C17-D02,Especialista em Performance,Junior,2024-12-04,CC-C17-D02,True
+C17-E0041,C17,C17-D02,Analista de Midia Paga,Senior,2024-08-02,CC-C17-D02,False
+C17-E0042,C17,C17-D07,Suporte Tecnico,Junior,2025-11-24,CC-C17-D07,False
+C17-E0043,C17,C17-D07,Analista de TI,Senior,2023-03-27,CC-C17-D07,True
+C17-E0044,C17,C17-D01,Designer Grafico,Senior,2025-02-01,CC-C17-D01,True
+C17-E0045,C17,C17-D04,Planejador(a) Estrategico(a),Pleno,2022-10-29,CC-C17-D04,False
+C17-E0046,C17,C17-D01,Designer Grafico,Pleno,2023-01-25,CC-C17-D01,True
+C17-E0047,C17,C17-D01,Designer Grafico,Junior,2022-05-19,CC-C17-D01,True
+C17-E0048,C17,C17-D01,Designer Grafico,Junior,2022-07-02,CC-C17-D01,True
+C18-E0001,C18,C18-D02,Analista de Midia Paga,Junior,2020-08-19,CC-C18-D02,True
+C18-E0002,C18,C18-D01,Diretor(a) de Arte,Senior,2023-10-22,CC-C18-D01,True
+C18-E0003,C18,C18-D04,Planejador(a) Estrategico(a),Senior,2025-07-17,CC-C18-D04,True
+C18-E0004,C18,C18-D03,Account Manager,Senior,2021-06-14,CC-C18-D03,True
+C18-E0005,C18,C18-D02,Analista de Midia Paga,Senior,2023-10-11,CC-C18-D02,True
+C18-E0006,C18,C18-D02,Analista de Midia Paga,Gerente,2025-06-18,CC-C18-D02,True
+C18-E0007,C18,C18-D03,Account Manager,Senior,2023-06-05,CC-C18-D03,True
+C18-E0008,C18,C18-D02,Especialista em Performance,Pleno,2024-11-19,CC-C18-D02,False
+C18-E0009,C18,C18-D04,Analista de Planejamento,Gerente,2025-02-24,CC-C18-D04,True
+C18-E0010,C18,C18-D03,Account Manager,Pleno,2025-02-11,CC-C18-D03,True
+C18-E0011,C18,C18-D05,Analista de Contas a Pagar,Pleno,2024-11-05,CC-C18-D05,True
+C18-E0012,C18,C18-D03,Analista de Contas,Junior,2025-01-14,CC-C18-D03,True
+C18-E0013,C18,C18-D01,Redator(a) Publicitario(a),Junior,2021-09-05,CC-C18-D01,True
+C18-E0014,C18,C18-D05,Analista Financeiro,Junior,2025-07-28,,True
+C18-E0015,C18,C18-D03,Analista de Contas,Pleno,2021-08-10,CC-C18-D03,True
+C18-E0016,C18,C18-D01,Redator(a) Publicitario(a),Pleno,2026-01-28,CC-C18-D01,True
+C18-E0017,C18,C18-D03,Account Manager,Pleno,2021-03-08,CC-C18-D03,True
+C18-E0018,C18,C18-D02,Especialista em Performance,Pleno,2025-12-16,CC-C18-D02,True
+C18-E0019,C18,C18-D04,Planejador(a) Estrategico(a),Pleno,2025-05-12,CC-C18-D04,True
+C18-E0020,C18,C18-D02,Analista de Midia Paga,Junior,2024-03-14,CC-C18-D02,False
+C18-E0021,C18,C18-D04,Analista de Planejamento,Pleno,2026-02-12,CC-C18-D04,True
+C18-E0022,C18,C18-D01,Designer Grafico,Junior,2023-05-02,CC-C18-D01,True
+C18-E0023,C18,C18-D02,Especialista em Performance,Senior,2024-02-21,CC-C18-D02,True
+C18-E0024,C18,C18-D07,Administrador(a) de Sistemas,Pleno,2020-10-12,CC-C18-D07,True
+C18-E0025,C18,C18-D04,Planejador(a) Estrategico(a),Pleno,2026-04-15,CC-C18-D04,True
+C18-E0026,C18,C18-D01,Designer Grafico,Senior,2025-01-15,CC-C18-D01,True
+C18-E0027,C18,C18-D02,Analista de Midia Paga,Senior,2021-01-22,CC-C18-D02,True
+C18-E0028,C18,C18-D02,Analista de Midia Paga,Junior,2025-05-03,CC-C18-D02,True
+C18-E0029,C18,C18-D03,Analista de Contas,Junior,2022-05-02,CC-C18-D03,True
+C18-E0030,C18,C18-D04,Planejador(a) Estrategico(a),Gerente,2023-08-26,CC-C18-D04,False
+C18-E0031,C18,C18-D04,Planejador(a) Estrategico(a),Senior,2025-02-06,CC-C18-D04,True
+C18-E0032,C18,C18-D03,Analista de Contas,Junior,2021-09-08,CC-C18-D03,True
+C18-E0033,C18,C18-D04,Planejador(a) Estrategico(a),Pleno,2021-11-15,CC-C18-D04,True
+C18-E0034,C18,C18-D02,Especialista em Performance,Pleno,2025-01-21,CC-C18-D02,True
+C18-E0035,C18,C18-D01,Designer Grafico,Junior,2024-12-02,CC-C18-D01,True
+C18-E0036,C18,C18-D03,Analista de Contas,Senior,2022-03-01,CC-C18-D03,True
+C18-E0037,C18,C18-D07,Analista de TI,Pleno,2025-07-10,CC-C18-D07,True
+C18-E0038,C18,C18-D04,Planejador(a) Estrategico(a),Pleno,2022-02-16,CC-C18-D04,True
+C18-E0039,C18,C18-D03,Analista de Contas,Pleno,2021-06-19,CC-C18-D03,True
+C18-E0040,C18,C18-D03,Analista de Contas,Senior,2024-06-26,CC-C18-D03,True
+C18-E0041,C18,C18-D06,Business Partner de RH,Junior,2024-04-29,CC-C18-D06,False
+C18-E0042,C18,C18-D02,Especialista em Performance,Especialista,2020-11-06,CC-C18-D02,True
+C18-E0043,C18,C18-D02,Analista de Midia Paga,Pleno,2026-04-20,CC-C18-D02,True
+C18-E0044,C18,C18-D07,Analista de Infraestrutura,Pleno,2025-04-07,CC-C18-D07,False
+C18-E0045,C18,C18-D05,Analista de Contas a Pagar,Senior,2022-06-04,CC-C18-D05,True
+C18-E0046,C18,C18-D02,Analista de Midia Paga,Junior,2024-11-01,CC-C18-D02,True
+C18-E0047,C18,C18-D02,Analista de Midia Paga,Pleno,2024-07-20,CC-C18-D02,True
+C18-E0048,C18,C18-D02,Analista de Midia Paga,Pleno,2022-08-24,CC-C18-D02,True
+C18-E0049,C18,C18-D01,Diretor(a) de Arte,Pleno,2025-01-25,CC-C18-D01,True
+C18-E0050,C18,C18-D07,Analista de Infraestrutura,Especialista,2022-01-18,CC-C18-D07,True
+C18-E0051,C18,C18-D02,Especialista em Performance,Senior,2021-11-16,CC-C18-D02,True
+C18-E0052,C18,C18-D05,Analista de Contas a Pagar,Pleno,2021-12-15,CC-C18-D05,True
+C18-E0053,C18,C18-D01,Designer Grafico,Junior,2021-11-28,CC-C18-D01,True
+C18-E0054,C18,C18-D03,Analista de Contas,Pleno,2024-10-16,CC-C18-D03,False
+C18-E0055,C18,C18-D01,Redator(a) Publicitario(a),Senior,2025-06-06,CC-C18-D01,True
+C18-E0056,C18,C18-D04,Analista de Planejamento,Especialista,2024-10-27,CC-C18-D04,True
+C18-E0057,C18,C18-D03,Account Manager,Gerente,2025-12-13,CC-C18-D03,True
+C18-E0058,C18,C18-D03,Account Manager,Junior,2025-09-05,CC-C18-D03,True
+C18-E0059,C18,C18-D01,Redator(a) Publicitario(a),Pleno,2024-06-08,CC-C18-D01,True
+C18-E0060,C18,C18-D01,Designer Grafico,Pleno,2022-10-11,CC-C18-D01,True
+C18-E0061,C18,C18-D01,Designer Grafico,Junior,2025-05-13,CC-C18-D01,True
+C18-E0062,C18,C18-D02,Especialista em Performance,Junior,2021-03-21,CC-C18-D02,True
+C18-E0063,C18,C18-D03,Analista de Contas,Senior,2023-05-14,CC-C18-D03,True
+C18-E0064,C18,C18-D03,Analista de Contas,Senior,2021-07-30,CC-C18-D03,True
+C18-E0065,C18,C18-D03,Account Manager,Junior,2026-02-02,CC-C18-D03,True
+C18-E0066,C18,C18-D03,Account Manager,Pleno,2022-02-21,CC-C18-D03,True
+C18-E0067,C18,C18-D02,Especialista em Performance,Pleno,2021-06-25,CC-C18-D02,True
+C18-E0068,C18,C18-D01,Redator(a) Publicitario(a),Junior,2024-06-17,CC-C18-D01,True
+C18-E0069,C18,C18-D01,Diretor(a) de Arte,Pleno,2024-08-08,CC-C18-D01,True
+C18-E0070,C18,C18-D04,Planejador(a) Estrategico(a),Pleno,2022-12-10,CC-C18-D04,True
+C18-E0071,C18,C18-D03,Analista de Contas,Junior,2025-03-20,CC-C18-D03,True

@@ -1,0 +1,26 @@
+model_id,ai_tool_id,model_name,model_family,input_price_usd_per_1k_tokens,output_price_usd_per_1k_tokens
+M01,T01,gpt-4o,GPT,0.005,0.015
+M02,T01,gpt-4o-mini,GPT,0.00015,0.0006
+M03,T02,claude-opus-4,Claude,0.015,0.075
+M04,T02,claude-sonnet-4,Claude,0.003,0.015
+M05,T03,gemini-1.5-pro,Gemini,0.00125,0.005
+M06,T03,gemini-1.5-flash,Gemini,7.5e-05,0.0003
+M07,T04,gpt-4o-copilot,GPT,0.005,0.015
+M08,T05,copilot-codex,Codex,,
+M09,T06,amazon-q-dev-model,Amazon Titan,,
+M10,T07,tabnine-base,Proprietario,,
+M11,T08,gpt-4o-m365,GPT,0.005,0.015
+M12,T09,notion-ai-model,Proprietario,,
+M13,T10,gpt-4o,GPT,0.005,0.015
+M14,T10,gpt-35-turbo,GPT,0.0005,0.0015
+M15,T11,anthropic.claude-3-sonnet,Claude,0.003,0.015
+M16,T11,amazon.titan-text-premier,Amazon Titan,0.0005,0.0015
+M17,T12,gemini-1.5-pro,Gemini,0.00125,0.005
+M18,T12,text-bison,PaLM,0.0005,0.0015
+M19,T13,gpt-4o,GPT,0.005,0.015
+M20,T13,gpt-4o-mini,GPT,0.00015,0.0006
+M21,T13,gpt-3.5-turbo,GPT,0.0005,0.0015
+M22,T14,claude-opus-4,Claude,0.015,0.075
+M23,T14,claude-sonnet-4,Claude,0.003,0.015
+M24,T14,claude-haiku-3.5,Claude,0.0008,0.004
+M25,T15,zendesk-ai-base,Proprietario,,

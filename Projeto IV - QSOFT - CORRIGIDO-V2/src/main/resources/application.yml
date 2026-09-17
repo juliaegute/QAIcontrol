@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: qsoft-ia-backend
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/iadb}
+    username: ${DB_USER:ia}
+    password: ${DB_PASSWORD:ia}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+    properties:
+      hibernate:
+        format_sql: true
+
+services:
+  alert:
+    base-url: ${ALERT_SERVICE_URL:http://localhost:3001}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+  endpoint:
+    health:
+      show-details: always
