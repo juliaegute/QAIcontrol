@@ -1,6 +1,0 @@
-target
-.git
-.idea
-.vscode
-*.iml
-frontend-vue/node_modules

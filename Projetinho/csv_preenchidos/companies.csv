@@ -1,0 +1,19 @@
+company_id,company_name,industry,company_size,employee_count
+C01,NexoCode Solucoes,Tecnologia / Desenvolvimento de Software,Grande,1450
+C02,Vortice Software,Tecnologia / Desenvolvimento de Software,Media,420
+C03,Piloto Digital Sistemas,Tecnologia / Desenvolvimento de Software,Pequena,140
+C04,Cronos Tech Labs,Tecnologia / Desenvolvimento de Software,Media,380
+C05,ByteFlow Engenharia de Software,Tecnologia / Desenvolvimento de Software,Pequena,95
+C06,Banco Alterosa S.A.,Financeiro,Grande,3200
+C07,Capital Sul Investimentos,Financeiro,Media,310
+C08,Fincredi Solucoes Financeiras,Financeiro,Pequena,180
+C09,Metalurgica Vale Forte,Industria,Grande,2600
+C10,Quimica Bandeirantes,Industria,Media,650
+C11,TextilNorte Manufatura,Industria,Pequena,210
+C12,Compra Certa Varejo,Varejo,Grande,1900
+C13,Lojas Formosa,Varejo,Media,540
+C14,MercadoPrime E-commerce,Varejo,Media,460
+C15,Prisma Consultoria Empresarial,Servicos,Media,290
+C16,ServPro Facilities,Servicos,Pequena,160
+C17,Ideia Fresca Marketing,Marketing,Pequena,75
+C18,Estrela Marketing Digital,Marketing,Media,205

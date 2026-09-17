@@ -1,0 +1,70 @@
+event_id,company_id,employee_id,timestamp,ai_tool_id,event_type,severity,policy_id,action_taken
+SEC00001,C01,C01-E0271,2026-05-02 09:09:26,T02,Upload de Arquivo Bloqueado por Politica,Baixa,POL-DLP-004,Bloqueado
+SEC00002,C01,C01-E0021,2026-06-13 07:40:47,T05,Upload de Arquivo Bloqueado por Politica,Baixa,POL-ACCESS-002,Bloqueado
+SEC00003,C01,C01-E0172,2025-06-29 16:20:21,T13,Tentativa de Acesso Fora da Politica de Uso,Baixa,POL-ACCESS-002,Bloqueado
+SEC00004,C01,C01-E0287,2025-12-08 21:23:55,T07,Bloqueio de Ferramenta Nao Autorizada,Baixa,POL-DATA-001,Bloqueado
+SEC00005,C02,C02-E0066,2026-01-25 21:37:10,T08,Tentativa de Acesso Fora da Politica de Uso,Alta,POL-DATA-001,Bloqueado
+SEC00006,C03,C03-E0008,2026-02-12 20:05:18,T05,Upload de Arquivo Bloqueado por Politica,Media,POL-DATA-001,Bloqueado
+SEC00007,C03,C03-E0005,2025-08-23 21:19:41,T05,Upload de Arquivo Bloqueado por Politica,Media,POL-DLP-004,Bloqueado
+SEC00008,C03,C03-E0035,2026-03-07 09:03:34,T02,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Baixa,POL-DATA-001,Alertado - Sem Acao Automatica
+SEC00009,C03,C03-E0010,2025-09-04 12:16:08,T03,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Alta,POL-DLP-004,Bloqueado
+SEC00010,C04,C04-E0058,2025-11-06 12:11:15,T09,Upload de Arquivo Bloqueado por Politica,Alta,POL-VENDOR-003,Bloqueado
+SEC00011,C04,C04-E0008,2025-08-28 15:32:19,T03,Alerta de DLP - Possivel Dado Sensivel em Prompt,Baixa,POL-USO-005,Bloqueado
+SEC00012,C04,C04-E0022,2026-06-03 15:53:07,T11,Bloqueio de Ferramenta Nao Autorizada,Baixa,POL-VENDOR-003,Bloqueado
+SEC00013,C04,C04-E0089,2026-02-14 20:10:48,T01,Upload de Arquivo Bloqueado por Politica,Baixa,POL-VENDOR-003,Bloqueado
+SEC00014,C05,C05-E0028,2026-07-19 16:11:06,T05,Bloqueio de Ferramenta Nao Autorizada,Alta,POL-ACCESS-002,Bloqueado
+SEC00015,C06,C06-E0122,2026-03-23 16:38:06,T01,Upload de Arquivo Bloqueado por Politica,Media,POL-VENDOR-003,Bloqueado
+SEC00016,C06,C06-E0157,2026-06-13 13:36:23,T02,Tentativa de Acesso Fora da Politica de Uso,Alta,POL-USO-005,Bloqueado
+SEC00017,C06,C06-E0303,2026-01-23 07:39:20,T01,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Baixa,POL-DATA-001,Bloqueado
+SEC00018,C06,C06-E0297,2025-07-24 12:59:08,T08,Tentativa de Acesso Fora da Politica de Uso,Critica,POL-DLP-004,Escalado para Seguranca da Informacao
+SEC00019,C07,C07-E0063,2026-06-28 10:39:13,T03,Upload de Arquivo Bloqueado por Politica,Media,POL-ACCESS-002,Bloqueado
+SEC00020,C07,C07-E0038,2025-11-20 17:21:25,T03,Bloqueio de Ferramenta Nao Autorizada,Alta,POL-VENDOR-003,Bloqueado
+SEC00021,C07,C07-E0044,2026-04-07 12:13:20,T04,Tentativa de Acesso Fora da Politica de Uso,Baixa,POL-ACCESS-002,Sessao Encerrada
+SEC00022,C07,C07-E0048,2026-03-16 12:27:30,T03,Upload de Arquivo Bloqueado por Politica,Alta,POL-DLP-004,Bloqueado
+SEC00023,C07,C07-E0002,2026-02-08 15:02:52,T02,Bloqueio de Ferramenta Nao Autorizada,Media,POL-VENDOR-003,Bloqueado
+SEC00024,C07,C07-E0006,2026-02-01 13:17:02,T03,Tentativa de Acesso Fora da Politica de Uso,Baixa,POL-USO-005,Bloqueado
+SEC00025,C07,C07-E0058,2025-11-08 13:57:16,T04,Tentativa de Acesso Fora da Politica de Uso,Baixa,POL-DATA-001,Bloqueado
+SEC00026,C07,C07-E0055,2025-11-05 19:11:49,T01,Upload de Arquivo Bloqueado por Politica,Baixa,POL-USO-005,Bloqueado
+SEC00027,C07,C07-E0002,2025-10-29 20:42:18,T02,Alerta de DLP - Possivel Dado Sensivel em Prompt,Baixa,POL-VENDOR-003,Sessao Encerrada
+SEC00028,C08,C08-E0006,2025-12-27 18:14:34,T03,Tentativa de Acesso Fora da Politica de Uso,Media,POL-DATA-001,Bloqueado
+SEC00029,C08,C08-E0032,2026-01-20 19:39:59,T08,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Baixa,POL-DATA-001,Escalado para Seguranca da Informacao
+SEC00030,C08,C08-E0001,2025-09-14 13:43:03,T03,Bloqueio de Ferramenta Nao Autorizada,Media,POL-USO-005,Bloqueado
+SEC00031,C08,C08-E0028,2026-04-01 13:00:42,T03,Alerta de DLP - Possivel Dado Sensivel em Prompt,Baixa,POL-DLP-004,Escalado para Seguranca da Informacao
+SEC00032,C08,C08-E0033,2026-04-21 12:26:33,T08,Upload de Arquivo Bloqueado por Politica,Media,POL-USO-005,Bloqueado
+SEC00033,C08,C08-E0040,2025-08-18 15:42:10,T03,Tentativa de Acesso Fora da Politica de Uso,Baixa,POL-DATA-001,Sessao Encerrada
+SEC00034,C08,C08-E0018,2026-03-04 13:56:36,T01,Upload de Arquivo Bloqueado por Politica,Baixa,POL-DATA-001,Bloqueado
+SEC00035,C09,C09-E0099,2025-10-17 09:22:42,T03,Bloqueio de Ferramenta Nao Autorizada,Media,POL-ACCESS-002,Bloqueado
+SEC00036,C09,C09-E0061,2025-12-24 08:36:26,T04,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Media,POL-VENDOR-003,Sessao Encerrada
+SEC00037,C09,C09-E0275,2026-01-15 16:55:19,T03,Upload de Arquivo Bloqueado por Politica,Media,POL-ACCESS-002,Bloqueado
+SEC00038,C09,C09-E0334,2025-12-08 09:55:29,T03,Upload de Arquivo Bloqueado por Politica,Critica,POL-ACCESS-002,Bloqueado
+SEC00039,C10,C10-E0007,2025-09-22 18:52:52,T01,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Media,POL-ACCESS-002,Escalado para Seguranca da Informacao
+SEC00040,C10,C10-E0134,2025-09-17 19:35:07,T01,Upload de Arquivo Bloqueado por Politica,Media,POL-DATA-001,Bloqueado
+SEC00041,C10,C10-E0079,2025-09-26 21:00:33,T01,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Alta,POL-DATA-001,Sessao Encerrada
+SEC00042,C10,C10-E0033,2026-02-26 11:15:26,T04,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Baixa,POL-VENDOR-003,Sessao Encerrada
+SEC00043,C11,C11-E0018,2025-07-12 16:06:15,T01,Upload de Arquivo Bloqueado por Politica,Baixa,POL-VENDOR-003,Bloqueado
+SEC00044,C11,C11-E0036,2025-09-09 08:01:20,T04,Alerta de DLP - Possivel Dado Sensivel em Prompt,Media,POL-DATA-001,Sessao Encerrada
+SEC00045,C11,C11-E0010,2025-06-21 12:19:07,T01,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Alta,POL-DLP-004,Escalado para Seguranca da Informacao
+SEC00046,C11,C11-E0034,2026-01-14 20:24:56,T04,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Baixa,POL-ACCESS-002,Escalado para Seguranca da Informacao
+SEC00047,C11,C11-E0020,2026-07-03 14:30:43,T04,Upload de Arquivo Bloqueado por Politica,Media,POL-DLP-004,Bloqueado
+SEC00048,C11,C11-E0024,2026-07-06 12:08:40,T03,Bloqueio de Ferramenta Nao Autorizada,Alta,POL-ACCESS-002,Bloqueado
+SEC00049,C12,C12-E0267,2026-07-17 20:15:09,T01,Upload de Arquivo Bloqueado por Politica,Alta,POL-DLP-004,Bloqueado
+SEC00050,C13,C13-E0025,2025-09-19 09:35:28,T02,Tentativa de Acesso Fora da Politica de Uso,Alta,POL-USO-005,Bloqueado
+SEC00051,C13,C13-E0025,2025-11-08 14:57:22,T02,Tentativa de Acesso Fora da Politica de Uso,Alta,POL-ACCESS-002,Alertado - Sem Acao Automatica
+SEC00052,C13,C13-E0029,2025-09-26 16:23:01,T03,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Alta,POL-VENDOR-003,Alertado - Sem Acao Automatica
+SEC00053,C13,C13-E0038,2026-02-10 09:36:48,T01,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Media,POL-VENDOR-003,Escalado para Seguranca da Informacao
+SEC00054,C14,C14-E0081,2026-05-14 17:11:49,T01,Tentativa de Acesso Fora da Politica de Uso,Critica,POL-USO-005,Escalado para Seguranca da Informacao
+SEC00055,C14,C14-E0022,2025-12-01 07:35:15,T02,Tentativa de Acesso Fora da Politica de Uso,Alta,POL-USO-005,Escalado para Seguranca da Informacao
+SEC00056,C15,C15-E0018,2026-05-13 12:23:34,T08,Upload de Arquivo Bloqueado por Politica,Baixa,POL-VENDOR-003,Bloqueado
+SEC00057,C15,C15-E0030,2026-05-09 19:13:22,T03,Bloqueio de Ferramenta Nao Autorizada,Critica,POL-USO-005,Bloqueado
+SEC00058,C15,C15-E0065,2025-07-19 08:25:00,T15,Tentativa de Acesso Fora da Politica de Uso,Baixa,POL-DLP-004,Alertado - Sem Acao Automatica
+SEC00059,C15,C15-E0058,2025-09-29 21:08:26,T13,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Media,POL-ACCESS-002,Sessao Encerrada
+SEC00060,C16,C16-E0018,2026-04-20 18:19:35,T08,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Media,POL-DLP-004,Alertado - Sem Acao Automatica
+SEC00061,C16,C16-E0035,2025-12-21 10:03:33,T02,Tentativa de Acesso Fora da Politica de Uso,Alta,POL-VENDOR-003,Bloqueado
+SEC00062,C17,C17-E0047,2025-08-18 18:36:25,T14,Upload de Arquivo Bloqueado por Politica,Alta,POL-VENDOR-003,Bloqueado
+SEC00063,C17,C17-E0035,2026-05-15 09:33:30,T02,Tentativa de Acesso Fora da Politica de Uso,Alta,POL-ACCESS-002,Alertado - Sem Acao Automatica
+SEC00064,C17,C17-E0028,2026-03-11 14:14:47,T09,Tentativa de Acesso Fora da Politica de Uso,Baixa,POL-DATA-001,Escalado para Seguranca da Informacao
+SEC00065,C18,C18-E0010,2025-06-02 08:17:16,T08,Upload de Arquivo Bloqueado por Politica,Baixa,POL-DLP-004,Bloqueado
+SEC00066,C18,C18-E0047,2025-07-03 16:08:56,T08,Bloqueio de Ferramenta Nao Autorizada,Baixa,POL-DLP-004,Bloqueado
+SEC00067,C18,C18-E0014,2025-06-28 17:57:02,T09,Bloqueio de Ferramenta Nao Autorizada,Baixa,POL-DLP-004,Bloqueado
+SEC00068,C18,C18-E0055,2025-08-31 19:32:05,T01,Bloqueio de Ferramenta Nao Autorizada,Baixa,POL-ACCESS-002,Bloqueado
+SEC00069,C18,C18-E0062,2025-07-16 07:41:16,T13,Uso de Ferramenta Nao Aprovada Detectado (Shadow AI),Baixa,POL-VENDOR-003,Alertado - Sem Acao Automatica

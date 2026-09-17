@@ -1,0 +1,106 @@
+company_id,ai_tool_id,approval_status,approval_date,allowed_departments
+C01,T02,Aprovado,2025-06-22,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics, Vendas, Marketing, Suporte ao Cliente, RH, Financeiro, Juridico"
+C01,T09,Aprovado,2025-07-10,Engenharia de Software; DevOps e Infraestrutura; Produto; Qualidade (QA); Dados e Analytics; Vendas; Marketing; Suporte ao Cliente; RH; Financeiro; Juridico
+C01,T05,Aprovado,2025-07-01,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics"
+C01,T12,Aprovado,2025-06-11,Todos os departamentos
+C01,T11,Bloqueado,2025-08-24,
+C01,T07,Aprovado,2025-10-19,Todos os departamentos
+C01,T13,Aprovado,2025-06-28,Dados e Analytics
+C01,T08,Aprovado,2025-07-28,Engenharia de Software; DevOps e Infraestrutura; Produto; Qualidade (QA); Dados e Analytics; Vendas; Marketing; Suporte ao Cliente; RH; Financeiro; Juridico
+C01,T15,Bloqueado,2025-07-28,
+C02,T09,Em Avaliacao,2025-06-02,
+C02,T01,Aprovado,2025-08-08,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics, Vendas, Marketing, Suporte ao Cliente, RH, Financeiro, Juridico"
+C02,T04,Em Avaliacao,2025-07-22,
+C02,T05,Aprovado,2025-07-02,Engenharia de Software; DevOps e Infraestrutura; Produto; Qualidade (QA); Dados e Analytics
+C02,T14,Aprovado,2025-06-04,Dados e Analytics
+C02,T12,Aprovado,2025-06-28,Todos os departamentos
+C02,T07,Aprovado,2025-07-09,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics"
+C02,T08,Aprovado,2025-10-04,Todos os departamentos
+C02,T15,Bloqueado,2025-11-06,
+C03,T02,Bloqueado,2025-10-13,
+C03,T09,Aprovado,2025-06-26,Todos os departamentos
+C03,T08,Aprovado,2025-07-24,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics, Vendas, Marketing, Suporte ao Cliente, RH, Financeiro, Juridico"
+C03,T11,Em Avaliacao,2025-09-22,
+C03,T04,Bloqueado,2025-08-11,
+C03,T07,Aprovado,2025-07-07,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics"
+C03,T14,Aprovado,2025-08-25,Dados e Analytics
+C03,T05,Aprovado,2025-09-26,Todos os departamentos
+C04,T09,Aprovado,2025-10-14,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics, Vendas, Marketing, Suporte ao Cliente, RH, Financeiro, Juridico"
+C04,T01,Aprovado,2025-11-02,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics, Vendas, Marketing, Suporte ao Cliente, RH, Financeiro, Juridico"
+C04,T04,Aprovado,2025-08-08,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics, Vendas, Marketing, Suporte ao Cliente, RH, Financeiro, Juridico"
+C04,T06,Aprovado,2025-11-16,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics"
+C04,T10,Bloqueado,2025-07-09,
+C04,T05,Aprovado,2025-11-19,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics"
+C04,T11,Aprovado,2025-07-20,Dados e Analytics
+C04,T13,Aprovado,2025-09-27,Dados e Analytics
+C04,T15,Bloqueado,2025-07-13,
+C05,T02,Aprovado,2025-08-19,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics, Vendas, Marketing, Suporte ao Cliente, RH, Financeiro, Juridico"
+C05,T09,Em Avaliacao,2025-09-06,
+C05,T04,Aprovado,2025-08-26,Todos os departamentos
+C05,T10,Bloqueado,2025-11-17,
+C05,T05,Aprovado,2025-06-20,"Engenharia de Software, DevOps e Infraestrutura, Produto, Qualidade (QA), Dados e Analytics"
+C06,T02,Bloqueado,2025-09-26,
+C06,T03,Bloqueado,2025-08-08,
+C06,T08,Aprovado,2025-07-13,"Operacoes Bancarias, Risco e Compliance, Tecnologia da Informacao, Atendimento ao Cliente, Comercial, Financeiro, RH, Juridico"
+C06,T06,Bloqueado,2025-07-10,
+C07,T02,Aprovado,2025-09-14,"Operacoes Bancarias, Risco e Compliance, Tecnologia da Informacao, Atendimento ao Cliente, Comercial, Financeiro, RH, Juridico"
+C07,T10,Bloqueado,2025-08-07,
+C07,T04,Aprovado,2025-10-19,"Operacoes Bancarias, Risco e Compliance, Tecnologia da Informacao, Atendimento ao Cliente, Comercial, Financeiro, RH, Juridico"
+C07,T07,Bloqueado,2025-09-05,
+C08,T02,Aprovado,2025-10-18,"Operacoes Bancarias, Risco e Compliance, Tecnologia da Informacao, Atendimento ao Cliente, Comercial, Financeiro, RH, Juridico"
+C08,T08,Aprovado,2025-07-10,Todos os departamentos
+C08,T15,Bloqueado,2025-11-25,
+C08,T13,Bloqueado,2025-09-16,
+C09,T02,Aprovado,2025-08-04,Producao; Manutencao; Logistica; Qualidade; Compras; Comercial; Financeiro; RH; Tecnologia da Informacao
+C09,T12,Bloqueado,2025-11-15,
+C09,T04,Aprovado,2025-11-23,"Producao, Manutencao, Logistica, Qualidade, Compras, Comercial, Financeiro, RH, Tecnologia da Informacao"
+C09,T05,Bloqueado,2025-11-21,
+C10,T11,Bloqueado,2025-08-09,
+C10,T06,Bloqueado,2025-07-31,
+C10,T01,Aprovado,2025-11-10,"Producao, Manutencao, Logistica, Qualidade, Compras, Comercial, Financeiro, RH, Tecnologia da Informacao"
+C10,T04,Aprovado,2025-11-14,Todos os departamentos
+C11,T03,Bloqueado,2025-09-26,
+C11,T01,Bloqueado,2025-06-13,
+C11,T12,Em Avaliacao,2025-11-18,
+C11,T04,Em Avaliacao,2025-07-10,
+C12,T01,Aprovado,2025-10-21,Todos os departamentos
+C12,T10,Em Avaliacao,2025-10-25,
+C12,T08,Aprovado,2025-10-26,"Operacoes de Loja, Logistica e Supply Chain, Comercial e Compras, Marketing, E-commerce, Atendimento ao Cliente, Financeiro, RH, Tecnologia da Informacao"
+C12,T15,Aprovado,2025-08-28,Todos os departamentos
+C12,T12,Em Avaliacao,2025-10-03,
+C13,T03,Bloqueado,2025-10-21,
+C13,T09,Bloqueado,2025-07-23,
+C13,T01,Em Avaliacao,2025-09-03,
+C13,T04,Aprovado,2025-06-08,Todos os departamentos
+C14,T03,Aprovado,2025-07-13,Todos os departamentos
+C14,T09,Aprovado,2025-11-06,"Operacoes de Loja, Logistica e Supply Chain, Comercial e Compras, Marketing, E-commerce, Atendimento ao Cliente, Financeiro, RH, Tecnologia da Informacao"
+C14,T08,Bloqueado,2025-06-09,
+C14,T11,Em Avaliacao,2025-10-20,
+C14,T15,Aprovado,2025-09-27,"Operacoes de Loja, Logistica e Supply Chain, Comercial e Compras, Marketing, E-commerce, Atendimento ao Cliente, Financeiro, RH, Tecnologia da Informacao"
+C14,T14,Bloqueado,2025-11-01,
+C14,T05,Bloqueado,2025-10-29,
+C15,T03,Em Avaliacao,2025-11-09,
+C15,T09,Aprovado,2025-10-07,Todos os departamentos
+C15,T11,Aprovado,2025-06-10,Tecnologia da Informacao
+C15,T08,Aprovado,2025-08-26,"Operacoes, Comercial, Atendimento ao Cliente, Financeiro, RH, Tecnologia da Informacao, Consultoria e Projetos"
+C15,T15,Aprovado,2025-08-21,Todos os departamentos
+C15,T13,Aprovado,2025-07-24,Tecnologia da Informacao
+C15,T04,Em Avaliacao,2025-07-13,
+C15,T10,Bloqueado,2025-11-10,
+C16,T09,Em Avaliacao,2025-07-30,
+C16,T02,Aprovado,2025-07-20,Todos os departamentos
+C16,T08,Aprovado,2025-07-24,"Operacoes, Comercial, Atendimento ao Cliente, Financeiro, RH, Tecnologia da Informacao, Consultoria e Projetos"
+C16,T07,Bloqueado,2025-10-21,
+C17,T02,Em Avaliacao,2025-07-13,
+C17,T09,Aprovado,2025-10-09,"Criacao, Midia e Performance, Atendimento a Clientes (Account), Planejamento e Estrategia, Financeiro, RH, Tecnologia da Informacao"
+C17,T11,Bloqueado,2025-11-04,
+C17,T01,Em Avaliacao,2025-07-21,
+C17,T04,Aprovado,2025-09-23,"Criacao, Midia e Performance, Atendimento a Clientes (Account), Planejamento e Estrategia, Financeiro, RH, Tecnologia da Informacao"
+C17,T07,Bloqueado,2025-10-15,
+C17,T14,Aprovado,2025-06-20,Tecnologia da Informacao
+C18,T09,Bloqueado,2025-11-29,
+C18,T01,Bloqueado,2025-10-08,
+C18,T13,Aprovado,2025-07-11,Todos os departamentos
+C18,T10,Em Avaliacao,2025-06-02,
+C18,T03,Aprovado,2025-06-13,Todos os departamentos
+C18,T08,Aprovado,2025-08-26,Criacao; Midia e Performance; Atendimento a Clientes (Account); Planejamento e Estrategia; Financeiro; RH; Tecnologia da Informacao
